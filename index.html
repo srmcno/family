@@ -612,7 +612,7 @@ function openSet(k){
 function renderSet(){
   const v = D.PH[lbSet]; const L = {o:"Original", r:"Restored", c:v.interpretation ? "Photographic interpretation" : "Colorized"};
   document.getElementById("lbStage").innerHTML = lbMode === "cmp" ? cmpHTML(v.o, v[lbRight], "Original", L[lbRight], v.cap) : `<img src="${v[lbMode]}" alt="${esc(v.cap)} (${L[lbMode]})">`;
-  document.getElementById("lbCap").textContent = v.cap;
+  document.getElementById("lbCap").textContent = v.cap + ((lbMode === "c" || (lbMode === "cmp" && lbRight === "c")) && /_(?:ai|new)_color\.jpg$/.test(v.c || "") ? " AI-edited copy; compare the original for historical detail." : "");
   const b = (key, l, on) => `<button data-lb="${key}" aria-pressed="${on}">${l}</button>`;
   document.getElementById("lbCtl").innerHTML = `<span class="vt" role="group" aria-label="View">${b("o","Original",lbMode==="o")}${v.r?b("r","Restored",lbMode==="r"):""}${v.c?b("c",L.c,lbMode==="c"):""}${v.r||v.c?b("cmp:"+(v.c?"c":"r"),"Compare",lbMode==="cmp"):""}</span>`;
 }
