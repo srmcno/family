@@ -1904,6 +1904,10 @@
     [
      "Marriage",
      "8 Dec 1838 to Abner A. Stevenson (Casey family history)"
+    ],
+    [
+     "Parents (lead)",
+     "Ancestry suggests William Watson and Mary 'Polly' Brown, which agrees with the Casey family history giving her mother as Mary Watson; still no record naming either."
     ]
    ],
    "src": "History of Methodist Churches and Institutions in Middle Tennessee, 1787-1956 (1956), 'Bee Spring Memorial' by Sterling E. Stovall, historian (archive.org/details/historyofmethodi00cart)",
@@ -2714,6 +2718,10 @@
     [
      "Sons",
      "Calvin Vestal (1841-1913) and Patrick Green (1853-1905), among others"
+    ],
+    [
+     "Parents (lead)",
+     "Ancestry suggests James S. Williams and Polly Garner of Randolph Co., N.C.; no record naming them has been seen."
     ]
    ],
    "ev": "probable",
@@ -3252,7 +3260,17 @@
    "rel": "2nd great-grandparents",
    "place": "Farmers at Hagansport, Franklin County, Texas, and buried there side by side. The 1900 census lists their son Oscar, 10.",
    "src": "1900 and 1910 U.S. Census, Franklin Co., Tex.; Find a Grave (Hagansport Cemetery); obituary of Lona May Ottinger (1975).",
-   "ev": "probable"
+   "ev": "probable",
+   "kv": [
+    [
+     "Emma's father (probable)",
+     "George W. Langley, b. c.1842 Georgia: 1880 census, Hopkins Co., Tex., daughter Emma J., 12"
+    ],
+    [
+     "John B.'s parents (lead)",
+     "Ancestry suggests Noah Smith and Mary P. (Keith); no census, marriage or death record naming them has been seen. His Texas death certificate of 13 Apr 1918 (Franklin Co.) did not turn up in the Texas Death Certificates index; the Find a Grave memorial for John B. Smith names only his wife and daughters."
+    ]
+   ]
   },
   {
    "id": "rogers",
@@ -3879,6 +3897,14 @@
     [
      "1900 census",
      "John Shackleford 37, wife Elizabeth 28"
+    ],
+    [
+     "Parents of John Morgan (lead)",
+     "Ancestry suggests John C. Shackleford and Tinsey Caroline Duke; unchecked. A search of the 1880 Alabama census turned up one John Shackleford of the right age (Coosa Co.), but his mother was 82, so he is not a match."
+    ],
+    [
+     "Lizzie Newton's parents",
+     "Not found."
     ]
    ],
    "note": "Named as parents in a sister's obituary; probable, not yet proven by an original record.",
@@ -5748,6 +5774,51 @@
     }
    ],
    "note": "Lead only. Trees also name Mary Tharp as Salathiel's mother; her place is not carried here because the tree's own marriage date is impossible. Benjamin Franklin Hulsey's descent from Salathiel, and G. W. Hulsey's from Benjamin, still rest on grave memorials and family tradition; see the entries for Benjamin and Salathiel."
+  },
+  {
+   "id": "anc4-george-langley",
+   "name": "George W. Langley",
+   "years": "b. c.1842",
+   "branch": "smith",
+   "rel": "3rd great-grandfather",
+   "gen": 3,
+   "child": "johnsmith",
+   "place": "Hopkins County, Texas, in 1880, a farmer's household next door to the county where his daughter Emma later married into the Smiths of Franklin County.",
+   "kv": [
+    [
+     "Born",
+     "c.1842, Georgia (1880 census: age 38; his own parents also born in Georgia)"
+    ],
+    [
+     "1880 census",
+     "Precinct 5, Hopkins Co., Tex., dwelling 88"
+    ],
+    [
+     "Household",
+     "Daughters Emma J. (12, born Texas) and Eliza J. (8); brother-in-law Jacob Black (29) and sisters-in-law Sarah J. Quinton (32) and Elizabeth Black (23)"
+    ],
+    [
+     "Wife",
+     "Not in the household; the Black in-laws suggest she was a Black (lead)"
+    ]
+   ],
+   "src": "1880 U.S. census, Precinct 5, Hopkins County, Texas, dwelling 88 (Ancestry collection 6742, record 6949407)",
+   "title": "A widower in Hopkins County",
+   "hook": "The 1880 census finds George W. Langley, 38, alone with two small daughters and his wife's brother and sisters in the house.",
+   "body": [
+    "The 1880 census for Precinct 5 of Hopkins County, Texas, lists George W. Langley, 38, born in Georgia, as head of household. His daughters are Emma J., 12, and Eliza J., 8, both born in Texas. No wife is listed.",
+    "Living with him are Jacob Black, 29, called brother-in-law, and Sarah J. Quinton, 32, and Elizabeth Black, 23, called sisters-in-law. Two Black siblings under his roof and no wife make it likely that Mrs. Langley, a Black, had died before the count (lead).",
+    "Emma Elizabeth Langley, wife of John B. Smith, was born on 11 December 1867 in Texas, which makes her 12 in June 1880. The census gives the daughter as Emma J., so the identification rests on age, birthplace and neighbourhood (Hopkins County lies beside Franklin County, where Emma died in 1905), not on a document naming Emma Elizabeth."
+   ],
+   "ev": "probable",
+   "tags": [],
+   "quotes": [
+    {
+     "t": "Brother-in-law",
+     "c": "Jacob Black's relation to the head, 1880 census, Hopkins County, Texas"
+    }
+   ],
+   "note": "Emma is entered as Emma J. rather than Emma Elizabeth or Emma Liza (the form on John B. Smith's Find a Grave page). The mother's name Mary F. Black is only an Ancestry suggestion from other trees and is not in the tree here."
   }
  ],
  "EXTRA": [
@@ -15578,7 +15649,8 @@
   "arnold-william-lydia-bell",
   "stev-james-sr-sally-kelly",
   "stev-john-d1794-thompson",
-  "hulsey-jesse-revolutionary"
+  "hulsey-jesse-revolutionary",
+  "anc4-george-langley"
  ],
  "PHOTO_ORDER": [
   "parsis_portrait",
