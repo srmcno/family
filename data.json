@@ -63,14 +63,14 @@
   "emeline_tims": {
    "o": "img/p/emeline_tims_orig.jpg",
    "r": "img/p/emeline_tims_restored.jpg",
-   "cap": "Emiline (Steadman) Tims; the only known image, from a photocopy The colorized copy reconstructs details that are unclear in the original.",
+   "cap": "Emiline (Steadman) Tims; the only known image, from a photocopy. The colorized copy reconstructs details that are unclear in the original.",
    "c": "img/p/emeline_tims_new_color.jpg"
   },
   "nathan_moffitt": {
    "o": "img/p/nathan_moffitt_orig.jpg",
    "r": "img/p/nathan_moffitt_restored.jpg",
    "c": "img/p/nathan_moffitt_new_color.jpg",
-   "cap": "Photo labeled \"Nathan Moffitt\" in the family tree, with children The colorized copy reconstructs details that are unclear in the original."
+   "cap": "Photo labeled \"Nathan Moffitt\" in the family tree, with children. The colorized copy reconstructs details that are unclear in the original."
   },
   "katie_hulsey": {
    "o": "img/p/katie_hulsey_orig.jpg",
@@ -105,25 +105,25 @@
   "benjamin_family": {
    "o": "img/p/benjamin_family_orig.jpg",
    "r": "img/p/benjamin_family_restored.jpg",
-   "cap": "Benjamin F. Hulsey (1847-1924) seated with his children, about the 1890s; the dark area is damage to the original print. Photograph shared in a public Ancestry member tree In the edited copy, the area obscured by damage has been removed; see the original for the unaltered image.",
+   "cap": "Benjamin F. Hulsey (1847-1924) seated with his children, about the 1890s; the dark area is damage to the original print. Photograph shared in a public Ancestry member tree. In the edited copy, the area obscured by damage has been removed; see the original for the unaltered image.",
    "c": "img/p/benjamin_family_new_color.jpg"
   },
   "oneal_family": {
    "o": "img/p/oneal_family_orig.jpg",
    "r": "img/p/oneal_family_restored.jpg",
-   "cap": "O'Neal family gathering in Gibson County, Indiana; the typed caption names Daniel W. O'Neal and Vashti Pearson among the family. Photograph shared in a public Ancestry member tree The colorized copy reconstructs details that are unclear in the original.",
+   "cap": "O'Neal family gathering in Gibson County, Indiana; the typed caption names Daniel W. O'Neal and Vashti Pearson among the family. Photograph shared in a public Ancestry member tree. The colorized copy reconstructs details that are unclear in the original.",
    "c": "img/p/oneal_family_new_color.jpg"
   },
   "vashti_trio": {
    "o": "img/p/vashti_trio_orig.jpg",
    "r": "img/p/vashti_trio_restored.jpg",
-   "cap": "'Vashti, Mary O'Neal Hartin, Daniel W. O'Neal (sister of Daniel)', seated in front of a porch. Photograph shared in a public Ancestry member tree The colorized copy reconstructs details that are unclear in the faded original.",
+   "cap": "Vashti Pearson, Mary O’Neal Hartin (described in the handwritten note as Daniel’s sister), and Daniel W. O’Neal, at a porch. Photograph shared in a public Ancestry member tree. The colorized copy reconstructs details that are unclear in the faded original.",
    "c": "img/p/vashti_trio_new_color.jpg"
   },
   "jimmie_tims": {
    "o": "img/p/jimmie_tims_orig.jpg",
    "r": "img/p/jimmie_tims_restored.jpg",
-   "cap": "James Brown 'Jimmie' Tims seated, with his son-in-law Fulsom Jacob standing behind (newspaper copy of the photograph). Photograph shared in a public Ancestry member tree The colorized copy reconstructs details that are unclear in the original.",
+   "cap": "James Brown 'Jimmie' Tims seated, with his son-in-law Fulsom Jacob standing behind (newspaper copy of the photograph). Photograph shared in a public Ancestry member tree. The colorized copy reconstructs details that are unclear in the original.",
    "c": "img/p/jimmie_tims_new_color.jpg"
   },
   "jh_satterfield": {
@@ -542,7 +542,7 @@
      "cap": "His WWII \"old man's draft\" card, 1942"
     },
     {
-     "s": "img/dawes_card_1580_pisachubbe.jpg",
+     "s": "img/docs/dawes_card_1580_pisachubbe_full.jpg",
      "cap": "Dawes Card 1580: Eunice Pisachubbe's family, Kiamitia County, 1899"
     }
    ],
@@ -593,7 +593,7 @@
    "rel": "2nd great-grandmother",
    "imgs": [
     {
-     "s": "img/dawes_card_1363_austin.jpg",
+     "s": "img/docs/dawes_card_1363_austin_full.jpg",
      "cap": "Dawes Card 1363: Legion and Molsey Austin's family, Towson County, 1899"
     }
    ],
@@ -727,7 +727,7 @@
    ],
    "imgs": [
     {
-     "s": "img/emeline_tims.jpg",
+     "s": "img/p/emeline_tims_orig.jpg",
      "cap": "Emeline (Steadman) Tims",
      "kind": "photo"
     },
@@ -754,7 +754,7 @@
    "rel": "3rd great-grandmother",
    "imgs": [
     {
-     "s": "img/dawes_card_1580_pisachubbe.jpg",
+     "s": "img/docs/dawes_card_1580_pisachubbe_full.jpg",
      "cap": "Dawes Card 1580, Eunice is line 1"
     },
     {
@@ -809,13 +809,13 @@
    "branch": "thompson",
    "gen": 3,
    "rel": "3rd great-grandfather",
-   "place": "Kiamitia County, Choctaw Nation. Named as the father of William Harrison and Robert on Dawes Card 1580; dead by May 1899. A 1937 obituary says the family came from Mississippi in 1832 and first settled at Fort Coffee.",
-   "note": "His parents are given in trees as Pisachubbe, also called Wilson, and Nancy Te-hol-ba-ta-bi, but the link is not proven. The Nancy found on the Dawes roll was about 72 in the late 1890s, so she would have been about twelve in 1839, too young to be his mother.",
+   "place": "Kiamitia County, Choctaw Nation. Named as the father of William Harrison and Robert on Dawes Card 1580; dead by May 1899. A family remembrance places their arrival from Mississippi in 1832 and their settlement near Fort Coffee, a post established in 1834.",
+   "note": "His parents are given in trees as Pisachubbe, also called Wilson, and Nancy Te-hol-ba-ta-bi, but the link is not proven. The Nancy on Dawes Card 1278 was listed as 69 in 1899; her age alone neither proves nor rules out the proposed relationship.",
    "body": [
-    "On Dawes Card 1580, made out on 10 May 1899 at the Goodland post office in Kiamitia County, Joseph Pisachubbe holds a single word. The card is his widow Eunice's. Her two sons stand on lines 2 and 3, William H., 16, and Robert, 11, and in the father column of each the clerk entered \"Joseph Pisachubbe,\" the year column reading \"Dead\" and the county Kiamitia. He had no card of his own because he was gone before any roll was taken. His sons were born about 1883 and 1888, so he was alive into the late 1880s. Eunice, Robert and their ward Edward Pisachubbe are on consecutive lines of the 1896 census, Nos. 10432 to 10434, and he is not with them.",
+    "On Dawes Card 1580, made out on 10 May 1899 at the Goodland post office in Kiamitia County, Joseph Pisachubbe holds a single word. The card is his widow Eunice's. Her two sons stand on lines 2 and 3, William H., 16, and Robert, 11, and in the father column of each the clerk entered \"Joseph Pisachubbe,\" the year column reading \"Dead\" and the county Kiamitia. He had no Dawes card of his own because he died before Dawes enrollment. His sons were born about 1883 and 1888, so he was alive into the late 1880s. Eunice, Robert and their ward Edward Pisachubbe are on consecutive lines of the 1896 census, Nos. 10432 to 10434, and he is not with them.",
     "Eunice's widowhood is the rest of his record. When she died on 19 May 1927, her sons Robert and William H. petitioned the Choctaw County court as \"the lawful issue of the marriage between Joseph Pisachubbe and Eunice Pisachubbe,\" and the petition adds that he died long before her and that she never remarried. The 159-acre allotment she asked to sell lay in Section 29, Township 5 South, Range 17 East, the same section where Robert's own allotment lies.",
     "The only account of where the family came from is a family history printed in the Hugo Daily News on 11 May 1937 at William Harrison's death, given by his relative Judge T. W. Hunter: the Pisachubbes came from Mississippi in 1832 with the first group of Choctaw exiles and settled at Fort Coffee, near present-day Spiro. The date has to be read with care. Fort Coffee was established on the Arkansas River only in June 1834, so the family's \"in 1832\" and \"at Fort Coffee\" describe the neighborhood by the later landmark; by 1899 they were in Kiamitia County, where a Presbyterian mission had worked at Goodland since 1848. The family history does not say whether Joseph himself was born in Mississippi or among the first children born in the new Nation.",
-    "His own parents are unknown. Family trees give them as a man called Pisachubbe or Wilson and Nancy Te-hol-ba-ta-bi, but the Nancy on Dawes Card 1278 was 69 in 1899, born about 1830, and could not have been the mother of a man old enough to father sons in the 1880s (lead only). A \"Case Pisachubbi\" has his own jacket at Idabel, and a Sarah Pisachubbi is Roll 3471, but nothing connects either to Joseph. What his descendants can be certain of is the name, which they carry through Robert and Lizzie to Frances Thompson, and which the clerks spelled Pisachubbe, Pisachubbee and Pisachubbi from one document to the next."
+    "His own parents are unknown. Family trees give them as a man called Pisachubbe or Wilson and Nancy Te-hol-ba-ta-bi, but the Nancy on Dawes Card 1278 was listed as 69 in 1899, born about 1830. Her age alone does not establish or rule out a mother-and-son relationship; no examined record links her to Joseph (lead only). A \"Case Pisachubbi\" has his own jacket at Idabel, and a Sarah Pisachubbi is Roll 3471, but nothing connects either to Joseph. What his descendants can be certain of is the name, which they carry through Robert and Lizzie to Frances Thompson, and which the clerks spelled Pisachubbe, Pisachubbee and Pisachubbi from one document to the next."
    ],
    "kv": [
     [
@@ -870,12 +870,8 @@
    "rel": "3rd great-grandfather",
    "imgs": [
     {
-     "s": "img/dawes_card_1363_austin.jpg",
-     "cap": "Dawes Card 1363, Legion is line 1"
-    },
-    {
      "s": "img/docs/dawes_card_1363_austin_full.jpg",
-     "cap": "Dawes Card 1363: Legion and Molsey Austin, their children, and their parents' names"
+     "cap": "Dawes Card 1363: Legion Austin on line 1, Molsey Austin, their children and their parents’ names"
     },
     {
      "s": "img/docs/dawes_1363_james_austin_birth_affidavit_1899.jpg",
@@ -885,7 +881,7 @@
    "place": "Full blood. On the 1896 roll as \"Legend Austin.\" Son of Ata-sa-ha-bi and Lotima of Towson County. His 1899 card gives his age as 33, but in November 1902 he testified he was \"about fifty,\" and he had a grown daughter, Viny, born about 1879 to an earlier wife, Betsy. He also raised his nephew Nicholas Greenwood.",
    "body": [
     "Dawes Card 1363, line 1, lists 'Austin, Legion,' 33, male, full blood, on the 1896 census of Towson County as No. 199, living near Fowlerville. The card names his father as Ata-sa-ha-bi and his mother as Lotima, both dead and both of Towson County. His wife Molsey is on line 2, with her parents Brazil and Siney of Red River, also dead.",
-    "Fowlerville's post office was established on 7 July 1894 and renamed Valliant on 23 June 1902,, so the post office name changed in 1902.",
+    "Fowlerville's post office was established on 7 July 1894 and renamed Valliant on 23 June 1902.",
     "The application was filed on 21 May 1899 for Towson County, post office Fowlerville. The card lists five people: Legion, Molsey, their daughter Lizzie, a son James, whose date of death is recorded differently in the documents, and a baby daughter Adline, born on 5 August 1900. Legion himself wrote to the Commission from Garvin in October 1900 asking for a blank application for an infant child; the Commission sent it on 9 October. The baby was enrolled on 4 June 1901, as a Commission letter of 5 June 1901 to William Swink at Fowlerville records: \"Adline Austin, the infant daughter of Leageon and Muley Austin, born August 5, 1900,\" the clerk's spellings of Legion and Molsey.",
     "The enrollment card records that James died in April 1899 and that proof of death was filed; his enrollment was cancelled in 1904. A birth affidavit signed by Legion and neighbor Leonidas Willis, dated 2 May 1899, retains the printed words that James was then living. The two documents therefore disagree, and the date on the form or the recorded death requires further checking.",
     "The card's tribal-enrollment columns tie him to the 1896 Choctaw census: Towson County, No. 199, with Molsey at No. 200 and Lizzie at No. 201, and the clerk's note \"No. 1 on 1896 roll as Legend Austin.\" The Commission approved lines 1, 2, 3 and 5 on 12 December 1902. On the final roll he is Choctaw by Blood No. 3736 and the age beside his name is 36, three years more than the 33 written on the 1899 card. The ages on one card do not agree with each other, or with his own testimony in November 1902 that he was \"about fifty\".",
@@ -1220,7 +1216,7 @@
    "src": "Find a Grave memorial 66405962; 1940 U.S. Census, South Fork, Montgomery Co., Ark; Cemeteries of Choctaw County Oklahoma, Ron Henson, USGenWeb Archives (files.usgwarchives.net/ok/choctaw/cemeteries/cemchoc.txt); 1950 U.S. census, Jeter, Choctaw Co., Okla.; U.S., Newspapers.com Obituary Index (The Daily Oklahoman, 6 Nov 2002). Oklahoma Historical Society and Wikipedia general history of Broken Bow (Dierks Lumber Co.; incorporated 1911).",
    "imgs": [
     {
-     "s": "img/mary_ellen_hulsey.jpg",
+     "s": "img/p/mary_ellen_hulsey_orig.jpg",
      "cap": "Mary Ellen Hulsey",
      "kind": "photo"
     },
@@ -1401,7 +1397,7 @@
    ],
    "imgs": [
     {
-     "s": "img/katie_hulsey.jpg",
+     "s": "img/p/katie_hulsey_orig.jpg",
      "cap": "Katie Cornelia (Stevenson) Hulsey",
      "kind": "photo"
     },
@@ -1421,6 +1417,11 @@
     {
      "s": "img/p/katie_at_92.jpg",
      "cap": "Katie Stevenson Hulsey at 92, photographed in 2001; the handwritten note reads 'Daughter of Parsis J. O'Neal Stevenson.' Photograph shared in a public Ancestry member tree",
+     "kind": "record"
+    },
+    {
+     "s": "img/p/hulsey_family_yard_orig.jpg",
+     "cap": "Hulsey family group by a picket fence; individual identifications and date unconfirmed.",
      "kind": "photo"
     }
    ],
@@ -1698,7 +1699,7 @@
    "ev": "probable",
    "imgs": [
     {
-     "s": "img/gilbert_parsis_stevenson.jpg",
+     "s": "img/p/gilbert_parsis_orig.jpg",
      "cap": "Frank and Parsis Jane Stevenson",
      "kind": "photo"
     },
@@ -1864,7 +1865,7 @@
      "cap": "1880 U.S. census, Columbia Township, Gibson County, Indiana: Parsis J. O'Neal, age 11, in the household of her father Daniel W. O'Neal."
     },
     {
-     "s": "img/p/gilbert_parsis_color.jpg",
+     "s": "img/p/gilbert_parsis_orig.jpg",
      "cap": "\"Frank & Jane\": Gilbert Franklin and Parsis Jane (O'Neal) Stevenson on their porch",
      "kind": "photo"
     },
@@ -1974,7 +1975,7 @@
     },
     {
      "s": "img/places/gibson_courthouse_princeton.jpg",
-     "cap": "Gibson County Courthouse, Princeton, Indiana. Wikimedia Commons, CC BY-SA 3.0, The original uploader was Kmweber at English Wikipedia.. Source: https://commons.wikimedia.org/wiki/File:Gibson_County_Courthouse.jpg",
+     "cap": "Gibson County Courthouse, Princeton, Indiana, photographed in 2011. Photo: Nyttend, Wikimedia Commons, public domain. Source: https://commons.wikimedia.org/wiki/File:Gibson_County_Courthouse_in_Princeton.jpg",
      "kind": "photo"
     },
     {
@@ -1988,7 +1989,7 @@
      "kind": "photo"
     },
     {
-     "s": "img/p/oneal_family_new_color.jpg",
+     "s": "img/p/oneal_family_orig.jpg",
      "cap": "O'Neal family gathering in Gibson County, Indiana; the typed caption names Daniel W. O'Neal and Vashti Pearson among the family. Photograph shared in a public Ancestry member tree Color and indistinct features have been interpreted.",
      "kind": "photo"
     }
@@ -2101,7 +2102,7 @@
    "tags": [],
    "imgs": [
     {
-     "s": "img/gilbert_parsis_stevenson.jpg",
+     "s": "img/p/gilbert_parsis_orig.jpg",
      "cap": "Elam's grandson Frank Stevenson and his wife Jane",
      "kind": "photo"
     },
@@ -2421,7 +2422,8 @@
     "On 12 December 1787 a Quaker marriage entry in Hinshaw's index reads: \"Martha, dt Robert & Cecilia, Surry Co., m Adin Nordyke.\" She was Martha Johnson, born in 1766 and living with her family in the Quaker settlements of the North Carolina piedmont. Another genealogy gives her parents as Robert Johnson and Virginia C. Elmore, daughter of Thomas Elmore and Cecilia Ellyson; Cedar Creek Meeting in Virginia recorded the couple as moving to North Carolina on a certificate dated 29 March 1766. Hinshaw's index gives her mother as Cecilia, while the Cedar Creek minutes name Robert's wife as Virginia, and the minutes do not name Martha at all (lead).",
     "Her husband Aden was born in 1762 in Burlington County, New Jersey, the oldest son of Abraham Nordyke and Mary Rogers. Their daughter Sicily, born 2 August 1790, married Noble Shaw. Martha died in 1844, two years after Aden, who is said to have died in Indiana in 1842."
    ],
-   "ev": "lead"
+   "ev": "lead",
+   "src": "Hinshaw, Encyclopedia of American Quaker Genealogy, vol. 1, Nordyke family entry and 12 December 1787 marriage; U.S., Quaker Meeting Records, 1681–1935, Deep River Monthly Meeting, 12 Dec 1787 (as cited in Aden Nordyke’s profile). The proposed Cedar Creek parentage remains a lead."
   },
   {
    "id": "abraham",
@@ -3026,12 +3028,12 @@
     }
    ],
    "place": "Married 20 September 1797 at Centre Quaker Meeting, North Carolina. Robert inherited 250 acres his father had bought of William Cox and was still living in 1820. Martha, born 6 October 1778, a daughter of Joseph Chamness, lived until 1865. Their children included Mary, Nathan, David, Naomi, William, Hannah, Lydia and Aaron.",
-   "src": "Hinshaw, Encyclopedia of American Quaker Genealogy, vol. 1 (Centre MM); wills of William (1796) and Mary Moffitt (1820); Hanson (1922); Wills of William (1796) and Mary Moffitt (1820); 1830 and 1840 Censuses, Randolph Co., N.C; U.S., Quaker Meeting Records, 1681-1935 (Centre MM, marriage of Robert Moffitt and Martha Chamness, 20 Sep 1797) NCpedia, 'Randolph County' (ncpedia.org/geography/randolph); Zimri Hanson, History and Genealogy of the American Descendants of John and Ann Chamness (1922) for Joseph Chamness's family",
+   "src": "Hinshaw, Encyclopedia of American Quaker Genealogy, vol. 1 (Centre Monthly Meeting); U.S., Quaker Meeting Records, 1681–1935 (Centre Monthly Meeting marriage certificate, 20 Sep 1797); wills of William Moffitt (1796) and Mary Moffitt (1820); 1830 and 1840 U.S. censuses, Randolph Co., N.C.; Zimri Hanson, History and Genealogy of the American Descendants of John and Ann Chamness (1922); NCpedia, Randolph County: https://www.ncpedia.org/geography/randolph; WikiTree Moffitt-108 and Chamness-49.",
    "body": [
-    "The Quaker book of Hinshaw puts it in one line: \"1797, 9, 20. Robert, s William & Mary, Randolph Co., m Martha Chamness.\" The Centre Monthly Meeting certificate fills it out. Robert Moffitt, son of William Moffitt deceased and Mary his wife, of Randolph County, and Martha Chamness, daughter of Joseph Chamness and Margaret his wife, were married in a public meeting of Quakers at Providence. The witnesses include William Moffitt, Joseph Chamness, Hannah Chamness and Mary Moffitt: the groom's mother Mary, a William Moffitt who was probably his brother, the bride's father, and Hannah, who was Joseph's second wife and Martha's stepmother. Margaret had been dead since 1784, when Martha was five.",
-    "Robert had come to the altar with an estate. His father William's will of 1796 named \"my son Robart Moffitt\" executor and left him 250 acres bought of William Cox, except \"the new field that is cleared upon the River,\" which Mary kept for life. His brother William got the 225-acre plantation, and the youngest, David, land on Tibs Run, wagon iron brought from Pig River and a quarter of a lot in Campbelltown. Mary got the wagon, the still and the stock. Martha, born 6 October 1778, was eighteen when she married him. Her own father had served the meeting as its recorder of marriage certificates.",
+    "On 20 September 1797, Robert Moffitt and Martha Chamness married at a public Quaker meeting at Providence. The Centre Monthly Meeting certificate names Robert as the son of William Moffitt, deceased, and Mary, of Randolph County; Martha was the daughter of Joseph Chamness and Margaret Norton. The witnesses include William Moffitt, Joseph Chamness, Hannah Chamness and Mary Moffitt: the groom's mother Mary, a William Moffitt who was probably his brother, the bride's father, and Hannah, who was Joseph's second wife and Martha's stepmother. Margaret had been dead since 1784, when Martha was five.",
+    "Robert had come to the altar with an estate. His father William's will of 1796 named \"my son Robart Moffitt\" executor and left him 250 acres bought of William Cox, except \"the new field that is cleared upon the River,\" which Mary kept for life. His brother William got the 225-acre plantation, and the youngest, David, land on Tibs Run, wagon iron brought from Pig River and a quarter of a lot in Campbelltown. Mary got the wagon, the still and the stock. Martha, born 6 October 1778, was eighteen when she married him. Her father had served the meeting as its recorder of marriage certificates, and she was a granddaughter of Anthony Chamness.",
     "They raised nine children in Randolph County. Randolph had been cut from Guilford in 1779, and Asheboro, its seat, was incorporated in 1796, the year William Moffitt wrote his will. The children were Naomi (1800), Sarah (1801), David (1802), William C. (1803), Aaron (1805), Hannah, Lydia (1811), Nathan (1814) and Robert (1815). Robert was alive in 1820 when his mother dated her will \"the 23rd day of the 9th month, 1820,\" naming \"my three sons,\" and he is in the Randolph County census of 1830 and 1840. Martha lived until 1865.",
-    "The family that Robert and Martha founded scattered with the century. Sarah and Naomi went to Iowa with their Barker husbands; Hannah and Lydia stayed in Randolph County; Nathan went to Arkansas in the early 1840s, and the youngest Robert died at Hutton Valley, Howell County, Missouri, in 1872. Their grandson Veno died in 1864 as a Confederate prisoner at Elmira. Both of the families behind that wedding, Moffitt and Chamness, signed the same certificate in 1797."
+    "The family that Robert and Martha founded scattered with the century. Sarah and Naomi went to Iowa with their Barker husbands; Sarah died at Lorimor in 1860; Hannah and Lydia stayed in Randolph County; Nathan went to Arkansas in the early 1840s, and the youngest Robert died at Hutton Valley, Howell County, Missouri, in 1872. Their grandson Veno died in 1864 as a Confederate prisoner at Elmira. Both of the families behind that wedding, Moffitt and Chamness, signed the same certificate in 1797."
    ],
    "kv": [
     [
@@ -3052,9 +3054,12 @@
     ]
    ],
    "ev": "proven",
-   "note": "Birth dates of 6 October 1778 and death 6 October 1844 on a memorial are Martha's birth date copied over and not from a record. Martha's parents come from a compiled Quaker abstract. Do not confuse him with Robert Moffitt of Brush Creek (b. 1762), a Patriot, or Robert son of Hugh (b. 1769), neither of whom married Martha.",
+   "note": "A memorial gives 6 October 1778 for Robert’s birth and 6 October 1844 for his death, but that birth date also appears for Martha; neither date has been verified. As executor in 1796, Robert was probably born by about 1775. Martha’s death is given as 11 October or 11 November 1865. Her parents and the children’s list come from compiled Quaker abstracts. The records do not establish that Robert was the Patriot Robert Moffitt of Brush Creek or Robert son of Hugh; neither married Martha.",
    "title": "Robert Moffitt's year: a father's will in 1796 and a Chamness wedding in 1797",
-   "hook": "Robert Moffitt was named executor of his father's will in 1796 and married Joseph Chamness's daughter Martha at Providence meeting on 20 September 1797."
+   "hook": "Robert Moffitt was named executor of his father's will in 1796 and married Joseph Chamness's daughter Martha at Providence meeting on 20 September 1797.",
+   "tags": [
+    "quaker"
+   ]
   },
   {
    "id": "william",
@@ -3069,8 +3074,8 @@
    ],
    "imgs": [
     {
-     "s": "img/alamance_plaque.jpg",
-     "cap": "Regulator memorial at Alamance Battleground"
+     "s": "img/places/alamance_battleground_1.jpg",
+     "cap": "Regulator memorial at Alamance Battleground. Photo: Hallcp, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Alamance_battleground_1.jpg"
     },
     {
      "s": "img/hinshaw_moffitt_chamness.jpg",
@@ -3321,7 +3326,7 @@
    "body": [
     "Faye Smith was the youngest child of Charles Oscar and Artie Pearl Smith, born at Forney, Choctaw County, on 23 March 1929. She appears as \"Fay May,\" 2, in the 1930 census at Jeter and as \"Fay,\" 12, in 1940. She married John W. Moffitt at Paris, Texas, on 12 June 1947, died at Paris on 23 December 2014 and is buried at Grant Cemetery.",
     "She made her home around family life. Singing, shopping, visits with friends and trips to the Nutrition Center filled her days. Holidays were a particular pleasure, and her Christmas portrait catches her smiling beside the tree.",
-    "She and John married in Paris, Texas, in June 1947, a year after his return from Navy service. By her death in 2014, the family had grown to 20 grandchildren, 38 great-grandchildren and two great-great-grandchildren. Her funeral was held in Hugo, with burial at Grant Cemetery beside John."
+    "John had returned from Navy service the year before their marriage. By her death in 2014, the family had grown to 20 grandchildren, 38 great-grandchildren and two great-great-grandchildren. Her funeral was held in Hugo, with burial at Grant Cemetery beside John."
    ],
    "kv": [
     [
@@ -3341,7 +3346,7 @@
      "\"Fay,\" 12, with her parents and two brothers on a rented farm, Hugo Route 1, Jeter"
     ]
    ],
-   "note": "Her husband’s 20 September 1990 obituary names her Faye Renee Smith. The 1930 census records “Fay May”; her own obituary uses Faye (Smith) Moffitt.",
+   "note": "The 1930 census records her name as “Fay May”; her husband’s 1990 obituary uses Faye Renee Smith, and hers uses Faye (Smith) Moffitt.",
    "src": "1930 U.S. census and 1940 U.S. census, Jeter, Choctaw Co., Okla.; Find a Grave index (memorial 140426039).; Prater-Lampton-Mills & Coffey Funeral Home obituary, 2014.; The Paris News, 20 Sep 1990, p. 4, obituary of John W. Moffitt, https://www.newspapers.com/image/13498859/.",
    "source_link": "https://www.okcemeteries.net/choctaw/grant/moffittf-obit.htm",
    "title": "Singing, holidays and a house full of family",
@@ -3529,8 +3534,8 @@
    "hook": "A Kentucky farm family that moved to Texas about 1907 and ended up around Soper and Hugo.",
    "body": [
     "John C. Satterfield was born in 1864 in Allen County, Kentucky. In 1880, at 16, he was a farm laborer at Renfrow, Butler County, in the household of his father, James H. Satterfield, with his brothers and sisters. His mother, Melissa Gibson, had died in 1877.",
-    "A widower with three children, Henry, Martha and John, he married Samantha D. \"Mantha\" Johnson, about 20, in 1892. In 1900 they were farming at Horse Mill, Butler County, with seven children at home. Their son Wavey Lincoln was born near Morgantown in 1895 and later served as a private in the U.S. Army in World War I; Artie Pearl followed in 1898.",
-    "About 1907 the family moved to Franklin County, Texas. In April 1910 John, 46, was renting a farm at Hagansport, with Wavey, Pearl, James, Ira and little Stella. John died in Franklin County a few years later. On 28 July 1917 Samantha married Bird Alexander \"Alex\" Stephens at Mount Vernon, Texas, and they moved across the Red River to Choctaw County, Oklahoma. She died there in 1928 and is buried as Samantha Stephens in Soper Cemetery.",
+    "A widower with three children, Henry B. (born May 1883), Martha A. (August 1884) and John W. (January 1887), he married Samantha D. \"Mantha\" Johnson, about 20, in 1892. In 1900 they were farming at Horse Mill, Butler County, with seven children at home. Their son Wavey Lincoln was born near Morgantown on 28 December 1895 according to his draft cards; his headstone gives 9 January 1896. Artie Pearl followed in August 1898. Wavey later served as an Army private in World War I. A family account identifies an early son, Joseph, who died before 1910.",
+    "About 1907 the family moved to Franklin County, Texas. In April 1910 John, 46, was renting a farm at Hagansport, with Wavey, Pearl, James, Ira and little Stella. A family account says their last child was born in Texas in 1912. John died in Franklin County a few years later. On 28 July 1917 Samantha married Bird Alexander \"Alex\" Stephens at Mount Vernon, Texas, and they moved across the Red River to Choctaw County, Oklahoma. Wavey died at Soper in 1952. Their daughter Artie Pearl married Charles Oscar Smith in 1914; both are buried at Grant Cemetery. Samantha died in Choctaw County in 1928 and is buried as Samantha Stephens in Soper Cemetery.",
     "His father's family is described under James Henry Satterfield and Melissa Gibson.",
     "Samantha's husband John C. had a larger family than the two households show. His full brothers and sisters, children of James H. and Melissa, included Sidney Rufus (1865-1949), James Doiser (1867-1929, who went to Clay County, Arkansas) and A. M. (born in Minnesota in 1870, died 1892). His nine half-siblings by Lucinda Phelps lived mostly around Texarkana. He and his brother Sidney both married women of the Clark-Johnson family of Butler County.",
     "The farm John C. Satterfield rented at Hagansport in 1910 was in a county where, by the government's 1908 soil survey, tenants on the usual share plan gave up half the crop, and farms averaged under 80 acres. The Hagansport soil was heavy clay that stayed sticky after rain and suited cotton better than corn. See the story on renting on shares at Hagansport."
@@ -3561,12 +3566,26 @@
      "Samantha m. Bird Alexander Stephens, 28 Jul 1917"
     ]
    ],
-   "note": "A family biography places John's death between 1912 and 1916; no grave or death record has been found, so the 1919 date in family trees is uncertain.",
-   "src": "1880 U.S. Census, Renfrow, Butler Co., Ky.; 1900 U.S. Census, Butler Co., Ky.; 1910 U.S. Census, Hagansport, Franklin Co., Tex.; Battle, Perrin & Kniffin, Kentucky: A History of the State (1885), sketch of James H. Satterfield; Find a Grave (Samantha D. Stephens, Soper Cemetery, with family biography); Find a Grave (Wavey Lincoln Satterfield); Soil Survey of Franklin County, Texas (1908), pp. 931-947.",
+   "note": "A family biography places John's death between 1912 and 1916; no grave or death record has been found, so the 1919 date in family trees is uncertain. Most details about Samantha come from a Find a Grave biography written by a Stephens family member; the 1892 marriage record itself has not been seen. Wavey’s draft cards and headstone differ on his birth date.",
+   "src": "1880 U.S. Census, Renfrow, Butler Co., Ky.; 1900 U.S. Census, Butler Co., Ky.; 1910 U.S. Census, Hagansport, Franklin Co., Tex.; Battle, Perrin & Kniffin, Kentucky: A History of the State (1885), sketch of James H. Satterfield; Find a Grave (Samantha D. Stephens, Soper Cemetery, with family biography); Find a Grave (Wavey Lincoln Satterfield); Soil Survey of Franklin County, Texas (1908), pp. 931-947; Find a Grave memorials 82285257 (Samantha D. Stephens) and 82287820 (Wavey Lincoln Satterfield).",
    "imgs": [
     {
      "s": "img/rec/census_1880_satterfield_butler.jpg",
      "cap": "1880 U.S. census, Renfrow, Butler County, Kentucky (page 22): the household of James H. Satterfield (spelled Saturfield), with his son John C., age 16. The scan is dark, but the family is highlighted on the lower part of the page."
+    },
+    {
+     "s": "img/butler_courthouse.jpg",
+     "cap": "The Butler County Courthouse, Morgantown, Kentucky (Wikimedia Commons, public domain)",
+     "kind": "photo"
+    },
+    {
+     "s": "img/allen_courthouse.jpg",
+     "cap": "The Allen County courthouse, Scottsville, Kentucky (Wikimedia Commons, public domain)",
+     "kind": "photo"
+    },
+    {
+     "s": "img/places/soper_townsite.jpg",
+     "cap": "Townsite limits of Soper, Choctaw Nation, depot grounds on the Arkansas and Choctaw Railway. Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Townsite_Limits_of_Soper,_Choctaw_Nation,_Indian_Territory,_Depot_Station_Grounds_on_the_Center_Line_of_the_Arkansas_and_Choctaw_Railway_-_DPLA_-_7c5273b4d055422f54b4ad042c99e094.jpg"
     }
    ]
   },
@@ -3755,17 +3774,42 @@
     [
      "Brother's will",
      "David Perkins, 1731/2: \"Sister, Rebecca, wife of Henry Nordike. Mother, Sarah Perkins.\""
+    ],
+    [
+     "May 1731",
+     "Jacob Perkins Sr. dies intestate; inventory 91 pounds 18s 5d"
+    ],
+    [
+     "26 Oct 1731",
+     "Jacob Perkins Jr.'s will; proved 7 Dec; inventory 205 pounds 14s 6d"
+    ],
+    [
+     "Jan 1731/2",
+     "David Perkins's will; proved 4 Mar 1731/2"
     ]
    ],
-   "src": "Wills of Jacob Perkins Jr. (1731) and David Perkins (1731/2), Calendar of New Jersey Wills. Calendar of New Jersey Wills, Lib. 3 pp. 102 and 169 and Lib. 8 p. 184.",
+   "src": "Calendar of New Jersey Wills, Administrations, etc. (New Jersey Archives, 1st series), Perkins estates, 1731–32, Lib. 3 pp. 102 and 169 and Lib. 8 p. 184: https://archive.org/details/calendarofnewjer01newj",
    "rel": "9th great-grandparents",
    "body": [
-    "Jacob Perkins Jr. of Willingboro, Burlington County, New Jersey, made his will on 26 October 1731. It names his wife Sarah and ten children, \"Abraham, Rebeckah, David, Mary, Ann, Susannah, Hannah, Sarah, Bethseda and Martha,\" and mentions land \"in Chester, which I bought of John Ward March 15, 1728,\" and bonds due from James Smith, Esq., John Shinn and Henry Nordike. He left ten pounds to St. Mary's Church, Burlington, which points to ties with the Church of England. The will was proved on 7 December 1731, and the inventory of 6 December came to 205 pounds 14 shillings 6 pence.",
-    "His son David, the executor, died within months. David's will, made in January 1731/2, leaves his brother Abraham a plantation and names his \"Sister, Rebecca, wife of Henry Nordike\" and \"Mother, Sarah Perkins\"; it was proved on 4 March 1731/2. Rebecca had married Henry on 6 January 1731 and is the link to the Nordykes (\"Henry Nordyke & Rebecca Perkins\")."
+    "In May 1731 administration of the estate of Jacob Perkins of \"Wellenborrow,\" Burlington County, who died without a will, went to his son Jacob Perkins, yeoman. The inventory, made on 20 May by Robert Lucas and Joseph Fenimore, comes to 91 pounds 18 shillings 5 pence and \"includes cane and sword, £1.10; debt of 14 shillings from Benja. Perkins; 8 years rent due from Benja. Perkins and Wm. Makintass, £1.\"",
+    "The son, Jacob Perkins Jr., made his own will on 26 October 1731. He left his wife Sarah and his children \"Abraham, Rebeckah, David, Mary, Ann, Susannah, Hannah, Sarah, Bethseda and Martha.\" He disposed of \"land in Chester, which I bought of John Ward March 15, 1728,\" and listed bonds due him \"from James Smith, Esq., John Shinn and Henry Nordike.\" He also left ten pounds to St. Mary's Church, Burlington, the Church of England parish, which points to Church of England ties. His son David was executor and the witnesses were Joseph Fenimore, Eliza Fenimore and Sam. Scattergood. The will was proved on 7 December 1731, and the inventory of 6 December, by Fenimore and Scattergood, was 205 pounds 14 shillings 6 pence.",
+    "Henry Nordyke had married Rebecca Perkins at Willingboro on 6 January 1731, the same year. He appears in her father's will as a man who owed him money. Then David died too. His will, made in January 1731/2 \"of Wellingborrow, yeoman,\" leaves his brother Abraham \"plantation in Wellingburrow, which came to me by will of my father, Jacob Perkins, dated Oct. 26, 1731,\" and names his \"Sister, Rebecca, wife of Henry Nordike\" and \"Mother, Sarah Perkins.\" It was witnessed by Joseph Fenimore, Sam'l Scattergood and Henry Nordike, and was proved on 4 March 1731/2.",
+    "So within about a year the Perkins household of Willingboro lost a grandfather, a father and a son, and the new son-in-law Henry Nordyke witnessed the last of the wills. Henry and Rebecca's descendants are the Nordykes of the family tree. Abraham, to whom David left the plantation, was also his executor."
    ],
    "ev": "proven",
    "title": "A cane and a sword",
-   "hook": "In 1731 Jacob Perkins Jr. of Willingboro made his will with ten children and a bond from Henry Nordyke; within months his son David was dead too."
+   "hook": "Wills and inventories from 1731–32 trace three generations of a Perkins family and their connection to the Nordykes.",
+   "quotes": [
+    {
+     "t": "Sister, Rebecca, wife of Henry Nordike. Mother, Sarah Perkins.",
+     "c": "Will of David Perkins of Wellingborrow, 1731/2, Calendar of New Jersey Wills, Lib. 8, p. 184"
+    },
+    {
+     "t": "Includes cane and sword, £1.10.",
+     "c": "Inventory of Jacob Perkins Sr., 20 May 1731, Calendar of New Jersey Wills, Lib. 3, p. 102"
+    }
+   ],
+   "note": "The calendar abstracts the wills; the originals have not been read. That Henry and Rebecca's son Abraham is the Abraham Nordyke who married Mary Rogers in 1761 comes from the family tree, not from these abstracts. Some trees identify Jacob Sr. with a man from Hampton, New Hampshire, who married Mary Philbrick, but no record has established that this man moved to New Jersey."
   },
   {
    "id": "jperkinssr",
@@ -4069,16 +4113,42 @@
      "Oldton's execution stayed 11 Apr 1692 by the Governor and Council (Archives of Maryland, vol. 8, p. 314)"
     ]
    ],
-   "src": "Barnes, Baltimore County Families; will of John Broad, 1702. William B. Marye, Maryland Historical Magazine 16:2 (June 1921), pp. 115-116 and note 18; Archives of Maryland, vol. 8, p. 314",
+   "src": "William B. Marye, “The Baltimore County Garrison and the Old Garrison Roads,” Maryland Historical Magazine 16:2 (June 1921), pp. 115–116 and note 18, quoting Provincial Court Proceedings Judgments, Liber D. S. No. C, 1692–1693, folio 15; Archives of Maryland, vol. 8, p. 314 (11 Apr 1692 council stay); “The Gorsuch and Lovelace Families,” Virginia Magazine of History and Biography 24:4 (Oct. 1916), p. 438; Barnes, Baltimore County Families; will of John Broad, 1702.",
    "rel": "9th great-grandparents",
    "body": [
     "Dennis Garrett was one of the first settlers on the site of Baltimore. William B. Marye's note in the Maryland Historical Magazine of June 1921 says that with Thomas Stone he bought \"Long Island Point,\" a tract surveyed for William Poultney on the site of what became Fell's Point, and that his descendants are numerous through the Cole, Gorsuch and Ensor families. He and his wife Barbara had a daughter, Johanna, who married John Cole.",
-    "His death is a court record. The Provincial Court indicted John Oldton, a tailor of Baltimore County, for striking Dennis Garrett on the forehead with \"one sword of the value of twenty shillings\" on 31 July 1691, so that Garrett \"from the 30th day of July aforesaid till the 2nd day of September did languish\" and then died. The witnesses were Philip Roper, Nicholas Hale, John Cole \"(son-in-law of the deceased),\" Thomas Stone, Abraham Vaughan and Barbara Garrett \"(the widow).\" Oldton was condemned to be hanged and was pardoned; the Governor and Council had stayed his execution on 11 April 1692, and he went on to command the county's rangers.",
-    "Barbara Garrett married again, to a man named Broad. Marye calls him Thomas, and the will of a John Broad was made in 1702. In August 1712, as Barbara Garrett Broad, she conveyed land to her grandson Dennis Garrett Cole. The family's line from Dennis runs through Johanna to her son Joseph Cole and his daughter Sarah, who married Anthony Chamness and carried the Garrett blood to Cane Creek and the Moffitts."
+    "Dennis died on 2 September 1691, weeks after being struck on the forehead with a sword. A Provincial Court indictment accused John Oldton, a Baltimore County tailor, of the assault. The text gives the attack as 31 July, yet says Dennis languished from 30 July until his death; the two dates are recorded inconsistently.",
+    "The witnesses included Philip Roper, Nicholas Hale, John Cole, Thomas Stone, Abraham Vaughan and Barbara Garrett. Cole was the husband of Dennis’s daughter Johanna; Barbara was his widow. Oldton was condemned to be hanged, but the Governor and Council ordered a stay on 11 April 1692 and a royal pardon followed. He became captain of the county rangers in 1694/5.",
+    "A 1916 account describes the death as the result of an affray and draws on the same court record.",
+    "Barbara married again to a man named Broad: Marye calls him Thomas, while other records identify a John Broad whose will was made in 1702. In August 1712 Barbara Garrett Broad conveyed land to her grandson Dennis Garrett Cole. The family line runs through Johanna to her son Joseph Cole and his daughter Sarah, who married Anthony Chamness."
    ],
    "ev": "probable",
    "title": "Dennis Garrett of Long Island Point, struck with a sword in 1691",
-   "hook": "Dennis Garrett helped buy the point that became Fell's Point, was struck on the forehead on 31 July 1691, and lingered until 2 September."
+   "hook": "Dennis Garrett helped buy the point that became Fell's Point, was struck on the forehead on 31 July 1691, and lingered until 2 September.",
+   "tags": [
+    "notable"
+   ],
+   "imgs": [
+    {
+     "s": "img/books/mdhm-1921-p116-garrett-oldton.jpg",
+     "cap": "Maryland Historical Magazine, vol. 16 (1921), p. 116, note 18: the indictment for the death of Dennis Garrett and the witnesses, John Cole and Barbara Garrett among them (public domain)"
+    }
+   ],
+   "quotes": [
+    {
+     "t": "The witnesses were: Philip Roper, Nicholas Hale, John Cole (son-in-law of the deceased), Thomas Stone, Abraham Vaughan and Barbara Garrett (the widow).",
+     "c": "William B. Marye, Maryland Historical Magazine 16:2 (June 1921), p. 116, note 18, quoting the Provincial Court record, Liber D. S. No. C, f. 15"
+    },
+    {
+     "t": "Dennis Garrett, an early settler on the site of Baltimore, has many descendants through the Cole, Gorsuch and Ensor families.",
+     "c": "William B. Marye, Maryland Historical Magazine 16:2 (June 1921), p. 116, note 18"
+    },
+    {
+     "t": "got into serious trouble as the result of an affray with Dennis Garrett, a prominent planter, which caused Garrett's death",
+     "c": "\"The Gorsuch and Lovelace Families,\" Virginia Magazine of History and Biography 24 (October 1916), p. 438"
+    }
+   ],
+   "note": "The court text gives both 30 and 31 July for the attack. Sources differ on whether Barbara’s second husband was named Thomas or John Broad."
   },
   {
    "id": "jchamness",
@@ -4285,32 +4355,51 @@
    "branch": "smith",
    "gen": 5,
    "place": "Allen County, Kentucky.",
-   "src": "Kentucky: A History of the State (1885); Find a Grave; Kentucky: A History of the State (1885), Butler County, p. 676; Laws of Kentucky (Acts passed at the session of the General Assembly), 1847-48, ch. 600 sec. 6, p. 410 (archive.org item actspassedatses72kentgoog); Acts of the General Assembly of Kentucky, 1847-48, p. 410; WikiTree Garrison-4365. Acts of Kentucky, Dec. 1847 session, ch. 600, sec. 6, p. 410; WikiTree Garrison-4365 and Garrison-3085.",
+   "src": "Kentucky: A History of the State (1885), Butler County, p. 676; Find a Grave; Acts passed at the session of the General Assembly for the Commonwealth of Kentucky (1847–48), ch. 600, sec. 6, p. 410 and index: https://archive.org/details/actspassedatses72kentgoog; WikiTree Garrison-4365, Garrison-3085 and Cannon-4655 (biography and census transcriptions); Tennessee State Marriages 1780–2002, Garrison–Cannon, Wilson County, 1809.",
    "rel": "5th great-grandfather",
    "body": [
-    "John Milton Garrison was born on 4 October 1788 at Cowans Ford in Mecklenburg County, North Carolina, and came as a boy with his parents to Warren County, Kentucky (WikiTree). On 6 December 1809 he married Martha \"Patsey\" Cannon in Wilson County, Tennessee. The 1810 census counts him in Warren County; the household of five included one enslaved person, per WikiTree's transcription of the index. Their daughter Mary was born on 17 October 1811, and in 1815 Allen County was cut from Warren and Barren, so the Garrisons found themselves in a new county. The returns for 1820, 1830 and 1840 in Allen County show no slaves, and in 1850 he was a 62-year-old farmer with real estate valued at $2,250.",
-    "His marriage ended by statute. Section 6 of chapter 600 of the Acts of the December 1847 session, \"An act to divorce Elizabeth A. King, and others,\" reads: \"That the marriage contract now existing between John M. Garrison, and his wife, Patsey Garrison, be and the same is hereby dissolved, and they are hereby restored to all the rights and privileges of unmarried persons.\" It was approved in February 1848 and stands on page 410. WikiTree adds a reason without a source: that he had fathered children with Sarah Stamps, a neighbor, had them declared legitimate by the legislature, and married her after the divorce (lead). The 1850 census, as WikiTree transcribes it, lists J. M. Garrison, 62, with an S aged 57 and three younger Garrisons. He died in Allen County on 18 September 1860.",
+    "John Milton Garrison was born on 4 October 1788 at Cowans Ford in Mecklenburg County, North Carolina, and came as a boy with his parents to Warren County, Kentucky. On 6 December 1809 he married Martha \"Patsey\" Cannon in Wilson County, Tennessee. Patsey is said to have been born about 1788 in Mecklenburg County. John’s daughter Mary, born 17 October 1811, married Henry Satterfield; whether Patsey was her mother remains a lead because the records examined do not name Mary’s mother. In 1815 Allen County was formed from Warren and Barren counties, placing the family in a newly named county.",
+    "WikiTree transcribes the census index entry for \"John M Garreson\" in Warren County in 1810, and the transcription gives \"Numbers of Slaves 1\" in a household of five. That is one enslaved person in the household of a man of about 21. The transcribed returns for Allen County in 1820, 1830 and 1840 show no slaves: in each the total of all persons equals the total of free white persons (7, 11 and 7). The 1850 census shows him at 62, a farmer, with real estate valued at $2,250. No 1850 or 1860 slave schedule has been checked, so it is not known whether he held anyone after 1810. The 1810 count rests on a WikiTree transcription of an index, not on the schedule page itself.",
+    "The marriage ended in the legislature, by statute. The printed Acts of the 1847-48 session, section 6 on page 410, read: \"That the marriage contract now existing between John M. Garrison, and his wife, Patsey Garrison, be and the same is hereby dissolved, and they are hereby restored to all the rights and privileges of unmarried persons.\" The section gives no reason. The volume's index lists it twice, once under \"Garrison, Patsey, an act to divorce\" and once, apparently by a slip, under \"Harrison, John M.\"",
+    "WikiTree gives a reason from other records, but names no source for it. Its biography says that during the marriage he \"fathered children by Sarah Stamps who lived nearby,\" that he \"had the KY legislature declare those children legitimate,\" and that after the divorce he married Sarah. The 1850 census, as WikiTree transcribes it, lists J. M. Garrison, 62, with an \"S\" aged 57 and three younger Garrisons aged 21, 19 and 6. The legitimation act has not been located in the volumes searched, so that part is a lead. He died in Allen County on 18 September 1860. WikiTree gives Patsey’s death as about 1850 in Allen County; the estimate has not been independently verified.",
     "Mary Garrison married Henry Satterfield and bore twelve children. The 1885 sketch of her son James calls her father \"John M. Garrison, of Allen County, Ky.\" and adds \"(now living at the age of seventy-five years)\"; because John died in 1860, the parenthesis most likely describes Mary, who would have been 73 or 74 in 1885. John's parents may be Samuel and Esther (Alexander) Garrison, who came to Warren County from Mecklenburg, though no cited record names John Milton as their son (lead)."
    ],
    "quotes": [
     {
-     "t": "That the marriage contract now existing between John M. Garrison, and his wife, Patsey Garrison, be and the same is hereby dissolved",
-     "c": "Laws of Kentucky, Dec. 1847 session (published 1848), ch. 600, sec. 6, p. 410"
+     "t": "That the marriage contract now existing between John M. Garrison, and his wife, Patsey Garrison, be and the same is hereby dissolved, and they are hereby restored to all the rights and privileges of unmarried persons.",
+     "c": "Acts of the General Assembly of Kentucky, session of 1847-48, p. 410, sec. 6"
     }
    ],
    "ev": "probable",
    "kv": [
     [
+     "Born",
+     "John M. Garrison, 4 Oct 1788, Cowans Ford, Mecklenburg Co., N.C. (WikiTree)"
+    ],
+    [
+     "Married",
+     "6 Dec 1809, Wilson Co., Tenn., Patsey Cannon"
+    ],
+    [
      "1810 census",
-     "Warren Co., Ky.: one slave in the household (WikiTree transcription)"
+     "Warren Co., Ky.: one enslaved person in the household (WikiTree transcription)"
     ],
     [
      "Marriage dissolved",
-     "By act of the Kentucky General Assembly, 1847-48 session, p. 410, sec. 6"
+     "Kentucky General Assembly, session of 1847–48, p. 410, sec. 6"
+    ],
+    [
+     "Mary Garrison",
+     "Born 17 Oct 1811; attribution to Patsey as mother remains a lead"
+    ],
+    [
+     "Died",
+     "John, 18 Sep 1860, Allen Co., Ky. (WikiTree); Patsey about 1850 (WikiTree)"
     ]
    ],
    "title": "John Milton Garrison, a Mecklenburg boy who ended up in the legislature's Acts",
-   "hook": "Born at Cowans Ford in 1788, married in Wilson County at twenty-one, and divorced by the Kentucky General Assembly at fifty-nine."
+   "hook": "Born at Cowans Ford in 1788, married in Wilson County at twenty-one, and divorced by the Kentucky General Assembly at fifty-nine.",
+   "note": "The divorce is proven by the printed act. The 1810 slave count is a WikiTree transcription (probable). The Sarah Stamps children and their legitimation are a lead: WikiTree states them without a source and the act was not found. No record examined directly names Mary’s mother. Her attribution to Patsey rests on Mary’s birth during the marriage and the Cannon middle name already in the family tree."
   },
   {
    "id": "melvina",
@@ -4426,11 +4515,11 @@
    "gen": 7,
    "rel": "7th great-grandparents",
    "place": "Nottingham Quakers. William was born in 1689; Elizabeth, a daughter of John Cowgill of Duck Creek, Delaware, died before 1721, leaving their daughter Elizabeth an orphan.",
-   "src": "Maryland Quaker Records: Nottingham Monthly Meeting; WikiTree Cowgill-353 and Cowgill-28, citing Middletown MM minutes Gilbert Cope, The Browns of Nottingham (1864), p. 7-8 (children of William Brown 12); The Stout Family of Delaware (1915), pp. 60-70 for John Cowgill's tan-yard",
+   "src": "Maryland Quaker Records: Nottingham Monthly Meeting; WikiTree Cowgill-353 and Cowgill-28, citing Middletown MM minutes Gilbert Cope, The Browns of Nottingham (1864), p. 7-8 (children of William Brown 12); The Stout Family of Delaware (1915), pp. 60-70 for John Cowgill's tan-yard; Quakers in Britain, Quaker calendar guide: https://www.quaker.org.uk/documents/quaker-calendar-lib-guide-2018",
    "body": [
-    "William Brown Jr. was born on the 21st day of the 7th month 1689, the third child of the Nottingham pioneer William Brown and Ann Mercer. In 1715 he married Elizabeth Cowgill, born on the 24th of the 6th month 1694 at Middletown, Bucks County, to John Cowgill and Bridget Croasdale. Her father had come from Yorkshire on the Lamb in 1682 and was a tanner who moved about 1713 or 1714 to the Delaware shore, where on 10 May 1718 he asked for another hundred acres, \"having erected a tan-yard on a branch of Black Bird's Creek.\" The marriage was recorded in Duck Creek Monthly Meeting as that of Elizabeth Cowgill, \"daughter of John Cowgill, of Duck Creek in New Castle,\" and William Brown, \"son of William Brown, of Nottingham.\"",
+    "William Brown Jr. was born on the 21st day of the 7th month 1689, the third child of the Nottingham pioneer William Brown and Ann Mercer. In 1715 he married Elizabeth Cowgill, born on the 24th of the 6th month 1694 at Middletown, Bucks County, to John Cowgill and Bridget Croasdale. Her father had come from Yorkshire in 1682; accounts differ on which ship carried the Settle families. He was a tanner who moved about 1713 or 1714 to the Delaware shore, where on 10 May 1718 he asked for another hundred acres, \"having erected a tan-yard on a branch of Black Bird's Creek.\" The marriage was recorded in Duck Creek Monthly Meeting as that of Elizabeth Cowgill, \"daughter of John Cowgill, of Duck Creek in New Castle,\" and William Brown, \"son of William Brown, of Nottingham.\"",
     "Cope's list gives the couple two children. John was born on the 27th of the 2nd month 1717 and died on the 12th of the 7th month 1723, aged six. Elizabeth was born in the twelfth month of 1718, which in modern dating is early 1719. Her mother died within about three years of that birth, before March 1721/2, when William married Margaret Davis. That marriage produced William (1722) and Jacob (1724), and William Jr. himself died about 1727. His widow married William Kirk on the 6th of the 3rd month 1730. Her stepdaughter Elizabeth was eight or nine when her father died. In 1739 the Nottingham book called her \"dt William & Elizabeth (Cowgill), both dec.\"",
-    "The Cowgill sisters had already made two marriages with the Browns. Elizabeth's sister Ellin, born on the 14th of the 10th month 1700, married William's brother Thomas Brown in 1718/9; Thomas died on 19 February 1746/7, and Ellin lived to 5 March 1772, aged 71. Two immigrant families, one from Yorkshire and one from Northamptonshire and Hampshire, had become a single network of cousins at Nottingham.",
+    "The Cowgill sisters had already made two marriages with the Browns. Elizabeth's sister Ellin, born on the 14th of the 10th month 1700, married William's brother Thomas Brown in 1718/9; Thomas died on 19 February 1746/7, and Ellin lived to 5 January 1772, aged 71. Two immigrant families, one from Yorkshire and one from Northamptonshire and Hampshire, had become a single network of cousins at Nottingham.",
     "The child they left carried the line. Elizabeth Brown married Edward Norton at West Nottingham on 16 October 1739, her uncle Richard Brown having married Edward's sister Mary six years before, and their daughter Margaret married Joseph Chamness at Cane Creek in 1763. The Cowgill and Brown stories on this site, the tan-yard, the Nottingham lots and the Norton certificate, meet in that one orphan."
    ],
    "ev": "probable",
@@ -4736,15 +4825,28 @@
     "The Bible Record of Abijah Moffitt, quoted on WikiTree, says Robert Moffitt was born in Scotland, went to Ireland when young, and there married Margaret Stuart. It names eleven children: James, Charles, William, Adam, Margaret, Mary, Catheren, Robert, Hugh, John and Patrick.",
     "According to the record, John crossed first and went back to Ireland; liking the country, he returned with five brothers to Philadelphia. From there they went to North Carolina, to what became Chatham and Randolph counties. William, Adam and Charles died in North Carolina. Hugh went to Ohio in 1798 or 1799 and died near Chillicothe about 1800. Robert started back for Ireland and was never heard of again, and was supposed lost at sea. Patrick never left Ireland. The record adds that 'William and Hugh married Davis daughters of North Carolina,' which matches William Moffitt's marriage to Mary Davies at Cane Creek in 1763.",
     "Family tradition explains the spelling: the brothers agreed to end the name in 'itt' so that kin could recognize each other wherever it turned up. That part is tradition, not record. North Carolina papers of the 1760s write the name Maffet, Moffit and Moffitt.",
+    "The Carolina end is on record. At Cane Creek Meeting in 1763 William married Mary Davies and, in the family's account, his brother Hugh married her sister Hannah, which shows the brothers had joined the Quaker neighborhood of Charles Davies rather than a Presbyterian one. The counties give a sense of how little the family needed to move. The North Carolina Historical Commission's county-formation volume says Orange was formed in 1752 from Johnston, Bladen and Granville; Chatham in 1770 from Orange; Guilford in 1770 from Rowan and Orange; and Randolph in 1779 from Guilford. A household on one stretch of the upper Deep River could have been written into the Orange court records in 1765, the Chatham records in the 1770s and the Randolph records in 1796, the year William made his will, without anyone leaving home, if the family stayed put.",
     "The Alamance Battleground Book of Remembrance gives William's parents as Robert and Martha Steward Moffitt, without citations. The two accounts agree on Robert and Donegal and differ on whether his wife was Margaret or Martha. Neither names Robert's own parents; the Moffat ancestors that appear on WikiTree for Robert have no sources.",
-    "The 1928 Moffitt Genealogy, compiled by Frank Moffitt for the descendants of Silas Moffitt of Hamilton County, Indiana, tells the crossing differently from the Bible Record: \"William came first, alone, and went back,\" and then \"he and five other brothers afterward came to Philadelphia and remained there for some time.\" It says all of Robert and Margaret's children but Catharine and Patrick crossed. Hanna's The Scotch-Irish (1902), which does not mention this family, says eastern Donegal was settled from Ayrshire and Galloway by the Cunninghams and Stewarts, which fits the bride's surname but names no parish.",
-    "The claim that Robert was 'Robert Bruce Moffitt,' born in 1716 at Moffat Wells in Dumfriesshire, does not hold up. The only printed family history, the 1928 Moffitt Genealogy, says Robert Moffat married Margaret Stuart 'at Moffat Wells, Scotland,' which it describes as 'a mineral spring' near the town of Moffat, so the 'Wells' is a spa, not a birthplace, and it gives the date of the wedding as 'supposed to be about 1750,' an impossible date since William, listed third among their children, was born about 1740. It gives no birth year for Robert and no middle name. WikiTree's profile for Robert (Moffitt-289) gives about 1705, not 1716, and has no 'Bruce.' No record seen carries either detail.",
+    "The 1928 Moffitt Genealogy, compiled by Frank Moffitt for the descendants of Silas Moffitt of Hamilton County, Indiana, tells the crossing differently from the Bible Record: \"William came first, alone, and went back,\" and then \"he and five other brothers afterward came to Philadelphia and remained there for some time.\" It says Robert and Margaret migrated to Donegal after the marriage, and that all of their children but Catharine and Patrick crossed to America. Hanna's The Scotch-Irish (1902), which does not mention this family, says eastern Donegal was settled from Ayrshire and Galloway by the Cunninghams and Stewarts, which fits the bride's surname but names no parish.",
+    "The claim that Robert was 'Robert Bruce Moffitt,' born in 1716 at Moffat Wells in Dumfriesshire, does not hold up. The only printed family history, the 1928 Moffitt Genealogy, says Robert Moffat married Margaret Stuart 'at Moffat Wells, Scotland,' which it describes as 'a mineral spring' near the town of Moffat, so the 'Wells' is a spa, not a birthplace, and it gives the date of the wedding as 'supposed to be about 1750,' an impossible date since William, listed third among their children, was born about 1740. The 1928 account places the wedding in Scotland; the Bible account places it in Ireland. The book gives no birth year for Robert and no middle name. WikiTree's profile for Robert (Moffitt-289) gives about 1705, not 1716, and has no 'Bruce.' No record seen carries either detail.",
     "WikiTree's Robert Moffitt page also quotes a summary of Donegal Moffitt researchers: Robert and Adam Moffitt held the lease of the townland of Doagh Crabbin in Clondavaddog parish in 1743, when Gustavus Hamilton's estate was sold to Nathaniel Clements, and Robert married a Margaret Stewart. The leases were not seen, and nothing ties that Robert to William of Randolph County except the family story. The profile gives Robert's father as an Alexander Moffat born in 1670, from an unsourced online tree, and no record supports that."
    ],
    "ev": "lead",
-   "tags": [],
-   "src": "WikiTree Moffitt-289 (quoting the Bible Record of Abijah Moffitt) and Moffitt-65; Moffitt Genealogy (1928), pp. 1-3; Hanna, The Scotch-Irish (1902); Moffitt Genealogy (1928), 'Ancestry' (archive.org moffittgenealogy00moff)",
-   "note": "A descendant's record, not a contemporary one. WikiTree gives Margaret's death as 1770 in Lancaster Co., Pa., which does not fit a family that stayed in Donegal; treat as unreliable. The claim that she was 'a near relative of King James II' is tradition only. Conflicts between the accounts: the Bible Record says John crossed first and names the wife Margaret Stuart; the 1928 Moffitt Genealogy says William crossed first; the Alamance Battleground book names the wife Martha Steward. 'Robert Bruce Moffitt, b. 1716' appears in no record or printed family history seen and has no support. Marked lead for those reasons."
+   "tags": [
+    "quaker"
+   ],
+   "src": "Bible Record of Abijah Moffitt, quoted on WikiTree Moffitt-289 and Moffitt-65; Frank Moffitt, Moffitt Genealogy: Silas Moffitt and Hannah Wilkinson Moffitt (1928), pp. 1–3: https://archive.org/details/moffittgenealogy00moff; J. A. Hanna, The Scotch-Irish (1902): https://archive.org/details/scotchirishorsco01hann_0; D. L. Corbitt, The Formation of the North Carolina Counties 1663–1943: https://archive.org/details/formationofnorth00corb.",
+   "note": "A descendant's record, not a contemporary one. WikiTree gives Margaret's death as 1770 in Lancaster Co., Pa., which does not fit a family that stayed in Donegal; treat as unreliable. The claim that she was 'a near relative of King James II' is tradition only. Conflicts between the accounts: the Bible Record says John crossed first and names the wife Margaret Stuart; the 1928 Moffitt Genealogy says William crossed first; the Alamance Battleground book names the wife Martha Steward. 'Robert Bruce Moffitt, b. 1716' appears in no record or printed family history seen and has no support. Marked lead for those reasons. The two family accounts disagree on who crossed first (John in the Bible Record, William in the 1928 book) and on whether Robert's wife was Margaret or, in the Alamance Battleground book, Martha. No Donegal parish record has been seen.",
+   "quotes": [
+    {
+     "t": "According to tradition, William came first, alone, and went back. Being pleased with the country, he and five other brothers afterward came to Philadelphia and remained there for some time. Later they went to Chatham or Randolph County, N. C.",
+     "c": "Moffitt Genealogy (1928), p. 2-3"
+    },
+    {
+     "t": "Randolph was formed in 1779 from Guilford.",
+     "c": "Corbitt, Formation of the North Carolina Counties"
+    }
+   ]
   },
   {
    "id": "wt-richard-margery-browne",
@@ -4851,18 +4953,18 @@
      "Born 24 Jun 1694, Middletown Twp., Bucks Co.; d. c.1721"
     ]
    ],
-   "title": "Aboard the Lamb, 1682",
-   "hook": "John Cowgill crossed as a servant in a shipload of Yorkshire Quakers; the family of the girl he later married was on the same ship.",
+   "title": "The Settle families’ 1682 crossing",
+   "hook": "John Cowgill came from Yorkshire as a servant; the family of the girl he later married was named on the same Quaker certificate.",
    "body": [
-    "In 1682 a group of Quaker families from the Settle Meeting in Yorkshire, carrying what Friends call the Settle Certificate, sailed for William Penn's new province on the Lamb and reached Pennsylvania in October. The certificate lists 'Ellen Cowgill widow & her children'. Her son John, probably about seventeen, came as a servant to Cuthbert Hayhurst.",
+    "In 1682 a group of Quaker families from the Settle Meeting in Yorkshire carried what Friends call the Settle Certificate to William Penn's new province. Later accounts name either the Lamb or the Welcome as their ship. The certificate lists 'Ellen Cowgill widow & her children'. Her son John, probably about seventeen, came as a servant to Cuthbert Hayhurst.",
     "The Croasdale family was on the same certificate: Thomas and Agnes Croasdale and six children, who took up 500 acres on Neshaminy Creek in Bucks County. On 19 October 1693 John married their daughter Bridget, whose birth in August 1671 is in the Settle Meeting register.",
-    "Bridget died on 26 April 1701 and left four children, among them Elizabeth, born 24 June 1694, who would marry William Brown Jr. in 1715. John married Rachel (Baker) Bunting, a widow, in 1703 or 1704. About 1713 or 1714 he moved to New Castle County, Delaware, where he asked for land on Blackbird Creek in 1718 because he had built a tan-yard there. He died in 1731."
+    "Bridget died on 26 April 1701 and left four children, among them Elizabeth, born 24 August 1694, who would marry William Brown Jr. in 1715. John married Rachel (Baker) Bunting, a widow, in 1703 or 1704. About 1713 or 1714 he moved to New Castle County, Delaware, where he asked for land on Blackbird Creek in 1718 because he had built a tan-yard there. He died in 1731."
    ],
    "ev": "probable",
    "tags": [
     "quaker"
    ],
-   "src": "WikiTree Cowgill-28, Cowgill-353 and Croasdale-11, citing Middletown MM minutes and McCracken, The Welcome Claimants (1985)",
+   "src": "WikiTree Cowgill-28, Cowgill-353 and Croasdale-11, citing Middletown MM minutes and McCracken, The Welcome Claimants (1985); Quakers in Britain, Quaker calendar guide: https://www.quaker.org.uk/documents/quaker-calendar-lib-guide-2018",
    "note": "Elizabeth's birth is in the Middletown minutes naming both parents. The servant detail comes from McCracken as quoted on WikiTree. Our older note says 'of Duck Creek'; WikiTree's land records name the Appoquinimink and Blackbird Creek tracts. Evidence: probable (WikiTree and McCracken cite the minutes; no original seen)."
   },
   {
@@ -4872,7 +4974,7 @@
    "branch": "moffitt",
    "gen": 9,
    "rel": "9th great-grandmother",
-   "place": "A widow when she sailed on the Lamb in 1682; the certificate reads 'Ellen Cowgill widow & her children', and her children Edmund, Jennet, John and Jane came with her. She settled at Middletown, Bucks County, Pennsylvania, and is buried in the Middletown cemetery. Her husband's name is not documented: tradition says Ralph Cowgill, but the Cowgill family association thinks Edmund Cowgill, baptized 1634 at Thornton in Craven. The maiden name Stackhouse of Giggleswick is traditional and disputed.",
+   "place": "A widow in the 1682 Settle certificate, which reads 'Ellen Cowgill widow & her children'; later genealogical research identifies children Edmund, Jennet, John and Jane. Accounts differ on the ship that carried the party. She settled at Middletown, Bucks County, Pennsylvania, and is buried in the Middletown cemetery. Her husband's name is not documented: tradition says Ralph Cowgill, but the Cowgill family association thinks Edmund Cowgill, baptized 1634 at Thornton in Craven. The maiden name Stackhouse of Giggleswick is traditional and disputed.",
    "kv": [
     [
      "Born",
@@ -4887,18 +4989,32 @@
      "John Cowgill (c.1665-1731)"
     ]
    ],
-   "src": "WikiTree Stackhouse-56 and Cowgill-16, citing the 1682 Settle Certificate and Cowgill Cousins research; WikiTree Cowgill-16 and Stackhouse-56; Stackhouse-58 (https://www.wikitree.com/wiki/Stackhouse-58) Pennsylvania Magazine of History and Biography 9 (1885), pp. 229-30; Potts, Our Family Ancestors (1895), pp. 25-27; The Stout Family of Delaware (1915), pp. 60-62",
-   "note": "Evidence: probable (mother only). Do not state a father.",
+   "src": "WikiTree Stackhouse-56, Stackhouse-58 and Cowgill-16; Pennsylvania Magazine of History and Biography 9 (1885), pp. 229–30: https://archive.org/details/pennsylvaniamaga09histuoft; Potts, Our Family Ancestors (1895), pp. 25–27; The Stout Family of Delaware (1915), pp. 60–62; The Friend (Philadelphia), 24 Dec. 1853, “Cuthbert Hayhurst”; Passengers and Ships Prior to 1684 (1970); A Quaker Saga (1967), ship list.",
+   "note": "Ellen’s identity as mother is probable; the children’s father remains unconfirmed. Ralph as Ellen's son and the Lamb as the ship are both probable, not proven; John's servitude to Hayhurst rests on the 1970 study.",
    "ev": "probable",
-   "tags": [],
+   "tags": [
+    "quaker"
+   ],
    "body": [
-    "On 7 June 1682 Settle Monthly Meeting, in the Yorkshire dales, issued a certificate for a party of Friends bound for Pennsylvania. It lists Cuthbert Hayhurst \"his wife & family,\" Thomas Wrigglesworth and Alice, Thomas Walmsley and Elizabeth, Thomas Croasdale \"Agness his wife & six children,\" Thomas Stackhouse and his wife, Nicholas Waln \"his wife & three children,\" William Hayhurst, and \"Ellen Cowgill widow & her children.\" No child is named. Ellen was born near Giggleswick about 1639, so she was about forty-three. Her children Edmund, Jennet, John and Jane sailed with her; her son Ralph came on a different ship.",
+    "On 7 June 1682 Settle Monthly Meeting, in the Yorkshire dales, issued a certificate for a party of Friends bound for Pennsylvania. It lists Cuthbert Hayhurst \"his wife & family,\" Thomas Wrigglesworth and Alice, Thomas Walmsley and Elizabeth, Thomas Croasdale \"Agness his wife & six children,\" Thomas Stackhouse and his wife, Nicholas Waln \"his wife & three children,\" William Hayhurst, and \"Ellen Cowgill widow & her children.\" No child is named. Ellen was born near Giggleswick about 1639, so she was about forty-three. Later genealogical research identifies her children as Edmund, Jennet, John, Jane and probably Ralph; the certificate does not name them.",
     "Her husband's name is not documented. Many trees name Ralph Cowgill, said to have been hanged in 1682 as a Quaker, but that has no documentation, and the Cowgill family association thinks Edmund Cowgill, baptized in 1634 at Thornton in Craven, more likely. Her maiden name is also disputed: some books give Stackhurst, and several Stackhouse histories say she was not a Stackhouse, so a Thomas Stackhouse of Giggleswick and Anna Evans are not added as her parents.",
-    "Ralph and John arrived as servants. John, about seventeen, came to Cuthbert Hayhurst, the Yorkshire minister who had been jailed in 1660 for refusing the oath and who died in March 1683, only months after landing in Bucks County. Ralph arrived on the Friend's Adventure on 28 September 1682 as one of Randolph Blackshaw's servants, \"each to serve 4 years, and to have 50 acres of land apiece.\" Which ship the Settle families took is itself told two ways: a 1895 family history says the Welcome, and a later study says the Lamb of Liverpool, which a Watson family history gives as arriving on 22 October 1682.",
-    "Ellen settled at Middletown, Bucks County, and is buried in the Middletown Friends cemetery; she died in 1705. John served his time, married Bridget Croasdale at Neshaminy in 1693, and had four children by her before her death in 1701, among them Elizabeth, born in 1694, who married William Brown Jr. Jennet married Bernard Lane at Burlington on 2 February 1688. Elizabeth's daughter Elizabeth Brown married Edward Norton, and the line came down through the Nortons and Chamnesses to the Moffitts."
+    "John, probably about seventeen, came as a servant to Cuthbert Hayhurst. Hayhurst, born at Easington in Yorkshire about 1633, had been among the Friends imprisoned in the West Riding in the 11th month of 1660 for refusing the oath of allegiance. In 1668 he held a meeting at the house of Richard Betteris in Oxford and was arrested while speaking and held for a month by the vice-chancellor. His neighbor Nicholas Waln wrote that \"he went through many great exercises and imprisonments.\" He died in the first month of 1683, only months after landing in Bucks County.",
+    "Ralph Cowgill came by a different ship, landing about 28 September 1682. Under Randolph Blackshaw of Hallingee, Cheshire, a list of Bucks County residents prints: \"These servants below came in the ship the 'Friend's Adventure.' The Mr., Thomas Wall. Arrived in this river the 28th 7th M., 1682. Servants to Randulph Blackshaw, William Beasy, Ralph Nuttall, and Ralph Cowgill, each to serve 4 years, and to have 50 acres of land apiece.\" Passengers and Ships Prior to 1684 (1970) lists both John and Ralph as apparently Ellen's children: John, \"servant to Cuthbert Hayhurst\" and a probable passenger on the Lamb of Liverpool, and Ralph, who came on the Friend's Adventure.",
+    "Which ship carried the Settle families has been told two ways. Potts's Our Family Ancestors (1895) and the 1915 Stout family history say they sailed in Penn's own Welcome, and Potts adds that smallpox killed thirty on that ship. The later study says at least four of the seven Settle families sailed on the Lamb of Liverpool, and a Watson family history lists the Lamb, \"John Tench, master, from Liverpool,\" as arriving on 22 October 1682. The party's own certificate does not name a ship.",
+    "Ellen settled at Middletown, Bucks County, and is buried in the Middletown Friends cemetery; she died in 1705. John served his time, married Bridget Croasdale at Neshaminy in 1693, and had four children by her before her death in 1701, among them Elizabeth, born in 1694, who married William Brown Jr. John married Rachel Bunting in 1703/4. Jennet married Bernard Lane at Burlington on 2 February 1688. Elizabeth's daughter Elizabeth Brown married Edward Norton, and the line came down through the Nortons and Chamnesses to the Moffitts."
    ],
    "title": "Ellen Cowgill, widow of Giggleswick, and the sons who came as servants",
-   "hook": "The 1682 Settle certificate calls her \"Ellen Cowgill widow & her children\"; two of her sons landed in Pennsylvania in service."
+   "hook": "The 1682 Settle certificate calls her \"Ellen Cowgill widow & her children\"; two of her sons landed in Pennsylvania in service.",
+   "quotes": [
+    {
+     "t": "Ellen Cowgill widow & her children",
+     "c": "Settle Monthly Meeting certificate, 7th of the 4th month 1682, in Potts, Our Family Ancestors (1895), p. 26"
+    },
+    {
+     "t": "Servants to Randulph Blackshaw, William Beasy, Ralph Nuttall, and Ralph Cowgill, each to serve 4 years, and to have 50 acres of land apiece.",
+     "c": "Pennsylvania Magazine of History and Biography 9 (1885), 'Residents of Bucks County, 1677-1687,' p. 229"
+    }
+   ]
   },
   {
    "id": "wt-thomas-agnes-croasdale",
@@ -4907,7 +5023,7 @@
    "branch": "moffitt",
    "gen": 9,
    "rel": "9th great-grandparents",
-   "place": "Quakers of the Settle Meeting in Yorkshire, married on 1 May 1664 (recorded by Lancaster Monthly Meeting). They sailed on the Lamb in July 1682 with six children and took up 500 acres on Neshaminy Creek, Bucks County, Pennsylvania, as members of Middletown Meeting. Thomas died within two years of arriving (the profile gives 1682 and 1684); Agnes administered his estate and died on 20 October 1686.",
+   "place": "Quakers of the Settle Meeting in Yorkshire, married on 1 May 1664 (recorded by Lancaster Monthly Meeting). Their 1682 Settle certificate names six children; accounts differ on the ship that carried the party. In Pennsylvania they took up 500 acres on Neshaminy Creek, Bucks County, Pennsylvania, as members of Middletown Meeting. Thomas died within two years of arriving (the profile gives 1682 and 1684); Agnes administered his estate and died on 20 October 1686.",
    "kv": [
     [
      "Married",
@@ -4924,20 +5040,45 @@
     [
      "Daughter",
      "Bridget, born 30 Aug 1671, m. John Cowgill 1693"
+    ],
+    [
+     "1 May 1664",
+     "Marriage, Lancaster Monthly Meeting"
+    ],
+    [
+     "2 Nov 1684",
+     "Thomas dies; estate £47 9s, land 'not prized'"
+    ],
+    [
+     "20 Oct 1686",
+     "Agnes dies; estate £106 5s including land at £50"
     ]
    ],
-   "src": "WikiTree Croasdale-9, Hawthornewaite-1 and Croasdale-11, citing Quaker registers and Potts, Our Family Ancestors (1895); WikiTree Croasdale-17 and Hawthornthwaite-8 Potts, Our Family Ancestors (1895), pp. 25-29; Besse, Sufferings of the People Called Quakers, vol. 1 (Lancashire, p. 308)",
-   "note": "Evidence: probable (WikiTree and the compiled Potts family book cite registers naming both parents; no register page seen).",
+   "src": "WikiTree Croasdale-9, Croasdale-11, Croasdale-17, Hawthornewaite-1 and Hawthornthwaite-8; Charles W. Potts, Our Family Ancestors (1895), pp. 25–29, quoting the Settle register and the inventories: https://archive.org/details/ourfamilyancesto1895pott; Joseph Besse, Sufferings of the People Called Quakers, vol. 1 (Lancashire), p. 308.",
+   "note": "Evidence: probable (WikiTree and the compiled Potts family book cite registers naming both parents; no register page seen). Whether the party sailed on the Lamb or the Welcome is told under 'Two sons in service' and 'The Settle families’ 1682 crossing'.",
    "ev": "probable",
-   "tags": [],
+   "tags": [
+    "quaker"
+   ],
    "body": [
-    "Thomas Croasdale of New Hay in Yorkshire married Agnes Hawthornthwaite of Wyresdale on 1 May 1664, in the Quaker register of Lancaster Monthly Meeting. The registers' dates make her nearly eleven years his senior: Agnes was born on 13 July 1633, and Thomas on 20 May 1644. Their first child, William, was born on 7 February 1664/5. By deeds of lease and release of 21 and 22 April 1682 Thomas bought a thousand acres of Penn's province, and on 7 June Settle Monthly Meeting issued a certificate for \"Thomas Croasdale, Agness his wife & six children.\" They sailed on the Lamb of Liverpool in July 1682.",
-    "In Pennsylvania 500 acres of the purchase were laid out on Neshaminy Creek near the present Langhorne, in Bucks County, where the Croasdales belonged to Middletown Meeting. Thomas died on 2 November 1684, and James Dillworth and Thomas Constable appraised his goods on 8 December: apparel, 3 pounds; bedding, 7 pounds; pewter and brass, 3 pounds 4 shillings; hogs, 5 pounds; \"2 Mares\" at 8 pounds 10 shillings; \"3 Cows 1 calf 1 yearling\" at 12 pounds; total \"47 09 00,\" with \"500 Ackers of Land\" \"not prized.\" A profile that gives his death as 1682 conflicts with the inventory.",
-    "Agnes outlived him by two years. The inventory of \"Agnes Crossdale of Neshaminah Widdowe,\" appraised by Nicholas Waln and Robert Heaton, lists her brass and pewter, \"one Bed wth ye bedding belongin\" at four pounds, \"3 Cows 2 Bullocks 1 Heifer\" at twenty-four, \"2 Mares 1 Colt\" at ten and \"500 Acres of Land\" at fifty pounds, for a total of 106 pounds 5 shillings. She died on 20 October 1686, and her sons William and John were given administration on 1 November. The printed inventory carries the date of the 10th of the 9th month 1685, registered a year later, so one of the printed years is off.",
-    "The six children are in the Settle register: William, John, Elizabeth (who died in 1683), Mary, Bridget (born 30 August 1671) and Alice. Bridget married John Cowgill in 1693, Alice married David Potts and Mary married William Smith. WikiTree makes Thomas the son of William Croasdale of Newhey (died 1666, buried at Settle Meeting) and Elizabeth Hayhurst, and Agnes the daughter of William Hawthornthwaite, who died in 1633 when she was a baby; the Croasdale link is called highly probable. Besse's Sufferings lists a William Hathornthwaite among forty-three Friends arrested at Swarthmoor in January 1660 for refusing the oath, though nothing ties him to Agnes. Bridget and John Cowgill's daughter Elizabeth married William Brown Jr., and from there the line runs to Cane Creek and the Moffitts."
+    "Thomas Croasdale of New Hay in Yorkshire married Agnes Hawthornthwaite of Wyresdale on 1 May 1664, in the Quaker register of Lancaster Monthly Meeting. The registers' dates make her nearly eleven years his senior: Agnes was born on 13 July 1633, and Thomas on 20 May 1644. Their first child, William, was born on 7 February 1664/5. By deeds of lease and release of 21 and 22 April 1682 Thomas bought a thousand acres of Penn's province, and on 7 June Settle Monthly Meeting issued a certificate for \"Thomas Croasdale, Agness his wife & six children.\" Later accounts differ on whether the party sailed on the Lamb or the Welcome.",
+    "Thomas died on 2 November 1684. His widow was given administration, and James Dillworth and Thomas Constable appraised the goods on 8 December: \"his Apparrell 03 00 00; in bedding 07 00 00; in pewter & brass 03 04 00; in bages & Cutions 01 00 00; in Wood vessels 00 15 00; in Chests & boxes 01 00 00; in Linnen 02 00 00; in Iron Ware 04 00 00; in hoggs 05 00 00\" (pounds, shillings, pence), \"2 Mares 08 10 00\" and \"3 Cows 1 calf 1 yearling 12 00 00.\" The total was \"47 09 00\" and the \"500 Ackers of Land\" were \"not prized.\" A profile that gives his death as 1682 conflicts with the inventory.",
+    "Agnes outlived him by about two years. The inventory of \"Agnes Crossdale of Neshaminah Widdowe,\" taken by Nicholas Waln and Robert Heaton, starts \"Imprimis all the Brass,\" then \"Item all the Pewter,\" \"the wood vessel,\" \"the Potts,\" \"one Bed wth ye bedding belongin\" at four pounds, \"one Chest ten Shillings,\" \"one Saddle,\" \"Hoggs\" at three pounds, \"3 Cows 2 Bullocks 1 Heifer\" at twenty-four, \"2 Mares 1 Colt\" at ten, and \"500 Acres of Land\" at fifty pounds, ending with \"one Blankit Some nails all the husbandrie Tooles & hustlement about the House.\" It totals 106 pounds 5 shillings. She died on 20 October 1686 and her sons William and John were given administration on 1 November 1686. Waln signed with his mark. The printed inventory carries the date of the 10th of the 9th month 1685, registered a year later, so one of the printed years is off.",
+    "The six children are in the Settle register: William, John, Elizabeth (who died in 1683), Mary, Bridget (born 30 August 1671) and Alice. Bridget married John Cowgill in 1693, Alice married David Potts and Mary married William Smith. WikiTree makes Thomas the son of William Croasdale of Newhey (died 1666, buried at Settle Meeting) and Elizabeth Hayhurst, and Agnes the daughter of William Hawthornthwaite, who died in 1633 when she was a baby; the Croasdale link is called highly probable. Besse's Sufferings lists a William Hathornthwaite among forty-three Friends arrested at Swarthmoor in January 1660 for refusing the oath, though nothing ties him to Agnes. Bridget and John Cowgill's daughter Elizabeth married William Brown Jr., and from there the line runs to Cane Creek and the Moffitts.",
+    "Their son William Croasdale, who stayed in Bucks County, made his will on 30 March 1715, naming his sisters Mary Smith with eight children and Alice Potts with ten."
    ],
    "title": "Three cows, two mares and 500 acres: Thomas and Agnes Croasdale on the Neshaminy",
-   "hook": "Thomas Croasdale died on 2 November 1684, about two years after landing; his widow's inventory lists \"3 Cows 2 Bullocks 1 Heifer\" and 500 acres."
+   "hook": "Thomas Croasdale died on 2 November 1684, about two years after landing; his widow's inventory lists \"3 Cows 2 Bullocks 1 Heifer\" and 500 acres.",
+   "quotes": [
+    {
+     "t": "Thomas Croasdale, Agness his wife & six children",
+     "c": "Settle Monthly Meeting certificate, 7th of the 4th month 1682, in Potts, Our Family Ancestors (1895), p. 26"
+    },
+    {
+     "t": "Item one Blankit Some nails all the husbandrie Tooles & hustlement about the House",
+     "c": "Inventory of Agnes Crossdale of Neshaminah, widow, in Potts, Our Family Ancestors, p. 28"
+    }
+   ]
   },
   {
    "id": "wt-dorothy-butler-gaunt",
@@ -4988,8 +5129,8 @@
      "29 Jun 1610, St Peter at Gowts, Lincoln (inferred)"
     ],
     [
-     "Died",
-     "10 May 1678, Sandwich, Plymouth Colony"
+     "Reported death",
+     "10 May 1678, Sandwich, Plymouth Colony; date requires independent confirmation"
     ],
     [
      "Lydia",
@@ -4998,22 +5139,55 @@
     [
      "Authority",
      "McLean, 'Peter Gaunt of Sandwich, Mass.', NGSQ 62:4 (1974); Anderson, Great Migration Directory p. 128"
+    ],
+    [
+     "6 Mar 1654/5",
+     "Questioned for not attending public worship"
+    ],
+    [
+     "2 Mar 1657/8",
+     "Fined 20 shillings for appearing before the court with his hat on"
+    ],
+    [
+     "13 Jun 1660",
+     "Marshal Barlow's seizure of seven cows and heifers, two steers and 7.5 bushels of peas for a 24-pound fine is entered in the record"
+    ],
+    [
+     "Oct 1660",
+     "Fined 10 shillings for attending a Quaker meeting"
+    ],
+    [
+     "May 1661",
+     "Listed as having entertained two foreign Quakers"
     ]
    ],
-   "src": "WikiTree Gaunt-5 and Gaunt-14, citing McLean (NGSQ 1974), the Great Migration Directory and brother Israel's will (1698); WikiTree Gaunt-202 and Bate-1462 Records of the Colony of New Plymouth, ed. Shurtleff, vol. 3 (1855), pp. 70-220; Wikipedia, 'Sandwich, Massachusetts' (Sandwich Friends Meeting, the oldest in North America).",
-   "note": "Evidence: probable (Plymouth court books name Peter Gaunt at Sandwich, 1654-61). The Lincoln baptism is an inference. Peter's parents (a Thomas Gaunt who left a 1621 will) are a lead only. Trees date his death to 10 May 1678, the same day as his son Hananiah's wedding at the Sandwich meeting, so one of the two dates is probably wrong.",
+   "src": "Records of the Colony of New Plymouth, ed. Nathaniel B. Shurtleff, vol. 3 (1855), court orders, pp. 70, 125, 190, 199, 204, 209, 213 and 220: https://archive.org/details/recordsofcolonyo0304newp; Joseph Besse, A Collection of the Sufferings of the People Called Quakers, vol. 2 (1753), New England section; WikiTree Gaunt-5, Gaunt-14, Gaunt-202 and Bate-1462, citing McLean, NGSQ 62:4 (1974), the Great Migration Directory and Israel’s 1698 will; Wikipedia, Sandwich, Massachusetts.",
+   "note": "The Plymouth court books identify Peter Gaunt at Sandwich, 1654–61. The Lincoln baptism is an inference, and the proposed parents Thomas Gaunt and Susan Bate remain a lead. Family trees give Peter’s death as 10 May 1678, also the date of Hananiah’s wedding; both require confirmation. The 1661 Lydia Gaunt entry is unplaced and is not evidence about Peter’s wife.",
    "ev": "probable",
-   "tags": [],
+   "tags": [
+    "quaker"
+   ],
    "gen": 11,
    "body": [
     "Peter Gaunt was baptized at St Peter at Gowts, Lincoln, on 29 June 1610 (an inference), the son of Thomas Gaunt and Susan Bate, who married at Rotherham on 28 August 1609. Susan's will calls him her only son. He settled at Sandwich on Cape Cod, in Plymouth Colony, with his wife Lydia (surname unknown).",
-    "The colony's court books follow him from 1655 to 1661. At the court of 6 March 1654/5 he was called in \"to answare for neglecting to frequent the publick worship of God,\" and \"Peter Gaunt affirmed hee knew noc publicke vizable worship now in the world.\" On 2 March 1657/8 he and three others were summoned for \"a tumultuose carriage att a meeting of the Quakers att Sandwich\" and fined twenty shillings for coming before the court \"with theire hatts on.\" In June 1660 the marshal took from him, for a fine of 24 pounds, seven cows and heifers, two steers and seven and a half bushels of peas; in 1661 he was listed among those who \"entertained two forraigne Quakers\" (Plymouth Colony Records, vol. 3, p. 213).",
-    "Peter's death is dated 10 May 1678, the same day as his son Hananiah's wedding at the Sandwich meeting, so one of the two dates is probably off. Lydia died in April 1692. Their sons included Israel and Hananiah, who went to New Jersey (\"Hananiah Gaunt: from a Quaker wedding at Sandwich\")."
+    "The colony’s court books follow Peter Gaunt for six years. At the court of 6 March 1654/5 he was called in \"to answare for neglecting to frequent the publick worship of God.\" Asked to speak to the charge, the record says, \"Peter Gaunt affirmed hee knew noc publicke vizable worship now in the world, whereunto the said Ralph Allen assented, but Gorg Allen dissented; the case was left to further consideration.\" Within three years the same court was fining him for Quaker meetings.",
+    "On 2 March 1657/8 Gaunt, Daniel Wing, Ralph Allen Jr. and William Allin were summoned \"for a tumultuose carriage att a meeting of the Quakers att Sandwich.\" The court cleared them of that charge, \"notwithstanding, for theire vnreuerent carrying themselues before the Court, coming in before them with theire hatts on,\" it fined each of them twenty shillings. Thomas Butler, whose daughter Dorothy would marry Peter's son Hananiah in 1678, was summoned for the same disturbance and was \"admonished and cleared.\"",
+    "The fines were collected in cattle. In June 1660 a note was entered in the court's record that Marshal George Barlow \"tooke from Goodman Gaunt, for his fine of 24li, these particulares: seauen cowes & heifers, two steers, seauen bushells and an halfe of pease; and after, when one of the cowes died, hee tooke another liue one in stead therof, because Barlow had not the hide of the dead cow deliuered to him.\" Thomas Burgis Jr. owned in open court that he had made the report, and was himself fined thirty shillings for refusing to help the marshal. Joseph Besse's Sufferings of the People Called Quakers, in a list of goods taken from Plymouth Colony Friends about 1658, prints \"Peter Gaunt 43 l. 14 s. 6 d.\"",
+    "The summonses kept coming. In October 1660 a long list of people \"fined for being att Quakers meetings,\" ten shillings each, includes \"Peter Gaunt, Dorithy Butler, Obadiah Butler.\" In February 1660/1 the Sandwich constable was ordered to bring Gaunt and nine others to Plymouth \"to answare for theire tumultuouse carriages against the marshall and cunstable of Sandwich in the execution of theire offices in the cecuring of two Strang Quakers.\" A ten-shilling fine on Gaunt \"was leuied vpon a mistake\" and was given back. In 1661 a list given into the court of those who had sheltered visiting Friends reads: \"Wiliam Allin entertained Christopher Holder. Wiliam Newland entertained one forraigne Quaker. Peter Gaunt entertained two forraigne Quakers.\"",
+    "Family trees date Peter’s death at Sandwich to 10 May 1678, the day of his son Hananiah’s marriage to Dorothy Butler, but the date needs independent confirmation. Lydia died in April 1692. Their sons included Israel and Hananiah, who went to New Jersey. A 1661 court case involving Thomas Burgis Jr. names a Lydia Gaunt; the record does not identify her as Peter’s wife, so it does not establish an event in this family. (Lead)"
    ],
    "quotes": [
     {
      "t": "Peter Gaunt entertained two forraigne Quakers.",
      "c": "Plymouth Colony Records, vol. 3, court of May 1661, p. 213"
+    },
+    {
+     "t": "Peter Gaunt affirmed hee knew noc publicke vizable worship now in the world.",
+     "c": "Plymouth Colony Records, vol. 3, court of 6 March 1654/5, p. 70"
+    },
+    {
+     "t": "Gorg Barlow tooke from Goodman Gaunt, for his fine of 24li, these particulares: seauen cowes & heifers, two steers, seauen bushells and an halfe of pease.",
+     "c": "Plymouth Colony Records, vol. 3, court of 13 June 1660, p. 190"
     }
    ],
    "title": "Peter Gaunt, who knew no visible worship in the world",
@@ -5038,20 +5212,50 @@
     [
      "Authority",
      "Brownson, 'Thomas Butler of Sandwich', NEHGR; Anderson, Great Migration Directory p. 53"
+    ],
+    [
+     "1658-59",
+     "Thomas fined 10s for refusing to help the marshal"
+    ],
+    [
+     "1659",
+     "Thomas fined 50s for refusing to serve as constable"
+    ],
+    [
+     "Jun 1660",
+     "Son Daniel whipped; Thomas and Dorothy fined 40s"
+    ],
+    [
+     "1667",
+     "Granted Tassacausett neck, bought from the Indian Charles alias Pampmumitt for a yoke of oxen"
     ]
    ],
-   "src": "WikiTree Butler-289, citing Sandwich town records and Brownson in the New England Historical and Genealogical Register Records of the Colony of New Plymouth, ed. Shurtleff, vol. 3 (1855), pp. 125, 158, 172, 191, 199, 209.",
-   "note": "Evidence: probable. Dorothy's maiden name is not known; 'Howes' is a guess.",
+   "src": "WikiTree Butler-289, citing Sandwich town records and the New England Historical and Genealogical Register; Records of the Colony of New Plymouth, edited by Nathaniel B. Shurtleff (1855), court orders and land records: https://archive.org/details/recordsofcolonyo0304newp",
+   "note": "Evidence: probable. Dorothy's maiden name is not known; 'Howes' is a guess. The court books name one Thomas Butler of Sandwich with wife Dorothy and son Daniel; a second Thomas Butler lived on Martha's Vineyard and is not this man.",
    "ev": "probable",
-   "tags": [],
+   "tags": [
+    "quaker"
+   ],
    "gen": 11,
    "body": [
     "Thomas Butler was at Sandwich, Plymouth Colony, soon after the town was founded in 1637. In March 1657/8 he was summoned with Peter Gaunt and others over a Quaker meeting and \"admonished and cleared.\" In 1658-9 he was fined ten shillings \"for refusing to assist the marshall, Barlow, in the execution of his office,\" and the court assigned another fine, fifty shillings for refusing to serve as constable, to Barlow himself.",
-    "In June 1660 the court passed two sentences on the family: \"Daniell Butler, for rescuing a Strang Quaker, when apprehended by the marshall, Barlow, and for his breakeing away when taken p'soner, is sentanced to bee publickly whipt, which accordingly was pformed.\" The next reads: \"Thomas Butler, and Dorithy, his wife, for turbulent cariages the same night that theire son Daniell was serched for att theire house, fined forty shillings.\" In October 1660 Dorothy Butler, almost certainly the mother, was fined ten shillings for being at Quaker meetings. In 1667 the court granted Thomas a neck of land called Tassacausett that he had bought from an Indian called Charles, alias Pampmumitt, for a yoke of oxen.",
+    "In June 1660 the court passed two sentences on the family: \"Daniell Butler, for rescuing a Strang Quaker, when apprehended by the marshall, Barlow, and for his breakeing away when taken p'soner, is sentanced to bee publickly whipt, which accordingly was pformed.\" The next reads: \"Thomas Butler, and Dorithy, his wife, for turbulent cariages the same night that theire son Daniell was serched for att theire house, fined forty shillings.\" In October 1660 Dorothy Butler, almost certainly the mother, was fined ten shillings for being at Quaker meetings.",
+    "The court later returned twenty shillings taken from Thomas for his wife and son attending a Quaker meeting. Its October list also names Obadiah Butler among those fined.",
+    "Thomas was also a land-hunter. In 1665 the court sent Richard Bourne and William Bassett \"to view and purchase some lands desired by Edmond Freeman and Thomas Butler lying towards Saconeesett,\" and when the Indians would not part with that parcel it gave them leave to buy other land for him. In 1667 the court granted Butler \"a necke of land called Tassacausett, lying neare to Edmond Freemans land,\" which he had \"bought ... of an Indian called Charles, alias Pampmumitt, for a yoake of oxen,\" provided the Indian returned three pounds to Butler.",
     "Dorothy died on 9 August 1675 and was buried the next day. Thomas died on 12 March 1690. Their daughter Dorothy, born 23 January 1649/50, married Hananiah Gaunt at the Quaker meeting at Sandwich in 1678, and they carried the Quaker family to New Jersey. Thomas's origin and Dorothy's maiden name are not known."
    ],
    "title": "The Butlers of Sandwich and the marshal",
-   "hook": "Thomas and Dorothy Butler were fined in cattle and money for Quaker meetings; their son Daniel was publicly whipped in June 1660."
+   "hook": "Thomas and Dorothy Butler were fined in cattle and money for Quaker meetings; their son Daniel was publicly whipped in June 1660.",
+   "quotes": [
+    {
+     "t": "Daniell Butler, for rescuing a Strang Quaker, when apprehended by the marshall, Barlow, and for his breakeing away when taken p'soner, is sentanced to bee publickly whipt, which accordingly was pformed.",
+     "c": "Plymouth Colony Records, vol. 3, court of June 1660, p. 191"
+    },
+    {
+     "t": "Thomas Butler, and Dorithy, his wife, for turbulent cariages the same night that theire son Daniell was serched for att theire house, fined forty shillings.",
+     "c": "Plymouth Colony Records, vol. 3, p. 191"
+    }
+   ]
   },
   {
    "id": "wt2-thomas-susan-gaunt",
@@ -5158,11 +5362,11 @@
     ]
    ],
    "src": "McCracken, Welcome Claimants Proved, Disproved and Doubtful, vol. 2; Patterson, Quaker Emigrants to America (Swarthmore); Cleaver, Ancestry of Allenn Grinnell Cleaver and Martha Irene Jessup, 1989, pp. 328-9; as cited on WikiTree Croasdale-17 (https://www.wikitree.com/wiki/Croasdale-17)",
-   "title": "Friends of Newhey, and the son who sailed on the Lamb",
+   "title": "Friends of Newhey, and the son who crossed the Atlantic",
    "hook": "Thomas Croasdale's parents are buried side by side at Settle Meeting; the authors call it 'highly probable' that they are the parents of the emigrant.",
    "body": [
     "William Croasdale of Newhey in the Forest of Bowland died on the 29th day of the 11th month 1666 and was buried on the 31st at the Friends' burial ground at Settle Meeting, Newton. His wife Elizabeth died in the 4th month of 1672 and was buried next to him.",
-    "The Welcome Society's reference work and Patterson's list of Quaker emigrants both place a Thomas, son of William and Elizabeth, at Settle. Cleaver, the family genealogist cited on WikiTree, calls it 'highly probable' that William and Elizabeth were the parents of the Thomas who crossed on the Lamb in 1682, while noting that other parentage has been suggested. In every proposed line, Henry Croasdale of Newhey is the common ancestor.",
+    "The Welcome Society's reference work and Patterson's list of Quaker emigrants both place a Thomas, son of William and Elizabeth, at Settle. Cleaver, the family genealogist cited on WikiTree, calls it 'highly probable' that William and Elizabeth were the parents of the Thomas who emigrated to Pennsylvania in 1682, while noting that other parentage has been suggested. In every proposed line, Henry Croasdale of Newhey is the common ancestor.",
     "Elizabeth's surname Hayhurst is taken from the same compiled sources; her WikiTree profile cites no original record."
    ],
    "ev": "probable",
@@ -6455,7 +6659,8 @@
    "imgs": [
     {
      "s": "img/codetalker_letter_1919.jpg",
-     "cap": "142nd Infantry report, January 1919: \"In the first action of the 142nd Infantry at St Etienne…\" describing the Choctaw code"
+     "cap": "142nd Infantry report, January 1919: \"In the first action of the 142nd Infantry at St Etienne…\" describing the Choctaw code",
+     "kind": "record"
     },
     {
      "s": "img/books/soldiers-great-war-1920-okla-tims.jpg",
@@ -6506,7 +6711,7 @@
    ],
    "imgs": [
     {
-     "s": "img/dawes_card_1580_pisachubbe.jpg",
+     "s": "img/docs/dawes_card_1580_pisachubbe_full.jpg",
      "cap": "Their grandchildren on the Dawes rolls seventy years later"
     }
    ],
@@ -6516,7 +6721,7 @@
     "Our tree lists Pisachubbe \"Wilson\" (born 1807), Nancy Te-hol-ba-ta-bi (born 1825), Jackson Gardner (born about 1820) and O-we-na as born in the old Choctaw Nation in Mississippi. The Choctaw were the first nation removed under the Indian Removal Act, walking and riding west in 1831–1833.",
     "These families settled in the Kiamitia, Blue and Towson districts of the new Choctaw Nation, where their grandchildren were enrolled by the Dawes Commission seventy years later.",
     "A 1937 newspaper account of the Pisachubbe family says they came from Mississippi with the first group of exiles in 1832 and settled first at Fort Coffee, near present-day Spiro. At Doaksville, the trading firm of Doak & Tims, Vincent Tims's partnership, held the contract to feed arriving families at 13 cents a ration.",
-    "Two cautions on the Mississippi-born names. None of them has yet been found on the Armstrong Roll or another removal-era list. And the tree's link between Joseph Pisachubbe and Nancy Te-hol-ba-ta-bi as mother and son does not fit her age on the Dawes roll.",
+    "Two cautions on the Mississippi-born names. None of them has yet been found on the Armstrong Roll or another removal-era list. The tree's proposed mother-and-son link between Nancy Te-hol-ba-ta-bi and Joseph Pisachubbe is unproved; her age on the Dawes roll alone does not resolve it.",
     "Dawes Card 1278 names a full-blood Nancy Pisachubbi, 69, whose father was Te-hol-ba-ta-bi, dead, and whose mother, Malindy, was dead and listed under Mississippi. She appears to be the tree's Nancy Te-hol-ba-ta-bi, though the card does not say whose mother she was.",
     "The best-documented part of the removal's first winter is the stretch from the Mississippi to the Red River. About 18,880 Choctaws were counted in Major Francis Armstrong's census of 1831; by the first week of November four thousand were on the road, and between 26 November and 8 December about 2,500 were landed at Arkansas Post in a blizzard. A Choctaw letter of February 1833 shows Doaksville already a place where annuities were issued and 'a small town' of white traders stood below the Kiamichi. These are told under 'With the first group of exiles' and 'Doaksville before the store.'"
    ],
@@ -6970,8 +7175,8 @@
    "src": "Wikipedia, 42nd Indiana Infantry Regiment (https://en.wikipedia.org/wiki/42nd_Indiana_Infantry_Regiment); NPS Stones River people page (https://www.nps.gov/people/guest-joseph.htm); Horrall, History of the Forty-second Indiana (1892), pp. 153–154 (Perryville), 167–168 and 178–179 (Stones River)",
    "imgs": [
     {
-     "s": "img/gibson_courthouse.jpg",
-     "cap": "The Gibson County Courthouse in Princeton, Indiana, the county where Daniel O'Neal's company was raised and where he farmed in 1880 (Wikimedia Commons, public domain)"
+     "s": "img/places/gibson_courthouse_princeton.jpg",
+     "cap": "Gibson County Courthouse in Princeton, Indiana, where Daniel O’Neal’s company was raised and where he farmed in 1880. Photo: Nyttend, Wikimedia Commons, public domain. Source: https://commons.wikimedia.org/wiki/File:Gibson_County_Courthouse_in_Princeton.jpg"
     }
    ]
   },
@@ -7196,10 +7401,6 @@
    "src": "Colonial and State Records of North Carolina, vol. 7, pp. 731-737, 758-759, 850-851; vol. 8, pp. 67-68, 617-618; James Otis, The Boy Spies with the Regulators (1901), ch. XII",
    "imgs": [
     {
-     "s": "img/alamance_plaque.jpg",
-     "cap": "Regulator memorial at Alamance Battleground"
-    },
-    {
      "s": "img/places/alamance_battleground_1.jpg",
      "cap": "Alamance Battleground State Historic Site, North Carolina (photographed 2015). Wikimedia Commons, CC BY-SA 4.0, Hallcp. Source: https://commons.wikimedia.org/wiki/File:Alamance_battleground_1.jpg",
      "kind": "photo"
@@ -7413,14 +7614,14 @@
    "branch": "moffitt",
    "rel": "3rd great-grandfather",
    "title": "Nathan the wheelwright, and a son in blue",
-   "hook": "Nathan's census trail runs from Randolph County to Arkansas to Missouri, and one of his sons served as a Union cavalryman while the Moffitts' own Ozark neighbors were choosing sides.",
+   "hook": "Nathan’s census trail runs from North Carolina through Arkansas to Missouri; a Union cavalryman of the same name may have been his son.",
    "body": [
     "Nathan married Rebecca Williams on 13 October 1835 in Randolph County, North Carolina, and he is in the 1840 census of the county's South Division. A son, Calvin, was born there on 4 December 1841. By 1850 the family was farming in Strawberry Township, Lawrence County, Arkansas.",
-    "Lawrence County in the 1850s was a mix of small farms, a county seat at Smithville, and 494 enslaved people among 8,875 white residents in 1860. By then Nathan was a wheelwright with $1,200 in land. Patrick was born in May 1853 and Henry in 1855. The war brought jayhawkers and bushwhackers to the county, though no major battle. Some residents joined the Federal side, and Nathan's son Calvin V. Moffitt did: the National Park Service database lists him as a private in Company L, 4th Arkansas Cavalry (Union). He was later at Duncan, Oklahoma, where he died on 13 February 1913.",
+    "Lawrence County in the 1850s was a mix of small farms, a county seat at Smithville, and 494 enslaved people among 8,875 white residents in 1860. By then Nathan was a wheelwright with $1,200 in land. Patrick was born in May 1853 and Henry in 1855. The war brought jayhawkers and bushwhackers to the county, though no major battle. A National Park Service index lists a Calvin V. Moffitt as a private in Company L, 4th Arkansas Cavalry (Union), but whether that soldier was Nathan's son remains unconfirmed. Family profiles place Nathan's son later at Duncan, Oklahoma, where he died on 13 February 1913.",
     "By 1870 Nathan and Rebecca were in Dent County, Missouri, farming with no land of their own. Oregon County, where they next lived, was largely pro-Southern and suffered raids; its Alton courthouse burned in October 1863, and the historical marker adds that Lee's surrender \"did not end the Civil War in Oregon County.\" Rebecca died there in 1871. That year Nathan married a widow, Nancy (Rowe) Cole.",
     "Nathan died on 23 December 1873 in Oregon County. That August his son Patrick had married Alice Ann Cole there. A photograph labeled \"Nathan Moffitt,\" shown with children, is kept in the family tree.",
     "Nathan's brothers and sisters spread widely: Sarah and Naomi to Iowa, Robert to Strawberry Township and then Howell County, Missouri, and Hannah, Lydia, Aaron and William C. stayed in Randolph County. Aaron's son Veno Moffitt died in 1864 as a Confederate prisoner at Elmira.",
-    "Calvin's regiment, the 4th Arkansas Cavalry (Union), was organized at Little Rock in December 1863, and Company L, the company the NPS database gives him, was made up in Montgomery County, far from Lawrence County. Whether the National Park Service entry belongs to this Calvin remains a lead. Company L's petition of March 1864 and the regiment's scouts are told under \"The 4th Arkansas Cavalry: Union men from the Ouachita hills.\""
+    "The 4th Arkansas Cavalry (Union) was organized at Little Rock in December 1863, and Company L, where the NPS database lists a Calvin V. Moffitt, was made up in Montgomery County, far from Lawrence County. Whether the National Park Service entry belongs to this Calvin remains a lead. Company L's petition of March 1864 and the regiment's scouts are told under \"The 4th Arkansas Cavalry: Union men from the Ouachita hills.\""
    ],
    "ev": "probable",
    "tags": [],
@@ -7442,7 +7643,7 @@
      "Nancy (Rowe) Cole, m. 1871"
     ]
    ],
-   "note": "Calvin's service is proved by the NPS soldier record; that he is Nathan's son comes from a family-tree profile. Patrick is given as born 11 May 1853 at Sylamore and as dying on 20 December 1905 at Mountain View in one source, and as dying in November 1904 and buried at Sallisaw in another. Who burned the Alton courthouse is disputed: the marker says Union troops, a 2024 survey says Southern partisans.",
+   "note": "The NPS record documents a soldier named Calvin V. Moffitt; identifying that soldier with Nathan's son remains a lead. Patrick is given as born 11 May 1853 at Sylamore and as dying on 20 December 1905 at Mountain View in one source, and as dying in November 1904 and buried at Sallisaw in another. Who burned the Alton courthouse is disputed: the marker says Union troops, a 2024 survey says Southern partisans.",
    "src": "1840 U.S. Census, Randolph Co., N.C.; 1850 and 1860 Censuses, Lawrence Co., Ark.; 1870 Census, Dent Co., Mo.; NC Marriages, Randolph Co. (1835); Missouri Marriages (1871); NPS Civil War Soldiers database; Encyclopedia of Arkansas, 'Lawrence County'; Alton marker (HMDB 179894); WikiTree Moffitt-107, Moffitt-400"
   },
   {
@@ -8255,7 +8456,7 @@
    "src": "Dawes Card 1363; Joel J. Thompson interview #7392; Byington, Dictionary of the Choctaw Language (1915); Vickers, 'Mississippi Choctaw Names and Naming' (Names); Choctaw Nation Iti Fabvssa, Sept 2009; Foreman, 'Early Post Offices of Oklahoma' (Chronicles 6:3, 1928).",
    "imgs": [
     {
-     "s": "img/dawes_card_1363_austin.jpg",
+     "s": "img/docs/dawes_card_1363_austin_full.jpg",
      "cap": "Dawes Card 1363: Legion and Molsey Austin's family"
     }
    ]
@@ -9678,11 +9879,11 @@
      "13 Feb 1913, Duncan, Okla."
     ]
    ],
-   "title": "The brother in blue who ended up in Oklahoma",
-   "hook": "Henry's oldest brother wore Union blue from the Arkansas hills, buried a wife and three children, and died at Duncan, Oklahoma, in 1913.",
+   "title": "Calvin Moffitt, from North Carolina to Oklahoma",
+   "hook": "Nathan and Rebecca’s son moved through Arkansas to Oklahoma; a Union soldier of the same name may have been him.",
    "body": [
     "Calvin was the oldest of Nathan and Rebecca Moffitt's sons known by name, born 4 December 1841 in Randolph County, North Carolina, and eight years old when the family was counted at Strawberry Township, Lawrence County, Arkansas, in 1850. He was still in the same township in 1860, a year after his parents' twin daughters were born, and when Henry was a child of four.",
-    "A soldier index lists \"Calvin V. Moffitt\" (also written Moffett) as a private in Company L of the 4th Arkansas Cavalry, a Union regiment, and a Federal service record from 1864 gives his age as 22. The 1870 census has him married and living at Lebanon Township, Sharp County, Arkansas. His wife was Matilda Dailey (born 23 January 1849 in Polk County, Missouri).",
+    "A soldier index lists \"Calvin V. Moffitt\" (also written Moffett) as a private in Company L of the 4th Arkansas Cavalry, a Union regiment, and a Federal service record from 1864 gives his age as 22. The soldier’s identification as Nathan and Rebecca’s son remains a lead. The 1870 census has him married and living at Lebanon Township, Sharp County, Arkansas. His wife was Matilda Dailey (born 23 January 1849 in Polk County, Missouri).",
     "The family tree names six children. Andrew Webster was born in Sharp County on 17 January 1869 and died 24 December 1899. Sarah A. (born 1874 in Missouri) died 11 September 1883, and John W. (born 1877 in Missouri) died 7 February 1885, both as children. Milburn Green (1880-1956) lived and died in Arkansas. Wilson Cornelius, born at Golden City, Missouri, on 14 January 1889, farmed in Stephens County, Oklahoma, later lived in Johnson County, Arkansas, and died at Norco, California, in 1971.",
     "The last child, Girdy Emalah, is shown as born and dying on 19 July 1891. Matilda died the next day, 20 July 1891, at New Pocahontas, Arkansas. In 1900 Calvin, a widower, was head of a household at Reyno, Randolph County. By 1910 he was at King Township, Stephens County, Oklahoma, near his son Wilson, and he died in nearby Duncan on 13 February 1913. A Civil War pension index entry was filed from Oklahoma."
    ],
@@ -9691,7 +9892,7 @@
    "tags": [
     "military"
    ],
-   "note": "Calvin's service is documented in the NPS soldier record; his link to Nathan rests on WikiTree/family-tree profiles and the shared Strawberry Township household in 1850 and 1860. The dates of Matilda's and the infant's deaths come from a tree import and no certificate has been seen. A 1880 census entry at Janes Creek, Randolph County, attached to him in that profile does not fit his children being born in Missouri through 1889, so it is not used here.",
+   "note": "The NPS soldier record names a Calvin V. Moffitt; whether that soldier was Nathan's son is unconfirmed. The family-tree profiles and the Strawberry Township household establish a separate family lead. The dates of Matilda's and the infant's deaths come from a tree import and no certificate has been seen. A 1880 census entry at Janes Creek, Randolph County, attached to him in that profile does not fit his children being born in Missouri through 1889, so it is not used here.",
    "branch": "moffitt",
    "quotes": []
   },
@@ -9823,12 +10024,12 @@
     ]
    ],
    "title": "Nathan's nephew, who died in the Elmira prison camp",
-   "hook": "While his uncle Nathan's boys wore Union blue in Arkansas, cousin Veno from Randolph County, North Carolina, was captured in Virginia and died at Elmira.",
+   "hook": "From Randolph County, North Carolina, Veno was captured in Virginia and died at Elmira; a soldier with his cousin Calvin’s name served the Union in Arkansas.",
    "body": [
     "Nathan's older brother Aaron C. Moffitt (6 December 1805 to 20 June 1877) stayed in Randolph County, North Carolina. He married Mary \"Polly\" Brady on 7 August 1827 and is in the 1850 and 1870 censuses with her. Their son Veno, called Zeno in the 1860 census, was born about 1828.",
     "Veno married Charlotte L. \"Lottie\" Gardner (1824-1904), and they had Mary Jane (1860-1920) and the Rev. James Alfred Moffitt (1864-1926). At 34 he enlisted in the Confederate army on 8 April 1863 and joined Company F, 24th North Carolina Infantry.",
     "The roll of honor card says that he was captured near Drewry's Bluff, Virginia, on 16 May 1864. He was sent to the prison camp at Elmira, New York, where he died of chronic diarrhea on 11 October 1864. He is buried in Woodlawn National Cemetery at Elmira.",
-    "The Moffitts were split by the war. Veno's cousin Calvin served the Union in the Arkansas cavalry, and Lydia Moffitt Rains lost two sons in the war in North Carolina."
+    "The war touched Moffitt families in several places. A Union cavalryman in Arkansas shared the name of Veno's cousin Calvin, though the identification remains unconfirmed. Lydia Moffitt Rains lost two sons in the war in North Carolina."
    ],
    "src": "WikiTree profiles (api.wikitree.com, 2026): Moffitt-1958 (Veno Moffitt), Moffitt-1959 (Aaron C. Moffitt), Gardner-25498; 1860 U.S. Census (Zeno Moffitt); U.S. Register of Confederates and Civilians Who Died in the North, 1861-1865; Find a Grave memorial 66301062 (Woodlawn National Cemetery)",
    "ev": "probable",
@@ -11053,9 +11254,9 @@
    "rel": "Regiment of Benjamin F. Hulsey and Gilliam Graves (3rd and 4th great-grandfathers); Calvin Moffitt's regiment (2nd great-granduncle)",
    "place": "Montgomery County and Little Rock, Arkansas",
    "title": "The 4th Arkansas Cavalry: Union men from the Ouachita hills",
-   "hook": "Hulsey, Graves and a Moffitt cousin all turn up in a Union regiment that spent the war at Little Rock and chasing guerrillas through Montgomery County.",
+   "hook": "A Union regiment raised in Arkansas included Gilliam Graves and soldiers named Benjamin F. Hulsey and Calvin V. Moffitt.",
    "body": [
-    "The 4th Regiment Arkansas Volunteer Cavalry (Union) was organized at Little Rock in December 1863 and, by Dyer's Compendium, mustered out on 30 June 1865. Its companies were raised among Arkansas Unionists. Company D was recruited in Montgomery County in the winter of 1863–64, and on 14 January 1864 Gilliam Graves volunteered at Cedar Glades, at 45, a farmer, five feet ten inches tall with black eyes. The roster of the same company has a private \"Hulsey, Benjamin F.\", who would have been 16 or 17. The National Park Service database puts Calvin V. Moffitt, the son of Nathan Moffitt, the wheelwright, in Company L.",
+    "The 4th Regiment Arkansas Volunteer Cavalry (Union) was organized at Little Rock in December 1863 and, by Dyer's Compendium, mustered out on 30 June 1865. Its companies were raised among Arkansas Unionists. Company D was recruited in Montgomery County in the winter of 1863–64, and on 14 January 1864 Gilliam Graves volunteered at Cedar Glades, at 45, a farmer, five feet ten inches tall with black eyes. The roster of the same company has a private \"Hulsey, Benjamin F.\" The National Park Service database also lists a Calvin V. Moffitt in Company L, but his identification as the son of Nathan Moffitt remains a lead.",
     "Dyer's list of the regiment's actions reads like a calendar of small, hard marches. A skirmish on the Saline River on 15 February 1864. A move to Cedar Glade on 1 March, which the Official Records index also lists as a skirmish that day (no report was filed). A scout from Little Rock to Benton on 27–31 March, led by Capt. E. H. Vance, who arrested three women hauling cotton for guerrillas and wrote that \"the bushwhackers made a desperate rally to get the captured wagon and their fair friends, but they failed to get either.\" Mount Elba on 30 March. Then the Camden expedition of April 1864, in which Dyer lists Jenkins' Ferry. In mid-May the regiment was at Dardanelle, and from 25 September to 13 October it took part in an expedition from Little Rock to Fort Smith.",
     "The regiment's own story had darker edges. Union men in Montgomery County were hunted by neighbors, and the March 1864 petition from Company L, told under \"Union families of Montgomery County ask for cavalry,\" names a wife and child shot and a doctor killed at Cedar Glades. In September 1864 a detachment out of Helena went looking for \"deserters from the Fourth Arkansas Cavalry\" and took one, Benjamin Davis of Company I. Gilliam Graves's own roll entry reads that he \"deserted on 12 October 1864 and returned on 25 December 1864.\" The roll gives no reason, and no record seen places Company D on any particular march that month.",
     "In November 1864, Maj. Harris S. Greeno led 130 men of the regiment out of Devall's Bluff, where the regiment had its cavalry depot, toward Batesville and Searcy and reported that Price's army had been \"badly whipped at every point.\" The regiment finished the war at Little Rock, scouting to the Saline River and Bayou Metoe in April and May 1865, and was mustered out on 30 June."
@@ -11093,7 +11294,7 @@
     ]
    ],
    "src": "Dyer, Compendium of the War of the Rebellion (1908), vol. 3, p. 999, as summarized in the regiment's Wikipedia article; Official Records, Series I, vol. 34, part 1 (Capt. Vance, 31 Mar 1864) and part 4; vol. 41, part 1 (Maj. Greeno, 15 Nov 1864; Helena scout, Sept 1864) (https://archive.org/details/warofrebellion013401rootrich, https://archive.org/details/warofrebellion014101rootrich); Index to Compiled Service Records of Union Soldiers from Arkansas (NARA M383); NPS Soldiers and Sailors database; Graves Family Association, Gilliam Graves",
-   "note": "Calvin V. Moffitt of Lawrence County is listed in Company L, whose members in March 1864 were men from Montgomery County; how he came to be in that company is not shown, so the identification stays a lead."
+   "note": "A soldier named Calvin V. Moffitt is listed in Company L, whose members in March 1864 were men from Montgomery County; how he came to be in that company is not shown, so the identification stays a lead."
   },
   {
    "id": "mil-buck-horn-1864",
@@ -11944,8 +12145,8 @@
    "years": "1908-1980",
    "rel": "Great-grandaunt (sister of Mary Tinsley Shackleford Moffitt)",
    "place": "Born at Rattan, Delta County, Texas; died at Paris, Texas",
-   "title": "Hazel's 1981 obituary names all her sisters",
-   "hook": "A Paris, Texas, newspaper listed Mary's sisters and brothers by their married names, and her Moffitt nephews carried the casket.",
+   "title": "Hazel Shackleford King and her brothers and sisters",
+   "hook": "Hazel's family stretched from Texas to Oklahoma and California, and three Moffitts carried her casket.",
    "body": [
     "Hazel Marzee Shackleford was born in 1908 at Rattan in Delta County, Texas, and died on 22 December 1980 at Paris, Lamar County. The Lamar County Echo of 1 January 1981 printed: \"Mrs. King was born in the Rattan community of Delta County, a daughter of John Morgan Shackleford and Kathryn Elizabeth Newton. She attended schools in Delta County and married John Wesley King who preceded her in death in 1968.\"",
     "The paper named her brothers and sisters: \"four sisters, Mrs. Joe Haskell, Mrs. Beula [sic] Hutchings and Mrs. Helen Josey, all of Apache, OK, and Mrs. Eular Tillman of Lawton, OK; three brothers, Balis Shackleford of CA, John S. Shackleford and Edward Shackleford, both of Apache, OK.\" Mary Moffitt had died in 1962, and Robert Yates in 1961.",
@@ -13105,7 +13306,7 @@
     ]
    ],
    "src": "Charles W. Potts (Thomas Potts James), Our Family Ancestors (Cleveland, 1895), pp. 25-29, quoting inventories furnished by Gilbert Cope and the Settle MM register, https://archive.org/details/ourfamilyancesto1895pott; Besse, Sufferings, vol. 1, Lancashire (index 'Hawthornthwaite Wm. 308').",
-   "note": "Whether the party sailed on the Lamb or the Welcome is told under 'Two sons in service' and 'Aboard the Lamb, 1682'."
+   "note": "Whether the party sailed on the Lamb or the Welcome is told under 'Two sons in service' and 'The Settle families’ 1682 crossing'."
   },
   {
    "id": "col-ellen-cowgill-sons",
@@ -13153,7 +13354,7 @@
     "John Cowgill, the servant boy of 1682, married Bridget Croasdale at Neshaminy on the 19th of the 8th month 1693 (19 October). Their children were Elizabeth (born the 24th of the 6th month, 1694), Thomas (21st of the 4th month, 1696), John (8th of the 5th month, 1698) and Ellin (14th of the 10th month, 1700). Bridget died on the 26th of the 2nd month, 1701. In 1703/4 he married Rachel Baker, the widow of Job Bunting of Darby, and had four more children: Rachel, Mary, Ebenezer and Eleazer. Quaker months started in March, so the 6th month is August; some family trees convert the first birth to June.",
     "About 1713 or 1714 he moved to the lower part of New Castle County, Delaware. The land records the Stout family history quotes say that on the 26th of the 3rd month 1715 (26 May) a warrant was signed to John Cowgill \"for the resurvey of a tract of land in a fork of Appoquinimink Creek,\" and on the 1st of the 5th month 1715/6 he \"desired the grant of about 100 acres of vacant land, near his other tract in New Castle county, where he had planted a tan-yard.\" On the 10th of the 3rd month 1718 (10 May), \"having erected a tan-yard on a branch of 'Black Bird's Creek,'\" he asked for another hundred acres on rent.",
     "His sons Thomas and John followed him, and married sisters, daughters of Joshua Clayton of Little Creek Hundred. Thomas had Thomas, Ezekiel and Jane. John married Lydia Clayton in 1720 \"of Kent county.\" The daughters were already settled among the Nottingham Quakers. The Duck Creek Monthly Meeting records the marriage of \"Elizabeth Cowgill, daughter of John Cowgill, of Duck Creek in New Castle, and William Brown, son of William Brown, of Nottingham,\" on 1 December 1715 by the Quaker count (the Nottingham registers say 1715). Her sister Ellin married Thomas Brown, William Jr.'s brother, in 1718/9.",
-    "Elizabeth died before 1721 and left a daughter, also Elizabeth, who in 1739 married Edward Norton. William Jr. married Margaret Davis in March 1721/2, died about 1727, and Margaret then married William Kirk. Ellin's husband Thomas Brown died on the 19th of the 12th month 1746/7 (19 February). She married again on the 13th of the 11th month 1768 (January 1769) Lewis Clothier of Kent County, Maryland, and died on the 5th of the 1st month 1772 (5 March), aged 71. John Cowgill himself died on 2 July 1731. His grandson John Cowgill of Little Creek was hauled through Dover in a cart in the Revolution for refusing Continental money; that is told in \"Carted through Dover.\"",
+    "Elizabeth died before 1721 and left a daughter, also Elizabeth, who in 1739 married Edward Norton. William Jr. married Margaret Davis in March 1721/2, died about 1727, and Margaret then married William Kirk. Ellin's husband Thomas Brown died on the 19th of the 12th month 1746/7 (19 February). She married again on the 13th of the 11th month 1768 (13 November 1768) Lewis Clothier of Kent County, Maryland, and died on the 5th of the 1st month 1772 (5 January), aged 71. John Cowgill himself died on 2 July 1731. His grandson John Cowgill of Little Creek was hauled through Dover in a cart in the Revolution for refusing Continental money; that is told in \"Carted through Dover.\"",
     "Cope's Browns of Nottingham lists the four marriages of William Brown the emigrant and the children of each, and the Maryland Quaker Records for Nottingham Monthly Meeting repeat the Cowgill marriages from the meeting's own books."
    ],
    "ev": "probable",
@@ -13184,8 +13385,8 @@
      "Dies"
     ]
    ],
-   "src": "The Stout Family of Delaware, with the Story of Penelope Stout (1915), pp. 60-70, https://archive.org/details/stoutfamilyofdel00stre; Cope, The Browns of Nottingham (1864), generation list; Maryland Quaker Records: Nottingham Monthly Meeting (1900s), entries for William Brown Jr. and Thomas Brown.",
-   "note": "Quaker dates are given as the sources print them; the Quaker year began in March, so the 6th month is August."
+   "src": "The Stout Family of Delaware, with the Story of Penelope Stout (1915), pp. 60-70, https://archive.org/details/stoutfamilyofdel00stre; Cope, The Browns of Nottingham (1864), generation list; Maryland Quaker Records: Nottingham Monthly Meeting (1900s), entries for William Brown Jr. and Thomas Brown; Quakers in Britain, Quaker calendar guide: https://www.quaker.org.uk/documents/quaker-calendar-lib-guide-2018",
+   "note": "Quaker month numbers began with March before 1752; from 1752 they began with January. The historical dates here are transcribed from published genealogies."
   },
   {
    "id": "col-cowgill-carted-little-creek",
@@ -13379,7 +13580,7 @@
     "John Milton Garrison was born on 4 October 1788 at Cowans Ford in Mecklenburg County, North Carolina, and came as a boy with his parents to Warren County, Kentucky. On 6 December 1809 he married Martha \"Patsey\" Cannon in Wilson County, Tennessee. Their daughter Mary, born 17 October 1811, married Henry Satterfield and is the Garrison link into the Satterfields.",
     "Slavery. WikiTree transcribes the census index entry for \"John M Garreson\" in Warren County in 1810, and the transcription gives \"Numbers of Slaves 1\" in a household of five. That is one enslaved person in the household of a man of about 21. The transcribed returns for Allen County in 1820, 1830 and 1840 show no slaves: in each the total of all persons equals the total of free white persons (7, 11 and 7). The 1850 census shows him at 62, a farmer, with real estate valued at $2,250. No 1850 or 1860 slave schedule has been checked, so it is not known whether he held anyone after 1810. The 1810 count rests on a WikiTree transcription of an index, not on the schedule page itself.",
     "The marriage ended in the legislature, by statute. The printed Acts of the 1847-48 session, section 6 on page 410, read: \"That the marriage contract now existing between John M. Garrison, and his wife, Patsey Garrison, be and the same is hereby dissolved, and they are hereby restored to all the rights and privileges of unmarried persons.\" The section gives no reason. The volume's index lists it twice, once under \"Garrison, Patsey, an act to divorce\" and once, apparently by a slip, under \"Harrison, John M.\"",
-    "WikiTree gives a reason from other records, but names no source for it. Its biography says that during the marriage he \"fathered children by Sarah Stamps who lived nearby,\" that he \"had the KY legislature declare those children legitimate,\" and that after the divorce he married Sarah. The 1850 census, as WikiTree transcribes it, lists J. M. Garrison, 62, with an \"S\" aged 57 and three younger Garrisons aged 21, 19 and 6. The legitimation act has not been located in the volumes searched, so that part is a lead. He died in Allen County on 18 September 1860, "
+    "WikiTree gives a reason from other records, but names no source for it. Its biography says that during the marriage he \"fathered children by Sarah Stamps who lived nearby,\" that he \"had the KY legislature declare those children legitimate,\" and that after the divorce he married Sarah. The 1850 census, as WikiTree transcribes it, lists J. M. Garrison, 62, with an \"S\" aged 57 and three younger Garrisons aged 21, 19 and 6. The legitimation act has not been located in the volumes searched, so that part is a lead. He died in Allen County on 18 September 1860."
    ],
    "ev": "probable",
    "tags": [],
@@ -16474,5 +16675,27 @@
   "jh_satterfield",
   "abner_stevenson",
   "elam_stevenson"
- ]
+ ],
+ "STORY_ALIASES": {
+  "col-perkins-estates-1731": "jperkins",
+  "col-croasdale-inventories": "wt-thomas-agnes-croasdale",
+  "col-butler-daniel-whipped-1660": "wt-thomas-dorothy-butler",
+  "kytx-garrison-1847": "jmgarrison",
+  "col-ellen-cowgill-sons": "wt-ellen-cowgill",
+  "mig-moffitt-donegal-carolina": "wt-robert-margaret-moffitt",
+  "jperkinssr": "jperkins",
+  "robert-martha-family": "robertm",
+  "col-peter-gaunt-plymouth-court": "wt-peter-lydia-gaunt",
+  "book2-garrett-oldton-1692": "dgarrett",
+  "wt-patsey-cannon": "jmgarrison",
+  "satterfield-road": "johnc"
+ },
+ "PHOTO_SOURCES": {
+  "img/places/gibson_courthouse_princeton.jpg": {
+   "url": "https://commons.wikimedia.org/wiki/File:Gibson_County_Courthouse_in_Princeton.jpg"
+  },
+  "img/places/alamance_battleground_1.jpg": {
+   "url": "https://commons.wikimedia.org/wiki/File:Alamance_battleground_1.jpg"
+  }
+ }
 }

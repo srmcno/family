@@ -29,9 +29,12 @@ window.SITE = {
   heroKeys: ['henry_hannah', 'gilbert_parsis', 'daniel_oneal', 'vashti_framed', 'joel_ira', 'mary_tinsley', 'rebecca_graves', 'parsis_portrait', 'william_junior', 'faye_moffitt'],
   featured: [],
   topics: {
-    choctaw: { label: 'Choctaw Nation', copy: 'Enrollment, allotments, courts and family life in the Choctaw Nation.', tag: 'choctaw' },
-    military: { label: 'Military service', copy: 'From the Revolution and the Civil War to the World Wars and the Navy.', tag: 'military' },
-    quaker: { label: 'Quaker roots', copy: 'Meetings, migrations and the Quaker families of the Carolinas and beyond.', tag: 'quaker' },
+    choctaw: { label: 'Choctaw Nation', copy: 'Enrollment, allotments, courts and family life in the Choctaw Nation.', tag: 'choctaw',
+      journey: ['fort-towson-post', 'removal', 'mig-pisachubbe-first-exiles', 'mig-doaksville-1833-removal', 'vincent', 'book2-doak-tims-contracts-1838', 'doaksville-constitution-1860', 'edward', 'joseph', 'betsy', 'simon', 'edith-thompson-slaton'] },
+    military: { label: 'Military service', copy: 'From the Revolution and the Civil War to the World Wars and the Navy.', tag: 'military',
+      journey: ['moff-after-alamance', 'wm-after-alamance', 'fort-towson-post', 'daniel', 'hulsey-42nd-perryville-stones-river', 'hulsey-42nd-atlanta-campaign', 'watie-surrender-doaksville', 'edmond', 'gwhulsey', 'jwm', 'ard19-leyte', 'uss-chief-nagoya'] },
+    quaker: { label: 'Quaker roots', copy: 'Meetings, migrations and the Quaker families of the Carolinas and beyond.', tag: 'quaker',
+      journey: ['wt2-henry-janet-croasdale', 'wt-richard-margery-browne', 'wt-dorothy-butler-gaunt', 'wt-john-bridget-cowgill', 'wt2-william-croasdale', 'anthony', 'rogers', 'marydavies', 'cane-creek-1763', 'moff-after-alamance', 'wm-mary-wills', 'aden'] },
     notable: { label: 'Notable lives', copy: 'Leaders, witnesses and unusual turns in the family’s history.', tag: 'notable' }
   },
   regions: [
@@ -41,7 +44,7 @@ window.SITE = {
     { id: 'kentucky', name: 'Kentucky', label: 'Kentucky', terms: ['kentucky', 'allen county', 'butler county'], description: 'The Smith and Satterfield families of Allen and Butler counties.', archive: 'allen_courthouse' },
     { id: 'indiana', name: 'Indiana', label: 'Indiana', terms: ['indiana', 'gibson county'], description: 'Stevenson and O’Neal families in Gibson County.', archive: 'gibson_courthouse' },
     { id: 'tennessee', name: 'Tennessee & Alabama', label: 'The South', terms: ['tennessee', 'pulaski', 'giles', 'alabama', 'etowah', 'st clair'], description: 'Stevenson, Shackleford and Newton families before the move west.' },
-    { id: 'carolina', name: 'North Carolina', label: 'Quaker country', terms: ['north carolina', 'alamance', 'randolph', 'cane creek', 'guilford', 'orange county'], description: 'Cane Creek, the Regulators and the Quaker meetings of the Moffitt and Chamness families.', archive: 'alamance_plaque' },
+    { id: 'carolina', name: 'North Carolina', label: 'Quaker country', terms: ['north carolina', 'alamance', 'randolph', 'cane creek', 'guilford', 'orange county'], description: 'Cane Creek, the Regulators and the Quaker meetings of the Moffitt and Chamness families.', archive: 'alamance_battleground_1' },
     { id: 'britain', name: 'England & the British Isles', label: 'Across the Atlantic', terms: ['england', 'scotland', 'wales', 'ireland', 'lancashire', 'yorkshire', 'rotherham', 'lincoln', 'bowland'], description: 'The earliest recorded generations before the crossing to America.' }
   ]
 };
