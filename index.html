@@ -227,11 +227,69 @@ footer{padding-block:2.2rem 3rem;color:var(--soft);font-size:var(--t-sm);border-
 footer .legend{display:flex;flex-wrap:wrap;gap:.5rem 1.4rem;align-items:center}
 .loading{color:var(--soft);font-family:var(--serif);font-style:italic;padding:2rem 0}
 
+/* Family tree: a pedigree that grows to the right, one column per generation */
+.treebar{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem .8rem;margin:0 0 1rem}
+.crumbs{display:flex;flex-wrap:wrap;align-items:center;gap:.25rem;font-size:var(--t-sm);color:var(--soft);flex:1 1 20rem}
+.crumbs button{border:0;background:none;padding:.15rem .3rem;border-radius:6px;color:var(--accent);cursor:pointer}
+.crumbs button[aria-current="true"]{color:var(--ink);font-weight:700;cursor:default}
+.crumbs .sep{opacity:.5}
+.depth{display:flex;align-items:center;gap:.35rem;font-size:var(--t-sm);color:var(--soft)}
+.depth button{border:1px solid var(--rule);background:var(--sheet);border-radius:8px;width:2.2rem;height:2.2rem;cursor:pointer;font-size:1.1rem}
+.depth button:disabled{opacity:.4;cursor:default}
+.treewrap{overflow:auto;overscroll-behavior-x:contain;background:var(--sheet);border:1px solid var(--rule);border-radius:16px;padding:1rem;-webkit-overflow-scrolling:touch}
+.ped{display:flex;align-items:center}
+.ped > .par{display:flex;flex-direction:column;justify-content:center;padding-left:28px;position:relative}
+.ped > .par::before{content:"";position:absolute;left:0;top:50%;width:14px;border-top:1.5px solid #b9c1c9}
+.ped > .par > .ped{position:relative;padding:5px 0}
+.ped > .par > .ped::before{content:"";position:absolute;left:-14px;top:50%;width:14px;border-top:1.5px solid #b9c1c9}
+.ped > .par > .ped::after{content:"";position:absolute;left:-14px;border-left:1.5px solid #b9c1c9}
+.ped > .par > .ped:first-child:not(:only-child)::after{top:50%;bottom:0}
+.ped > .par > .ped:last-child:not(:only-child)::after{top:0;bottom:50%}
+.tcard{display:grid;grid-template-columns:2.6rem minmax(0,1fr);gap:.15rem .6rem;align-items:center;width:13.5rem;text-align:left;border:1px solid var(--rule);border-left:4px solid var(--bc);background:var(--tint);border-radius:10px;padding:.45rem .6rem;cursor:pointer;flex:none}
+.tcard:hover{border-color:var(--bc);background:#fff}
+.tcard .av{grid-row:span 2;width:2.6rem;height:2.6rem;border-radius:50%;object-fit:cover;background:var(--rule);display:grid;place-items:center;font-family:var(--caps);font-size:.9rem;color:var(--soft)}
+.tcard .tn{font-weight:700;line-height:1.2;font-size:.95rem;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.tcard .ty{font-size:var(--t-xs);color:var(--soft);display:flex;gap:.35rem;align-items:center}
+.tcard .ty .dot{width:.5rem;height:.5rem;border-radius:50%;background:var(--ev, transparent);flex:none}
+.tcard.root{background:var(--navy);color:var(--on-navy);border-color:var(--navy);cursor:default}
+.tcard.root .ty{color:var(--on-navy-soft)}
+.tcard.more{width:auto;grid-template-columns:auto;font-size:var(--t-sm);color:var(--accent);background:transparent;border-style:dashed;border-left-width:1px}
+.tlegend{display:flex;flex-wrap:wrap;gap:.4rem 1.2rem;font-size:var(--t-sm);color:var(--soft);margin:.8rem 0 0}
+.tlegend span{display:inline-flex;align-items:center;gap:.35rem}
+.tlegend i{width:.6rem;height:.6rem;border-radius:50%;display:inline-block}
+.treeacts{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.2rem}
+.treeacts button{border:1px solid var(--rule);background:var(--tint);border-radius:999px;padding:.4rem .9rem;cursor:pointer;font-weight:500}
+.treeacts button:hover{border-color:var(--accent)}
+.navicon{display:none}
+/* Stacked tree for phones: one generation per section, couples side by side */
+.treewrap.stack{max-height:none;overflow:visible;background:transparent;border:0;padding:0;margin:0}
+.tstack{display:grid;gap:1.3rem}
+.tlev h3{font-family:var(--caps);font-size:1.05rem;letter-spacing:.02em;color:var(--soft);margin:0 0 .5rem}
+.couples{display:grid;gap:.6rem}
+.couple{background:var(--sheet);border:1px solid var(--rule);border-radius:14px;padding:.55rem}
+.couple .of{display:block;font-size:var(--t-xs);color:var(--soft);margin:0 0 .4rem .15rem}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:.4rem}
+.pair .tcard,.tstack .tcard{width:auto;grid-template-columns:2.2rem minmax(0,1fr);gap:.1rem .5rem;padding:.4rem .5rem}
+.pair .tcard .av{width:2.2rem;height:2.2rem}
+.tcard.unknown{border-style:dashed;border-left-width:1px;background:transparent;color:var(--soft);cursor:default;grid-template-columns:1fr;font-size:var(--t-sm);font-style:italic}
 @media (max-width: 820px){ .hero{grid-template-columns:1fr;gap:1.6rem;padding-block:1.8rem 2.2rem} }
 @media (max-width: 640px){
-  .tabs{margin-left:0;width:100%;justify-content:space-between}
-  .search{max-width:none;flex-basis:100%;order:3}
-  .tabs button{padding:.4rem .5rem}
+  /* phones: section tabs become a bottom navigation bar; the top bar keeps the name and search */
+  .brand{font-size:1.2rem}
+  .topbar .row{gap:.5rem;padding-block:.55rem}
+  .search{max-width:none;flex-basis:100%}
+  .tabs{position:fixed;left:0;right:0;bottom:0;z-index:15;margin:0;justify-content:space-around;gap:0;background:var(--navy);
+    padding:.3rem max(6px, env(safe-area-inset-left, 0px)) calc(.3rem + env(safe-area-inset-bottom, 0px));box-shadow:0 -1px 0 rgba(255,255,255,.08), 0 -6px 18px rgba(0,0,0,.18)}
+  .tabs button{display:grid;justify-items:center;gap:.1rem;padding:.35rem .2rem;font-size:.72rem;flex:1;border-radius:10px;min-height:3.1rem}
+  .navicon{display:block;width:1.35rem;height:1.35rem}
+  body{padding-bottom:calc(4.2rem + env(safe-area-inset-bottom, 0px))}
+  .panel{z-index:22}
+  .tcard{width:11.5rem}
+  .treewrap{padding:.6rem;margin-inline:-6px;max-height:70vh;max-height:70dvh}
+  .treeacts{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;margin-inline:-16px;padding-inline:16px}
+  .treeacts::-webkit-scrollbar{display:none}
+  .treeacts button{flex:none}
+  #view-tree .lede p{display:none}
   .gen{grid-template-columns:1fr;gap:.35rem}
   .gen .gl{padding-top:0}
   .tl::before{left:3.9rem}
@@ -256,10 +314,11 @@ footer .legend{display:flex;flex-wrap:wrap;gap:.5rem 1.4rem;align-items:center}
       <div class="results" id="qResults" hidden></div>
     </div>
     <nav class="tabs" role="tablist" aria-label="Sections">
-      <button role="tab" id="tab-stories" data-view="stories" aria-selected="true">Stories</button>
-      <button role="tab" id="tab-branches" data-view="branches" aria-selected="false">People</button>
-      <button role="tab" id="tab-photos" data-view="photos" aria-selected="false">Photos</button>
-      <button role="tab" id="tab-timeline" data-view="timeline" aria-selected="false">Timeline</button>
+      <button role="tab" id="tab-stories" data-view="stories" aria-selected="true"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M4 5.5A1.5 1.5 0 0 1 5.5 4H11v16H5.5A1.5 1.5 0 0 1 4 18.5zM20 5.5A1.5 1.5 0 0 0 18.5 4H13v16h5.5a1.5 1.5 0 0 0 1.5-1.5z"/></svg>Stories</button>
+      <button role="tab" id="tab-tree" data-view="tree" aria-selected="false"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="10" width="6" height="4" rx="1"/><rect x="15" y="4" width="6" height="4" rx="1"/><rect x="15" y="16" width="6" height="4" rx="1"/><path d="M9 12h3M12 6v12M12 6h3M12 18h3"/></svg>Tree</button>
+      <button role="tab" id="tab-branches" data-view="branches" aria-selected="false"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="9" cy="8" r="3.2"/><path d="M3.5 19a5.5 5.5 0 0 1 11 0"/><circle cx="17" cy="9" r="2.5"/><path d="M15.5 14.2A4.5 4.5 0 0 1 21 18.5"/></svg>People</button>
+      <button role="tab" id="tab-photos" data-view="photos" aria-selected="false"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="1.8"/><path d="m4 17 5-4.5 4 3.5 3-2.5 4 3.5"/></svg>Photos</button>
+      <button role="tab" id="tab-timeline" data-view="timeline" aria-selected="false"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 3v18"/><circle cx="12" cy="7" r="2"/><circle cx="12" cy="17" r="2"/><path d="M14 7h6M4 17h6"/></svg>Timeline</button>
     </nav>
   </div>
 </div>
@@ -285,6 +344,14 @@ footer .legend{display:flex;flex-wrap:wrap;gap:.5rem 1.4rem;align-items:center}
       <div class="chips" id="storyFilters" aria-label="Filter stories"></div>
       <div class="cards" id="storyCards"><p class="loading">Loading the family stories…</p></div>
       <p class="morebar"><button class="morebtn" id="moreStories" hidden></button></p>
+    </section>
+    <section class="view" id="view-tree" role="tabpanel" aria-labelledby="tab-tree" hidden>
+      <div class="lede"><h2>Family tree</h2><p>Every direct ancestor on record, generation by generation. Tap anyone to read about them or to follow their line further back.</p></div>
+      <div class="treeacts" id="treeActs"></div>
+      <div class="treebar"><nav class="crumbs" id="treeCrumbs" aria-label="Line you are following"></nav>
+        <div class="depth"><span>Generations</span><button id="tLess" aria-label="Show fewer generations">−</button><span id="tDepth">4</span><button id="tMore" aria-label="Show more generations">+</button></div></div>
+      <div class="treewrap" id="treeWrap"></div>
+      <div class="tlegend"><span><i style="background:var(--proven)"></i>Proven in records</span><span><i style="background:var(--probable)"></i>Probable</span><span><i style="background:var(--lead)"></i>Lead</span><span><i style="background:var(--rule)"></i>From the family's Ancestry tree, not yet checked</span></div>
     </section>
     <section class="view" id="view-branches" role="tabpanel" aria-labelledby="tab-branches" hidden>
       <div class="lede"><h2>People</h2><p>Pick a grandparent's line to walk back through the generations.</p></div>
@@ -341,7 +408,8 @@ const bcolor = b => D.BRANCHES[b].color;
 const best = v => v.c || v.r || v.o;
 const restoredOrOrig = v => v.r || v.o;
 const avatar = p => p.av ? "img/" + p.av : p.ph ? restoredOrOrig(D.PH[p.ph]) : null;
-const firstImg = p => p.ph ? best(D.PH[p.ph]) : (p.imgs || [])[0]?.s;
+const isStone = im => /headstone|grave|stones\/|\bstone\b|marker/i.test(im.s + " " + (im.cap || "").replace(/Stone County/g, ""));
+const firstImg = p => p.ph ? best(D.PH[p.ph]) : (p.imgs || []).find(im => !isStone(im))?.s;   // never a gravestone as a cover
 function nameHTML(n){
   if (/&| ancestors| in \d{4}/.test(n) || !/\s/.test(n)) return esc(n);
   const i = n.lastIndexOf(" "); const sur = n.slice(i + 1);
@@ -490,7 +558,7 @@ function openPerson(id){
   document.getElementById("pRel").textContent = relLine(p);
   document.getElementById("pName").innerHTML = nameHTML(p.name);
   document.getElementById("pYears").textContent = p.years;
-  let h = "";
+  let h = treeActions(treeIdsFor(id));
   if (p.ph && D.PH[p.ph]) h += `<div class="gallery">${variantFig(p.ph)}</div>`;
   const imgs = p.imgs || [];
   if (imgs.length) h += `<div class="gallery${imgs.length > 1 ? " two" : ""}">${imgs.map(im => `<figure class="fig"><button class="frame" data-zoom="${im.s}" data-cap="${esc(im.cap)}"><img src="${im.s}" alt="${esc(im.cap)}" loading="lazy"></button><figcaption>${esc(im.cap)}</figcaption></figure>`).join("")}</div>`;
@@ -544,7 +612,7 @@ scrim.addEventListener("click", closePanel);
 document.addEventListener("keydown", e => { if (e.key !== "Escape") return; if (!lb.hidden) closeZoom(); else if (!panel.hidden) closePanel(); });
 
 /* Views + routing */
-const VIEWS = ["stories","branches","photos","timeline"];
+const VIEWS = ["stories","tree","branches","photos","timeline"];
 function show(v){
   if (!VIEWS.includes(v)) v = "stories";
   VIEWS.forEach(n => { document.getElementById("view-" + n).hidden = n !== v; document.getElementById("tab-" + n).setAttribute("aria-selected", String(n === v)); });
@@ -569,8 +637,135 @@ document.addEventListener("click", e => {
   const tl = t.closest("[data-tl]"); if (tl){ tlFilter = tl.dataset.tl; renderTimeline(); return; }
   const pg = t.closest("[data-pg]"); if (pg){ photoGroup = pg.dataset.pg; renderPhotos(); return; }
   const b = t.closest("[data-branch]"); if (b){ branch = b.dataset.branch; renderBranches(); return; }
+  const tc = t.closest("[data-troot-close]"); if (tc){ closePanel(); setTreeRoot(tc.dataset.trootClose); return; }
+  const tr = t.closest("[data-troot]"); if (tr){ setTreeRoot(tr.dataset.troot); return; }
+  const tp = t.closest("[data-tree]"); if (tp){ openTreePerson(tp.dataset.tree); return; }
+  if (t.closest("#tLess")){ treeDepth = Math.max(2, treeDepth - 1); renderTree(); return; }
+  if (t.closest("#tMore")){ treeDepth = Math.min(7, treeDepth + 1); renderTree(); return; }
   const p = t.closest("[data-person]"); if (p){ openPerson(p.dataset.person); }
 });
+
+/* Family tree (pedigree built from the family's tree file) */
+const narrow = matchMedia("(max-width: 640px)");
+let T = null, treeRoot = null, childOf = {}, treeDepth = null;   // null until the viewer picks a depth
+const EVC = {proven: "var(--proven)", probable: "var(--probable)", lead: "var(--lead)"};
+const tidy = n => String(n || "").replace(/\s+/g, " ").trim().replace(/\b([A-Z])([A-Z]{2,})\b/g, (m, a, b) => a + b.toLowerCase());
+const yr = s => (String(s || "").match(/\d{4}/) || [""])[0];
+function tInfo(tid){
+  const p = T.people[tid], a = p.a && byId[p.a];
+  const years = p.lv ? "Living" : (yr(p.b) || yr(p.d) ? `${yr(p.b) || "?"}–${yr(p.d) || "?"}` : (a ? a.years : ""));
+  return {p, a, name: tidy(p.n), years, ph: p.ph, ev: a ? a.ev : null, color: a ? bcolor(a.branch) : null};
+}
+function tCard(tid, color){
+  const t = tInfo(tid), c = t.color || color;
+  const av = t.ph ? `<img class="av" src="${t.ph}" alt="" loading="lazy">` : `<span class="av">${esc(initials(t.name))}</span>`;
+  return `<button class="tcard" data-tree="${tid}" style="--bc:${c}">${av}<span class="tn">${esc(t.name)}</span>
+    <span class="ty"><span class="dot" style="--ev:${t.ev ? EVC[t.ev] : "var(--rule)"}"></span>${esc(t.years)}</span></button>`;
+}
+function tNode(tid, d, color){
+  if (!tid || !T.people[tid]) return "";
+  const p = T.people[tid], c = tInfo(tid).color || color;
+  const par = [p.f, p.m].filter(x => x && T.people[x]);
+  let kids = "";
+  if (par.length && d < treeDepth) kids = `<div class="par">${par.map(x => tNode(x, d + 1, c)).join("")}</div>`;
+  else if (par.length) kids = `<div class="par"><div class="ped"><button class="tcard more" data-troot="${tid}">Earlier generations →</button></div></div>`;
+  return `<div class="ped">${tCard(tid, c)}${kids}</div>`;
+}
+const LEVEL = ["", "Parents", "Grandparents", "Great-grandparents"];
+const ordinal = k => k + (k % 100 >= 11 && k % 100 <= 13 ? "th" : ({1: "st", 2: "nd", 3: "rd"}[k % 10] || "th"));
+const levelName = n => LEVEL[n] || `${ordinal(n - 2)} great-grandparents`;
+function tStack(rootCard, firstGen, side){
+  // firstGen: [{tid, color}] people at level 1 (or the chosen person's parents)
+  let html = `<div class="tstack"><div class="tlev">${rootCard}</div>`;
+  let level = firstGen, n = 1;
+  while (level.length && n <= treeDepth){
+    const couples = [];
+    for (let i = 0; i < level.length; i += 2) couples.push(level.slice(i, i + 2));
+    html += `<div class="tlev"><h3>${levelName(n)}</h3><div class="couples">${couples.map(c => {
+      const kid = c[0].child;
+      return `<div class="couple">${kid ? `<span class="of">Parents of ${esc(tidy(T.people[kid].g || T.people[kid].n).split(" ")[0])} ${esc(tidy(T.people[kid].s))}</span>` : ""}<div class="pair">${
+        c.map(x => x.tid ? tCard(x.tid, x.color) : `<span class="tcard unknown">Not yet known</span>`).join("")}</div></div>`; }).join("")}</div></div>`;
+    const next = [];
+    for (const x of level) if (x.tid){
+      const p = T.people[x.tid], c = tInfo(x.tid).color || x.color;
+      if (p.f || p.m) next.push({tid: p.f && T.people[p.f] ? p.f : null, color: c, child: x.tid}, {tid: p.m && T.people[p.m] ? p.m : null, color: c, child: x.tid});
+    }
+    level = next; n++;
+  }
+  if (level.length) html += `<p class="empty">More generations: tap anyone above and choose “See their ancestors”, or press + above.</p>`;
+  return html + `</div>`;
+}
+function treeTrail(tid){
+  const out = []; let x = tid;
+  while (x && out.length < 20){ out.unshift(x); x = childOf[x]; }
+  return out;
+}
+function renderTree(){
+  const wrap = document.getElementById("treeWrap");
+  if (!T){ wrap.innerHTML = `<p class="empty">The family tree could not be loaded. Reload the page to try again.</p>`; return; }
+  if (treeDepth === null) treeDepth = narrow.matches ? 3 : 4;
+  const R = T.roots, side = {[R.father]: bcolor("moffitt"), [R.mother]: bcolor("thompson")};
+  let html;
+  wrap.classList.toggle("stack", narrow.matches);
+  if (narrow.matches){
+    const rootCard = treeRoot ? tCard(treeRoot, side[treeTrail(treeRoot)[0]] || bcolor("moffitt"))
+      : `<div class="tcard root" style="--bc:var(--navy)"><span class="av">◆</span><span class="tn">Johnny and Barbara's children</span><span class="ty">Our generation</span></div>`;
+    const first = treeRoot ? (() => { const p = T.people[treeRoot], c = tInfo(treeRoot).color || side[treeTrail(treeRoot)[0]];
+        return (p.f || p.m) ? [{tid: p.f || null, color: c, child: treeRoot}, {tid: p.m || null, color: c, child: treeRoot}] : []; })()
+      : [{tid: R.father, color: side[R.father]}, {tid: R.mother, color: side[R.mother]}];
+    html = tStack(rootCard, first, side);
+  } else if (!treeRoot){
+    html = `<div class="ped"><div class="tcard root" style="--bc:var(--navy)"><span class="av">◆</span><span class="tn">Johnny and Barbara's children</span><span class="ty">Our generation</span></div>
+      <div class="par">${[R.father, R.mother].map(x => tNode(x, 1, side[x])).join("")}</div></div>`;
+  } else {
+    const trail = treeTrail(treeRoot);
+    html = tNode(treeRoot, 0, side[trail[0]] || bcolor("moffitt"));
+  }
+  wrap.innerHTML = html;
+  const trail = treeRoot ? treeTrail(treeRoot) : [];
+  document.getElementById("treeCrumbs").innerHTML = [`<button data-troot="" aria-current="${!treeRoot}">Our generation</button>`]
+    .concat(trail.map((x, i) => `<span class="sep">›</span><button data-troot="${x}" aria-current="${i === trail.length - 1}">${esc(tidy(T.people[x].g || T.people[x].n).split(" ")[0])} ${esc(tidy(T.people[x].s))}</button>`)).join("");
+  document.getElementById("tDepth").textContent = treeDepth;
+  document.getElementById("tLess").disabled = treeDepth <= 2;
+  document.getElementById("tMore").disabled = treeDepth >= 7;
+  const gp = Object.entries(T.people).filter(([, p]) => p.gen === 1);
+  document.getElementById("treeActs").innerHTML = `<button data-troot="">Both parents</button>` +
+    gp.map(([id]) => `<button data-troot="${id}">${esc(tidy(T.people[id].n))}'s line</button>`).join("");
+  wrap.scrollLeft = 0;
+  wrap.scrollTop = Math.max(0, (wrap.scrollHeight - wrap.clientHeight) / 2);   // open on the starting person
+}
+function setTreeRoot(tid){
+  treeRoot = tid || null; renderTree();
+  if (location.hash.slice(1) !== "tree"){ location.hash = "tree"; show("tree"); }
+  document.getElementById("view-tree").scrollIntoView({behavior: "smooth", block: "start"});
+}
+narrow.addEventListener("change", () => { if (T) renderTree(); });
+function treeIdsFor(appId){ return T ? Object.keys(T.people).filter(k => T.people[k].a === appId) : []; }
+function treeActions(tids){
+  const withParents = tids.filter(k => T.people[k].f || T.people[k].m);
+  if (!tids.length) return "";
+  const btn = (k, label) => `<button class="tbtn" data-troot-close="${k}">${label}</button>`;
+  return `<div class="treeacts">${tids.map(k => btn(k, withParents.includes(k) ? `See ${esc(tidy(T.people[k].g || T.people[k].n).split(" ")[0])}'s ancestors in the tree` : `Show ${esc(tidy(T.people[k].g || T.people[k].n).split(" ")[0])} in the tree`)).join("")}</div>`;
+}
+function openTreePerson(tid){
+  const t = tInfo(tid);
+  if (t.a) return openPerson(t.a);
+  lastFocus = document.activeElement;
+  panel.style.setProperty("--bc", t.color || "var(--accent)");
+  document.getElementById("pRel").textContent = t.p.lv ? "Parent" : `From the family tree, ${D.GEN[Math.max(0, t.p.gen - 1)] ? D.GEN[Math.max(0, t.p.gen - 1)].replace(/s$/, "").toLowerCase() + " level" : "earlier generation"}`;
+  document.getElementById("pName").innerHTML = nameHTML(t.name);
+  document.getElementById("pYears").textContent = t.years;
+  let h = treeActions([tid]);
+  if (t.p.lv) h += `<p>Living. Details for living family members are kept private.</p>`;
+  else {
+    const kv = [["Born", [t.p.b, t.p.bp].filter(Boolean).join(", ")], ["Died", [t.p.d, t.p.dp].filter(Boolean).join(", ")]].filter(([, v]) => v);
+    if (kv.length) h += `<dl class="kv">${kv.map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join("")}</dl>`;
+    h += `<div class="note">This person comes from the family's Ancestry tree and has not yet been checked against original records.</div>`;
+  }
+  const body = document.getElementById("pBody"); body.innerHTML = h; body.scrollTop = 0;
+  scrim.hidden = false; panel.hidden = false;
+  document.getElementById("pClose").focus({preventScroll: true});
+}
 
 /* Search */
 const fold = s => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
@@ -615,10 +810,12 @@ function renderStats(){
     `So far: ${ALL.length} ancestors, relatives and places, ${ALL.filter(x => x.title).length} stories, ${photos} photographs and records, and ${D.TIMELINE.length} dated events.`;
 }
 
-fetch("data.json").then(r => r.json()).then(data => {
+Promise.all([fetch("data.json").then(r => r.json()), fetch("tree.json").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
   D = data; ALL = [...D.P, ...D.EXTRA]; byId = Object.fromEntries(ALL.map(x => [x.id, x]));
+  T = tree;
+  if (T) for (const [id, p] of Object.entries(T.people)) for (const par of [p.f, p.m]) if (par) childOf[par] = id;
   buildIndex();
-  renderHero(); renderStats(); renderStories(); renderBranches(); renderPhotos(); renderTimeline();
+  renderHero(); renderStats(); renderStories(); renderTree(); renderBranches(); renderPhotos(); renderTimeline();
   show(location.hash.slice(1));
 }).catch(() => { document.getElementById("storyCards").innerHTML = `<p class="empty">The family data could not be loaded. Reload the page to try again.</p>`; });
 </script>

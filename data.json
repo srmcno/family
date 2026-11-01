@@ -87,16 +87,6 @@
    "r": "img/p/john_c_satterfield_restored.jpg",
    "cap": "John C. Satterfield of Butler County, Kentucky (an earlier colorized copy)"
   },
-  "oneal_headstone": {
-   "o": "img/p/oneal_headstone_orig.jpg",
-   "r": "img/p/oneal_headstone_restored.jpg",
-   "cap": "The O'Neal family stone, with Vashti's and Daniel's markers"
-  },
-  "watt_headstone": {
-   "o": "img/p/watt_headstone_orig.jpg",
-   "r": "img/p/watt_headstone_restored.jpg",
-   "cap": "Hugh Watt and family stone"
-  },
   "joel_ira": {
    "o": "img/p/joel_ira_orig.jpg",
    "r": "img/p/joel_ira_restored.jpg",
@@ -146,6 +136,14 @@
    "r": "img/p/elam_stevenson_restored.jpg",
    "cap": "Rev. Elam Stevenson (1787-1875) of Giles County, Tennessee. Photo courtesy of Beth Mize, via a public Ancestry member tree",
    "c": "img/p/elam_stevenson_color.jpg"
+  },
+  "daniel_oneal": {
+   "o": "img/p/daniel_oneal_orig.jpg",
+   "cap": "Daniel W. O'Neal (1838-1919) as an older man, oval-framed portrait. Photograph shared in a public Ancestry member tree"
+  },
+  "parsis_portrait": {
+   "o": "img/p/parsis_portrait_orig.jpg",
+   "cap": "Parsis Jane (O'Neal) Stevenson (1868-1956) in later life. Photograph shared in a public Ancestry member tree"
   }
  },
  "P": [
@@ -253,7 +251,6 @@
    "branch": "thompson",
    "gen": 1,
    "rel": "Great-grandmother",
-   "av": "frances_headstone.jpg",
    "imgs": [
     {
      "s": "img/frances_headstone.jpg",
@@ -537,7 +534,6 @@
    "branch": "thompson",
    "gen": 3,
    "rel": "3rd great-grandfather",
-   "av": "vinson_headstone.jpg",
    "imgs": [
     {
      "s": "img/vinson_headstone.jpg",
@@ -649,6 +645,10 @@
     {
      "s": "img/docs/dawes_1171_wilson_birth_emeline_midwife_1905.jpg",
      "cap": "Emeline Tims signs as midwife on her daughter Rosanna Wilson's son's birth, 1903"
+    },
+    {
+     "s": "img/stones/emeline_tims_headstone_2.jpg",
+     "cap": "Headstone: Emeline Tims, born Jan 26, 1842, died Mar 16, 1918. Photograph shared in a public Ancestry member tree"
     }
    ]
   },
@@ -1211,6 +1211,10 @@
     {
      "s": "img/places/yell_courthouse_danville.jpg",
      "cap": "Yell County Courthouse, Danville, Arkansas (photographed 2026). Wikimedia Commons, CC0, Brandonrush. Source: https://commons.wikimedia.org/wiki/File:Yell_County_Courthouse,_Danville,_AR_001.jpg"
+    },
+    {
+     "s": "img/p/katie_at_92.jpg",
+     "cap": "Katie Stevenson Hulsey at 92, photographed in 2001; the handwritten note reads 'Daughter of Parsis J. O'Neal Stevenson.' Photograph shared in a public Ancestry member tree"
     }
    ],
    "ev": "proven"
@@ -1504,6 +1508,10 @@
     {
      "s": "img/places/pulaski_sanborn_1916.jpg",
      "cap": "Pulaski, Giles County, Tennessee, Sanborn fire insurance map, 1916 (Library of Congress). Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Sanborn_Fire_Insurance_Map_from_Pulaski,_Giles_County,_Tennessee,_1916,_Plate_0001.jpg"
+    },
+    {
+     "s": "img/stones/gilbert_stevenson_headstone_1.jpg",
+     "cap": "Headstone: Gilbert Franklin Stevenson, Nov 17 1861 - May 9 1950, 'In God's Care'. Photograph shared in a public Ancestry member tree"
     }
    ],
    "quotes": [
@@ -1564,6 +1572,10 @@
     {
      "s": "img/places/giles_courthouse_2008.jpg",
      "cap": "Giles County Courthouse, Pulaski, Tennessee (photographed 2008). Wikimedia Commons, CC BY-SA 3.0, Ichabod. Source: https://commons.wikimedia.org/wiki/File:Giles_County_Tennessee_Courthouse.jpg"
+    },
+    {
+     "s": "img/stones/abner_stevenson_headstone_3.jpg",
+     "cap": "Headstone at Bee Spring Cemetery, Pulaski: 'Abner Stevenson born March 16, 1816, died July 30, 1896.' Photograph shared in a public Ancestry member tree"
     }
    ],
    "kv": [
@@ -1620,7 +1632,7 @@
    "branch": "hulsey",
    "gen": 2,
    "rel": "2nd great-grandmother",
-   "ph": "gilbert_parsis",
+   "ph": "parsis_portrait",
    "place": "Born at Princeton, Indiana; died in Hugo. Daughter of Union soldier Daniel W. O'Neal.",
    "body": [
     "Parsis Jane O'Neal was born in 1868, the fourth of the ten children of Daniel Waters O'Neal and Vashti Pearson in Gibson County, Indiana. She married Frank Stevenson, and by the time of her mother's obituary in January 1919 she was 'Mrs. Frank Stevenson of Valiant, Oklahoma.' She died in 1956, aged about 88.",
@@ -1632,6 +1644,14 @@
     {
      "s": "img/rec/census_1880_oneal_gibson.jpg",
      "cap": "1880 U.S. census, Columbia Township, Gibson County, Indiana: Parsis J. O'Neal, age 11, in the household of her father Daniel W. O'Neal."
+    },
+    {
+     "s": "img/p/gilbert_parsis_color.jpg",
+     "cap": "\"Frank & Jane\": Gilbert Franklin and Parsis Jane (O'Neal) Stevenson on their porch"
+    },
+    {
+     "s": "img/stones/parsis_oneal_stevenson_headstone_2.jpg",
+     "cap": "Headstone: Parsis Jane Stevenson. Photograph shared in a public Ancestry member tree"
     }
    ],
    "kv": [
@@ -1662,7 +1682,7 @@
    "tags": [
     "military"
    ],
-   "ph": "oneal_family",
+   "ph": "daniel_oneal",
    "title": "Union soldier, 42nd Indiana",
    "hook": "Enlisted in 1861 and marched through a Kentucky winter of mud and measles. How long he served is a family puzzle.",
    "body": [
@@ -1738,6 +1758,14 @@
     {
      "s": "img/places/gibson_courthouse_monument.jpg",
      "cap": "Civil War monument on the Gibson County Courthouse grounds, Princeton, Indiana (photographed 2016). Wikimedia Commons, CC BY-SA 4.0, Rhatsa26X. Source: https://commons.wikimedia.org/wiki/File:Gibson_County,_IN_Courthouse_-_Southeast_Corner_%26_Civil_War_Monument.jpg"
+    },
+    {
+     "s": "img/p/oneal_headstone_restored.jpg",
+     "cap": "The O'Neal family stone, with Vashti's and Daniel's markers"
+    },
+    {
+     "s": "img/p/oneal_family_restored.jpg",
+     "cap": "O'Neal family gathering in Gibson County, Indiana; the typed caption names Daniel W. O'Neal and Vashti Pearson among the family. Photograph shared in a public Ancestry member tree"
     }
    ]
   },
@@ -1763,6 +1791,20 @@
      "Children",
      "Mary Elizabeth 1860, William Allen 1863, John Sherman 1866, Parsis Jane 1868, J. A. 1871 (infant), George Johnson 1875, Daniel Clinton 1878, David Commodore 1881, Nora 1884 (infant), Charity Louisa 1887"
     ]
+   ],
+   "imgs": [
+    {
+     "s": "img/p/oneal_headstone_restored.jpg",
+     "cap": "The O'Neal family stone, with Vashti's and Daniel's markers"
+    },
+    {
+     "s": "img/p/vashti_framed.jpg",
+     "cap": "Vashti Elizabeth (Pearson) O'Neal holding a framed picture. Photograph shared in a public Ancestry member tree"
+    },
+    {
+     "s": "img/stones/vashti_pearson_oneal_headstone_4.jpg",
+     "cap": "Headstone: 'Vashti, 1844-1919'. Photograph shared in a public Ancestry member tree"
+    }
    ]
   },
   {
@@ -1928,7 +1970,6 @@
    "branch": "hulsey",
    "gen": 4,
    "rel": "4th great-grandmother",
-   "ph": "watt_headstone",
    "place": "A native of \"Lawrenceburg, Ohio,\" per the 1884 county history. Widowed in 1841; later married Hugh Watt and was still living on the old home farm in 1884. Died in 1901.",
    "body": [
     "Parses Shaw was born about 1811 and, as the 1884 county history puts it, was 'a native of Lawrenceburg, Ohio,' who 'came to this county in 1839' with her husband Archibald O'Neal. After he died in 1841 she married Hugh Watt, and in 1884 she was still on the old home farm. She died in 1901.",
@@ -1956,6 +1997,10 @@
     {
      "s": "img/books/gibson-1884-p239-watt.jpg",
      "cap": "History of Gibson County (1884), p. 239: Mrs. Parsis Watt, her first husband Archibald O'Neal, and her second, Hugh Watt of County Down (public domain)"
+    },
+    {
+     "s": "img/p/watt_headstone_restored.jpg",
+     "cap": "Hugh Watt and family stone"
     }
    ]
   },
@@ -2208,6 +2253,10 @@
     {
      "s": "img/rec/draft_1942_grady_moffitt.jpg",
      "cap": "Grady's WWII draft registration card (men born 1877-1897), 1942: age 50, North Broadway, Hugo, Choctaw County; born Stone County, Arkansas, 6 Nov 1891; unemployed; contact Mrs. Mannie Moffitt."
+    },
+    {
+     "s": "img/stones/grady_mary_moffitt_headstone_1.jpg",
+     "cap": "Shared headstone of Woodford Grady Moffitt and Mary Tinsley Moffitt. Photograph shared in a public Ancestry member tree"
     }
    ],
    "title": "Timberman at Ervin, laborer in the Depression",
@@ -2425,7 +2474,13 @@
     "A family tree says Hannah was born in July 1855 at Arkansas City, Desha County, Arkansas; a second WikiTree profile for her gives Illinois. WikiTree lists only Tom and Grady as her children."
    ],
    "ev": "probable",
-   "note": "Birth conflict: the dates above (1855) come from a family tree (July 1855, Arkansas City, Desha Co.; a second WikiTree profile says Illinois); the 1910 census age of 53 would give c.1857. No original record for her birth has been seen."
+   "note": "Birth conflict: the dates above (1855) come from a family tree (July 1855, Arkansas City, Desha Co.; a second WikiTree profile says Illinois); the 1910 census age of 53 would give c.1857. No original record for her birth has been seen.",
+   "imgs": [
+    {
+     "s": "img/stones/hannah_grimes_moffitt_headstone_1.jpg",
+     "cap": "Headstone: Hannah E. Grimes Moffitt, 1855-1923, wife of Henry H. Moffitt. Photograph shared in a public Ancestry member tree"
+    }
+   ]
   },
   {
    "id": "nathan",
@@ -2834,7 +2889,6 @@
    "branch": "smith",
    "gen": 1,
    "rel": "Great-grandfather",
-   "av": "smith_satterfield_grave.jpg",
    "imgs": [
     {
      "s": "img/smith_satterfield_grave.jpg",
@@ -3504,6 +3558,10 @@
     {
      "s": "img/rec/census_1880_satterfield_butler.jpg",
      "cap": "1880 U.S. census, Renfrow, Butler County, Kentucky: James H. Satterfield, 41, farmer, with wife Leucinda and children including Henry, John C., Sidney and James D."
+    },
+    {
+     "s": "img/stones/james_henry_satterfield_headstone_2.jpg",
+     "cap": "Headstone at Reed Cemetery: 'Father, J. H. Satterfield'. Photograph shared in a public Ancestry member tree"
     }
    ],
    "ph": "jh_satterfield"
@@ -3642,7 +3700,13 @@
    "note": "Named as parents in a sister's obituary; probable, not yet proven by an original record.",
    "src": "1900 U.S. census; obituary of Hazel King (Find a Grave 200655081).",
    "rel": "2nd great-grandparents",
-   "ev": "probable"
+   "ev": "probable",
+   "imgs": [
+    {
+     "s": "img/stones/lizzie_newton_shackleford_headstone_1.jpg",
+     "cap": "Headstone: Catherine E. Shackelford, Feb 20 1873 - Nov 8 1951. Photograph shared in a public Ancestry member tree"
+    }
+   ]
   },
   {
    "id": "nortonsr",
@@ -5139,6 +5203,10 @@
     {
      "s": "img/rec/tx_death_1947_dois_moffitt.jpg",
      "cap": "Texas death certificate for Dois Lafayette Moffitt, Lamar County, 25 August 1947: fracture of the fifth cervical vertebra, accident of 21 August at the Red River bridge; parents Grady Moffitt and Mary Shackelford."
+    },
+    {
+     "s": "img/stones/dois_moffitt_headstone_1.jpg",
+     "cap": "Military headstone: Dois L. Moffitt, Oklahoma, SC1c USNR, World War II, Feb 16 1921 - Aug 25 1947. Photograph shared in a public Ancestry member tree"
     }
    ]
   },
@@ -6289,6 +6357,14 @@
     {
      "s": "img/p/joel_young_color.jpg",
      "cap": "Studio portrait of Joel John Thompson as a young man, the photograph handwritten 'Joel John Thompson' (restored and colorized). Photograph shared in a public Ancestry member tree"
+    },
+    {
+     "s": "img/p/joel_ira_later.jpg",
+     "cap": "Joel and Ira Thompson in later life, standing by a white frame house (color print). Photograph shared in a public Ancestry member tree"
+    },
+    {
+     "s": "img/stones/joel_j_thompson_headstone_4.jpg",
+     "cap": "Joel John and Ira Mae Thompson's shared headstone: Ira Mae (Nov 23 1892 - Jun 17 1985), Joel John (Jan 29 1892 - Jun 20 1977), 'At Peace'. Photograph shared in a public Ancestry member tree"
     }
    ],
    "ph": "joel_ira"
@@ -6507,6 +6583,10 @@
     {
      "s": "img/docs/dawes_card_510_tims_jb.jpg",
      "cap": "Dawes Card 510: James B. Tims, wife Mary J., and children, with Vinson W. and Emeline Tims named as his parents"
+    },
+    {
+     "s": "img/stones/james_b_tims_headstone_2.jpg",
+     "cap": "Shared headstone of James B. Tims and his wife. Photograph shared in a public Ancestry member tree"
     }
    ],
    "ph": "jimmie_tims"
@@ -6607,6 +6687,10 @@
     {
      "s": "img/news/highhill_pete_thompson_1948.jpg",
      "cap": "Church school superintendents of the Rufe Circuit, 1948-49: \"High Hill . . . Pete Thompson, Fort Towson\" (Minutes of the Indian Mission of Oklahoma, page 14)"
+    },
+    {
+     "s": "img/stones/peter_p_thompson_headstone_1.jpg",
+     "cap": "Military headstone: Peter P. Thompson, Pvt., U.S. Army, World War I. Photograph shared in a public Ancestry member tree"
     }
    ]
   },
@@ -12242,6 +12326,253 @@
    "tags": [],
    "quotes": [],
    "kv": []
+  },
+  {
+   "id": "graves-cherokee-1838",
+   "name": "Gilliam Graves in Cherokee County, Georgia",
+   "years": "1838",
+   "branch": "hulsey",
+   "rel": "4th great-grandfather",
+   "place": "Cherokee County, Georgia",
+   "kv": [
+    [
+     "On a county jury",
+     "5 Nov 1838, Cherokee Co., Ga. (also Dec 1835)"
+    ],
+    [
+     "Stockade in his county",
+     "Fort Buffington, near Canton"
+    ],
+    [
+     "Roundup proclaimed",
+     "10 May 1838, Gen. Winfield Scott at New Echota"
+    ],
+    [
+     "Later",
+     "Montgomery Co., Ark., tax lists by 1853; Union volunteer 1864"
+    ]
+   ],
+   "src": "Gilliam Graves's Cherokee County jury service (Dec 1835 and 5 Nov 1838) as given on his own page; James Mooney, Myths of the Cherokee, 19th Annual Report of the Bureau of American Ethnology (1900), \"The Removal, 1838-39,\" pp. 130-133, and the note \"Removal forts, 1838\" (https://archive.org/details/mythsofcherokee00moon); Wikipedia, Cherokee County, Georgia (land lottery of 1832; Etowah, now Canton, county seat 1833)",
+   "title": "A juror in Cherokee County, the year of the roundup",
+   "hook": "In November 1838 Gilliam Graves sat on a county jury a few months after soldiers emptied the Cherokee farms of his county into a stockade.",
+   "body": [
+    "Gilliam Graves is on the Cherokee County, Georgia, jury lists twice, in December 1835 and on 5 November 1838. The county had been carved out of the Cherokee Nation's Georgia land, and the state gave that land to white men by lottery in 1832. Its seat, first called Etowah, is Canton today.",
+    "In May 1838 the rest of the story arrived. Gen. Winfield Scott set up at the Cherokee capital, New Echota, and on 10 May told the Cherokee that \"before another moon had passed every Cherokee man, woman, and child must be in motion\" for the West. About 7,000 regulars, militia and volunteers were used. Stockade forts were built to hold the people until they could be moved, and Mooney lists five in Georgia: Fort Scudder in Lumpkin County, Fort Gilmer in Gilmer County, Fort Coosawatee in Murray County, Fort Talking Rock in Pickens County and \"Fort Buffington, near Canton, in Cherokee county.\"",
+    "Mooney, who gathered the story from people who had lived it, wrote: \"Families at dinner were startled by the sudden gleam of bayonets in the doorway and rose up to be driven with blows and oaths along the weary miles of trail that led to the stockade. Men were seized in their fields or going along the road, women were taken from their wheels and children from their play.\" Looters followed the soldiers, and many families, looking back from a ridge, \"saw their homes in flames.\" A Georgia volunteer later said: \"I fought through the civil war and have seen men shot to pieces and slaughtered by thousands, but the Cherokee removal was the cruelest work I ever knew.\"",
+    "When about seventeen thousand people had been gathered into the stockades the removal began. Mooney says \"hundreds died in the stockades and the waiting camps,\" mostly from the rations, and that \"over 4,000\" Cherokee died as a direct result of the removal.",
+    "Nothing in the record says what Gilliam saw or did that summer. The jury lists place him in the county; they do not say where he lived in it. But when he was called to serve on 5 November 1838, the Cherokee families of his county had been gone from their farms for some months. By 1853 he was on the tax lists of Montgomery County, Arkansas, and in January 1864 he volunteered as a Union private at the age of 45."
+   ],
+   "ev": "probable",
+   "tags": [],
+   "quotes": [
+    {
+     "t": "I fought through the civil war and have seen men shot to pieces and slaughtered by thousands, but the Cherokee removal was the cruelest work I ever knew.",
+     "c": "A Georgia volunteer, quoted in James Mooney, Myths of the Cherokee (1900), p. 130"
+    }
+   ],
+   "note": "Gilliam's jury service comes from the Graves family compilation cited on his own page; Mooney does not mention him or any juror. The page numbers are those of the Annual Report edition. This is a place-and-time story: nothing seen says Gilliam took any part in the roundup."
+  },
+  {
+   "id": "doaksville-june-1861",
+   "name": "Doaksville, June 1861",
+   "years": "1861",
+   "branch": "thompson",
+   "rel": "Place where Vincent B. Tims (4th great-grandfather) kept store",
+   "place": "Doaksville, Choctaw Nation",
+   "kv": [
+    [
+     "Meeting at Doaksville",
+     "Wednesday of the first week of June 1861 (counting from the dates the witness gives)"
+    ],
+    [
+     "Speaker",
+     "Capt. Robert M. Jones, \"the wealthiest Choctaw\""
+    ],
+    [
+     "Witness",
+     "Rev. John Edwards, superintendent of Wheelock girls' seminary"
+    ],
+    [
+     "Tims at Doaksville",
+     "Doak & Tims contracts 1838-39; sued in Texas 1849; \"V. B. Tims, P. M.\" there in Sept 1864"
+    ]
+   ],
+   "src": "John Edwards, \"My Escape from the South in 1861,\" The Chronicles of Oklahoma 43, no. 1 (Spring 1965), pp. 58-89, esp. 70-73 and the editor's notes 13-15 (https://archive.org/details/chroniclesofokla4319okla); Chronicles of Oklahoma 41 (1963), Doaksville postmaster letters of 1864 (https://archive.org/details/chroniclesofokla4119okla); Encyclopedia of Oklahoma History and Culture, Choctaw County and Hugo (okhistory.org, entries CH051 and HU010)",
+   "title": "\"Hung up to the first limb\": Doaksville, June 1861",
+   "hook": "In the first week of June 1861 a Northern missionary learned that a meeting at Doaksville, the town where Vincent Tims kept store, had called for hanging men who would not take the South's side.",
+   "body": [
+    "John Edwards, a Presbyterian missionary from New York, had taught at Spencer Academy and since 1853 ran Wheelock Seminary for Choctaw girls. In 1861, as the Choctaw Nation was pressed toward the Confederacy, he refused to pledge himself to take up arms for the South. His account of what followed was printed by the Oklahoma Historical Society a century later, with the editor's remark that a writer at Goodland had told her of the story, \"It just would not do to print!\"",
+    "A few weeks earlier, riding back from Pine Ridge, Edwards had come through Doaksville and found that \"The Confederate flag was flying over the town.\" On 1 and 2 June the Principal Chief, George Hudson, and Peter Pitchlynn stayed with the Edwardses on their way to a special council at Doaksville. Hudson carried a message recommending neutrality; Edwards later heard \"that he was compelled by a vigilance committee to change it recommending the Choctaws to join the South.\"",
+    "Then, he writes, \"On Thursday afternoon I learned that on Wednesday a public meeting had been held at Doaksville, the capital, at which Capt. Robert M. Jones, the wealthiest Choctaw, took the ground that 'every man that was not with them must be hung up to the first limb between heaven and hell.'\" The next morning a neighbor, Mrs. Dukes, came to say \"the committee are to be here today to hang you.\" He handed his keys to a friend, had his pony Jerry saddled, prayed with his wife and was on the road \"probably within 15 minutes of the time the word came.\" His plan was that Mrs. Edwards would follow with the children, and the editor credits her with managing the family's escape.",
+    "Jones, the editor's note says, owned about 500 enslaved people, plantations on the Red River and \"a large store at Doaksville.\" His house, Rose Hill, stood east of present Hugo; the state encyclopedia says it burned in 1912.",
+    "Vincent B. Tims had been a trader at Doaksville since the late 1830s, in the firm of Doak & Tims, and in 1864 he signed Confederate mail contracts there as \"V. B. Tims, P. M.\" The Edwards account never names him, and nothing seen says what Tims said or did that week. It records only the town where he did business and the climate in it."
+   ],
+   "ev": "probable",
+   "tags": [
+    "choctaw"
+   ],
+   "quotes": [
+    {
+     "t": "every man that was not with them must be hung up to the first limb between heaven and hell.",
+     "c": "Capt. Robert M. Jones, as reported by John Edwards, Chronicles of Oklahoma 43 (1965), p. 72"
+    },
+    {
+     "t": "The Confederate flag was flying over the town.",
+     "c": "John Edwards, Chronicles of Oklahoma 43 (1965), p. 70"
+    }
+   ],
+   "note": "Place story. The dates are worked out from Edwards's own \"1st and 2nd of June\" and \"the following Monday\"; he gives no date for the Doaksville meeting. The editor places Jones's home four miles southeast of Hugo; the encyclopedia says six miles east."
+  },
+  {
+   "id": "pine-belt-runaway-1915",
+   "name": "The Pine Belt logging train, 25 June 1915",
+   "years": "1915-1920",
+   "branch": "moffitt",
+   "rel": "Place: the lumber company of Choctaw County where Grady Moffitt worked as a timberman",
+   "place": "Fort Towson, Choctaw County, Oklahoma",
+   "kv": [
+    [
+     "Date",
+     "25 June 1915"
+    ],
+    [
+     "Injured",
+     "Clifford Riggs, log hauler, paid $2 a day"
+    ],
+    [
+     "Claimed",
+     "$6,000; compound fracture of right leg and ankle; 32 days in bed"
+    ],
+    [
+     "Company",
+     "Pine Belt Lumber Company, Fort Towson; logging railroad about 15 miles long"
+    ],
+    [
+     "Decided",
+     "Oklahoma Supreme Court, 6 April 1920 (rehearing denied 14 Dec 1920)"
+    ]
+   ],
+   "src": "Pine Belt Lumber Co. v. Riggs, 80 Okla. 28 (1920), Supreme Court of Oklahoma, on appeal from the District Court of Choctaw County (https://static.case.law/okla/80/); Grady Moffitt's 1917 draft card and the Pine Belt company as given on the family pages",
+   "title": "The logging train that ran away, 25 June 1915",
+   "hook": "A log hauler jumped from a runaway train on the Pine Belt Lumber Company's railroad near Fort Towson and broke his leg; the company said he had signed away his right to sue.",
+   "body": [
+    "The Pine Belt Lumber Company ran a mill, dry kilns and planers at Fort Towson and a railroad about 15 miles north into the woods, along which it logged. Clifford Riggs hauled logs by wagon and team and was paid $2 a day. His petition says the company gave its workers passes to ride the train between Fort Towson and the woods.",
+    "On 25 June 1915, Riggs says in his petition, he boarded a train near his work and \"the train in going down a steep grade got out of the control of the train men operating the same and ran away down the grade.\" He \"believed that the only chance to save his life was by jumping.\" He landed with a compound fracture of the right leg and ankle, was in bed 32 days, and said his injuries were permanent. He sued in the Choctaw County district court for $6,000, charging that the air brakes and steam brakes were old, worn and insufficient, and had been for a long time.",
+    "The company answered that its track was only a tramway for hauling logs and not a common carrier, that Riggs had been careless and had accepted the risk, and that before boarding he had signed a paper releasing it from any claim for injuries on the train. A jury found for Riggs.",
+    "On 6 April 1920 the Oklahoma Supreme Court affirmed. A contract, it said, \"whereby the servant, in consideration of the employment, or of the wages, agrees to release and discharge his master from liability on account of injuries caused by the negligence of his master\" is forbidden by the state constitution and \"void as against public policy.\" The opinion does not state how much the jury awarded.",
+    "Two years after Riggs jumped, Grady Moffitt, 25, put \"timberman\" and \"C. D. Neese, Ervin, Oklahoma\" on his draft card in the same county. Which sawmill bought his timber is not recorded, and the county's biggest sawmill was the Pine Belt company's at Fort Towson. Nothing links Riggs to the family. The case shows what a timber hand's day could end in, and what a signed paper did not protect against."
+   ],
+   "ev": "probable",
+   "tags": [],
+   "quotes": [
+    {
+     "t": "the train in going down a steep grade got out of the control of the train men operating the same and ran away down the grade",
+     "c": "Petition of Clifford Riggs, as summarized in Pine Belt Lumber Co. v. Riggs, 80 Okla. 28 (1920)"
+    }
+   ],
+   "note": "The injury is Riggs's allegation as stated in the opinion; the jury found for him and the court affirmed. The link to Grady is the lumber industry of the same county."
+  },
+  {
+   "id": "hagansport-murder-1898",
+   "name": "J. P. Austin, killed near Hagansport",
+   "years": "1898-1906",
+   "branch": "smith",
+   "rel": "Place: the Hagansport neighborhood where John B. and Emma Smith (2nd great-grandparents) farmed",
+   "place": "Hagansport, Franklin County, Texas",
+   "kv": [
+    [
+     "Killed",
+     "Sunday, 28 Aug 1898, on a field trail 12 or 13 miles north of Mount Vernon"
+    ],
+    [
+     "Hired killer",
+     "T. C. Wallace, \"a man at the sawmill\"; death sentence 1904, reversed twice"
+    ],
+    [
+     "Planner",
+     "H. J. Carbough; life in the penitentiary, affirmed 7 Mar 1906"
+    ],
+    [
+     "Widow",
+     "Ella (Austin) Johnson, who testified that she had been in the plot"
+    ],
+    [
+     "Smiths at Hagansport",
+     "Charles Oscar born there 1889; the family on its own farm in the 1900 census"
+    ]
+   ],
+   "src": "Wallace v. State, 46 Tex. Crim. 341 (8 June 1904); Wallace v. State, 48 Tex. Crim. 318 (31 May 1905); Carbough v. State, 49 Tex. Crim. 452 (7 Mar 1906), Court of Criminal Appeals of Texas, on appeal from the district courts of Franklin and Camp counties (https://static.case.law/tex-crim/46/, /48/, /49/); Handbook of Texas, Hagansport; Charles Oscar Smith's page for the Smith farm",
+   "title": "A Sunday in August 1898: the Austin murder at Hagansport",
+   "hook": "In August 1898 a farmer near Hagansport was shot on his way to his field by a man hired at the sawmill; the court cases ran until 1906.",
+   "body": [
+    "On Sunday, 28 August 1898, J. P. Austin walked from his house toward his field in the bottom, \"across the lake,\" and did not come home. His wife Ella took the children to church at Hagansport, a mile or a mile and a half away. That night he was still gone. On Monday morning she went back to Hagansport and asked a neighbor named Martin to look for him, and told him to try the trail from the lake to the field.",
+    "He was found there, killed. The Texas Court of Criminal Appeals later said the killing occurred \"twelve or thirteen miles north\" of Mount Vernon. Ella Austin, by then Mrs. Johnson, told the jury why she knew where to send Martin. She said that H. J. Carbough \"wanted me to take the life of my husband so that he and I could marry,\" and that she refused. Weeks later he said he would not do it himself, \"but would get some one that would.\" In July he told her \"there was a man at the sawmill by the name of T. C. Wallace and that he would be all right to do the work,\" for \"seventy-five or a hundred dollars.\" The week before the killing, she said, Carbough warned her not to let the oldest little boy go with his papa.",
+    "On the evening of the killing, she testified, Wallace came to her house on foot, carrying a long bundle wrapped in a sack, and said: \"Your man is down yonder; the work is done; the man is down yonder between the fields on the trail. You know me by Carbough.\"",
+    "Wallace was held in jail for months before he was indicted, and was tried in Franklin County five days after the indictment, some five years after the killing. The jury gave him death. On 8 June 1904 the Court of Criminal Appeals reversed, finding that he should have had a continuance to bring in witnesses and that the prosecutor had urged the jury that if he was not at the scene, \"in God's name he should have told where he was.\" The case was moved to Camp County and tried again; on 31 May 1905 the court reversed that verdict too, for errors in instructing the jury about the testimony of accomplices. Carbough was tried in Camp County as an accomplice and given life in the penitentiary, and on 7 March 1906 the court affirmed.",
+    "The opinions do not say what became of Wallace after the second reversal, or whether the widow was ever charged. They place the murder in the Hagansport neighborhood during the years the Smiths were farming there: Charles Oscar was nine in the summer of 1898, and by 1900 his father owned the farm. Nothing seen connects the family to anyone in the case."
+   ],
+   "ev": "probable",
+   "tags": [],
+   "quotes": [
+    {
+     "t": "Your man is down yonder; the work is done; the man is down yonder between the fields on the trail.",
+     "c": "T. C. Wallace to Mrs. Austin, as she testified; Wallace v. State, 46 Tex. Crim. 341 (1904)"
+    },
+    {
+     "t": "He wanted me to take the life of my husband so that he and I could marry.",
+     "c": "Ella (Austin) Johnson, testimony quoted in Wallace v. State, 46 Tex. Crim. 341 (1904)"
+    }
+   ],
+   "note": "Court record, not a newspaper account. The widow's testimony is the account of an admitted accomplice, and the court twice reversed Wallace's conviction, so his guilt was never settled in these opinions. The family connection is the place and the years only."
+  },
+  {
+   "id": "frogville-sawmill-killing-1912",
+   "name": "Frogville, July 1912",
+   "years": "1912-1914",
+   "branch": "moffitt",
+   "rel": "Place: where grandfather John Winfred Moffitt was born in 1925",
+   "place": "Frogville, Choctaw County, Oklahoma",
+   "kv": [
+    [
+     "Date",
+     "18 July 1912, near Frogville"
+    ],
+    [
+     "Killed",
+     "Sloan Pool, keeper of the log scale at the Frogville sawmill"
+    ],
+    [
+     "Convicted",
+     "John Buxton, sentenced to hang (21-27 Nov 1912); his father A. F. Buxton acquitted"
+    ],
+    [
+     "Decided",
+     "Affirmed by the Oklahoma Criminal Court of Appeals, 22 Sept 1914"
+    ],
+    [
+     "John Winfred Moffitt",
+     "Born at Frogville, 25 Oct 1925"
+    ]
+   ],
+   "src": "Buxton v. State, 11 Okla. Crim. 85, 143 Pac. 58 (22 Sept 1914), on appeal from the District Court of Choctaw County (https://static.case.law/okla-crim/11/); John Winfred Moffitt's birthplace as given on his own page",
+   "title": "A quarrel over the log count at the Frogville sawmill",
+   "hook": "In July 1912 a log cutter shot the scaler at the Frogville sawmill five times over a pay settlement, thirteen years before John Moffitt was born there.",
+   "body": [
+    "Frogville, on the Red River in Choctaw County, was a place of about forty families when John Winfred Moffitt was born there in October 1925. Thirteen years earlier it had a sawmill, and the sawmill had a log scale. Sloan Pool kept it; a man named Wyrick was the sawyer. The log count in the scaler's book was what a cutter's settlement was figured from, so what he wrote was money.",
+    "On 18 July 1912 Pool went out to scale logs with Jess Allen and the old logger A. F. Buxton. A. F. Buxton's son John joined them. Allen, an eyewitness, said they all sat on a log while Pool showed John the book, with every log set down. John said he did not want it to be \"like the last month's pay day,\" and the two argued about whether Pool had \"figured\" him out of money. Allen said that Pool replied, \"in that way I mean to dispute your word,\" and \"John shot him.\" Pool was hit five times. Allen swore that John stood over the body and said, \"the next log you scale will be in hell,\" and shot him again. Then, Allen said, John took Pool's knife from his pocket, asked \"how are you going to swear about this?\", cut his own arm with it and pressed the knife into the dead man's hand.",
+    "Witnesses said Buxton had been talking for weeks. On the day, a man heard him say he would have his settlement from \"those damned fellows over there.\" At the start of July another had heard him say that \"the company was beating him\" and that he meant to kill Pool. Buxton swore the opposite: that Pool had cut him once on the breast and twice on the arm with \"a little old pocket knife,\" that he had been carrying the pistol because he was told two men were waiting in the woods to kill him, and that \"I shot him to keep him from killing me.\" His sister, Mrs. Ruth Holden, said Allen had told her in jail that he had sworn falsely against her father.",
+    "The jury in the Choctaw County district court found John Buxton guilty of murder on 21 November 1912 and set his punishment at death; his father was found not guilty. The judge sentenced him on 27 November to be hanged. On 22 September 1914 the Criminal Court of Appeals affirmed. Because a new state law on executions had taken effect while the appeal was pending and the date fixed had passed, it sent the case back to Choctaw County to set another day. The opinion says nothing about what followed.",
+    "The Moffitts were not yet in the county in 1912; at the 1910 census Grady, 18 or 19, was in Stone County, Arkansas, making barrel staves. By 1917 he was a timberman at Ervin, in this same timber country. The record shows what a day at a mill in Choctaw County could come to when the scale and the pay disagreed."
+   ],
+   "ev": "probable",
+   "tags": [],
+   "quotes": [
+    {
+     "t": "the next log you scale will be in hell",
+     "c": "John Buxton, as testified by Jess Allen; Buxton v. State, 11 Okla. Crim. 85 (1914)"
+    }
+   ],
+   "note": "Court opinion; the quotations are testimony as summarized by the court. Nothing seen connects the Moffitt family to anyone in the case. Grady's 1910 stave-making and 1917 timber work are from his own page."
   }
  ],
  "TIMELINE": [
@@ -12825,6 +13156,12 @@
    "p": "sd-abner-fifteen"
   },
   {
+   "y": "1838",
+   "t": "Gilliam Graves is called for jury service in Cherokee County, Georgia, on 5 November, months after the Cherokee roundup there.",
+   "b": "hulsey",
+   "p": "graves-cherokee-1838"
+  },
+  {
    "y": "1839",
    "t": "Archibald O'Neal brings his family from Tennessee to Gibson County, Indiana; he dies there on 25 April 1841.",
    "b": "hulsey",
@@ -12998,6 +13335,12 @@
    "b": "hulsey",
    "p": "daniel",
    "i": "p/oneal_headstone_restored.jpg"
+  },
+  {
+   "y": "1861",
+   "t": "A committee is said to be coming to hang a missionary near Doaksville, where Vincent Tims keeps store.",
+   "b": "thompson",
+   "p": "doaksville-june-1861"
   },
   {
    "y": "1862",
@@ -13342,6 +13685,12 @@
    "p": "atoka-agreement-allotment"
   },
   {
+   "y": "1898",
+   "t": "J. P. Austin is shot on a field trail near Hagansport on Sunday, 28 August, by a man his wife's friend hired at the sawmill.",
+   "b": "smith",
+   "p": "hagansport-murder-1898"
+  },
+  {
    "y": "1899",
    "t": "Simon is born; his grandmother Emeline is the midwife and swears the enrollment affidavit.",
    "b": "thompson",
@@ -13526,6 +13875,12 @@
    "p": "choc-william-h-pisachubbe"
   },
   {
+   "y": "1912",
+   "t": "The scaler at the Frogville sawmill is shot five times by a log cutter on 18 July over a pay settlement.",
+   "b": "moffitt",
+   "p": "frogville-sawmill-killing-1912"
+  },
+  {
    "y": "1914",
    "t": "Oscar Smith marries Artie Pearl Satterfield.",
    "b": "smith",
@@ -13536,6 +13891,12 @@
    "t": "Grady Moffitt and Mary Tinsley Shackleford marry about this year.",
    "b": "moffitt",
    "p": "grady-mary-family"
+  },
+  {
+   "y": "1915",
+   "t": "A logging train runs away on the Pine Belt Lumber Company's railroad near Fort Towson.",
+   "b": "moffitt",
+   "p": "pine-belt-runaway-1915"
   },
   {
    "y": "1916",
@@ -14070,9 +14431,16 @@
   "sd-oneal-brothers",
   "sd-mary-wilson",
   "sd-katie-siblings",
-  "sd-louderback"
+  "sd-louderback",
+  "graves-cherokee-1838",
+  "doaksville-june-1861",
+  "pine-belt-runaway-1915",
+  "hagansport-murder-1898",
+  "frogville-sawmill-killing-1912"
  ],
  "PHOTO_ORDER": [
+  "parsis_portrait",
+  "daniel_oneal",
   "henry_hannah",
   "gilbert_parsis",
   "rebecca_graves",
@@ -14081,8 +14449,6 @@
   "katie_hulsey",
   "john_c_satterfield",
   "emeline_tims",
-  "oneal_headstone",
-  "watt_headstone",
   "joel_ira",
   "mary_tinsley",
   "benjamin_family",
