@@ -2342,6 +2342,10 @@
     {
      "s": "img/rec/navy_chief_1945_moffitt.jpg",
      "cap": "U.S. Navy report of changes for USS Chief (AM-315), month ending 1 December 1945: line 22 lists MOFFITT, John Winfred, service number 885 16 93, rated Fl c."
+    },
+    {
+     "s": "img/places/uss-ross-san-pedro-bay-1944.jpg",
+     "cap": "USS Chickasaw lays smoke beside the mine-damaged USS Ross in San Pedro Bay, October–November 1944, before Ross entered ARD-19. U.S. Navy / National Archives 80-G-319420; NavSource."
     }
    ],
    "title": "Navy corpsman in the Pacific",
@@ -2390,7 +2394,8 @@
     ]
    ],
    "note": "His exact role during the attack is not recorded, and his rate is not confirmed. The muster index labels his second ship MCM 14, a mix-up with a later ship; AM-315 is correct. The rolls run past his 9 May 1946 discharge, probably because the index follows roll dates. His service file can be requested from the National Personnel Records Center.",
-   "src": "U.S. Navy muster rolls, 1943–46; VA BIRLS death file; 1940 U.S. Census, Hugo; obituary, The Paris News, Sept. 1990; ship histories (DANFS, NavSource). 1930 U.S. Census, Martin Co., Tex; U.S., Newspapers.com Obituary Index (Paris News 20 Sep 1990; Daily Oklahoman 21 Sep 1990); U.S., Department of Veterans Affairs BIRLS Death File; U.S., Social Security Death Index."
+   "src": "U.S. Navy muster rolls, 1943–46; VA BIRLS death file; 1940 U.S. Census, Hugo; obituary, The Paris News, Sept. 1990; ship histories (DANFS, NavSource). 1930 U.S. Census, Martin Co., Tex; U.S., Newspapers.com Obituary Index (Paris News 20 Sep 1990; Daily Oklahoman 21 Sep 1990); U.S., Department of Veterans Affairs BIRLS Death File; U.S., Social Security Death Index.; NavSource, ARD-19 photographs, including 1946 Subic Bay views (after his service aboard).; U.S. Navy / National Archives photograph 80-G-319420, https://www.navsource.net/archives/05/563.htm.",
+   "source_link": "https://www.navsource.net/archives/09/67/6701.htm"
   },
   {
    "id": "grady",
@@ -13731,6 +13736,27 @@
      "cap": "McCurtain Gazette, 10 October 1945, page 7: docket line \"Katie Hulsey vs. Os... divorce.\""
     }
    ]
+  },
+  {
+   "id": "edith-thompson-slaton",
+   "name": "Edith Irene (Thompson) Slaton",
+   "years": "1939–2012",
+   "branch": "thompson",
+   "gen": 1,
+   "rel": "Great-aunt",
+   "ev": "probable",
+   "tags": [
+    "choctaw"
+   ],
+   "title": "Edith Thompson Slaton of Choctaw County",
+   "hook": "Junior Thompson’s sister was proud of her Choctaw heritage and loved time with her family.",
+   "body": [
+    "Edith Irene Thompson was born on 27 December 1939 in Hugo, Oklahoma, to Simon and Frances Thompson. Her family included her brother William “Junior” Thompson, whose daughter Barbara became Stephen’s mother.",
+    "Edith’s family remembered how much she enjoyed being with them and her pride in her Choctaw heritage. The Biskinik published a color portrait of Edith with her 2012 memorial.",
+    "Edith died in Durant on 12 April 2012, at age 72. The family’s memorial named her brothers Junior and Leonard and sisters Ethel and Norma among those who had died before her."
+   ],
+   "src": "Choctaw Nation, Biskinik, May 2012, p. 16, https://www.choctawnation.com/wp-content/uploads/2022/07/may-2012-biskinik.pdf#page=16.",
+   "source_link": "https://www.choctawnation.com/wp-content/uploads/2022/07/may-2012-biskinik.pdf#page=16"
   }
  ],
  "TIMELINE": [
@@ -15471,6 +15497,7 @@
   }
  ],
  "ORDER": [
+  "edith-thompson-slaton",
   "william",
   "simon",
   "charles",
