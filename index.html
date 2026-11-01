@@ -588,6 +588,7 @@ function openPerson(id){
     if (p.src) h += `<p class="src">Sources: ${esc(p.src)}</p>`;
     if (!imgs.length && !p.ph && !p.place) h += `<p class="empty">No story written up yet for this ancestor.</p>`;
   }
+  if (p.source_link && /^https:\/\//i.test(p.source_link)) h += `<p class="src"><a href="${esc(p.source_link)}" target="_blank" rel="noopener noreferrer">View obituary and photograph ↗</a></p>`;
   const body = document.getElementById("pBody"); body.innerHTML = h;
   scrim.hidden = false; panel.hidden = false;
   const top = () => { body.scrollTop = 0; };
@@ -776,6 +777,7 @@ function openTreePerson(tid){
     if (kv.length) h += `<dl class="kv">${kv.map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join("")}</dl>`;
     h += `<div class="note">This person comes from the family's Ancestry tree and has not yet been checked against original records.</div>`;
   }
+  if (p.source_link && /^https:\/\//i.test(p.source_link)) h += `<p class="src"><a href="${esc(p.source_link)}" target="_blank" rel="noopener noreferrer">View obituary and photograph ↗</a></p>`;
   const body = document.getElementById("pBody"); body.innerHTML = h; body.scrollTop = 0;
   scrim.hidden = false; panel.hidden = false;
   document.getElementById("pClose").focus({preventScroll: true});
@@ -824,7 +826,7 @@ function renderStats(){
     `So far: ${ALL.length} ancestors, relatives and places, ${ALL.filter(x => x.title).length} stories, ${photos} photographs and records, and ${D.TIMELINE.length} dated events.`;
 }
 
-Promise.all([fetch("data.json?v=20261101m4").then(r => r.json()), fetch("tree.json?v=20261101m4").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
+Promise.all([fetch("data.json?v=20261101m5").then(r => r.json()), fetch("tree.json?v=20261101m5").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
   D = data; ALL = [...D.P, ...D.EXTRA]; byId = Object.fromEntries(ALL.map(x => [x.id, x]));
   T = tree;
   if (T) for (const [id, p] of Object.entries(T.people)) for (const par of [p.f, p.m]) if (par) childOf[par] = id;
