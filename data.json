@@ -1690,7 +1690,8 @@
    "body": [
     "Salathiel Hulsey was a blacksmith in Union County, Georgia, and in 1850 the census taker found him with his wife Elizabeth and a three-year-old son, Benjamin Franklin. Benjamin later named a son Martin Salatheil Hulsey for him. He died in the early 1850s. Trees name his parents as Jesse Hamilton Hulsey and Mary Tharp, but no record supports this.",
     "The 1850 Union County, Georgia census, as transcribed in the San Diego Genealogical Society Hulsey file, lists Salatheil Hulsey, 43, born Georgia, with Elizabeth, 35, and Maryann 19, Robert R. 17, Elizabeth 12, Jesse 10, Jennings 8, Benjamin 6, Lillean 3 and Nancy 1, plus Arminda Burnet 20 and J. C. Bell 23. His son Robert R. is in Hempstead County, Arkansas by 1860, aged 27, with a one-year-old son named Salathel G. (lead for the identification).",
-    "The Benjamin of that household is 6, not 3, which would put his birth about 1844 and not 2 February 1847; that difference has not been settled. The original census film should be checked."
+    "The Benjamin of that household is 6, not 3, which would put his birth about 1844 and not 2 February 1847; that difference has not been settled. The original census film should be checked.",
+    "Salathiel's father may be Jesse Hulsey, the wounded Revolutionary pensioner of Hall County, Georgia, but only trees say so (lead). See \"Jesse Hulsey, the wounded soldier of Hall County.\""
    ],
    "ev": "probable",
    "note": "The transcription gives Salathiel's age as 43 in 1850, about 1807, and Elizabeth's as 35; the household has eight children including Benjamin. Trees naming his parents as Jesse Hamilton Hulsey and Mary Tharp are unsupported. Benjamin's age conflicts inside the sources: the first paragraph says a three-year-old Benjamin (b. 2 Feb 1847, family record), the 1850 transcription says 6 (b. c.1844).",
@@ -1895,10 +1896,23 @@
     [
      "Bee Spring stone",
      "'Wife of Rev. A. A. Stevenson' (from the family memorial listing); no published transcription of Bee Spring confirms it"
+    ],
+    [
+     "Mother (Casey family history)",
+     "Mary Watson (no maiden name or father given)"
+    ],
+    [
+     "Marriage",
+     "8 Dec 1838 to Abner A. Stevenson (Casey family history)"
     ]
    ],
    "src": "History of Methodist Churches and Institutions in Middle Tennessee, 1787-1956 (1956), 'Bee Spring Memorial' by Sterling E. Stovall, historian (archive.org/details/historyofmethodi00cart)",
-   "ev": "probable"
+   "ev": "probable",
+   "body": [
+    "The Casey family history of the Stevensons says that on 8 December 1838 Abner Stevenson \"married Martha S. Watson,\" born 19 February 1823 in Tennessee, \"the daughter of Mary Watson.\" That is the only parent it gives: a mother, Mary, with no maiden name, and no father.",
+    "WikiTree's profile for Martha gives parents William Watson (born about 1778, Prince William County, Virginia, died 1840 in Giles County) and Mary Brown (born about 1787, Buckingham County, Virginia, died 1860). Neither WikiTree page cites a record; they cite only FamilySearch tree numbers. No marriage bond, will, guardian record or census listing Martha with a Watson family in Giles County has been found, and the middle name Still has not been explained."
+   ],
+   "note": "Her parents are not proven. The Casey family history names her mother as Mary Watson; WikiTree's William Watson and Mary Brown rest on no cited record. The Isham Brown of Giles County lead noted elsewhere remains unchecked."
   },
   {
    "id": "pearson",
@@ -1951,7 +1965,8 @@
     "A neighbor's recollection, \"Old Times in Giles\" in the Pulaski Citizen of 25 September 1884, places the family near Bee Spring church in 1815 or 1816 and calls him \"a Methodist preacher all his life\"; it is told under that title.",
     "The 1956 history of Middle Tennessee Methodist churches says of Bee Spring that Elam Stevenson organized it in 1815, helped by Stephen Loyd, Meshack Boice and James McCowan, and that the 1855 frame church was destroyed by the tornado of 29 April 1909. Of the old site only the cemetery remained, 'sadly neglected.'",
     "Elam's eleven children, as the Casey family history reconstructs them: Catherine A. (1808-1888, Mrs. William Hamilton, Limestone County, Alabama); William Payne (1810-1892); James Calvin (1813-1899); Abner Arrington (1816-1896); Willis McKendree (1818-1900); Minerva J. (1820, an infant who died that December); John Baxter (1821); Thomas Coleman (1825-1906); Lydia Amanda (1827-1901); Elam Augustus (1829-1886, who moved to Arkansas); and Gilbert Worth (b. 1830), a schoolteacher and minister who married Martha J. Tharp. Some of their stories are told under their own names.",
-    "The stone over Elam and Lydia at Bee Spring reads, on his side, \"Nearly 62 years a minister of the gospel. He was pure in heart and life,\" and on hers, \"Nearly 70 years a Methodist. She consecrated her household to God and the church.\" She died on 6 March 1872, a day the cemetery list and the Casey history agree on."
+    "The stone over Elam and Lydia at Bee Spring reads, on his side, \"Nearly 62 years a minister of the gospel. He was pure in heart and life,\" and on hers, \"Nearly 70 years a Methodist. She consecrated her household to God and the church.\" She died on 6 March 1872, a day the cemetery list and the Casey history agree on.",
+    "Lydia's own parents are named in a note by her son Rev. John Baxter Stevenson: William Payne, who served six months in the Revolutionary militia, and Catherine Arnold. See \"Lydia Payne's parents, in her son's words.\""
    ],
    "quotes": [
     {
@@ -1997,6 +2012,10 @@
     [
      "Church",
      "Bee Spring Methodist Episcopal Church, South, organized 1815 by Elam Stevenson; third building 1855; destroyed by tornado 29 Apr 1909"
+    ],
+    [
+     "Lydia's parents",
+     "William Payne and Catherine Arnold of Burke Co., N.C. (Rev. John B. Stevenson, her son)"
     ]
    ],
    "ph": "elam_stevenson"
@@ -2089,7 +2108,10 @@
    "rel": "5th great-grandparents",
    "place": "Presbyterians of Rowan, later Iredell County, North Carolina, married in 1781. James's will of June 1828 names his son Elam among his heirs. He served in the Rowan County militia in 1781.",
    "src": "Will of James Stevenson, Iredell Co., NC (1828); State Records of North Carolina, vol. 17; Christian Advocate obituary of Elam Stevenson (1875).",
-   "ev": "probable"
+   "ev": "probable",
+   "body": [
+    "A 1955 compiler's note in a Skinner family book says James Stevenson II was the son of James Stevenson, an Irish immigrant who died in 1820, and Sally Kelly of Maryland, and that Jane was the daughter of John Stevenson (d. 1794) and a Thompson. These are leads only; see the entries for each."
+   ]
   },
   {
    "id": "noble",
@@ -5523,6 +5545,209 @@
    ],
    "src": "WikiTree Willis-11599 (Henry Willis) and Willis-1450 (Lavina Willis), citing Pulaski Co., Ky. Marriage Book 1, p. 28, Pulaski Co. court and tax records, and the Washington Co., Va. minute books",
    "note": "No document seen names Henry Willis as Lavina's father; the bond shows only that he stood security. Henry's birth date and place on WikiTree (1746, Augusta Co., Va.) have no source, and the Cochran marriage is not documented. Mary's maiden name is therefore a lead. The Henry Willis of Edmonson County may be a son or an unrelated man."
+  },
+  {
+   "id": "payne-william-catherine",
+   "name": "William Payne & Catherine (Arnold) Payne",
+   "years": "c.1754–1807 · c.1751–c.1817",
+   "branch": "hulsey",
+   "gen": 5,
+   "rel": "5th great-grandparents",
+   "child": "elam",
+   "place": "Burke County, North Carolina, where their daughter Lydia was born on 16 August 1787. Lydia married Rev. Elam Stevenson and followed him to Giles County, Tennessee.",
+   "kv": [
+    [
+     "Link to Lydia",
+     "Her son Rev. John Baxter Stevenson: \"Her father was William Payne. Her mother was Catherine Arnold.\""
+    ],
+    [
+     "Lydia",
+     "Born 16 Aug 1787, Burke Co., N.C.; died 6 Mar 1872, Giles Co., Tenn. (gravestone)"
+    ],
+    [
+     "Burke Co. censuses",
+     "\"Wm Pain\" in 1790 (12 in household) and William Paine in 1800 (13), as transcribed on WikiTree; widow in 1810"
+    ],
+    [
+     "William's death",
+     "15 Oct 1807, Burke Co. (WikiTree; date not checked against a record)"
+    ],
+    [
+     "Children (WikiTree)",
+     "Thomas; Abner Burgess Payne (1777-1845); Sarah (Paine) Boyce (1782-1855); Lydia C."
+    ]
+   ],
+   "src": "Casey family history (Interactive Family Histories, Master Publication 3-98, 'Elam Stevenson'), quoting Rev. John Baxter Stevenson; The Ancestry of Carolyn Gail Skinner (archive.org id ancestryofcaroly00skin; quotes the same statement and a printed 'Table of Descents', Nashville, which shows Lydia Payne, 1787-1872, as the daughter of William Payne and Catherine Arnold); WikiTree Paine-2065, Paine-1996, Payne-15010 (1790 and 1800 Burke Co. censuses as transcribed there); McFerrin, History of Methodism in Tennessee, vol. 2 (1871), account of Bee Spring (archive.org/details/historymethodis00mcfegoog).",
+   "title": "Lydia Payne's parents, in her son's words",
+   "hook": "The only direct statement of who Lydia Payne's parents were comes from her preacher son: William Payne, a six-month Revolutionary militiaman, and Catherine Arnold.",
+   "body": [
+    "Rev. Elam Stevenson's wife Lydia is the mother of Abner and the grandmother of Frank Stevenson, but her own people were not named in any record the family kept. The answer comes from her son, Rev. John Baxter Stevenson, who wrote a short note about his mother. As the Casey family history and a Skinner family book print it: \"My mother was born in Burke Co., N.C., Aug. 16. Her father was William Payne. Her mother was Catherine Arnold. Her ancestry were of English extraction. Her father belonged to the militia during the Revolutionary War, and was in the service six months.\" The Casey version adds that she joined the Methodist church in August 1802 and that \"her parents were both of the Methodist Church.\" The Skinner book also cites a printed \"Table of Descents,\" published at Nashville, for the same two names.",
+    "That makes the link a son's own written statement about his mother's parents, which is as direct as a family record gets, but it is a recollection and not a birth or marriage record, and no will or deed naming Lydia as William's daughter has been seen. The place fits the Stevenson story: the Skinner book says Elam married Lydia Paine in North Carolina in 1805, and Burke County lies in the same western North Carolina country as Elam's birthplace in what is now Alexander County.",
+    "A William Paine household, spelled \"Wm Pain\" in 1790, is on the Burke County censuses of 1790 and 1800 as WikiTree transcribes them (twelve people in 1790, thirteen in 1800), and a widow of the name is on the 1810 census. WikiTree gives William's death as 15 October 1807 and carries a gravestone memorial at Rocky Mount Cemetery, Granite Falls. It lists four children: Thomas; Abner Burgess Payne (1777-1845); Sarah, who married a Boyce; and Lydia C. Sarah's profile puts her at Bee Spring, Giles County, in the 1830 and 1840 censuses, with a grave in the Bee Spring Cemetery, so Lydia seems to have had a sister in the same church neighborhood. McFerrin's history of the Bee Spring society names a Rev. Meshach Boyce among its first members and says he is buried in the churchyard there; that he was Sarah's husband is a guess (lead).",
+    "WikiTree makes William a son of John Paine of Spotsylvania County, Virginia, whose 1764 will names a son William (see \"A Spotsylvania will with six sons\"). The same page says two different men named William Paine have been attached to Catherine Arnold's family and that more research is needed to rule one out, so the step back from William Paine of Burke County to John Paine is a lead."
+   ],
+   "ev": "probable",
+   "tags": [],
+   "quotes": [
+    {
+     "t": "Her father was William Payne. Her mother was Catherine Arnold. Her ancestry were of English extraction.",
+     "c": "Rev. John Baxter Stevenson, son of Elam and Lydia, on his mother (Casey family history, p. 3-98)"
+    },
+    {
+     "t": "Her father belonged to the militia during the Revolutionary War, and was in the service six months.",
+     "c": "Rev. John Baxter Stevenson, same statement"
+    }
+   ],
+   "note": "Probable and not proven: the statement is a son's recollection, no original record naming Lydia as William's daughter has been seen, and two William Paines are confused on the WikiTree pages. The 1790 and 1800 census entries and the death date are quoted from WikiTree transcriptions and have not been checked against the census pages. A different William Paine (b. 1744, Paine-1997) is marked there as a rejected match."
+  },
+  {
+   "id": "arnold-william-lydia-bell",
+   "name": "William Arnold & Lydia (Bell) Arnold",
+   "years": "c.1714–after 1774 · c.1725–after 1774",
+   "branch": "hulsey",
+   "gen": 6,
+   "rel": "6th great-grandparents",
+   "child": "payne-william-catherine",
+   "place": "Spotsylvania County, Virginia. Catherine Arnold is said to have been born there about 1751.",
+   "kv": [
+    [
+     "Will",
+     "Spotsylvania Co., Va., Will Book E, p. 119: will of William Arnold, 17 Sep 1774, naming a daughter \"Catey\" (as cited on WikiTree)"
+    ],
+    [
+     "Link to Catherine",
+     "Lead: \"Catey\" is not shown to be the wife of William Payne"
+    ]
+   ],
+   "src": "WikiTree Arnold-4611 (Catherine Arnold) and Arnold-1584 (William Arnold), citing Spotsylvania County Will Book E, p. 119; not seen in the original.",
+   "title": "A Spotsylvania will with a daughter 'Catey'",
+   "hook": "A 1774 Spotsylvania will names a daughter Catey, and a tree makes her Catherine Arnold, wife of William Payne of Burke County.",
+   "body": [
+    "WikiTree's page for Catherine Arnold says she was born about 1751 in Spotsylvania County, Virginia, a daughter of William Arnold (about 1714 to after 1774) and Lydia Bell. The one record it cites is Spotsylvania Will Book E, page 119, the will of William Arnold, who died there on 17 September 1774 and \"names a daughter Catey.\" The page marks her marriage to William Payne \"Citation Needed.\"",
+    "The Spotsylvania origin is the only thing that makes the link plausible: WikiTree also puts William Paine's own family in Spotsylvania, and says he and his wife sold his share of his father's estate there on 20 November 1777 before the family moved to Burke County, North Carolina. A daughter named Lydia (Lydia Stevenson) may echo Catherine's mother Lydia. None of this has been checked against the will, the deed or a record that gives Catherine's age or origin, so Catherine Arnold's parents are carried here only as a lead."
+   ],
+   "ev": "lead",
+   "tags": [],
+   "quotes": [],
+   "note": "Lead only. The will was not seen; 'Catey' is a common Virginia form of Catherine, and the Payne-Arnold marriage record, if one exists, has not been found."
+  },
+  {
+   "id": "stev-james-sr-sally-kelly",
+   "name": "James Stevenson, immigrant from Ireland, & Sally Kelly",
+   "years": "d. 1820 · d. c.1820–21",
+   "branch": "hulsey",
+   "gen": 6,
+   "rel": "6th great-grandparents",
+   "child": "jamesstev",
+   "place": "Said to have been born in Ireland and to have settled in North Carolina; his wife Sally Kelly is called 'of Md.'",
+   "kv": [
+    [
+     "Statement",
+     "\"The father of James Stevenson was not William Stevenson, immigrant, but was James Stevenson, immigrant from Ireland, who died in 1820. James I married Sally Kelly of Md., who died about 1820 or 1821.\""
+    ],
+    [
+     "Where printed",
+     "The Ancestry of Carolyn Gail Skinner, quoting data received 11 May 1955"
+    ]
+   ],
+   "src": "The Ancestry of Carolyn Gail Skinner (archive.org id ancestryofcaroly00skin; text seen only as search excerpts), Stevenson chapter, citing 'data received May 11, 1955'.",
+   "title": "A 1955 note on the Stevenson immigrant",
+   "hook": "A family compiler's 1955 notes say James Stevenson of Iredell County was the son of an Irish immigrant James, not of the William some trees give him.",
+   "body": [
+    "A family book on the Skinner ancestry covers the Stevensons because Rev. Elam Stevenson's descendants married into that line. Its Stevenson chapter first follows a chart that starts with William Stevenson, born in County Antrim, Ireland, who came to Pennsylvania in 1748 and to Iredell County, North Carolina in 1762. Then it adds a correction from \"data received May 11, 1955\": \"The father of James Stevenson was not William Stevenson, immigrant, but was James Stevenson, immigrant from Ireland, who died in 1820. James I married Sally Kelly of Md., who died about 1820 or 1821. James Stevenson II, who m. Jane Stevenson, died in 1828. She died 1814.\"",
+    "James II is the James Stevenson whose 1828 will in Iredell County names his son Elam; his wife Jane is the Jane Stevenson of the next generation. The chapter also quotes McFerrin that Elam was the son of James Stephenson of Iredell, now Alexander County, \"who was a Captain in the Revolutionary War.\" Another passage in the same book says James Stevenson \"was born in Ireland. Settled in North Carolina about 1775\" and had two other sons besides Elam, which does not agree with the 1955 note (James II would then be the immigrant).",
+    "The dates do not fit well: if James II was born about 1746, an immigrant father who died in 1820 and a mother who died about 1820 or 1821 would both have been very old. The 1955 note is therefore a family compiler's statement, not a record, and the parents of James Stevenson stay a lead until a will, deed or church record names them."
+   ],
+   "ev": "lead",
+   "tags": [],
+   "quotes": [
+    {
+     "t": "The father of James Stevenson was not William Stevenson, immigrant, but was James Stevenson, immigrant from Ireland, who died in 1820.",
+     "c": "The Ancestry of Carolyn Gail Skinner, citing data received 11 May 1955"
+    }
+   ],
+   "note": "Conflict inside the same book: one passage makes William Stevenson of County Antrim (to Pennsylvania 1748, Iredell Co. 1762, d. 1809) the father, the 1955 note rejects that and names a James. Only search excerpts of the book could be read; the item is no longer downloadable, so the full chapter was not seen."
+  },
+  {
+   "id": "stev-john-d1794-thompson",
+   "name": "John Stevenson & a Thompson",
+   "years": "d. 1794 · dates unknown",
+   "branch": "hulsey",
+   "gen": 6,
+   "rel": "6th great-grandparents",
+   "child": "jamesstev",
+   "place": "Parents of Jane Stevenson, wife of James Stevenson of Iredell County, North Carolina",
+   "kv": [
+    [
+     "Statement",
+     "\"Jane was the daughter of John Stevenson (d. 1794), and a Thompson.\""
+    ],
+    [
+     "Jane",
+     "Died 1814 (same source); Stephenson is taken to be her maiden name"
+    ],
+    [
+     "Where printed",
+     "The Ancestry of Carolyn Gail Skinner, citing data received 11 May 1955"
+    ]
+   ],
+   "src": "The Ancestry of Carolyn Gail Skinner (archive.org id ancestryofcaroly00skin; text seen only as search excerpts), Stevenson chapter.",
+   "title": "Jane Stevenson's parents: John, and a Thompson",
+   "hook": "The same 1955 notes say Elam Stevenson's mother Jane was a Stevenson by birth, daughter of John Stevenson, who died in 1794, and a woman named Thompson.",
+   "body": [
+    "Elam Stevenson's mother is only ever called Jane Stevenson, and the compiler of the Skinner book's Stevenson chapter noted that the wives' maiden names show \"Stephenson was Jane's maiden name, and not a variation\" of her husband's. In the same note: \"James Stevenson II, who m. Jane Stevenson, died in 1828. She died 1814. Jane was the daughter of John Stevenson (d. 1794), and a Thompson.\"",
+    "Nothing more is given: no first name or dates for Jane's mother, no place, no will. This is the only place found that names Jane's parents, and it is a compiler's statement from 1955 with no source printed in the excerpts that could be read, so it stays a lead. Another passage of the book puts the marriage of James and Jane about 1765 and calls James a soldier of the Revolution."
+   ],
+   "ev": "lead",
+   "tags": [],
+   "quotes": [
+    {
+     "t": "Jane was the daughter of John Stevenson (d. 1794), and a Thompson.",
+     "c": "The Ancestry of Carolyn Gail Skinner, citing data received 11 May 1955"
+    }
+   ],
+   "note": "Lead only. Same limits as the entry on James's father: the book's own sources are not in the readable excerpts."
+  },
+  {
+   "id": "hulsey-jesse-revolutionary",
+   "name": "Jesse Hulsey (Revolutionary soldier)",
+   "years": "c.1760–1843",
+   "branch": "hulsey",
+   "gen": 5,
+   "rel": "5th great-grandfather",
+   "child": "salathiel",
+   "place": "Greenville District, South Carolina, in 1800; Hall County, Georgia, from 1820. Wounded by Indians in the Revolution and paid a North Carolina pension.",
+   "kv": [
+    [
+     "Pension",
+     "North Carolina legislature: power of attorney from Hall Co., Ga., 25 Nov 1822 and 6 Dec 1826; \"wound which I received by the Indians in the Revolutionary War\" (as printed on WikiTree)"
+    ],
+    [
+     "Hall County",
+     "In the 1820 census of Hall Co.; drew land in the 1827 lottery (Troup Co.); pensioner aged 81 in the 1840 census"
+    ],
+    [
+     "Link to Salathiel",
+     "Lead: WikiTree Hulsey-316 lists him as father; no record naming both found"
+    ]
+   ],
+   "src": "San Diego Genealogical Society, Hulsey Families (2000), 'Hulsey families' by Sybil McRay (archive.org sdgsfamilies64); WikiTree Hulsey-210 (Jesse Hamilton Hulsey) and Hulsey-316 (Salathiel Hulsey).",
+   "title": "Jesse Hulsey, the wounded soldier of Hall County",
+   "hook": "A Revolutionary veteran with an Indian wound and a North Carolina pension lived in Hall County, Georgia, when Salathiel Hulsey did; whether he was Salathiel's father is open.",
+   "body": [
+    "The Hall County, Georgia history of the Hulsey families, as the San Diego society reprinted it, says that Jesse Hulsey, \"a veteran of the American Revolution,\" was still living in Greenville District, South Carolina, in 1800, one of only two of the family left in the state, was in Hall County in 1820, and drew a Revolutionary land lottery lot in Troup County in 1827 (granted 12 January 1829). In the 1840 pension census he is a Revolutionary soldier, age 81, in Hall County.",
+    "WikiTree adds his North Carolina pension: on 25 November 1822 Jesse, \"of Hawl Co. Ga.,\" named Samuel Carson his attorney to collect the pension the North Carolina legislature allowed him \"in consideration of a wound which I received by the Indians in the Revolutionary War\"; he appointed another agent in 1826, and a man swore in Wake County in December 1835 that he had seen him alive in September in Hall County. WikiTree calls him Jesse Hamilton Hulsey, born 1760 in Goochland County, Virginia, and lists the blacksmith Salathiel Hulsey (born about 1807, Franklin County, Georgia) among his many children by Mary Tharp.",
+    "The link to our Salathiel is a family-tree assertion. The pieces that fit are place and names: Salathiel is on the 1840 census of Hall County, and his 1850 household in Union County has a Jesse, 10, and a Jennings, 8, while the Georgia history names a Jennings Hulsey who stayed in South Carolina with Jesse in 1800. The pieces that do not fit: the same WikiTree page says a son Jesse Jr. married Mary Tharp in \"1779\" in Franklin County, Alabama, which cannot be right; the Georgia history treats Jesse as possibly a brother of James Hulsey Sr. of Hall County; and no will, deed or census that lists Salathiel as Jesse's son has been found."
+   ],
+   "ev": "lead",
+   "tags": [],
+   "quotes": [
+    {
+     "t": "in consideration of a wound which I received by the Indians in the Revolutionary War",
+     "c": "Jesse Hulsey of Hall Co., Ga., 25 Nov 1822, pension power of attorney (as printed on WikiTree)"
+    }
+   ],
+   "note": "Lead only. Trees also name Mary Tharp as Salathiel's mother; her place is not carried here because the tree's own marriage date is impossible. Benjamin Franklin Hulsey's descent from Salathiel, and G. W. Hulsey's from Benjamin, still rest on grave memorials and family tradition; see the entries for Benjamin and Salathiel."
   }
  ],
  "EXTRA": [
@@ -13811,6 +14036,12 @@
    "p": "mig-nordyke-1761-1805"
   },
   {
+   "y": "1807",
+   "t": "William Payne, father of Lydia (Payne) Stevenson, dies in Burke County, North Carolina, on 15 October according to a family-tree date.",
+   "b": "hulsey",
+   "p": "payne-william-catherine"
+  },
+  {
    "y": "1808",
    "t": "Elisha Stout Blackshear makes his will in Jones County on 11 December, leaving a granddaughter a black horse called Pal.",
    "b": "moffitt",
@@ -15342,7 +15573,12 @@
   "bd-henry-willis-pulaski",
   "oscar-1938-stabbing",
   "bennie-1947",
-  "oscar-katie-court"
+  "oscar-katie-court",
+  "payne-william-catherine",
+  "arnold-william-lydia-bell",
+  "stev-james-sr-sally-kelly",
+  "stev-john-d1794-thompson",
+  "hulsey-jesse-revolutionary"
  ],
  "PHOTO_ORDER": [
   "parsis_portrait",
