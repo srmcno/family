@@ -159,11 +159,16 @@
     [
      "1940 census",
      "Age 6, at home with parents, four siblings, and the Pisachubbe grandparents, Jeter"
+    ],
+    [
+     "1950 census",
+     "Age 16, living with his parents, brothers and sisters and his Pisachubbe grandmother at Jeter, Choctaw Co., Okla.; his father was a farmer working his own land"
     ]
    ],
    "body": [
     "William 'Junior' Thompson Jr. (1934-2007) was the third of five children in Simon and Frances's household in 1940, listed as 'Junior, 6,' with four siblings and his Pisachubbe grandparents at Jeter. He married Mary Ellen Hulsey, joining the Thompson and Hulsey families."
-   ]
+   ],
+   "src": "1950 U.S. census, Jeter, Choctaw Co., Okla. (dwelling 421)."
   },
   {
    "id": "simon",
@@ -240,9 +245,17 @@
     [
      "Wife's grandparents",
      "Legion and Molsey Austin; Joseph and Eunice Pisachubbe"
+    ],
+    [
+     "1950 census",
+     "Farmer working his own farm at Jeter, Choctaw Co.; household of nine, including wife Frances, son William Jr. (16) and mother-in-law Lizzie Pisachubby (58)"
+    ],
+    [
+     "Died",
+     "14 Sep 1990 (The Paris News obituary index, 17 Sep 1990, naming his parents Joseph P. and Betsy Tims Thompson; the index gives his birth as 14 May, the Dawes card says 4 May 1899)"
     ]
    ],
-   "src": "Dawes Card 1283 and enrollment affidavits (Oct. 1899); WWI Draft Registration, Choctaw County, 1918; 1940 U.S. Census, Jeter, Choctaw County; obituary, Sept. 1990. Choctaw County farm tenancy: Encyclopedia of Oklahoma History and Culture, 'Choctaw County.' Find a Grave (Long Creek Cemetery); Simon Thompson allotment file (Roll 3492); Dawes Cards 1363 and 1580."
+   "src": "Dawes Card 1283 and enrollment affidavits (Oct. 1899); WWI Draft Registration, Choctaw County, 1918; 1940 U.S. Census, Jeter, Choctaw County; obituary, Sept. 1990. Choctaw County farm tenancy: Encyclopedia of Oklahoma History and Culture, 'Choctaw County.' Find a Grave (Long Creek Cemetery); Simon Thompson allotment file (Roll 3492); Dawes Cards 1363 and 1580; 1950 U.S. census, Jeter, Choctaw Co., Okla. (dwelling 421); U.S., Newspapers.com Obituary Index (The Paris News, 17 Sep 1990)."
   },
   {
    "id": "frances",
@@ -270,9 +283,13 @@
     [
      "Why no Dawes card",
      "Born 1907, after the 4 March 1906 cutoff for newborns"
+    ],
+    [
+     "1950 census",
+     "Age 42 at Jeter with Simon, five of their children and her mother Lizzie Pisachubby (58); \"Keeping house\""
     ]
    ],
-   "src": "U.S. Censuses (Ancestry); Dawes Cards 1363 and 1580; Newborn Card 1203; Act of Congress approved 26 April 1906 (birth affidavit forms); 1930 and 1940 U.S. censuses.",
+   "src": "U.S. Censuses (Ancestry); Dawes Cards 1363 and 1580; Newborn Card 1203; Act of Congress approved 26 April 1906 (birth affidavit forms); 1930 and 1940 U.S. censuses; 1950 U.S. census, Jeter, Choctaw Co., Okla. (dwelling 421).",
    "body": [
     "Frances Pisachubbe was born in 1907, after the rolls had closed to new births. The April 1906 act that let the Commission add newborns asked each parent to swear the child was \"living March 4, 1906,\" so she has no Dawes card, unlike her cousin Colbert, whose card 1203 was sworn in 1906. Her place in the record is the family around her: her father Robert and grandmother Eunice on Card 1580, her mother Lizzie and grandparents Legion and Molsey Austin on Card 1363.",
     "Her grandmother Eunice died 19 May 1927, leaving Robert and William H. Pisachubbe as her only heirs. Her other grandmother, Molsey, appears in the 1915-16 list of restriction-removal cases as \"Molsey Pisachubbi, Austin,\" and her mother Lizzie appears in the same list as \"Lizzie Pisachubbee, nee Austin.\" Frances married Simon Thompson in 1925, whose own enrollment affidavit had been sworn in 1899 by his grandmother Emeline Tims. By 1930 the young couple shared a house at Jeter with her parents, and in 1940 they owned a $400 farm there with five children."
@@ -1090,7 +1107,7 @@
    "body": [
     "Mary Ellen Hulsey was born on 22 August 1938 at Broken Bow, Oklahoma, the fifth of Oscar and Katie's children. In April 1940 she was 2, living with her parents and four older brothers and sisters at South Fork in Montgomery County, Arkansas. She married William 'Junior' Thompson Jr. (1934-2007), and died on 4 November 2002 at Hugo. She is buried at Woodlawn Cemetery in Choctaw County."
    ],
-   "src": "Find a Grave memorial 66405962; 1940 U.S. Census, South Fork, Montgomery Co., Ark; Cemeteries of Choctaw County Oklahoma, Ron Henson, USGenWeb Archives (files.usgwarchives.net/ok/choctaw/cemeteries/cemchoc.txt)",
+   "src": "Find a Grave memorial 66405962; 1940 U.S. Census, South Fork, Montgomery Co., Ark; Cemeteries of Choctaw County Oklahoma, Ron Henson, USGenWeb Archives (files.usgwarchives.net/ok/choctaw/cemeteries/cemchoc.txt); 1950 U.S. census, Jeter, Choctaw Co., Okla.; U.S., Newspapers.com Obituary Index (The Daily Oklahoman, 6 Nov 2002).",
    "imgs": [
     {
      "s": "img/mary_ellen_hulsey.jpg",
@@ -1109,6 +1126,18 @@
     [
      "Woodlawn Cemetery",
      "No Woodlawn listing is among the Choctaw County cemetery files in the USGenWeb archive (Shoat Springs, Mount Olivet, Boswell, Mayhew, Shoals), so the stone is not confirmed by a transcription"
+    ],
+    [
+     "1950 census",
+     "Age 12, living with her mother and three brothers at Jeter, Choctaw Co., Okla."
+    ],
+    [
+     "Obituary",
+     "The Daily Oklahoman, 6 Nov 2002, age 64 (Newspapers.com Obituary Index)"
+    ],
+    [
+     "Brother",
+     "Bennie George, 13, was killed on his bicycle near Hugo in July 1947, when she was 8"
     ]
    ],
    "ev": "probable"
@@ -1130,9 +1159,10 @@
     "Oscar and Katie had seven children: Franklin Leon (1929-2015), Delphia (1931-2005), Bennie George (1933-1947), Glen (1935-2001), Mary Ellen (1938-2002), Charlie (1940-2010) and Willis Delane (1943-2004). Mary Ellen was born at Broken Bow, Oklahoma, and the family was back in Montgomery County by 1940.",
     "Oscar's obituary in the McCurtain Gazette of 20 June 1982 says he was born at Hot Springs, 'lived in the area for many years,' and died at his home at Holly Creek, between Broken Bow and Wright City in the old sawmill country. His funeral was held at 2 p.m. on Sunday at Wheelock Cemetery, with Rev. Bob Lewis officiating. He was survived by four sons, two daughters, two sisters, four brothers, ten grandchildren and nine great-grandchildren.",
     "Wheelock was the Presbyterian mission to the Choctaws; its church was organized in December 1832 by Rev. Alfred Wright, whose 1853 gravestone in the same graveyard is copied in a 1914 book. Oscar was buried among the missionaries' graves in 1982.",
-    "A McCurtain County marriage license lists him by name late in the war years. The Oklahoma State Courts Network index of McCurtain County District Court carries case MLI-2024-00524, a marriage license filed 27 February 1943 in the style \"HULSEY, OSCAR F VS. STEVESON, KATIE,\" with both named as Applicants and the single docket entry \"TEXT IMPORTED LICENSE - Document Available at Court Clerk's Office.\" The spelling Steveson is the clerk's, and Oscar F. with Katie fits the couple (probable; the index gives no ages or residences). The family's own account puts the marriage on 27 October 1927 and their children began in 1929, so the 1943 license may be a later or second legal marriage, or a re-licensing; the index does not say, and the paper license is held by the clerk in Idabel."
+    "A McCurtain County marriage license lists him by name late in the war years. The Oklahoma State Courts Network index of McCurtain County District Court carries case MLI-2024-00524, a marriage license filed 27 February 1943 in the style \"HULSEY, OSCAR F VS. STEVESON, KATIE,\" with both named as Applicants and the single docket entry \"TEXT IMPORTED LICENSE - Document Available at Court Clerk's Office.\" The spelling Steveson is the clerk's, and Oscar F. with Katie fits the couple (probable; the index gives no ages or residences). The family's own account puts the marriage on 27 October 1927 and their children began in 1929, so the 1943 license may be a later or second legal marriage, or a re-licensing; the index does not say, and the paper license is held by the clerk in Idabel.",
+    "Four records bear on the middle of his life. In January 1938 he was arrested after a two-day search and charged with assault with intent to kill in the stabbing of Eddie Stevenson, his brother-in-law (see the story \"A family quarrel ends in a stabbing\"). He was divorced from Katie in Arkansas on 26 September 1941 and married Hester May Whittington at Mount Ida on 3 November 1941. In 1945 Katie sued for divorce in McCurtain County, and in 1947 he is named as living at Wright City in the obituary of his son Bennie, who was killed on a bicycle near Hugo."
    ],
-   "src": "1940 U.S. Census, South Fork, Montgomery County, Ark.; WWII Draft Registration, 1940; McCurtain Gazette obituary, 20 Jun 1982; obituary of Katie Cornelia Hulsey (2009); McCurtain Gazette obituary, 20 Jun 1982 (transcribed on Find a Grave 180238729); R. E. Flickinger, The Choctaw Freedmen and the Story of Oak Hill Industrial Academy (1914), p. 22 (archive.org/details/choctawfreed00flick); Holly Creek Cemetery list (files.usgwarchives.net/ok/mccurtain/cemeteries/hollycreek.txt); OSCN docket search, McCurtain County District Court, case MLI-2024-00524 (https://www.oscn.net/dockets/GetCaseInformation.aspx?db=mccurtain&number=MLI-2024-00524)",
+   "src": "1940 U.S. Census, South Fork, Montgomery County, Ark.; WWII Draft Registration, 1940; McCurtain Gazette obituary, 20 Jun 1982; obituary of Katie Cornelia Hulsey (2009); McCurtain Gazette obituary, 20 Jun 1982 (transcribed on Find a Grave 180238729); R. E. Flickinger, The Choctaw Freedmen and the Story of Oak Hill Industrial Academy (1914), p. 22 (archive.org/details/choctawfreed00flick); Holly Creek Cemetery list (files.usgwarchives.net/ok/mccurtain/cemeteries/hollycreek.txt); OSCN docket search, McCurtain County District Court, case MLI-2024-00524 (https://www.oscn.net/dockets/GetCaseInformation.aspx?db=mccurtain&number=MLI-2024-00524); Valliant Tribune, 4 Feb 1938, p. 8; McCurtain Gazette, 2 Feb 1938 p. 6 and Oct 1938 / Sep 1939 dockets; Arkansas, U.S., Divorces, 1923-1975; Arkansas, U.S., County Marriages Index, 1837-1957; McCurtain Gazette, Nov-Dec 1945 legal notices; 1920 U.S. census, Sulphur Twp., McCurtain Co., Okla.; 1950 U.S. census; U.S., Social Security Death Index.",
    "kv": [
     [
      "Children",
@@ -1157,6 +1187,26 @@
     [
      "Court and prison indexes",
      "No criminal case, lunacy commitment or penitentiary entry in his name appears in the OSCN McCurtain, Choctaw and Pushmataha county dockets, the reported Oklahoma appellate cases to 1953, or the Oklahoma Historical Society penitentiary card index 1906-1976; the files themselves are not online (lead)"
+    ],
+    [
+     "1920 census",
+     "Age 10, one of six children in George W. Hulsey's household at Sulphur Twp., McCurtain Co., Okla. (brothers John, Noah, Fred and Grady, sister Ruby)"
+    ],
+    [
+     "Charged",
+     "Late January 1938: assault with intent to kill after the stabbing of his brother-in-law Eddie Stevenson at Millerton (Valliant Tribune, 4 Feb 1938)"
+    ],
+    [
+     "Divorced",
+     "26 Sep 1941, Montgomery Co., Ark.; remarried 3 Nov 1941 to Hester May Whittington"
+    ],
+    [
+     "1950 census",
+     "Divorced, farmer, alone in Sulphur Twp., McCurtain Co., Okla. (probable; indexed as age 38, born Oklahoma)"
+    ],
+    [
+     "Social Security",
+     "Number issued in Arkansas before 1951; last residence Broken Bow, McCurtain Co., Okla."
     ]
    ],
    "imgs": [
@@ -1167,6 +1217,10 @@
     {
      "s": "img/places/mount_ida_ar.jpg",
      "cap": "Mount Ida, Montgomery County, Arkansas (photographed 2015). Wikimedia Commons, CC BY-SA 4.0, Brandonrush. Source: https://commons.wikimedia.org/wiki/File:Mt._Ida,_AR_001.jpg"
+    },
+    {
+     "s": "img/rec/news_1938_valliant_hulsey_assault.jpg",
+     "cap": "The Valliant Tribune, 4 February 1938: \"Oscar Hulsey faces a charge of assault with attempt to kill...\""
     }
    ]
   },
@@ -1195,14 +1249,27 @@
     [
      "Brothers and sisters",
      "Delphia, Willie, George Sherman (d. 1978, Kilgore, Tex.), Frank, Elisha, Horace Edward (1907-1998)"
+    ],
+    [
+     "Divorce",
+     "Oscar Hulsey and Katie Hulsey, Montgomery Co., Ark., 26 Sep 1941; McCurtain Co., Okla., suit no. 12,652, 1945"
+    ],
+    [
+     "1950 census",
+     "\"Kattie,\" 40, Separated, head of household at Jeter, Choctaw Co., with Glen 14, Mary 12, Charley 9 and Willis 6"
+    ],
+    [
+     "Son's death",
+     "Bennie George, 13, killed on his bicycle near Hugo, July 1947"
     ]
    ],
-   "src": "U.S. Censuses (Ancestry); Obituary, Prater-Lampton-Mills & Coffey, Hugo (transcribed on Find a Grave 36591289); Mount Olivet Cemetery, Block 2 listing (USGenWeb Archives, files.usgwarchives.net/ok/choctaw/cemeteries/mtolivet/block2.txt)",
+   "src": "U.S. Censuses (Ancestry); Obituary, Prater-Lampton-Mills & Coffey, Hugo (transcribed on Find a Grave 36591289); Mount Olivet Cemetery, Block 2 listing (USGenWeb Archives, files.usgwarchives.net/ok/choctaw/cemeteries/mtolivet/block2.txt); Arkansas, U.S., Divorces, 1923-1975; McCurtain Gazette, 10 Oct and Nov-Dec 1945; 1950 U.S. census, Jeter, Choctaw Co., Okla.; The Southeast Oklahoman (Hugo), 24 Jul 1947.",
    "hook": "She was a baby at Danville, Arkansas, married at 17, raised seven children, moved to Hugo in 1947 and lived to be 98.",
    "body": [
     "Katie Cornelia Stevenson was born on 15 October 1910 at Danville, Yell County, Arkansas, the daughter of Gilbert Franklin 'Frank' Stevenson and Parsis Jane (O'Neal) Stevenson. By 1920 she was 'Kate, 9,' on a rented farm in McCurtain County, Oklahoma. She married Oscar Hulsey on 27 October 1927, twelve days after turning 17.",
     "She moved to Hugo in 1947. She died on 30 January 2009 at 98, with services on 2 February and burial in Mount Olivet Cemetery. Her obituary counted 16 grandchildren, 32 great-grandchildren and 26 great-great-grandchildren, and noted that she was preceded in death by daughters Delphia and Mary and sons Willis, Bennie and Glen.",
-    "Katie was the youngest of seven children listed in the 1910 census at Danville: Delphia, Willie, George, Frank, Elisha, Eddie and herself, born in Indiana, Texas, Oklahoma and Arkansas. Her brother Horace Edward \"Eddie\" (1907-1998) ended his life in Portland, Oregon; her brother George Sherman died at Kilgore, Texas, in 1978. Her aunt Mary Wilson of Tuttle, Oklahoma, lived to 100, and her father's first cousin James Baxter Stevenson preached in Yell County, Arkansas, in 1883-85 (his son Eugene Hendrix became a Rhodes Scholar). See \"Seven children in the 1910 census.\""
+    "Katie was the youngest of seven children listed in the 1910 census at Danville: Delphia, Willie, George, Frank, Elisha, Eddie and herself, born in Indiana, Texas, Oklahoma and Arkansas. Her brother Horace Edward \"Eddie\" (1907-1998) ended his life in Portland, Oregon; her brother George Sherman died at Kilgore, Texas, in 1978. Her aunt Mary Wilson of Tuttle, Oklahoma, lived to 100, and her father's first cousin James Baxter Stevenson preached in Yell County, Arkansas, in 1883-85 (his son Eugene Hendrix became a Rhodes Scholar). See \"Seven children in the 1910 census.\"",
+    "The 1938 stabbing charge against Oscar involved her brother Eddie Stevenson. Her marriage ended in an Arkansas divorce on 26 September 1941 and Katie filed in McCurtain County in 1945. By April 1950 she was raising four children at Jeter, enumerated as head of household, \"Separated.\" In July 1947 her 13-year-old son Bennie George died after turning his bicycle in front of a pickup truck west of Hugo."
    ],
    "imgs": [
     {
@@ -1268,7 +1335,7 @@
     "When he died on 5 August 1935, the oldest child, William Roy, was about 30 and the youngest, George Paul, about 9 or 10; his widow, Sarah Rebecca, was 51. She died at Bandon, Oregon in 1972.",
     "Camp Pike was under heavy strain when he signed. Eleven days after the draft card, on 23 September 1918, the camp base hospital admitted 214 influenza cases in a single day, and by the end of October 12,393 men had reported sick with the disease. See \"The camp where George Hulsey was working when the influenza came.\""
    ],
-   "src": "WWI Draft Registration, Little Rock, Ark., 1918. Find a Grave (Breashears Cemetery, Montgomery Co., Ark.); 1910, 1920 and 1930 U.S. Censuses; Find a Grave Index (Breashears Cemetery); Opie et al., Epidemic Respiratory Disease (1921), pp. 15–17 and 52; Montgomery County ARGenWeb, 'Breashears Cemetery, Story' (argenweb.net/montgomery/breashears_cemetery.htm; photo study, June 2020)",
+   "src": "WWI Draft Registration, Little Rock, Ark., 1918. Find a Grave (Breashears Cemetery, Montgomery Co., Ark.); 1910, 1920 and 1930 U.S. Censuses; Find a Grave Index (Breashears Cemetery); Opie et al., Epidemic Respiratory Disease (1921), pp. 15–17 and 52; Montgomery County ARGenWeb, 'Breashears Cemetery, Story' (argenweb.net/montgomery/breashears_cemetery.htm; photo study, June 2020); 1930 U.S. census, Sulphur Twp., McCurtain Co., Okla. (dwelling 264); 1920 U.S. census, Sulphur Twp., McCurtain Co.",
    "note": "His headstone gives his birth as 24 December 1876; his draft card age of 42 points to late 1875 or 1876. The date 22 December appears in some trees as his death, but it is the date of his marriage. Which church he preached for is not recorded; the only church named in the Story cemetery records is the Story Church of God, but nothing ties him to it. Occupation caveat: the records cited here give his work as laborer at Camp Pike (1918 draft card) and tenant or renting farmer (1920, 1930 censuses); none of them calls him a preacher, so 'Rev.' rests on family usage. The Find a Grave death date 5 Aug 1935 and the family-tree 22 Dec 1935 conflict (see above).",
    "kv": [
     [
@@ -2238,10 +2305,22 @@
     [
      "Chief muster rolls",
      "1 Dec 1945 / 1 Jan 1946 to 31 May 1946"
+    ],
+    [
+     "Died",
+     "19 Sep 1990 (VA BIRLS death file and Find a Grave index); the Social Security Death Index gives 15 Sep 1990"
+    ],
+    [
+     "Obituaries",
+     "The Paris News, 20 Sep 1990 (parents named as Woodford Grady and Mary Tinsley Moffitt); The Daily Oklahoman, 21 Sep 1990, \"Hugo, John W. Moffitt, 64\""
+    ],
+    [
+     "VA file",
+     "Navy, enlisted 17 Dec 1943, discharged 9 May 1946"
     ]
    ],
    "note": "His exact role during the attack is not recorded, and his rate is not confirmed. The muster index labels his second ship MCM 14, a mix-up with a later ship; AM-315 is correct. The rolls run past his 9 May 1946 discharge, probably because the index follows roll dates. His service file can be requested from the National Personnel Records Center.",
-   "src": "U.S. Navy muster rolls, 1943–46; VA BIRLS death file; 1940 U.S. Census, Hugo; obituary, The Paris News, Sept. 1990; ship histories (DANFS, NavSource). 1930 U.S. Census, Martin Co., Tex."
+   "src": "U.S. Navy muster rolls, 1943–46; VA BIRLS death file; 1940 U.S. Census, Hugo; obituary, The Paris News, Sept. 1990; ship histories (DANFS, NavSource). 1930 U.S. Census, Martin Co., Tex; U.S., Newspapers.com Obituary Index (Paris News 20 Sep 1990; Daily Oklahoman 21 Sep 1990); U.S., Department of Veterans Affairs BIRLS Death File; U.S., Social Security Death Index."
   },
   {
    "id": "grady",
@@ -2278,7 +2357,7 @@
     "Grady and Mary lost two children at three years old, Jimmie Gaynell (1923–1926) and Henry Wayne (1934–1937), and their son Dois died in 1947. Grady died on 21 June 1972 and is buried beside Mary at Shoat Springs Cemetery near Hugo.",
     "On his 1942 \"old man's\" draft card, Grady is 50, living on North Broadway in Hugo, listed as unemployed, with his birthplace given as Stone County, Arkansas. The person who would always know his address is \"Mrs. Mannie Moffitt,\" Mary's nickname in the census too."
    ],
-   "src": "1910 U.S. Census, Franklin Twp., Stone Co., Ark.; WWI Draft Registration, Choctaw County, Okla., 1917; 1920 U.S. Census, Wilson Twp., Choctaw Co.; 1930 U.S. Census, Martin Co., Tex.; 1940 U.S. Census, Hugo; Find a Grave (Shoat Springs Cemetery); 1910, 1920 and 1930 U.S. Censuses; U.S., World War II Draft Cards (Fourth Registration), 1942; Find a Grave Index (Shoat Springs Cemetery); Shoat Springs Cemetery, Choctaw County, Oklahoma, transcription by Tammy Sharp and Karla K. Willis Sharp (USGenWeb Archives, files.usgwarchives.net/ok/choctaw/cemeteries/shoatesprings.txt)",
+   "src": "1910 U.S. Census, Franklin Twp., Stone Co., Ark.; WWI Draft Registration, Choctaw County, Okla., 1917; 1920 U.S. Census, Wilson Twp., Choctaw Co.; 1930 U.S. Census, Martin Co., Tex.; 1940 U.S. Census, Hugo; Find a Grave (Shoat Springs Cemetery); 1910, 1920 and 1930 U.S. Censuses; U.S., World War II Draft Cards (Fourth Registration), 1942; Find a Grave Index (Shoat Springs Cemetery); Shoat Springs Cemetery, Choctaw County, Oklahoma, transcription by Tammy Sharp and Karla K. Willis Sharp (USGenWeb Archives, files.usgwarchives.net/ok/choctaw/cemeteries/shoatesprings.txt); 1950 U.S. census, Grant, Choctaw Co., Okla., sheet 5, enumeration district 12-7.",
    "kv": [
     [
      "Born",
@@ -2331,6 +2410,10 @@
     [
      "Stone, Shoat Springs (transcription)",
      "'Moffitt, Woodford Grady -- Nov 6, 1891 - Jun 21, 1972', listed with Mary Tinsley"
+    ],
+    [
+     "1950 census",
+     "Indexed \"Grodey Moffitt,\" 58, head, at Grant, Choctaw Co., Okla., with wife Mamie (54) and three children; not working that week, not seeking work"
     ]
    ],
    "note": "In the 1940 listing Alton and Eldon, both born in 1928, fit as twins of 11. Several names are spelled differently across the census records (Odis, Ottis and Odas; Dais and Dois; \"Manile\" for Mary)."
@@ -2371,9 +2454,21 @@
     [
      "Stone, Shoat Springs (transcription)",
      "'Mary Tinsley -- Jun 4, 1895 - Aug 26, 1962', listed with Woodford Grady"
+    ],
+    [
+     "Obituary",
+     "The Southeast Oklahoman (Hugo), 30 Aug 1962: Mary Tinsley Moffitt, 67, wife of Grady, mother of John Moffitt; native of Gadsden, Etowah Co., Ala. (Newspapers.com Obituary Index)"
+    ],
+    [
+     "Death record",
+     "Texas death certificate index: died 26 Aug 1962 at Paris, Lamar Co., Texas; residence Grant, Choctaw Co., Okla.; her maiden name written \"Shakelford\""
+    ],
+    [
+     "1950 census",
+     "\"Mamie,\" 54, at Grant, Choctaw Co., with Grady"
     ]
    ],
-   "src": "1900 U.S. Census, Etowah Co., Ala.; Find a Grave; 1930 U.S. Census, Martin Co., Tex.; Find a Grave 77401916; Find a Grave Index (Shoat Springs Cemetery); Shoat Springs Cemetery, Choctaw County, Oklahoma, transcription by Tammy Sharp and Karla K. Willis Sharp (USGenWeb Archives, files.usgwarchives.net/ok/choctaw/cemeteries/shoatesprings.txt)",
+   "src": "1900 U.S. Census, Etowah Co., Ala.; Find a Grave; 1930 U.S. Census, Martin Co., Tex.; Find a Grave 77401916; Find a Grave Index (Shoat Springs Cemetery); Shoat Springs Cemetery, Choctaw County, Oklahoma, transcription by Tammy Sharp and Karla K. Willis Sharp (USGenWeb Archives, files.usgwarchives.net/ok/choctaw/cemeteries/shoatesprings.txt); U.S., Newspapers.com Obituary Index (The Southeast Oklahoman, 30 Aug 1962); Texas, U.S., Death Certificates, 1903-1982; 1950 U.S. census, Grant, Choctaw Co.",
    "title": "Mary Tinsley Shackleford",
    "hook": "Born in Etowah County, Alabama, in 1895, she raised nine children with Grady and is buried at Shoat Springs Cemetery.",
    "body": [
@@ -2891,7 +2986,30 @@
    "branch": "smith",
    "gen": 0,
    "rel": "Grandmother",
-   "place": "Married John W. Moffitt in Paris, Texas, on 12 June 1947. Died in Paris, Texas."
+   "place": "Married John W. Moffitt in Paris, Texas, on 12 June 1947. Died in Paris, Texas.",
+   "body": [
+    "Faye Smith was the youngest child of Charles Oscar and Artie Pearl Smith, born at Forney, Choctaw County, on 23 March 1929. She appears as \"Fay May,\" 2, in the 1930 census at Jeter and as \"Fay,\" 12, in 1940. She married John W. Moffitt at Paris, Texas, on 12 June 1947, died at Paris on 23 December 2014 and is buried at Grant Cemetery."
+   ],
+   "kv": [
+    [
+     "Born",
+     "23 Mar 1929, Forney, Choctaw Co., Okla. (Find a Grave index)"
+    ],
+    [
+     "Died",
+     "23 Dec 2014, Paris, Lamar Co., Texas; buried at Grant Cemetery, Choctaw Co., Okla."
+    ],
+    [
+     "1930 census",
+     "\"Fay May,\" 2, youngest of four children of C. O. and Pearl Smith, renting a farm at Jeter, Choctaw Co."
+    ],
+    [
+     "1940 census",
+     "\"Fay,\" 12, with her parents and two brothers on a rented farm, Hugo Route 1, Jeter"
+    ]
+   ],
+   "note": "The Find a Grave index gives her birth as 23 March 1929 at Forney, Choctaw County, so the \"c. 1928\" in the heading is the 1930 census's estimate (age 2 in April 1930).",
+   "src": "1930 U.S. census and 1940 U.S. census, Jeter, Choctaw Co., Okla.; Find a Grave index (memorial 140426039)."
   },
   {
    "id": "charles",
@@ -2908,6 +3026,10 @@
     {
      "s": "img/rec/draft_1942_charles_oscar_smith.jpg",
      "cap": "Charlie Oscar Smith's 1942 draft registration: age 52, Forney, Choctaw County, Oklahoma; born 29 May 1889 at Higgensport (Hagansport), Texas; farm work; contact Mrs. Pearl Smith."
+    },
+    {
+     "s": "img/rec/tx_death_1973_nellie_choat.jpg",
+     "cap": "Texas death certificate of Nellie Mae Choat, 7 July 1973, Paris: born 3 April 1917 at Talco, Texas; father \"Charley O. Smith,\" mother \"Pearl Satterfield\"; buried Mount Olivet, Hugo."
     }
    ],
    "place": "Born at Hagansport, Franklin County, Texas; died in Hugo.",
@@ -2920,7 +3042,8 @@
     "In June 1900 the census found \"Oscar,\" 10, in the Franklin County household of John and Emma Smith, with Vera, Luina, Lona, Allie and baby Jimmie. John owned his farm free of mortgage. Emma died on 15 March 1905, at 37, and her stone at Hagansport reads \"Emma / Wife of / J.B. SMITH / Gone but not forgotten.\"",
     "By April 1910 John B. Smith had remarried, and Oscar, 19, was working on the home farm. The same census taker, on the same day, recorded the Satterfield family a few doors away: John C. and Samantha, lately from Kentucky, and their daughter Pearl, 11. Oscar and Artie Pearl Satterfield married in 1914.",
     "They later crossed the Red River to Choctaw County, Oklahoma. Charles died on 17 August 1971 and Artie on 21 July 1983, and they are buried together in Grant Cemetery, south of Hugo. John B. Smith died in 1918 and lies beside Emma at Hagansport, in a grave \"marked with a wooden stob.\"",
-    "His 1942 draft card gives his name as Charlie Oscar Smith, 52, of Forney in Choctaw County, with mail at Hugo Route 1, working on a farm. He gives his birthplace as 'Higgensport, Texas,' the Franklin County community more often spelled Hagansport, and names Mrs. Pearl Smith as the person who would always know his address."
+    "His 1942 draft card gives his name as Charlie Oscar Smith, 52, of Forney in Choctaw County, with mail at Hugo Route 1, working on a farm. He gives his birthplace as 'Higgensport, Texas,' the Franklin County community more often spelled Hagansport, and names Mrs. Pearl Smith as the person who would always know his address.",
+    "The census pages follow Charles and Pearl from Texas to the Choctaw County farms. Their first daughter, Nellie Mae, was born at Talco, Texas, on 3 April 1917, three years after their marriage; by the 1920 census, enumerated as \"C O Smith,\" 28, they were renting a farm at Oakes Township in Choctaw County, Oklahoma. In 1930 they were at Jeter with four children, and in 1940 the census taker wrote his name as \"Oscar Msith,\" 50, a farmer on rented land on Hugo Route 1 who had worked all 52 weeks of 1939 for an income of $105. Nellie's 1973 death certificate names her parents as \"Charley O. Smith\" and \"Pearl Satterfield.\""
    ],
    "kv": [
     [
@@ -2958,10 +3081,30 @@
     [
      "Grant Cemetery",
      "About 1 mile east of Grant, sec. 14 T7S R17E; the county list counts 804 burials and no transcription is posted in the USGenWeb archive, so the stone is not confirmed by a list"
+    ],
+    [
+     "1920 census",
+     "\"C O Smith,\" 28, renting a farm at Oakes Twp., Choctaw Co., Okla., with wife Pearl (22) and daughter Nellie (2)"
+    ],
+    [
+     "1930 census",
+     "Renting a farm at Jeter, Choctaw Co.; age at first marriage 25; children Nillie M 13, Robert Lee 9, Virgal D 5 and Fay May 2"
+    ],
+    [
+     "1940 census",
+     "Indexed \"Oscar Msith,\" 50, farmer on a rented place, Hugo Route 1; sixth grade; 52 weeks worked in 1939; income $105"
+    ],
+    [
+     "1950 census",
+     "Indexed \"C C Smith,\" 61, laborer at Hugo, wife Pearl 51; worked 28 weeks in 1949 and was looking for work (probable match)"
+    ],
+    [
+     "Daughter",
+     "Nellie Mae (Smith) Choat, born 3 Apr 1917 at Talco, Texas; died 7 Jul 1973 at Paris, Texas; buried Mount Olivet Cemetery, Hugo"
     ]
    ],
    "note": "The 1900 census gives Oscar's birth as May 1890, a year off from Charles Oscar's date of 29 May 1889.",
-   "src": "1900 U.S. Census, Justice Precinct 2, Franklin Co., Tex.; 1910 U.S. Census, Hagansport Precinct, Franklin Co., Tex.; Find a Grave (Hagansport and Grant cemeteries); Handbook of Texas, 'Hagansport.'; U.S., World War II Draft Cards (Fourth Registration), 1942; Cemeteries of Choctaw County Oklahoma, Ron Henson, USGenWeb Archives (files.usgwarchives.net/ok/choctaw/cemeteries/cemchoc.txt)"
+   "src": "1900 U.S. Census, Justice Precinct 2, Franklin Co., Tex.; 1910 U.S. Census, Hagansport Precinct, Franklin Co., Tex.; Find a Grave (Hagansport and Grant cemeteries); Handbook of Texas, 'Hagansport.'; U.S., World War II Draft Cards (Fourth Registration), 1942; Cemeteries of Choctaw County Oklahoma, Ron Henson, USGenWeb Archives (files.usgwarchives.net/ok/choctaw/cemeteries/cemchoc.txt); 1920 U.S. census (Oakes, Choctaw Co.); 1930 and 1940 U.S. censuses (Jeter, Choctaw Co.); 1950 U.S. census, Hugo; Texas death certificate of Nellie Mae Choat, 1973 (Lamar Co.)."
   },
   {
    "id": "artie",
@@ -3009,10 +3152,18 @@
     [
      "Grant Cemetery",
      "No posted transcription; the county list gives the cemetery 804 burials and says it is well maintained"
+    ],
+    [
+     "Age",
+     "22 in 1920, 32 in 1930, 40 in 1940 (indexed as Pearl Smith)"
+    ],
+    [
+     "Children",
+     "Nellie Mae (1917-1973), two sons, and Faye (1929-2014)"
     ]
    ],
    "ev": "probable",
-   "src": "Find a Grave Index (Grant Cemetery); Cemeteries of Choctaw County Oklahoma, Ron Henson, USGenWeb Archives (files.usgwarchives.net/ok/choctaw/cemeteries/cemchoc.txt)"
+   "src": "Find a Grave Index (Grant Cemetery); Cemeteries of Choctaw County Oklahoma, Ron Henson, USGenWeb Archives (files.usgwarchives.net/ok/choctaw/cemeteries/cemchoc.txt); 1920, 1930, 1940 and 1950 U.S. censuses; Texas death certificate of Nellie Mae Choat, 1973."
   },
   {
    "id": "johnc",
@@ -9410,20 +9561,38 @@
     [
      "Born",
      "1920 (family listing)"
+    ],
+    [
+     "Died",
+     "13 Jan 1948, Acorn community, Mena R.F.D. 3, Polk Co., Ark."
+    ],
+    [
+     "Buried",
+     "15 Jan 1948, Storey, Arkansas"
+    ],
+    [
+     "Service",
+     "World War II veteran (certificate)"
     ]
    ],
-   "src": "1910 U.S. Census, Mountain Twp, Garland Co., Ark.; 1920 U.S. Census, Sulphur Twp, McCurtain Co., Okla.; 1930 U.S. Census near Wright City, McCurtain Co., Okla. (as summarized in the Rev. George Washington Hulsey entry); Graves Family Association, Gen. 242 (https://www.graves-fa.org/gen-histories/gens/gen242.html); McCurtain Gazette, 20 Jun 1982, obituary of Oscar Franklin Hulsey (survived by two sisters and four brothers).",
-   "title": "Louis Daniel, the Oklahoma-born brother",
-   "hook": "Born 1920, probably in Oklahoma, where the family had just moved.",
+   "src": "1910 U.S. Census, Mountain Twp, Garland Co., Ark.; 1920 U.S. Census, Sulphur Twp, McCurtain Co., Okla.; 1930 U.S. Census near Wright City, McCurtain Co., Okla. (as summarized in the Rev. George Washington Hulsey entry); Graves Family Association, Gen. 242 (https://www.graves-fa.org/gen-histories/gens/gen242.html); McCurtain Gazette, 20 Jun 1982, obituary of Oscar Franklin Hulsey (survived by two sisters and four brothers); Arkansas, Death Certificates, 1914-1969 (Polk Co., 1948, no. 551); Arkansas, U.S., Death Index, 1914-1950; McCurtain Gazette (Idabel), 14 Jan 1948, headline index (Newspapers.com image 665488358).",
+   "title": "A gunshot near his mother's farm, January 1948",
+   "hook": "Louis Daniel Hulsey, 27, a World War II veteran and timber worker, was found dead near Mena, Arkansas, on 13 January 1948; the certificate gives suicide.",
    "body": [
-    "Louis Daniel was born in 1920, most likely in McCurtain County, Oklahoma, since the family was settled there by the census of that year (lead). He was the eighth child.",
-    "He was ten at the 1930 census near Wright City, and fifteen when his father died. His eldest brother Oscar married Katie Stevenson when Louis was seven. Born in 1920, he reached draft age in the early years of the Second World War.",
-    "No marriage, draft card or death record for him has been matched (lead)."
+    "Louis Daniel Hulsey was born at Bethel, Oklahoma, on 11 May 1920, a son of George Hulsey and Rebecca Graves. He was a World War II veteran, single, a timber worker, and had lived 13 months in the Acorn community by Mena, Polk County, Arkansas, on his mother's farm (Mena Route 3).",
+    "His Arkansas death certificate says he died on 13 January 1948. The cause of death is written \"Gun shot wound. Self inflicted bullet entered right temple going thru front part of head. Was found dead about 1/4 mile from his mother's farm house in the Acorn community at 6:30 AM Jan-13-1948.\" Item 22 reads \"Suicide,\" and the coroner O. R. Wood of Mena signed on the same day. His mother Rebecca Hulsey signed as informant. He was buried on 15 January 1948 at Storey, Arkansas.",
+    "The McCurtain Gazette of Idabel, 14 January 1948, carried the headline \"Gunshot Wound Is Fatal for Former Wright City Man\" over an article naming him."
    ],
-   "ev": "probable",
+   "ev": "proven",
    "tags": [],
    "quotes": [],
-   "note": "The birth year and parentage come from the family listing of the ten children; the dates of death, marriages and later homes have not been confirmed from a certificate or census page and are marked lead where given."
+   "note": "The birth year and parentage come from the family listing of the ten children; the dates of death, marriages and later homes have not been confirmed from a certificate or census page and are marked lead where given.",
+   "imgs": [
+    {
+     "s": "img/rec/ar_death_1948_louis_hulsey.jpg",
+     "cap": "Arkansas certificate of death for Louis Daniel Hulsey, 13 January 1948, Polk County: \"Gun shot wound. Self inflicted...\"; 22. \"Suicide.\" (Social Security number covered.)"
+    }
+   ]
   },
   {
    "id": "graceirene",
@@ -13024,6 +13193,173 @@
     }
    ],
    "note": "Court opinion; the quotations are testimony as summarized by the court. Nothing seen connects the Moffitt family to anyone in the case. Grady's 1910 stave-making and 1917 timber work are from his own page."
+  },
+  {
+   "id": "oscar-1938-stabbing",
+   "name": "The stabbing at Millerton",
+   "years": "1938–1939",
+   "branch": "hulsey",
+   "rel": "Great-grandfather",
+   "place": "Millerton and Idabel, McCurtain County, Oklahoma",
+   "kv": [
+    [
+     "Charge",
+     "Assault with intent to kill (\"assault with attempt to kill\" in the Valliant Tribune)"
+    ],
+    [
+     "Victim",
+     "Eddie Stevenson of Millerton, named as Oscar's brother-in-law"
+    ],
+    [
+     "Arrested",
+     "Monday night, 31 January 1938, by Deputies James Houston and Bud Butler"
+    ],
+    [
+     "Court docket",
+     "McCurtain County District Court: October 1938 term, and again set for Saturday, 14 October 1939"
+    ],
+    [
+     "Outcome",
+     "Not found: the dockets are the last mentions located"
+    ]
+   ],
+   "src": "The Valliant Tribune (Valliant, Okla.), 4 Feb 1938, p. 8, clipping of the article on Newspapers.com (image 748176768); McCurtain Gazette (Idabel), 2 Feb 1938, p. 6, headline \"Oscar Hulsey Arrested on Assault Count\" (image 748247401); McCurtain Gazette, 17 Sep 1938 p. 4, 28 Sep 1938 p. 3, 5 Oct 1938 p. 1, 16 Sep 1939 p. 3 and 20 Sep 1939 p. 3, district court dockets; Oklahoma, U.S., Newspapers.com Stories and Events Index (records 4777935142, 5010039952, 5010039985, 4783947768, 5095562865, 4635113152, 5102580591).",
+   "title": "A family quarrel ends in a stabbing, January 1938",
+   "hook": "Oscar Hulsey, 27, was arrested after a two-day search in the mountains north of Millerton for stabbing his wife's brother.",
+   "body": [
+    "In the last week of January 1938, Oscar Hulsey and Eddie Stevenson of Millerton, named as his brother-in-law, had a family quarrel that ended with Stevenson stabbed. The Valliant Tribune of 4 February 1938 put it in six sentences, and the McCurtain Gazette of 2 February ran the headline \"Oscar Hulsey Arrested on Assault Count.\"",
+    "The Tribune says: \"Oscar Hulsey faces a charge of assault with attempt to kill after his arrest Monday night by Deputies James Houston and Bud Butler. He was charged in connection with the stabbing Saturday night of his brother-in-law Eddie Stevenson of Millerton. Stevenson is in the Sanitarium of Paris, where his condition was reported as satisfactory Monday afternoon. The stabbing followed a family quarrel, officers said. Hulsey was arrested in a remote mountain area 30 miles north of Millerton after a two-day search.\" By its dates the stabbing was Saturday night, 29 January, and the arrest Monday night, 31 January.",
+    "The charge did not go away quickly. The McCurtain Gazette's published district court dockets of 17 and 28 September and 5 October 1938 list \"the State of Oklahoma vs. Oscar Hulsey\" as assault and battery with intent to kill for the October 1938 term, and the dockets printed on 16 and 20 September 1939 list it again, set for Saturday, 14 October 1939. No sentence, plea or dismissal was found in the pages that could be read. By April 1940 Oscar was back in Arkansas at South Fork in Montgomery County, working on a government job, and in 1941 his marriage to Katie ended in divorce."
+   ],
+   "ev": "proven",
+   "tags": [],
+   "quotes": [
+    {
+     "t": "The stabbing followed a family quarrel, officers said.",
+     "c": "The Valliant Tribune, 4 February 1938, page 8"
+    },
+    {
+     "t": "Hulsey was arrested in a remote mountain area 30 miles north of Millerton after a two-day search.",
+     "c": "The Valliant Tribune, 4 February 1938, page 8"
+    }
+   ],
+   "note": "The full Gazette pages are behind a separate Newspapers.com subscription, so the Gazette articles are known from their headlines and the visible snippets. The Valliant Tribune text is a public reader's clipping of the same story. Stevenson's relationship is as the newspaper gives it.",
+   "imgs": [
+    {
+     "s": "img/rec/news_1938_valliant_hulsey_assault.jpg",
+     "cap": "The Valliant Tribune, 4 February 1938, page 8: \"Oscar Hulsey faces a charge of assault with attempt to kill...\" (public clipping)."
+    },
+    {
+     "s": "img/news/mccurtain_1938_02_02_oscar_hulsey_arrested.jpg",
+     "cap": "McCurtain Gazette, 2 February 1938, page 6: headline \"Oscar Hulsey Arrested on Assault Count.\""
+    },
+    {
+     "s": "img/news/mccurtain_1938_09_17_docket_hulsey.jpg",
+     "cap": "McCurtain Gazette, 17 September 1938, page 4: court docket line \"Hulsey, assault and battery with intent to kill.\""
+    }
+   ]
+  },
+  {
+   "id": "bennie-1947",
+   "name": "Bennie George Hulsey and the pickup truck",
+   "years": "1933–1947",
+   "branch": "hulsey",
+   "rel": "Great-uncle of Stephen's mother (son of Oscar and Katie)",
+   "place": "U.S. 70 two miles west of Hugo, Choctaw County, Oklahoma",
+   "kv": [
+    [
+     "Died",
+     "Tuesday evening, July 1947, about 7:30 p.m., Hugo hospital 45 minutes later"
+    ],
+    [
+     "Age",
+     "13"
+    ],
+    [
+     "Cause",
+     "Compound fracture of the skull and internal injuries"
+    ],
+    [
+     "Funeral",
+     "11 a.m. Thursday, Coffey Funeral Home chapel, Hugo; burial at Mount Olivet"
+    ],
+    [
+     "Church",
+     "Assembly of God"
+    ]
+   ],
+   "src": "Undated family clipping of an obituary article, \"Youth Killed While Riding Bicycle on Hiway Near Hugo\" (shared on Ancestry as \"Oscar's Son Obit\"); matches the headline \"Bennie G. Hulsey Dies After Accident Tuesday,\" The Southeast Oklahoman (Hugo), 24 Jul 1947, p. 1 (Newspapers.com image 904237818, headline index only).",
+   "title": "Killed on his bicycle, July 1947",
+   "hook": "Bennie George Hulsey, 13, turned in front of a pickup truck west of Hugo and died within the hour.",
+   "body": [
+    "The clipping reads: \"Choctaw County's second highway fatality was suffered Tuesday night when Bennie George Hulsey, 13, died of injuries received when he turned in front of a pickup truck on his bicycle, the local highway patrol unit reported.\" Three eyewitnesses told the patrolmen that the boy turned directly into the path of a truck driven by Mack Flinn, 29, of Grant, on U.S. 70 two miles west of Hugo in front of Leon Griffin's store, about 7:30 p.m.",
+    "\"The boy, son of Mrs. Katie Hulsey, Hugo Route One, was rushed to the Hugo hospital but he succumbed 45 minutes later from a compound fracture of the skull and internal injuries.\" The patrol said he was knocked 75 feet; Flinn's truck swerved off the road, jumped a four-foot fill and turned over once and a half. Flinn had only a few bruises and two other men in the truck were slightly hurt. The boy's death \"marked the second road fatality in Choctaw County during 1947.\"",
+    "Services were set for 11 a.m. Thursday at the Coffey Funeral Home chapel, with burial at Mount Olivet. He was a member of the Assembly of God church and had been born in Danville, Arkansas, the paper says, and had moved with his mother and family to a place on Hugo Route One. The survivors named in the continuation are his mother, his father Oscar Hulsey of Wright City, two sisters, Mrs. Delphia Murphy of Oregon and Mary of Hugo, and four brothers, Leon, Glen, Charles and Willis, all of Hugo. Mary was his sister Mary Ellen, our grandmother, then eight years old."
+   ],
+   "ev": "probable",
+   "tags": [],
+   "quotes": [
+    {
+     "t": "The boy's death marked the second road fatality in Choctaw County during 1947.",
+     "c": "Clipping of the Hugo newspaper, July 1947"
+    }
+   ],
+   "note": "The clipping does not show the newspaper's name or date. The date is inferred from the matching headline in The Southeast Oklahoman of 24 July 1947, which makes the accident Tuesday, 22 July. The clipping is a low-resolution photograph, so a few words in the second column are read from context.",
+   "imgs": [
+    {
+     "s": "img/rec/news_1947_bennie_hulsey_bicycle.jpg",
+     "cap": "Family scrapbook clipping, \"Youth Killed While Riding Bicycle on Hiway Near Hugo,\" July 1947, with snapshots of the family (shared on Ancestry)."
+    }
+   ]
+  },
+  {
+   "id": "oscar-katie-court",
+   "name": "The Hulsey divorces",
+   "years": "1941–1950",
+   "branch": "hulsey",
+   "rel": "Great-grandfather and great-grandmother",
+   "place": "Mount Ida, Arkansas; Idabel, Oklahoma",
+   "kv": [
+    [
+     "Arkansas divorce",
+     "26 Sep 1941, Montgomery County, certificate no. 004098; \"Oscar Hulsey,\" spouse \"Katie Hulsey\""
+    ],
+    [
+     "Oscar's second marriage",
+     "3 Nov 1941, Montgomery County, Ark., to Hester May Whittington (index spells her Whittingten on the certificate)"
+    ],
+    [
+     "Oklahoma suit",
+     "McCurtain County District Court no. 12,652, Katie Hulsey, plaintiff, v. Oscar Hulsey, defendant; notice by publication, Nov-Dec 1945"
+    ],
+    [
+     "1950 census",
+     "Katie, \"Separated,\" at Jeter with four children; Oscar, \"Divorced,\" farmer, living alone in Sulphur Twp., McCurtain Co. (probable)"
+    ]
+   ],
+   "src": "Arkansas, U.S., Divorces, 1923-1975 (Arkansas Dept. of Vital Records, 1941, film 3); Arkansas, U.S., County Marriages Index, 1837-1957 and Arkansas, Marriage Certificates, 1917-1972 (no. 022166); McCurtain Gazette (Idabel), 10 Oct 1945 p. 7, 24 Nov 1945 p. 2, 28 Nov, 1, 5, 8, 12 and 15 Dec 1945 (pp. 4 and 7), legal notices; 1950 U.S. census, Jeter, Choctaw Co., Okla., and Sulphur Twp., McCurtain Co.",
+   "title": "Two courthouses and a second wife",
+   "hook": "Oscar and Katie were divorced in Arkansas in 1941, he remarried five weeks later, and Katie filed again in Oklahoma in 1945.",
+   "body": [
+    "Oscar and Katie Hulsey's marriage ended in two different courtrooms. The Arkansas divorce index records the divorce of \"Oscar Hulsey\" and \"Katie Hulsey\" on 26 September 1941 in Montgomery County. On 3 November 1941, five weeks later, the county marriage index shows Oscar Hulsey, 31, of Mount Ida, marrying Hester May Whittington; the state certificate gives his birth date as 27 October 1910.",
+    "Katie went back to Oklahoma and appears to have brought a second action there. In the McCurtain Gazette's court docket of 10 October 1945 the entry reads \"Katie Hulsey vs. Os[car Hulsey], divorce,\" and from 24 November to 15 December 1945 the Gazette ran a notice by publication in the district court, case no. 12,652, with Katie Hulsey as plaintiff and Oscar Hulsey as defendant, addressed \"To: Oscar Hulsey.\" The text of the petition itself was not readable.",
+    "By the 1950 census Katie, 40, is head of a household at Jeter in Choctaw County with her children Glen, Mary, Charley and Willis, marked \"Separated\" and \"Keeping house.\" An Oscar Hulsey, \"Divorced,\" lives alone as a farmer on the road between Wright City and Gloster in Sulphur Township, McCurtain County, the township where his parents had farmed; the index puts him at 38, born in Oklahoma, so the match is probable, not certain.",
+    "The records give no reason for either divorce."
+   ],
+   "ev": "proven",
+   "tags": [],
+   "quotes": [],
+   "note": "The Arkansas index does not say who filed. The 1950 Oscar Hulsey in Sulphur Township is probable because the age and birthplace are slightly off (38, Oklahoma).",
+   "imgs": [
+    {
+     "s": "img/news/mccurtain_1945_12_15_hulsey_notice.jpg",
+     "cap": "McCurtain Gazette, 15 December 1945, page 4: district court notice by publication, no. 12,652, \"...ff, vs. Oscar Hulsey\" and \"To: Oscar Hulsey.\""
+    },
+    {
+     "s": "img/news/mccurtain_1945_10_10_hulsey_divorce_docket.jpg",
+     "cap": "McCurtain Gazette, 10 October 1945, page 7: docket line \"Katie Hulsey vs. Os... divorce.\""
+    }
+   ]
   }
  ],
  "TIMELINE": [
@@ -14545,6 +14881,12 @@
    "p": "peterp"
   },
   {
+   "y": "1938",
+   "t": "Oscar Hulsey is arrested after a two-day search and charged with assault with intent to kill in the stabbing of his brother-in-law Eddie Stevenson at Millerton.",
+   "b": "hulsey",
+   "p": "oscar-1938-stabbing"
+  },
+  {
    "y": "1940",
    "t": "The census finds Grady Moffitt and Oscar Hulsey nearly a year without work; Simon Thompson's farm feeds twelve.",
    "b": "moffitt",
@@ -14561,6 +14903,12 @@
    "t": "James Brown Tims, born at Doaksville on 25 June 1864, dies at 77; the conference prints a memoir saying \"he loved everybody and everybody loved him\" and that he had been a member of the Choctaw Council.",
    "b": "thompson",
    "p": "jimmie"
+  },
+  {
+   "y": "1941",
+   "t": "Oscar and Katie Hulsey are divorced in Montgomery County, Arkansas, on 26 September; Oscar marries Hester May Whittington on 3 November.",
+   "b": "hulsey",
+   "p": "oscar-katie-court"
   },
   {
    "y": "1942",
@@ -14606,6 +14954,12 @@
    "p": "oknews-robert-james-tims-1944"
   },
   {
+   "y": "1945",
+   "t": "Katie Hulsey files a divorce suit against Oscar in McCurtain County, no. 12,652.",
+   "b": "hulsey",
+   "p": "oscar-katie-court"
+  },
+  {
    "y": "1946",
    "t": "USS Chief sails for San Francisco in March; John is discharged on 9 May.",
    "b": "moffitt",
@@ -14637,10 +14991,28 @@
    "p": "peterp"
   },
   {
+   "y": "1947",
+   "t": "Bennie George Hulsey, 13, is struck on his bicycle by a pickup truck two miles west of Hugo and dies within the hour.",
+   "b": "hulsey",
+   "p": "bennie-1947"
+  },
+  {
+   "y": "1948",
+   "t": "Louis Daniel Hulsey, 27, Oscar's brother, is found dead near his mother's farm at Mena, Arkansas, on 13 January.",
+   "b": "hulsey",
+   "p": "louisdh"
+  },
+  {
    "y": "1950",
    "t": "Frank Stevenson dies in Hugo; his stone at Mount Olivet reads 1860-1950.",
    "b": "hulsey",
    "p": "gilbert"
+  },
+  {
+   "y": "1950",
+   "t": "The 1950 census finds Katie Hulsey, 'Separated,' raising four children at Jeter; the same census lists a divorced Oscar Hulsey alone on a farm in Sulphur Township.",
+   "b": "hulsey",
+   "p": "katie"
   },
   {
    "y": "1956",
@@ -14683,6 +15055,12 @@
    "t": "Grady Moffitt dies on 21 June and is buried at Shoat Springs Cemetery.",
    "b": "moffitt",
    "p": "grady"
+  },
+  {
+   "y": "1973",
+   "t": "Nellie Mae (Smith) Choat, Charles and Pearl Smith's eldest daughter, dies at Paris, Texas, on 7 July.",
+   "b": "smith",
+   "p": "charles"
   },
   {
    "y": "1975",
@@ -14961,7 +15339,10 @@
   "bd-robert-blackshaw-little-creek",
   "bd-thomas-ellenor-blackshaw",
   "bd-william-lavina-clark",
-  "bd-henry-willis-pulaski"
+  "bd-henry-willis-pulaski",
+  "oscar-1938-stabbing",
+  "bennie-1947",
+  "oscar-katie-court"
  ],
  "PHOTO_ORDER": [
   "parsis_portrait",
