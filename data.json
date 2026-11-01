@@ -45,13 +45,13 @@
   "henry_hannah": {
    "o": "img/p/henry_hannah_orig.jpg",
    "r": "img/p/henry_hannah_restored.jpg",
-   "c": "img/p/henry_hannah_color.jpg",
+   "c": "img/p/henry_hannah_ai_color.jpg",
    "cap": "Henry and Hannah (Grimes) Moffitt, Stone County, Arkansas, about 1890s"
   },
   "gilbert_parsis": {
    "o": "img/p/gilbert_parsis_orig.jpg",
    "r": "img/p/gilbert_parsis_restored.jpg",
-   "c": "img/p/gilbert_parsis_color.jpg",
+   "c": "img/p/gilbert_parsis_ai_color.jpg",
    "cap": "\"Frank & Jane\": Gilbert Franklin and Parsis Jane (O'Neal) Stevenson on their porch"
   },
   "rebecca_graves": {
@@ -139,11 +139,13 @@
   },
   "daniel_oneal": {
    "o": "img/p/daniel_oneal_orig.jpg",
-   "cap": "Daniel W. O'Neal (1838-1919) as an older man, oval-framed portrait. Photograph shared in a public Ancestry member tree"
+   "cap": "Daniel W. O'Neal (1838–1919). Original portrait artwork from an Ancestry member tree; the photographic version is an AI interpretation.",
+   "c": "img/p/daniel_oneal_ai_color.jpg"
   },
   "parsis_portrait": {
    "o": "img/p/parsis_portrait_orig.jpg",
-   "cap": "Parsis Jane (O'Neal) Stevenson (1868-1956) in later life. Photograph shared in a public Ancestry member tree"
+   "cap": "Parsis Jane (O'Neal) Stevenson (1868-1956) in later life. Photograph shared in a public Ancestry member tree",
+   "c": "img/p/parsis_portrait_ai_color.jpg"
   }
  },
  "P": [
@@ -1331,7 +1333,7 @@
     "He married Sarah Rebecca Graves on 22 December 1901, when she was 17, and they had ten children, among them Oscar, born in 1910. He died on 5 August 1935 and is buried in Breashears Cemetery, east of Story, where Benjamin F. Hulsey, believed to be his father, also lies.",
     "Rebecca and George Washington Hulsey had ten children: William Roy (1904), John Wesley (1906), Noah (1908), Oscar Franklin (1910), Fred (1913), Ruby Ellen (Stipe, 1915), Grady (1918), Louis Daniel (1920), Grace Irene (Dunagan, 1923) and George Paul (1925). Oscar was the fourth. Rebecca was 17 at the wedding and 41 when the last child was born.",
     "Find a Grave records his burial at Breashears Cemetery near Fannie in Montgomery County, Arkansas, with a death date of 5 August 1935, and names his father as Benjamin Franklin Hulsey and ten children. That date differs from the 22 December 1935 in the family tree, so the exact day is still to be confirmed from a death certificate or obituary.",
-    "Oscar's 1982 obituary says he was survived by two sisters and four brothers. Since Oscar had eight siblings, at least two of them had died before 1982. Each of the children after Oscar now has an entry of his or her own.",
+    "At Oscar's death in 1982, two sisters and four brothers survived him. Since Oscar had eight siblings, at least two had died before then.",
     "When he died on 5 August 1935, the oldest child, William Roy, was about 30 and the youngest, George Paul, about 9 or 10; his widow, Sarah Rebecca, was 51. She died at Bandon, Oregon in 1972.",
     "Camp Pike was under heavy strain when he signed. Eleven days after the draft card, on 23 September 1918, the camp base hospital admitted 214 influenza cases in a single day, and by the end of October 12,393 men had reported sick with the disease. See \"The camp where George Hulsey was working when the influenza came.\""
    ],
@@ -1856,7 +1858,7 @@
    "ph": "vashti_trio",
    "place": "Born 18 May 1844, daughter of John and Elizabeth Pearson. Married Daniel O'Neal on 5 January 1860. A member of the United Brethren Church of Somerville, Gibson County, Indiana; died there on 16 January 1919.",
    "body": [
-    "Vashti Elizabeth Pearson was born on 18 May 1844 and married Daniel O'Neal on 5 January 1860. She died at Somerville, Indiana, on 16 January 1919 of 'apoplexy, 6 hrs.' Her obituary says she 'professed faith in Christ early in life' and was a faithful member of the United Brethren Church of Somerville. She was survived by her husband, five sons (William, John, George, Clinton and Commodore), and two daughters, Mrs. Frank Stevenson of Valiant, Oklahoma, and Mrs. Fred Skomp of Somerville, and by a brother, James Pearson, of Elberfeld, Indiana.",
+    "Vashti Elizabeth Pearson was born on 18 May 1844 and married Daniel O'Neal on 5 January 1860. She died at Somerville, Indiana, on 16 January 1919 of 'apoplexy, 6 hrs.' She professed faith early in life and was a faithful member of Somerville's United Brethren Church. She was survived by her husband, five sons (William, John, George, Clinton and Commodore), and two daughters, Mrs. Frank Stevenson of Valiant, Oklahoma, and Mrs. Fred Skomp of Somerville, and by a brother, James Pearson, of Elberfeld, Indiana.",
     "The ten children were Mary Elizabeth (1860-1960, who lived to 100), William Allen (1863), John Sherman (1866, born the year after the war), Parsis Jane (1868), J. A. (1871, died an infant), George Johnson (1875), Daniel Clinton (1878), David Commodore (1881), Nora (1884, died an infant) and Charity Louisa (1887).",
     "The 1884 county history says that in 1827 \"Solomon Brown and William Pearson had charge of the poor\" in Columbia Township, so a Pearson family was in the township long before Vashti was born in 1844. No record links that William to her father John.",
     "Her five surviving sons (William Allen, John Sherman, George Johnson, Daniel Clinton and David Commodore) all lived into their fifties or later, and three died at Somerville. Her two daughters named in the obituary were Mrs. Frank Stevenson (Parsis) and Mrs. Fred Skomp (Charity Louisa); the eldest daughter, Mary Elizabeth, was alive in Oklahoma in 1919 but is not named in the notice as printed. Charity and Fred Skomp later lived at Hobart and Valparaiso in northern Indiana."
@@ -2893,14 +2895,14 @@
      "cap": "Her son Robert, \"s William & Mary,\" marries Martha Chamness, 1797"
     }
    ],
-   "title": "Mary Moffitt's Quaker will",
-   "hook": "The Regulator's widow outlived him by more than twenty years and dated her will the Quaker way.",
+   "title": "The blue-and-white coverlets in Mary's will",
+   "hook": "Mary Moffitt divided a household among eight children: pewter, bedding, a coffee mill, her big Bible—and the work of settling her estate.",
    "body": [
-    "Mary Davies married William Moffitt at Cane Creek Monthly Meeting on 2 April 1763, at 22. Her sister Hannah married Hugh Moffitt. When William died in the late 1790s, Mary kept the wagon, the still and the stock, and a share of the home plantation for her widowhood.",
-    "Her own will is dated \"the 23rd day of the 9th month, 1820,\" in the Quaker style. It names her daughters Naomi Mackie, Catharine Cox, Hannah Cox, Mary Wilkinson and Margaret Moffitt, and \"my three sons\" Robert, William and David. It was filed in 1822, about when she died.",
-    "Mary was a daughter of Charles and Hannah (Matson) Davies. A family account written in the back of the Cane Creek meeting's minute book says Charles \"was brought over the ocean and sold to pay his passage,\" that is, he came as an indentured servant. He married Hannah, \"daughter of John Matson of Merion,\" in Pennsylvania in February 1733, and the family followed the Quaker migration south: Goshen Meeting in Pennsylvania, Hopewell and Fairfax meetings in Virginia, and Cane Creek in North Carolina by about 1751.",
-    "Charles was recorded as a minister at Cane Creek in 1761 and disowned by the meeting in 1766 after complaining that the women's minutes were \"mixed with an untruth.\" He died on 13 May 1801. Hannah lived to about 97 and died at Cane Creek on 25 October 1812. All eight of their children married; two daughters married Moffitts and two married men named Thomas Cox.",
-    "Mary was born about 1741 in Philadelphia County, Pennsylvania, according to family-tree profiles, and died in February 1822 in Randolph County. Her father's 1732 or 1733 marriage to Hannah Matson was by Radnor Meeting, with her grandfather's consent. Charles Davies bought 187 acres in Orange County on 2 August 1758."
+    "On 23 September 1820, Mary Moffitt made a will that records her household almost object by object. She was weak in body but declared herself sound in sense and memory. For each of her five daughters she set aside a pewter dish, six plates and two basins. Bedding received the same careful attention: white sheets, checked sheets, blankets, a blue-and-white flowered coverlet and a blue-and-white double-diamond coverlet. These were separate possessions to be passed to particular people, rather than an anonymous lot to sell.",
+    "Naomi Mackie was to have Mary's saddle and best cloak. Catharine Cox received the dresser and cupboard. Hannah Cox received the walnut chest and the big Bible. Mary Wilkinson was left the copper kettle and a five- or six-gallon pot. Margaret Moffitt received a feather bed, bedstead and pillows, the case of drawers, pewter teapot, coffee mill, square walnut table, flax and cotton, provisions and forage, and half the cattle, sheep and hogs. Mary was dividing the tools of cooking, sleeping, dressing and keeping a farm household.",
+    "Her sons Robert and William each received bedding and fifty dollars; David received the still, livestock, plantation utensils, cider vessels and 150 dollars. Leftover money was to be divided equally among all eight children, or the gifts reduced equally if the estate fell short. Mary directed the remaining household furniture and clothing to her daughters and the jack screw to her three sons. She appointed Margaret executrix alongside David as executor. The daughter who received the coffee mill would also share responsibility for carrying out the whole plan.",
+    "Mary had married William Moffitt at Cane Creek Monthly Meeting on 2 April 1763. His 1796 will had left her the wagon, still, household goods, farming tools and livestock, with rights in the home plantation during her widowhood. More than twenty years later, her own choices show how those broad provisions had become a detailed set of gifts to Naomi, Catharine, Hannah, Mary, Margaret, Robert, William and David. The will is dated 1820; the preserved file is indexed 1822.",
+    "She was a daughter of Charles and Hannah (Matson) Davies. Her family had followed the Quaker road from Pennsylvania through Virginia to Cane Creek, North Carolina. Her sister Hannah married Hugh Moffitt, joining the Davies sisters to two Moffitt households. Mary's will brings that large family down to a smaller scale: one saddle, one Bible, particular coverlets and the people she wanted to have them."
    ],
    "quotes": [
     {
@@ -2912,8 +2914,22 @@
      "c": "Find a Grave memorial for Charles Davis, on his 1766 disownment"
     }
    ],
-   "note": "No record gives Mary's birth with her parents named; the link rests on the Cane Creek family account, a Davis family history and Moffitt family records, which agree.",
-   "src": "Will of Mary Moffitt, Randolph Co., NC (1820, filed 1822); will of William Moffitt (1796); Radnor MM marriage certificate of Charles Davies and Hannah Matson (1732/3); Cane Creek MM family account; Eleanor M. Davis, Davis: A Quaker Family (1985); Moffitt Genealogy (1928); Hinshaw, vol. 1."
+   "note": "The gifts and named executors appear in Mary’s will. The file is indexed 1822; that date alone does not establish her date of death.",
+   "src": "Will of Mary Moffitt, Randolph Co., NC (1820, filed 1822); will of William Moffitt (1796); Radnor MM marriage certificate of Charles Davies and Hannah Matson (1732/3); Cane Creek MM family account; Eleanor M. Davis, Davis: A Quaker Family (1985); Moffitt Genealogy (1928); Hinshaw, vol. 1.; Mary Moffitt will, Randolph County, North Carolina, 23 September 1820, estate file indexed 1822; William Moffitt will, 13 March 1796, Will Book 2, pages 30–31.",
+   "kv": [
+    [
+     "Will dated",
+     "23 Sep 1820, Randolph County, North Carolina; preserved original file indexed 1822"
+    ],
+    [
+     "Executors",
+     "Daughter Margaret Moffitt, executrix; son David Moffitt, executor"
+    ],
+    [
+     "Personal bequests",
+     "Hannah: bigBible and walnut chest; Margaret: coffee mill and case of drawers; David: still and cider vessels"
+    ]
+   ]
   },
   {
    "id": "josephch",
@@ -3497,13 +3513,14 @@
    "gen": 6,
    "rel": "6th great-grandparents",
    "place": "Quakers. Married at Radnor Meeting, Pennsylvania, in February 1733, and settled at Cane Creek, North Carolina, about 1751. Charles died in 1801 and Hannah in 1812.",
-   "src": "Radnor MM marriage certificate (1732/3); Davis, Davis: A Quaker Family (1985); Hinshaw vol. 1; U.S., Quaker Meeting Records, 1681-1935 (Cane Creek MM minutes, 6 Dec 1766)",
+   "src": "Radnor MM marriage certificate (1732/3); Davis, Davis: A Quaker Family (1985); Hinshaw vol. 1; U.S., Quaker Meeting Records, 1681-1935 (Cane Creek MM minutes, 6 Dec 1766); Cane Creek Monthly Meeting minutes, 6 December 1766, manuscript page 36, U.S. Quaker Meeting Records, 1681–1935.",
    "body": [
-    "Charles Davies bought 187 acres from Henry McCullogh on 2 August 1758, land that later fell in Chatham County, and was on the 1755 Orange County poll list. He died 13 May 1801 and is buried at Cane Creek Meeting cemetery, Snow Camp. His children's spouses included Thomas Vestal, two men named Thomas Cox, William and Hugh Moffitt, and Owen Williams and Abraham Ozbun, the latter two successive husbands of Abigail.",
-    "Charles Davies had moved from Pennsylvania to Cane Creek, North Carolina by the 1760s. The Cane Creek minutes for 6 December 1766 record that he was complained of for charging the women's minute with an untruth, and that after repeated labor to show him how unreasonable this was, the meeting disowned him."
+    "At Cane Creek Monthly Meeting on 6 December 1766, Charles Davies's name entered the minute book as a disciplinary matter. His complaint concerned the women's minutes: he had charged them with being mixed with an untruth. The record does not preserve the passage he disputed or explain his side of the argument. It records what the meeting decided to do about it.",
+    "Friends had already made repeated efforts to change his mind. Their minute says the labor had been to no purpose, and the meeting therefore disowned him. On the same page, ordinary business continued around the dispute: certificates of membership, a marriage report and appointments to attend the quarterly meeting. The break with Charles was entered in the same practical hand as those routine decisions.",
+    "Charles and Hannah Matson Davies had raised the family from which Mary Davies married William Moffitt in 1763. Charles owned 187 acres purchased in 1758 and was recorded as a minister in 1761. The 1766 decision shows a rupture within that Quaker community; it does not establish that he left North Carolina or ceased to believe. He lived until 1801. His daughter Mary's own will, written more than fifty years after the dispute, still used the numbered-month date familiar in Quaker records."
    ],
    "ev": "probable",
-   "note": "The marriage is given as 9 Feb 1732 (old style, meaning 1733) and 9 Dec 1732 in different sources. Details of his youth differ: the Cane Creek family account says he was sold to pay his passage, and a Find a Grave note says he was indentured to a Quaker family in Philadelphia.",
+   "note": "The original meeting page proves the complaint, unsuccessful repeated intervention and disownment. It does not explain which entry was disputed or prove that the women's minutes were false. Overall family relationships retain the prior probable evidence level.",
    "kv": [
     [
      "Cane Creek",
@@ -3515,7 +3532,9 @@
      "s": "img/rec/quaker_1766_charles_davies_disowned.jpg",
      "cap": "Cane Creek Monthly Meeting minutes, 6 December 1766: the meeting disowns Charles Davies for accusing the women's minute of an untruth."
     }
-   ]
+   ],
+   "title": "The charge against the women's minutes",
+   "hook": "In December 1766, Cane Creek Friends expelled Charles Davies after a dispute over the truth of the women's meeting record."
   },
   {
    "id": "norton",
@@ -9685,7 +9704,7 @@
    "body": [
     "William Roy was the eldest of the ten children, born in 1904, three years after his parents married on 22 December 1901. By the April 1910 census he was about five or six and the family was in Mountain Township, Garland County, Arkansas, listed with his parents and two younger brothers, John W. and Noah, before Oscar was born in October of that year at Hot Springs.",
     "He was the child who saw the whole move. His father was a laborer on the Camp Pike construction job near Little Rock in September 1918 and living at Story in Montgomery County; by the 1920 census the household was in Sulphur Township, McCurtain County, Oklahoma, farming as tenants, and in 1930 it was near Wright City. When his father died on 5 August 1935 William Roy was about 30 or 31, the oldest of the nine surviving children (the youngest, George Paul, was 9 or 10).",
-    "Oscar's 1982 obituary says he was survived by four brothers, so at least two of the eight siblings had died by then. Whether William Roy was one of them, whom he married and where he lived as an adult are still open (lead). A Roy Hulsey, 34, married Bonnie Meredith, 15, in Montgomery County, Arkansas on 22 Jan 1938 (marriage index, Montgomery Co., book J, p. 635); that age fits William Roy (b. 1904) but is only a lead until checked against a record that names his parents."
+    "Four of Oscar's brothers survived him in 1982, so at least two of his eight siblings had died by then. Whether William Roy was one of them, whom he married and where he lived as an adult are still open (lead). A Roy Hulsey, 34, married Bonnie Meredith, 15, in Montgomery County, Arkansas on 22 Jan 1938 (marriage index, Montgomery Co., book J, p. 635); that age fits William Roy (b. 1904) but is only a lead until checked against a record that names his parents."
    ],
    "ev": "probable",
    "tags": [],
@@ -9811,7 +9830,7 @@
    "title": "Ruby Ellen, who became a Stipe",
    "hook": "The first Hulsey daughter, born 1915 and married to a Stipe.",
    "body": [
-    "Ruby Ellen was the first daughter after five sons, born in 1915 when her mother Rebecca was about thirty. She married a Stipe, and that is how she is recorded in the family list; Oscar's 1982 obituary says he was survived by two sisters, so she was either one of them or had died before him.",
+    "Ruby Ellen was the first daughter after five sons, born in 1915 when her mother Rebecca was about thirty. She married a Stipe, and that is how she is recorded in the family list. Two sisters survived Oscar in 1982; Ruby was either one of them or had died before him.",
     "She was a girl of five at the 1920 census in McCurtain County, Oklahoma, and fourteen or fifteen in 1930 near Wright City. She was about twenty when her father died in August 1935.",
     "Her husband's first name, the date and place of the marriage and her death are not yet found (lead)."
    ],
@@ -13185,7 +13204,7 @@
     "Mary Elizabeth O'Neal was born on 16 November 1860 in Gibson County, Indiana, the first child of Daniel and Vashti, ten months after their marriage. By 1878 she had married David Raliegh Farris, born in 1856 in Indiana. Their son Elmer Cooper Farris was born on 25 September 1878 at Princeton and died in Sequoyah County, Oklahoma, in 1948. A second son, Daniel Riley, born in Arkansas on 23 March 1881 and recorded as Fairce, died at Mead, Oklahoma, in 1968.",
     "On 10 February 1884, in Arkansas, Mary married Joseph McConnell Rinker, 29, born in Iowa. WikiTree lists their children: Lydia Bell (1885, Sunset, Arkansas), Armenda Mae (1888), Cynthia Jane (1890), Joseph Jonathan (1892, Fayetteville), Vasha (1895, died 1897), Oscar Ashel (1897), Letha Agnes (1900) and Alta (1902, died 1906). Joseph was in Roger Mills County, Oklahoma, in 1910 and died on 27 May 1919 at Wapanucka.",
     "Her obituary in the Tuttle Times of 22 December 1960 says Mrs. Mary Elizabeth Wilson, 100, \"was born in Gibson County, Indiana, near Evansville, and spent most of her early life in Missouri, and raised her children in Arkansas. She first came to Oklahoma in 1907 and moved to Tuttle, from Faxton, in 1926.\" She \"celebrated her 100th birthday in Nov 16, 1960, and passed away at her home on Wednesday, Dec 14, 1960.\" Survivors included \"3 sons, 3 daughters, 51 grandchildren, 150 great-grandchildren, & 73 great great grandchildren.\" She was buried in Fairlawn Cemetery. Her third husband, James Calvin Wilson, born in 1867 at Princeton, Indiana, is listed with her on WikiTree.",
-    "Katie's brother Eddie was born in McCurtain County, Oklahoma, in July 1907, the same year Mary's obituary says she first came to Oklahoma."
+    "Katie's brother Eddie was born in McCurtain County, Oklahoma, in July 1907, the same year Mary first came to Oklahoma."
    ],
    "ev": "probable",
    "quotes": [

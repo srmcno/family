@@ -318,6 +318,7 @@ footer .legend{display:flex;flex-wrap:wrap;gap:.5rem 1.4rem;align-items:center}
       <button role="tab" id="tab-tree" data-view="tree" aria-selected="false"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="10" width="6" height="4" rx="1"/><rect x="15" y="4" width="6" height="4" rx="1"/><rect x="15" y="16" width="6" height="4" rx="1"/><path d="M9 12h3M12 6v12M12 6h3M12 18h3"/></svg>Tree</button>
       <button role="tab" id="tab-branches" data-view="branches" aria-selected="false"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="9" cy="8" r="3.2"/><path d="M3.5 19a5.5 5.5 0 0 1 11 0"/><circle cx="17" cy="9" r="2.5"/><path d="M15.5 14.2A4.5 4.5 0 0 1 21 18.5"/></svg>People</button>
       <button role="tab" id="tab-photos" data-view="photos" aria-selected="false"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="1.8"/><path d="m4 17 5-4.5 4 3.5 3-2.5 4 3.5"/></svg>Photos</button>
+      <button role="tab" id="tab-records" data-view="records" aria-selected="false">Records</button>
       <button role="tab" id="tab-timeline" data-view="timeline" aria-selected="false"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 3v18"/><circle cx="12" cy="7" r="2"/><circle cx="12" cy="17" r="2"/><path d="M14 7h6M4 17h6"/></svg>Timeline</button>
     </nav>
   </div>
@@ -359,9 +360,15 @@ footer .legend{display:flex;flex-wrap:wrap;gap:.5rem 1.4rem;align-items:center}
       <div class="ladder" id="ladder"></div>
     </section>
     <section class="view" id="view-photos" role="tabpanel" aria-labelledby="tab-photos" hidden>
-      <div class="lede"><h2>Photographs and records</h2><p>Family portraits are restored, and black-and-white ones colorized; open one to compare it with the original. The other groups hold the records, clippings and places behind the stories.</p></div>
+      <div class="lede"><h2>Photos</h2><p>Family portraits and historic places. Open a portrait to compare its restored, colorized and original versions.</p></div>
+      <label for="photoSearch">Search photographs</label><input id="photoSearch" type="search" placeholder="Name or caption" style="width:100%;padding:.7rem;margin:.5rem 0 1rem;font:inherit">
       <div class="chips" id="photoFilters" aria-label="Photo groups"></div>
       <div class="pgrid" id="photoGrid"></div>
+    </section>
+    <section class="view" id="view-records" role="tabpanel" aria-labelledby="tab-records" hidden>
+      <div class="lede"><h2>Records</h2><p>Newspaper clippings, documents, books and headstones from the family archive.</p></div>
+      <label for="recordSearch">Search records</label><input id="recordSearch" type="search" placeholder="Name or caption" style="width:100%;padding:.7rem;margin:.5rem 0 1rem;font:inherit">
+      <div class="chips" id="recordFilters" aria-label="Record groups"></div><div class="ggrid" id="recordGrid"></div>
     </section>
     <section class="view" id="view-timeline" role="tabpanel" aria-labelledby="tab-timeline" hidden>
       <div class="lede"><h2>Timeline</h2><p>Dated events from both sides of the family.</p></div>
@@ -377,7 +384,7 @@ footer .legend{display:flex;flex-wrap:wrap;gap:.5rem 1.4rem;align-items:center}
       <span class="ev lead">Lead</span><span>Still being checked</span>
     </div>
     <p>Main sources: Dawes enrollment cards and allotment files; 1896 Choctaw census; U.S. censuses 1880–1940; WPA Indian-Pioneer interviews #7392 and #7418 (1937); WWI and WWII draft registrations; U.S. Navy muster rolls; Colonial and State Records of North Carolina; Randolph County wills; Hinshaw's Encyclopedia of American Quaker Genealogy; Indiana Adjutant General's Report; Kappler's Indian Affairs: Laws and Treaties; newspaper obituaries.</p>
-    <p>Family photographs come from the Moffitt Family Tree on Ancestry. They were restored with CodeFormer and Real-ESRGAN and colorized with DDColor; the colors are the model's estimate, not a record. Marmon Wasp photo by OctaviaCombi and Alamance plaque photo by Hallcp, CC BY-SA 4.0 via Wikimedia Commons; USS Chief photo, U.S. Navy (NH 96996); 1919 code letter, U.S. Army. Hugo (1910 street view and 1912 Frisco shops postcard), Butler County, Allen County and Gibson County photographs: Wikimedia Commons, public domain. Mountain View courthouse photo by Sgerbic, CC BY-SA 4.0, via Wikimedia Commons.</p>
+    <p>Family photographs come from the Moffitt Family Tree on Ancestry. Some have been restored or colorized with AI; colors and reconstructed details are interpretations. The originals are available for comparison. Marmon Wasp photo by OctaviaCombi and Alamance plaque photo by Hallcp, CC BY-SA 4.0 via Wikimedia Commons; USS Chief photo, U.S. Navy (NH 96996); 1919 code letter, U.S. Army. Hugo (1910 street view and 1912 Frisco shops postcard), Butler County, Allen County and Gibson County photographs: Wikimedia Commons, public domain. Mountain View courthouse photo by Sgerbic, CC BY-SA 4.0, via Wikimedia Commons.</p>
   </footer>
 </div>
 </div>
@@ -406,7 +413,7 @@ const EVL = {proven:"Proven", probable:"Probable", lead:"Lead"};
 const evBadge = e => e ? `<span class="ev ${e}">${EVL[e]}</span>` : "";
 const bcolor = b => D.BRANCHES[b].color;
 const best = v => v.c || v.r || v.o;
-const restoredOrOrig = v => v.r || v.o;
+const restoredOrOrig = v => v.c || v.r || v.o;
 const avatar = p => p.av ? "img/" + p.av : p.ph ? restoredOrOrig(D.PH[p.ph]) : null;
 const isStone = im => /headstone|grave|stones\/|\bstone\b|marker/i.test(im.s + " " + (im.cap || "").replace(/Stone County/g, ""));
 const firstImg = p => p.ph ? best(D.PH[p.ph]) : (p.imgs || []).find(im => !isStone(im))?.s;   // never a gravestone as a cover
@@ -492,7 +499,7 @@ const PHOTO_GROUPS = [
   ["Headstones", s => /headstone|grave/.test(s)],
   ["Places and ships", s => true],
 ];
-let photoGroup = "Family portraits";
+let photoGroup = "Family portraits", recordGroup = "Records and documents";
 function galleryItems(){
   const seen = new Set(), out = [];
   for (const p of ALL) for (const im of (p.imgs || [])) {
@@ -502,32 +509,25 @@ function galleryItems(){
   return out;
 }
 function renderPhotos(){
-  const items = galleryItems();
-  const groups = {"Family portraits": null};
-  for (const [g] of PHOTO_GROUPS) groups[g] = [];
+  const items = galleryItems(), groups = {"Family portraits": [], "Places and ships": [], "Records and documents": [], "Newspapers and old books": [], "Headstones": []};
   for (const it of items) groups[PHOTO_GROUPS.find(([, t]) => t(it.s))[0]].push(it);
-  const counts = {"Family portraits": (D.PHOTO_ORDER || Object.keys(D.PH)).filter(k => D.PH[k]).length};
-  for (const [g] of PHOTO_GROUPS) counts[g] = groups[g].length;
-  const chips = Object.keys(groups).filter(g => counts[g]).map(g =>
-    `<button class="chip" data-pg="${esc(g)}" aria-pressed="${g === photoGroup}">${esc(g)} <span class="cnt">${counts[g]}</span></button>`).join("");
-  let html;
-  if (photoGroup === "Family portraits") {
-    html = (D.PHOTO_ORDER || Object.keys(D.PH)).filter(k => D.PH[k]).map(k => {
-      const v = D.PH[k]; const owner = D.P.find(p => p.ph === k);
-      const what = [v.r ? "restored" : "", v.c ? "colorized" : ""].filter(Boolean).join(" and ");
-      return `<button class="pcard" data-zoomset="${k}"><span class="ph"><img src="${best(v)}" alt="${esc(v.cap)}" loading="lazy"></span>
-        <span class="pc"><span class="pn">${esc(owner ? owner.name : v.cap)}</span><span class="py">${owner ? esc(owner.years) + ". " : ""}${what ? "Original, " + what : "Original"}</span></span></button>`;
-    }).join("");
-  } else {
-    html = groups[photoGroup].map(it => `<figure class="gcard">
-      <button class="frame" data-zoom="${it.s}" data-cap="${esc(it.cap)}"><img src="${it.s}" alt="${esc(it.cap)}" loading="lazy"></button>
-      <figcaption>${esc(it.cap)} <button class="go" data-person="${it.id}">${esc(it.name)}</button></figcaption></figure>`).join("");
+  const portraits = (D.PHOTO_ORDER || Object.keys(D.PH)).filter(k => D.PH[k]);
+  function collection(record){
+    const group = record ? recordGroup : photoGroup;
+    const names = record ? ["Records and documents", "Newspapers and old books", "Headstones"] : ["Family portraits", "Places and ships"];
+    const query = document.getElementById(record ? "recordSearch" : "photoSearch").value.trim().toLowerCase();
+    const selected = group === "Family portraits" ? portraits.filter(k => {const owner = ALL.find(p => p.ph === k); return ((owner?.name || "") + " " + D.PH[k].cap).toLowerCase().includes(query);}) : groups[group].filter(it => (it.name + " " + it.cap).toLowerCase().includes(query));
+    document.getElementById(record ? "recordFilters" : "photoFilters").innerHTML = names.map(g => `<button class="chip" data-${record ? "rg" : "pg"}="${esc(g)}" aria-pressed="${g === group}">${esc(g)} <span class="cnt">${g === "Family portraits" ? portraits.length : groups[g].length}</span></button>`).join("");
+    const grid = document.getElementById(record ? "recordGrid" : "photoGrid"); grid.className = group === "Family portraits" ? "pgrid" : "ggrid";
+    grid.innerHTML = selected.map(it => {
+      if (group === "Family portraits") { const v = D.PH[it], owner = ALL.find(p => p.ph === it); const what = [v.r ? "restored" : "", v.c ? "colorized" : ""].filter(Boolean).join(" and "); return `<button class="pcard" data-zoomset="${esc(it)}"><span class="ph"><img src="${best(v)}" alt="${esc(v.cap)}" loading="lazy"></span><span class="pc"><span class="pn">${esc(owner ? owner.name : v.cap)}</span><span class="py">${owner ? esc(owner.years) + ". " : ""}${what ? "Original, " + what : "Original"}</span></span></button>`; }
+      return `<figure class="gcard"><button class="frame" data-zoom="${esc(it.s)}" data-cap="${esc(it.cap)}"><img src="${esc(it.s)}" alt="${esc(it.cap)}" loading="lazy"></button><figcaption>${esc(it.cap)} <button class="go" data-person="${esc(it.id)}">${esc(it.name)}</button></figcaption></figure>`;
+    }).join("") || `<p class="empty">No ${record ? "records" : "photographs"} match this search.</p>`;
   }
-  document.getElementById("photoFilters").innerHTML = chips;
-  const grid = document.getElementById("photoGrid");
-  grid.className = photoGroup === "Family portraits" ? "pgrid" : "ggrid";
-  grid.innerHTML = html;
+  collection(false); collection(true);
 }
+document.getElementById("photoSearch").addEventListener("input", renderPhotos);
+document.getElementById("recordSearch").addEventListener("input", renderPhotos);
 
 /* Timeline */
 let tlFilter = "all";
@@ -593,7 +593,7 @@ function openZoom(src, cap){
   lb.hidden = false; document.getElementById("lbClose").focus();
 }
 function openSet(k){
-  const v = D.PH[k]; lbSet = k; lbRight = v.c ? "c" : "r"; lbMode = v.r ? "cmp" : "o";
+  const v = D.PH[k]; lbSet = k; lbRight = v.c ? "c" : "r"; lbMode = v.c ? "c" : v.r ? "r" : "o";
   renderSet(); lb.hidden = false; document.getElementById("lbClose").focus();
 }
 function renderSet(){
@@ -601,7 +601,7 @@ function renderSet(){
   document.getElementById("lbStage").innerHTML = lbMode === "cmp" ? cmpHTML(v.o, v[lbRight], "Original", L[lbRight], v.cap) : `<img src="${v[lbMode]}" alt="${esc(v.cap)} (${L[lbMode]})">`;
   document.getElementById("lbCap").textContent = v.cap;
   const b = (key, l, on) => `<button data-lb="${key}" aria-pressed="${on}">${l}</button>`;
-  document.getElementById("lbCtl").innerHTML = `<span class="vt" role="group" aria-label="View">${b("o","Original",lbMode==="o")}${v.r?b("r","Restored",lbMode==="r"):""}${v.c?b("c","Colorized",lbMode==="c"):""}${v.r?b("cmp:"+(v.c?"c":"r"),"Compare",lbMode==="cmp"):""}</span>`;
+  document.getElementById("lbCtl").innerHTML = `<span class="vt" role="group" aria-label="View">${b("o","Original",lbMode==="o")}${v.r?b("r","Restored",lbMode==="r"):""}${v.c?b("c","Colorized",lbMode==="c"):""}${v.r||v.c?b("cmp:"+(v.c?"c":"r"),"Compare",lbMode==="cmp"):""}</span>`;
 }
 function closeZoom(){ lb.hidden = true; }
 
@@ -612,7 +612,7 @@ scrim.addEventListener("click", closePanel);
 document.addEventListener("keydown", e => { if (e.key !== "Escape") return; if (!lb.hidden) closeZoom(); else if (!panel.hidden) closePanel(); });
 
 /* Views + routing */
-const VIEWS = ["stories","tree","branches","photos","timeline"];
+const VIEWS = ["stories","tree","branches","photos","records","timeline"];
 function show(v){
   if (!VIEWS.includes(v)) v = "stories";
   VIEWS.forEach(n => { document.getElementById("view-" + n).hidden = n !== v; document.getElementById("tab-" + n).setAttribute("aria-selected", String(n === v)); });
@@ -635,6 +635,7 @@ document.addEventListener("click", e => {
     return;
   }
   const tl = t.closest("[data-tl]"); if (tl){ tlFilter = tl.dataset.tl; renderTimeline(); return; }
+  const rg = t.closest("[data-rg]"); if (rg){ recordGroup = rg.dataset.rg; renderPhotos(); return; }
   const pg = t.closest("[data-pg]"); if (pg){ photoGroup = pg.dataset.pg; renderPhotos(); return; }
   const b = t.closest("[data-branch]"); if (b){ branch = b.dataset.branch; renderBranches(); return; }
   const tc = t.closest("[data-troot-close]"); if (tc){ closePanel(); setTreeRoot(tc.dataset.trootClose); return; }
@@ -810,7 +811,7 @@ function renderStats(){
     `So far: ${ALL.length} ancestors, relatives and places, ${ALL.filter(x => x.title).length} stories, ${photos} photographs and records, and ${D.TIMELINE.length} dated events.`;
 }
 
-Promise.all([fetch("data.json").then(r => r.json()), fetch("tree.json").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
+Promise.all([fetch("data.json?v=20261101m1").then(r => r.json()), fetch("tree.json?v=20261101m1").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
   D = data; ALL = [...D.P, ...D.EXTRA]; byId = Object.fromEntries(ALL.map(x => [x.id, x]));
   T = tree;
   if (T) for (const [id, p] of Object.entries(T.people)) for (const par of [p.f, p.m]) if (par) childOf[par] = id;
