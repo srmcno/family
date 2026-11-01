@@ -70,6 +70,12 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .herofig{margin:0;display:grid;gap:.55rem}
 .herofig figcaption{font-size:var(--t-sm);color:var(--on-navy-soft)}
 .herofig figcaption b{color:var(--on-navy);font-weight:500}
+.hero-photo{display:block;width:100%;padding:0;border:0;border-radius:14px;overflow:hidden;background:#0d1016;cursor:zoom-in;aspect-ratio:3/2;box-shadow:0 24px 60px rgba(0,0,0,.4)}
+.hero-photo img{width:100%;height:100%;display:block;object-fit:contain}
+.hero-controls{display:flex;align-items:center;flex-wrap:wrap;gap:.45rem;color:var(--on-navy-soft);font-size:.85rem}
+.hero-controls button{min-height:44px;padding:.45rem .75rem;border:1px solid rgba(255,255,255,.35);border-radius:8px;color:var(--on-navy);background:transparent;cursor:pointer;font:inherit}
+.hero-controls button:hover,.hero-controls button:focus-visible{background:rgba(255,255,255,.12);outline-color:var(--on-navy)}
+.hero-controls .hero-count{margin-left:auto}
 
 /* Compare slider (hero + lightbox) */
 .cmp{position:relative;display:grid;border-radius:14px;overflow:hidden;background:#0d1016;user-select:none;touch-action:pan-y}
@@ -439,9 +445,16 @@ function cmpHTML(left, right, lLabel, rLabel, alt){
 document.addEventListener("input", e => { if (e.target.matches(".cmp input")) e.target.closest(".cmp").style.setProperty("--x", e.target.value + "%"); });
 
 function renderHero(){
-  const v = D.PH.henry_hannah;
-  document.getElementById("heroFig").innerHTML = cmpHTML(v.o, v.c || v.r, "Original", v.c ? "Restored in color" : "Restored", "Henry and Hannah Moffitt") +
-    `<figcaption><b>Henry and Hannah (Grimes) Moffitt</b>, Stone County, Arkansas. Drag the handle to compare the original with the restored photo.</figcaption>`;
+  const keys = ["henry_hannah", "gilbert_parsis", "joel_ira", "mary_tinsley", "rebecca_graves", "parsis_portrait"].filter(k => D.PH[k]);
+  const fig = document.getElementById("heroFig");
+  if (!keys.length) return;
+  let index = 0, timer = null, playing = !matchMedia("(prefers-reduced-motion: reduce)").matches;
+  fig.innerHTML = `<button class="hero-photo" type="button" aria-label="Open photograph and compare versions"><img alt=""></button><figcaption></figcaption><div class="hero-controls"><button type="button" data-hero="prev" aria-label="Previous photograph">Previous</button><button type="button" data-hero="next" aria-label="Next photograph">Next</button><button type="button" data-hero="play"></button><span class="hero-count"></span></div>`;
+  const picture = fig.querySelector(".hero-photo"), img = picture.querySelector("img"), caption = fig.querySelector("figcaption"), count = fig.querySelector(".hero-count"), play = fig.querySelector('[data-hero="play"]');
+  function paint(){ const key = keys[index], v = D.PH[key]; picture.dataset.zoomset = key; img.src = best(v); img.alt = v.cap; caption.textContent = v.cap; count.textContent = `${index + 1} / ${keys.length}`; play.textContent = playing ? "Pause" : "Play"; play.setAttribute("aria-pressed", String(playing)); }
+  function schedule(){ clearInterval(timer); timer = playing ? setInterval(() => { if (!document.hidden && !fig.contains(document.activeElement)) { index = (index + 1) % keys.length; paint(); } }, 7000) : null; }
+  fig.addEventListener("click", e => { const action = e.target.closest("[data-hero]")?.dataset.hero; if (!action) return; if (action === "play") playing = !playing; else { playing = false; index = (index + (action === "next" ? 1 : -1) + keys.length) % keys.length; } paint(); schedule(); });
+  paint(); schedule();
 }
 
 /* Stories */
