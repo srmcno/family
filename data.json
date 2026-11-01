@@ -147,13 +147,19 @@
   "daniel_oneal": {
    "o": "img/p/daniel_oneal_orig.jpg",
    "cap": "Daniel W. O'Neal (1838–1919). Original portrait artwork from an Ancestry member tree; the photographic version is an AI interpretation.",
-   "c": "img/p/daniel_oneal_ai_color.jpg",
+   "c": "img/p/daniel_oneal_photo_interpretation.jpg",
    "interpretation": true
   },
   "parsis_portrait": {
    "o": "img/p/parsis_portrait_orig.jpg",
    "cap": "Parsis Jane (O'Neal) Stevenson (1868-1956) in later life. Photograph shared in a public Ancestry member tree",
    "c": "img/p/parsis_portrait_ai_color.jpg"
+  },
+  "vashti_framed": {
+   "o": "img/p/vashti_framed.jpg",
+   "c": "img/p/vashti_framed_photo_interpretation.jpg",
+   "interpretation": true,
+   "cap": "Vashti Elizabeth (Pearson) O’Neal holding a framed picture. Original portrait from a public Ancestry member tree; the photographic version is an AI interpretation."
   }
  },
  "P": [
@@ -847,13 +853,13 @@
    "rel": "3rd great-grandmother",
    "place": "Full blood. Daughter of Brazil and Siney of Red River County.",
    "body": [
-    "Molsey is on Dawes Card 1363, line 2, wife of Legion Austin, a full-blood Choctaw. Her parents are named on the card as Brazil and Siney, both dead, of Red River; the jacket affidavit ties her to Legion.",
-    "In the 1915-16 list of land-restriction cases sent to Congress, a Choctaw entry reads \"Molsey Pisachubbi, Austin,\" which by the table's habit of giving a married woman's maiden name after her married name suggests that by then Molsey Austin carried the name Pisachubbi.",
-    "Molsey is Roll No. 3737, Towson County, No. 200 on the 1896 census, and the card gives her age as 22 in 1899; the final-roll age beside her name is 25. She gave the same figure herself on 19 April 1901, when she swore to the birth of her daughter Adline and signed with her mark as \"Mulcy Austin,\" \"25 years of age and a citizen by blood\" and \"the lawful wife of Leageon Austin.\" She was therefore born about 1875 to 1877. Adline was her third child on the card: Lizzie, about 1892; James, born 15 November 1898 and dead within five months; Adline, 5 August 1900.",
-    "The woman who delivered Adline was a midwife, Sinie Hall, who also signed by mark, with the same two witnesses as Molsey, J. R. Moore (reading uncertain) and Sallie Johnson. The notary was William Swink of Fowlerville. Molsey's own mother is written on the card as \"Siney,\" in quotation marks; whether the midwife Sinie Hall was kin to her is not stated anywhere (lead)."
+    "On 19 April 1901, Molsey Austin signed an affidavit concerning the birth of her daughter Adline. The document records that Adline was born on 5 August 1900, and names her father as Legion Austin. It gives the family’s post office as Fowlerville, Indian Territory, and identifies both parents as citizens of the Choctaw Nation.",
+    "Molsey’s statement appears above a second affidavit made by Sinie Hall, the midwife who attended the birth. Both women signed by mark. J. R. Moore and Sallie Johnson witnessed the marks, and William Swink signed as notary. The page preserves a mother’s account and the name of the woman who helped at the birth.",
+    "The family’s enrollment card names Molsey’s parents as Brazil and Siney of Red River County. It also lists Molsey and Legion’s daughter Lizzie, their son James, who died in April 1899, and Adline. The name Siney appears both for Molsey’s mother and in a similar form for the midwife, but the surviving page does not establish whether the two women were related.",
+    "The federal enrollment records recorded the family under several spellings, including “Mulcy” for Molsey and “Leageon” for Legion. A later land-restriction list uses “Molsey Pisachubbi, Austin,” suggesting she later carried the name Pisachubbi."
    ],
    "ev": "proven",
-   "src": "House Committee on Indian Affairs, Five Civilized Tribes of Indians, hearings (1916), \"Removal of restriction cases received in the Indian Office since Jan. 1, 1915,\" Choctaws, p. 93; Dawes Card 1363 (front and back) and jacket 7-1363, NARA Dawes Enrollment Jackets (Choctaw by Blood).",
+   "src": "House Committee on Indian Affairs, Five Civilized Tribes of Indians, hearings (1916), \"Removal of restriction cases received in the Indian Office since Jan. 1, 1915,\" Choctaws, p. 93; Dawes Card 1363 (front and back) and jacket 7-1363, NARA Dawes Enrollment Jackets (Choctaw by Blood).; Dawes Card 1363 and enrollment jacket 7-1363, Choctaw by Blood; Adline Austin birth affidavit sworn 19 April 1901, National Archives; House Committee on Indian Affairs, Five Civilized Tribes of Indians, hearings (1916), removal-of-restrictions list, p. 93.",
    "kv": [
     [
      "Dawes roll",
@@ -873,7 +879,10 @@
      "s": "img/docs/dawes_1363_adline_austin_birth_affidavit_1901.jpg",
      "cap": "Birth affidavit for Adline Austin, 5 August 1900: Molsey (\"Mulcy\") Austin and midwife Sinie Hall each sign by mark, 19 April 1901"
     }
-   ]
+   ],
+   "title": "Molsey Austin and Adline’s birth affidavit",
+   "hook": "In 1901 Molsey and a midwife each made their mark on a record of her daughter’s birth.",
+   "note": "The 1901 affidavit directly names mother, father, child and midwife. It does not establish a relationship between midwife Sinie Hall and Molsey’s mother Siney. The later Pisachubbi identification remains an inference."
   },
   {
    "id": "vincent",
@@ -15690,6 +15699,7 @@
  ],
  "PHOTO_ORDER": [
   "parsis_portrait",
+  "vashti_framed",
   "daniel_oneal",
   "henry_hannah",
   "gilbert_parsis",

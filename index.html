@@ -445,7 +445,7 @@ function cmpHTML(left, right, lLabel, rLabel, alt){
 document.addEventListener("input", e => { if (e.target.matches(".cmp input")) e.target.closest(".cmp").style.setProperty("--x", e.target.value + "%"); });
 
 function renderHero(){
-  const keys = ["henry_hannah", "gilbert_parsis", "daniel_oneal", "joel_ira", "mary_tinsley", "rebecca_graves", "parsis_portrait"].filter(k => D.PH[k]);
+  const keys = ["henry_hannah", "gilbert_parsis", "daniel_oneal", "vashti_framed", "joel_ira", "mary_tinsley", "rebecca_graves", "parsis_portrait"].filter(k => D.PH[k]);
   const fig = document.getElementById("heroFig");
   if (!keys.length) return;
   let index = 0, timer = null, playing = !matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -574,7 +574,7 @@ function openPerson(id){
   let h = treeActions(treeIdsFor(id));
   if (p.ph && D.PH[p.ph]) h += `<div class="gallery">${variantFig(p.ph)}</div>`;
   const imgs = p.imgs || [];
-  if (imgs.length) h += `<div class="gallery${imgs.length > 1 ? " two" : ""}">${imgs.map(im => `<figure class="fig"><button class="frame" data-zoom="${im.s}" data-cap="${esc(im.cap)}"><img src="${im.s}" alt="${esc(im.cap)}" loading="lazy"></button><figcaption>${esc(im.cap)}</figcaption></figure>`).join("")}</div>`;
+  if (imgs.length) h += `<div class="gallery${imgs.length > 1 ? " two" : ""}">${imgs.map(im => im.s === "img/p/vashti_framed.jpg" ? variantFig("vashti_framed") : `<figure class="fig"><button class="frame" data-zoom="${im.s}" data-cap="${esc(im.cap)}"><img src="${im.s}" alt="${esc(im.cap)}" loading="lazy"></button><figcaption>${esc(im.cap)}</figcaption></figure>`).join("")}</div>`;
   if (p.title){
     h += `<div class="storyhead">${evBadge(p.ev)}<h4>${esc(p.title)}</h4></div>`;
     h += (p.body || []).map(t => `<p>${esc(t)}</p>`).join("");
@@ -824,7 +824,7 @@ function renderStats(){
     `So far: ${ALL.length} ancestors, relatives and places, ${ALL.filter(x => x.title).length} stories, ${photos} photographs and records, and ${D.TIMELINE.length} dated events.`;
 }
 
-Promise.all([fetch("data.json?v=20261101m3").then(r => r.json()), fetch("tree.json?v=20261101m3").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
+Promise.all([fetch("data.json?v=20261101m4").then(r => r.json()), fetch("tree.json?v=20261101m4").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
   D = data; ALL = [...D.P, ...D.EXTRA]; byId = Object.fromEntries(ALL.map(x => [x.id, x]));
   T = tree;
   if (T) for (const [id, p] of Object.entries(T.people)) for (const par of [p.f, p.m]) if (par) childOf[par] = id;
