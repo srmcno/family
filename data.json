@@ -63,14 +63,14 @@
   "emeline_tims": {
    "o": "img/p/emeline_tims_orig.jpg",
    "r": "img/p/emeline_tims_restored.jpg",
-   "cap": "Emiline (Steadman) Tims; the only known image, from a photocopy",
+   "cap": "Emiline (Steadman) Tims; the only known image, from a photocopy The colorized copy reconstructs details that are unclear in the original.",
    "c": "img/p/emeline_tims_new_color.jpg"
   },
   "nathan_moffitt": {
    "o": "img/p/nathan_moffitt_orig.jpg",
    "r": "img/p/nathan_moffitt_restored.jpg",
    "c": "img/p/nathan_moffitt_new_color.jpg",
-   "cap": "Photo labeled \"Nathan Moffitt\" in the family tree, with children"
+   "cap": "Photo labeled \"Nathan Moffitt\" in the family tree, with children The colorized copy reconstructs details that are unclear in the original."
   },
   "katie_hulsey": {
    "o": "img/p/katie_hulsey_orig.jpg",
@@ -94,13 +94,13 @@
    "o": "img/p/joel_ira_orig.jpg",
    "r": "img/p/joel_ira_restored.jpg",
    "cap": "'Grandpa Joel Thompson and Ira Thompson' standing together outdoors. Photograph shared in a public Ancestry member tree",
-   "c": "img/p/joel_ira_color.jpg"
+   "c": "img/p/joel_ira_new_color.jpg"
   },
   "mary_tinsley": {
    "o": "img/p/mary_tinsley_orig.jpg",
    "r": "img/p/mary_tinsley_restored.jpg",
    "cap": "Mary Tinsley (Shackleford) Moffitt (1895-1962) as an older woman. Photograph shared in a public Ancestry member tree",
-   "c": "img/p/mary_tinsley_color.jpg"
+   "c": "img/p/mary_tinsley_new_color.jpg"
   },
   "benjamin_family": {
    "o": "img/p/benjamin_family_orig.jpg",
@@ -111,34 +111,38 @@
   "oneal_family": {
    "o": "img/p/oneal_family_orig.jpg",
    "r": "img/p/oneal_family_restored.jpg",
-   "cap": "O'Neal family gathering in Gibson County, Indiana; the typed caption names Daniel W. O'Neal and Vashti Pearson among the family. Photograph shared in a public Ancestry member tree"
+   "cap": "O'Neal family gathering in Gibson County, Indiana; the typed caption names Daniel W. O'Neal and Vashti Pearson among the family. Photograph shared in a public Ancestry member tree The colorized copy reconstructs details that are unclear in the original.",
+   "c": "img/p/oneal_family_new_color.jpg"
   },
   "vashti_trio": {
    "o": "img/p/vashti_trio_orig.jpg",
    "r": "img/p/vashti_trio_restored.jpg",
-   "cap": "'Vashti, Mary O'Neal Hartin, Daniel W. O'Neal (sister of Daniel)', seated in front of a porch. Photograph shared in a public Ancestry member tree",
-   "c": "img/p/vashti_trio_color.jpg"
+   "cap": "'Vashti, Mary O'Neal Hartin, Daniel W. O'Neal (sister of Daniel)', seated in front of a porch. Photograph shared in a public Ancestry member tree The colorized copy reconstructs details that are unclear in the faded original.",
+   "c": "img/p/vashti_trio_new_color.jpg"
   },
   "jimmie_tims": {
    "o": "img/p/jimmie_tims_orig.jpg",
    "r": "img/p/jimmie_tims_restored.jpg",
-   "cap": "James Brown 'Jimmie' Tims seated, with his son-in-law Fulsom Jacob standing behind (newspaper copy of the photograph). Photograph shared in a public Ancestry member tree"
+   "cap": "James Brown 'Jimmie' Tims seated, with his son-in-law Fulsom Jacob standing behind (newspaper copy of the photograph). Photograph shared in a public Ancestry member tree The colorized copy reconstructs details that are unclear in the original.",
+   "c": "img/p/jimmie_tims_new_color.jpg"
   },
   "jh_satterfield": {
    "o": "img/p/jh_satterfield_orig.jpg",
    "r": "img/p/jh_satterfield_restored.jpg",
-   "cap": "James Henry Satterfield standing in a hat among trees, from a faded copy of the photograph. Photograph shared in a public Ancestry member tree"
+   "cap": "James Henry Satterfield standing in a hat among trees, from a faded copy of the photograph. Photograph shared in a public Ancestry member tree",
+   "c": "img/p/jh_satterfield_new_color.jpg"
   },
   "abner_stevenson": {
    "o": "img/p/abner_stevenson_orig.jpg",
    "r": "img/p/abner_stevenson_restored.jpg",
-   "cap": "Rev. Abner Arrington Stevenson (1816-1896), son of Rev. Elam Stevenson and Lydia Catherine Payne. Photo courtesy of Beth Mize, via a public Ancestry member tree"
+   "cap": "Rev. Abner Arrington Stevenson (1816-1896), son of Rev. Elam Stevenson and Lydia Catherine Payne. Photo courtesy of Beth Mize, via a public Ancestry member tree",
+   "c": "img/p/abner_stevenson_new_color.jpg"
   },
   "elam_stevenson": {
    "o": "img/p/elam_stevenson_orig.jpg",
    "r": "img/p/elam_stevenson_restored.jpg",
    "cap": "Rev. Elam Stevenson (1787-1875) of Giles County, Tennessee. Photo courtesy of Beth Mize, via a public Ancestry member tree",
-   "c": "img/p/elam_stevenson_color.jpg"
+   "c": "img/p/elam_stevenson_new_color.jpg"
   },
   "daniel_oneal": {
    "o": "img/p/daniel_oneal_orig.jpg",
@@ -1847,8 +1851,8 @@
      "cap": "The O'Neal family stone, with Vashti's and Daniel's markers"
     },
     {
-     "s": "img/p/oneal_family_restored.jpg",
-     "cap": "O'Neal family gathering in Gibson County, Indiana; the typed caption names Daniel W. O'Neal and Vashti Pearson among the family. Photograph shared in a public Ancestry member tree"
+     "s": "img/p/oneal_family_new_color.jpg",
+     "cap": "O'Neal family gathering in Gibson County, Indiana; the typed caption names Daniel W. O'Neal and Vashti Pearson among the family. Photograph shared in a public Ancestry member tree Color and indistinct features have been interpreted."
     }
    ]
   },
