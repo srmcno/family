@@ -266,6 +266,7 @@ footer .legend{display:flex;flex-wrap:wrap;gap:.5rem 1.4rem;align-items:center}
 .treeacts{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.2rem}
 .treeacts button{border:1px solid var(--rule);background:var(--tint);border-radius:999px;padding:.4rem .9rem;cursor:pointer;font-weight:500}
 .treeacts button:hover{border-color:var(--accent)}
+.panel .body .treeacts{min-height:44px}
 .navicon{display:none}
 /* Stacked tree for phones: one generation per section, couples side by side */
 .treewrap.stack{max-height:none;overflow:visible;background:transparent;border:0;padding:0;margin:0}
@@ -593,7 +594,6 @@ function openPerson(id){
   scrim.hidden = false; panel.hidden = false;
   const top = () => { body.scrollTop = 0; };
   top(); requestAnimationFrame(top); setTimeout(top, 120);   // reset after layout, and again once images have sized
-  body.querySelectorAll("img").forEach(im => im.addEventListener("load", top, {once: true}));
   document.getElementById("pClose").focus({preventScroll: true});
 }
 function closePanel(){ panel.hidden = true; scrim.hidden = true; if (lastFocus) lastFocus.focus({preventScroll: true}); }
@@ -669,7 +669,7 @@ const yr = s => (String(s || "").match(/\d{4}/) || [""])[0];
 function tInfo(tid){
   const p = T.people[tid], a = p.a && byId[p.a];
   const years = p.lv ? "Living" : (yr(p.b) || yr(p.d) ? `${yr(p.b) || "?"}–${yr(p.d) || "?"}` : (a ? a.years : ""));
-  return {p, a, name: tidy(p.n), years, ph: p.ph, ev: a ? a.ev : null, color: a ? bcolor(a.branch) : null};
+  return {p, a, name: tidy(p.n), years, ph: p.lv ? null : (a?.ph && D.PH[a.ph] ? best(D.PH[a.ph]) : p.ph), ev: p.ev || (a ? a.ev : null), color: a ? bcolor(a.branch) : null};
 }
 function tCard(tid, color){
   const t = tInfo(tid), c = t.color || color;
@@ -775,9 +775,9 @@ function openTreePerson(tid){
   else {
     const kv = [["Born", [t.p.b, t.p.bp].filter(Boolean).join(", ")], ["Died", [t.p.d, t.p.dp].filter(Boolean).join(", ")]].filter(([, v]) => v);
     if (kv.length) h += `<dl class="kv">${kv.map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join("")}</dl>`;
-    h += `<div class="note">This person comes from the family's Ancestry tree and has not yet been checked against original records.</div>`;
+    h += `<div class="note">${esc(t.p.note || "This person comes from the family’s Ancestry tree and has not yet been checked against original records.")}</div>`;
+    for (const url of (t.p.source_urls || [])) if (/^https:\/\//i.test(url)) h += `<p class="src"><a href="${esc(url)}" target="_blank" rel="noopener noreferrer">View source ↗</a></p>`;
   }
-  if (p.source_link && /^https:\/\//i.test(p.source_link)) h += `<p class="src"><a href="${esc(p.source_link)}" target="_blank" rel="noopener noreferrer">View obituary and photograph ↗</a></p>`;
   const body = document.getElementById("pBody"); body.innerHTML = h; body.scrollTop = 0;
   scrim.hidden = false; panel.hidden = false;
   document.getElementById("pClose").focus({preventScroll: true});
@@ -826,7 +826,7 @@ function renderStats(){
     `So far: ${ALL.length} ancestors, relatives and places, ${ALL.filter(x => x.title).length} stories, ${photos} photographs and records, and ${D.TIMELINE.length} dated events.`;
 }
 
-Promise.all([fetch("data.json?v=20261101m6").then(r => r.json()), fetch("tree.json?v=20261101m6").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
+Promise.all([fetch("data.json?v=20261101m8").then(r => r.json()), fetch("tree.json?v=20261101m8").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
   D = data; ALL = [...D.P, ...D.EXTRA]; byId = Object.fromEntries(ALL.map(x => [x.id, x]));
   T = tree;
   if (T) for (const [id, p] of Object.entries(T.people)) for (const par of [p.f, p.m]) if (par) childOf[par] = id;
