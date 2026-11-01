@@ -1,0 +1,624 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Moffitt &amp; Thompson Roots</title>
+<meta name="robots" content="noindex, nofollow, noimageindex, noarchive">
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,700;0,800;1,400;1,500&family=Alegreya+SC:wght@500;700&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap">
+<style>
+/* Layout: a family archive — ink-navy masthead and hero holding one before/after photograph; below, a cool paper-gray reading surface with story cards, a generation ladder, a photo wall and a timeline; a slide-over panel reads like a register entry (surname in small caps). One deliberate light look. */
+:root{
+  color-scheme:light;
+  --paper:#f1f3f0; --sheet:#ffffff; --tint:#f7f8f6; --ink:#1d2433; --soft:#5a6474; --rule:#dde2dc;
+  --navy:#1f2d4b; --navy-2:#2a3b5e; --on-navy:#f1f3f7; --on-navy-soft:#b8c2d4;
+  --accent:#2c5f93; --accent-soft:#e4edf6;
+  --proven:#1f6e48; --proven-bg:#e2f1e8; --probable:#875a0e; --probable-bg:#f8edd6; --lead:#9c2f4c; --lead-bg:#f9e4ea;
+  --b-thompson:#2a7466; --b-hulsey:#9a6914; --b-moffitt:#37579f; --b-smith:#74479a;
+  --serif:"Alegreya", "Iowan Old Style", Georgia, serif;
+  --caps:"Alegreya SC", "Alegreya", Georgia, serif;
+  --sans:"Alegreya Sans", "Gill Sans", "Segoe UI", system-ui, sans-serif;
+  --shadow:0 1px 2px rgba(29,36,51,.06), 0 12px 32px rgba(29,36,51,.10);
+  /* type scale (1.25) */
+  --t-xs:.8rem; --t-sm:.9rem; --t-base:1.0625rem; --t-md:1.25rem; --t-lg:1.6rem; --t-xl:2.1rem; --t-2xl:clamp(2.2rem,4.8vw,3.4rem);
+}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html,body{background:var(--paper)}
+body{color:var(--ink);font:400 var(--t-base)/1.55 var(--sans);margin:0;-webkit-font-smoothing:antialiased}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
+img{display:block;max-width:100%}
+h1,h2,h3,h4{font-family:var(--serif);font-weight:700;letter-spacing:-.005em;text-wrap:balance;margin:0}
+.gutter{padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px))}
+.container{max-width:72rem;margin:0 auto}
+.sc{font-family:var(--caps);font-weight:700;letter-spacing:.02em}
+
+/* Masthead + hero share the navy band */
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top, 0px);z-index:10;background:var(--navy)}
+.topbar{position:sticky;top:env(safe-area-inset-top, 0px);z-index:6;background:var(--navy);color:var(--on-navy);box-shadow:0 1px 0 rgba(255,255,255,.07)}
+.topbar .row{display:flex;flex-wrap:wrap;align-items:center;gap:.6rem 1.5rem;padding-block:.7rem}
+.brand{font-family:var(--serif);font-weight:800;font-size:1.45rem;margin:0;line-height:1.1}
+.tabs{display:flex;gap:.25rem;margin-left:auto}
+.search{position:relative;flex:1 1 14rem;max-width:22rem}
+.search input{width:100%;border:1px solid rgba(255,255,255,.22);background:var(--navy-2);color:var(--on-navy);border-radius:10px;padding:.5rem .8rem;font:inherit;font-size:1rem}
+.search input::placeholder{color:var(--on-navy-soft)}
+.search input:focus{outline:none;border-color:var(--on-navy);background:#33466c}
+.results{position:absolute;left:0;right:0;top:calc(100% + .4rem);background:var(--sheet);color:var(--ink);border-radius:12px;box-shadow:var(--shadow);max-height:min(70vh,30rem);overflow:auto;overscroll-behavior:contain;padding:.35rem;z-index:8;min-width:min(24rem,calc(100vw - 32px))}
+.results button{display:grid;grid-template-columns:.3rem 1fr;gap:.15rem .7rem;width:100%;text-align:left;border:0;background:transparent;border-radius:8px;padding:.5rem .6rem;cursor:pointer}
+.results button:hover,.results button[aria-selected="true"]{background:var(--accent-soft)}
+.results .bar{grid-row:span 2;border-radius:2px;background:var(--bc)}
+.results .rn{font-weight:700}
+.results .rn .ry{font-weight:400;color:var(--soft);margin-left:.35rem}
+.results .rs{color:var(--soft);font-size:var(--t-sm);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.results .none{padding:.7rem;color:var(--soft);font-style:italic;margin:0}
+.stats{color:var(--on-navy-soft);font-size:var(--t-sm)}
+.morebar{display:flex;justify-content:center;margin:1.6rem 0 0}
+.morebtn{border:1px solid var(--rule);background:var(--sheet);border-radius:999px;padding:.6rem 1.3rem;cursor:pointer;font-weight:500;color:var(--ink)}
+.morebtn:hover{border-color:var(--accent)}
+.tabs button{border:0;background:transparent;color:var(--on-navy-soft);padding:.45rem .85rem;border-radius:8px;cursor:pointer;font-weight:500;font-size:1rem}
+.tabs button:hover{color:var(--on-navy)}
+.tabs button[aria-selected="true"]{color:var(--on-navy);background:var(--navy-2)}
+.heroband{background:var(--navy);color:var(--on-navy)}
+.hero{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);gap:2.5rem;align-items:center;padding-block:2.5rem 3rem}
+.hero h2{font-size:var(--t-2xl);line-height:1.06;font-weight:800;margin-bottom:1rem}
+.hero p{margin:0 0 .6rem;color:var(--on-navy-soft);max-width:48ch;font-size:1.08rem}
+.hero .actions{display:flex;flex-wrap:wrap;gap:.6rem;margin-top:1.3rem}
+.btn{border:1px solid rgba(255,255,255,.28);background:transparent;color:var(--on-navy);border-radius:10px;padding:.55rem 1rem;cursor:pointer;font-weight:500}
+.btn.primary{background:var(--on-navy);color:var(--navy);border-color:var(--on-navy)}
+.btn:hover{border-color:var(--on-navy)}
+.herofig{margin:0;display:grid;gap:.55rem}
+.herofig figcaption{font-size:var(--t-sm);color:var(--on-navy-soft)}
+.herofig figcaption b{color:var(--on-navy);font-weight:500}
+
+/* Compare slider (hero + lightbox) */
+.cmp{position:relative;display:grid;border-radius:14px;overflow:hidden;background:#0d1016;user-select:none;touch-action:pan-y}
+.cmp img{grid-area:1/1;width:100%;height:100%;object-fit:contain}
+.cmp .over{clip-path:inset(0 0 0 var(--x,50%))}
+.cmp .bar{position:absolute;top:0;bottom:0;left:var(--x,50%);width:2px;margin-left:-1px;background:#fff;pointer-events:none;box-shadow:0 0 0 1px rgba(0,0,0,.25)}
+.cmp .knob{position:absolute;top:50%;left:var(--x,50%);width:2.4rem;height:2.4rem;margin:-1.2rem 0 0 -1.2rem;border-radius:50%;background:#fff;box-shadow:0 2px 10px rgba(0,0,0,.35);pointer-events:none;display:grid;place-items:center;color:#1f2d4b;font-size:.95rem;font-weight:700}
+.cmp input{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:ew-resize;margin:0}
+.cmp .tag{position:absolute;top:.6rem;font-size:var(--t-xs);background:rgba(13,16,22,.62);color:#f1f1f1;padding:.15rem .55rem;border-radius:999px;pointer-events:none}
+.cmp .tag.l{left:.6rem}.cmp .tag.r{right:.6rem}
+.hero .cmp{aspect-ratio:3/2;box-shadow:0 24px 60px rgba(0,0,0,.4)}
+.hero .cmp img{object-fit:cover}
+
+main{padding-block:2rem 4rem}
+.lede{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.5rem 1rem;margin-bottom:1.1rem}
+.lede h2{font-size:var(--t-xl)}
+.lede p{margin:0;color:var(--soft);max-width:60ch}
+
+/* Filter chips */
+.chips{display:flex;flex-wrap:wrap;gap:.4rem;margin:0 0 1.4rem}
+.chip{border:1px solid var(--rule);background:var(--sheet);border-radius:999px;padding:.32rem .85rem;cursor:pointer;font-size:.95rem;color:var(--soft)}
+.chip:hover{border-color:var(--accent);color:var(--ink)}
+.chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
+
+/* Evidence */
+.ev{display:inline-block;font-size:var(--t-xs);font-weight:700;border-radius:999px;padding:.1rem .55rem;white-space:nowrap;letter-spacing:.01em}
+.ev.proven{color:var(--proven);background:var(--proven-bg)}
+.ev.probable{color:var(--probable);background:var(--probable-bg)}
+.ev.lead{color:var(--lead);background:var(--lead-bg)}
+
+/* Story cards */
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(19rem,1fr));gap:1.25rem}
+.card{all:unset;box-sizing:border-box;cursor:pointer;background:var(--sheet);border-radius:16px;overflow:hidden;display:flex;flex-direction:column;border:1px solid var(--rule);transition:border-color .15s, box-shadow .15s}
+.card:hover{border-color:color-mix(in srgb, var(--bc) 60%, var(--rule));box-shadow:var(--shadow)}
+.card:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.card .ph{aspect-ratio:3/2;background:var(--tint);overflow:hidden}
+.card .ph img{width:100%;height:100%;object-fit:cover;object-position:center 30%}
+.card .cb{padding:1.05rem 1.2rem 1.25rem;display:grid;gap:.45rem}
+.card .who{display:flex;justify-content:space-between;align-items:center;gap:.6rem;font-size:var(--t-sm);color:var(--soft)}
+.card h3{font-size:var(--t-lg);line-height:1.12;font-weight:700}
+.card p{margin:0;color:var(--soft);font-family:var(--serif);font-size:1.04rem;line-height:1.5}
+.card .rel{font-size:var(--t-sm);color:var(--soft);display:flex;align-items:center;gap:.45rem;margin-top:.2rem}
+.dot{width:.55rem;height:.55rem;border-radius:50%;background:var(--dc,var(--soft));flex:none;display:inline-block}
+@media (min-width: 820px){
+  .card.feature{grid-column:span 2;flex-direction:row}
+  .card.feature .ph{aspect-ratio:auto;flex:1 1 52%;min-height:20rem}
+  .card.feature .cb{flex:1 1 48%;align-content:center;padding:1.6rem 1.8rem}
+  .card.feature h3{font-size:var(--t-xl)}
+  .card.feature p{font-size:1.12rem}
+}
+
+/* People */
+.branchgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(14rem,1fr));gap:.8rem;margin-bottom:1.25rem}
+.branchcard{all:unset;box-sizing:border-box;cursor:pointer;background:var(--sheet);border:1px solid var(--rule);border-radius:14px;padding:1rem 1.1rem;display:grid;gap:.15rem;box-shadow:inset 0 3px 0 var(--bc)}
+.branchcard:focus-visible{outline:2px solid var(--accent)}
+.branchcard[aria-pressed="true"]{border-color:var(--bc);background:color-mix(in srgb, var(--bc) 7%, var(--sheet))}
+.branchcard .side{font-size:var(--t-sm);color:var(--soft)}
+.branchcard .bn{font-family:var(--serif);font-weight:700;font-size:1.4rem}
+.branchcard .bs{font-size:var(--t-sm);color:var(--soft)}
+.ladder{background:var(--sheet);border:1px solid var(--rule);border-radius:16px;padding:.3rem 1.2rem}
+.gen{display:grid;grid-template-columns:11rem minmax(0,1fr);gap:.6rem 1.2rem;padding:1.05rem 0;border-bottom:1px solid var(--rule);align-items:start}
+.gen:last-child{border-bottom:0}
+.gen .gl{font-family:var(--serif);font-style:italic;color:var(--soft);padding-top:.55rem}
+.people{display:flex;flex-wrap:wrap;gap:.55rem;min-width:0}
+.pill{all:unset;box-sizing:border-box;cursor:pointer;border:1px solid var(--rule);background:var(--tint);border-radius:12px;padding:.4rem .8rem .4rem .4rem;display:flex;align-items:center;gap:.6rem;max-width:100%}
+.pill:hover{border-color:var(--bc);background:var(--sheet)}
+.pill:focus-visible{outline:2px solid var(--accent)}
+.pill .av{width:2.6rem;height:2.6rem;border-radius:50%;object-fit:cover;object-position:center 25%;flex:none}
+.pill .av.none{display:grid;place-items:center;background:color-mix(in srgb, var(--bc) 14%, var(--sheet));color:var(--bc);font-family:var(--caps);font-weight:700}
+.pill .tx{display:grid;min-width:0}
+.pill .pn{font-weight:500;overflow-wrap:anywhere;line-height:1.25}
+.pill .py{font-size:var(--t-sm);color:var(--soft);font-variant-numeric:tabular-nums}
+.pill .has{font-size:var(--t-xs);color:var(--bc);font-weight:700}
+
+/* Photos */
+.pgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(14.5rem,1fr));gap:1.1rem}
+.pcard{all:unset;box-sizing:border-box;cursor:pointer;background:var(--sheet);border:1px solid var(--rule);border-radius:14px;overflow:hidden;display:grid}
+.pcard:hover{box-shadow:var(--shadow)}
+.pcard:focus-visible{outline:2px solid var(--accent)}
+.pcard .ph{aspect-ratio:4/5;background:#11141a;overflow:hidden}
+.pcard .ph img{width:100%;height:100%;object-fit:cover;object-position:center 22%}
+.pcard .pc{padding:.75rem .9rem .9rem;display:grid;gap:.1rem}
+.pcard .pn{font-family:var(--serif);font-weight:700;font-size:1.1rem;line-height:1.2}
+.pcard .py{font-size:var(--t-sm);color:var(--soft)}
+.chip .cnt{color:inherit;opacity:.6;font-variant-numeric:tabular-nums;margin-left:.15rem}
+.ggrid{columns:3 17rem;column-gap:1.1rem}
+.gcard{break-inside:avoid;margin:0 0 1.1rem;background:var(--sheet);border:1px solid var(--rule);border-radius:14px;overflow:hidden;display:grid}
+.gcard .frame{all:unset;cursor:zoom-in;display:block;background:#f6f5f1}
+.gcard .frame:focus-visible{outline:2px solid var(--accent)}
+.gcard img{width:100%;height:auto;max-height:30rem;object-fit:contain}
+.gcard figcaption{padding:.7rem .9rem .85rem;font-size:var(--t-sm);color:var(--soft);display:grid;gap:.3rem;line-height:1.4}
+.gcard .go{all:unset;cursor:pointer;color:var(--accent);font-weight:500;justify-self:start}
+.gcard .go:focus-visible{outline:2px solid var(--accent)}
+
+/* Timeline */
+.tl{list-style:none;margin:0;padding:0;position:relative}
+.tl::before{content:"";position:absolute;left:5.6rem;top:.5rem;bottom:.5rem;width:2px;background:var(--rule)}
+.tl li{display:grid;grid-template-columns:4.6rem 2rem minmax(0,1fr) auto;gap:0 .6rem;padding:.75rem 0;align-items:start}
+.tl .yr{font-family:var(--serif);font-weight:800;font-size:1.35rem;text-align:right;font-variant-numeric:tabular-nums;line-height:1.3}
+.tl .mk{width:.85rem;height:.85rem;border-radius:50%;background:var(--dc);margin:.42rem auto 0;box-shadow:0 0 0 4px var(--paper);position:relative}
+.tl .tx{min-width:0;display:grid;gap:.15rem}
+.tl .tx span{font-family:var(--serif);font-size:1.08rem;line-height:1.45}
+.tl .go{all:unset;cursor:pointer;color:var(--accent);font-size:var(--t-sm);font-weight:500;justify-self:start}
+.tl .go:focus-visible{outline:2px solid var(--accent)}
+.tl .thumb{width:4rem;height:4rem;border-radius:10px;object-fit:cover;border:1px solid var(--rule)}
+
+/* Person panel */
+.scrim{position:fixed;inset:0;background:rgba(20,26,38,.45);z-index:20}
+.panel{position:fixed;z-index:21;top:0;right:0;bottom:0;width:min(38rem,100%);background:var(--sheet);box-shadow:var(--shadow);display:flex;flex-direction:column;
+  padding-top:env(safe-area-inset-top, 0px);padding-bottom:env(safe-area-inset-bottom, 0px);padding-right:env(safe-area-inset-right, 0px)}
+.panel header{display:flex;align-items:flex-start;gap:1rem;padding:1.3rem 1.5rem 1.1rem;border-bottom:1px solid var(--rule);box-shadow:inset 0 4px 0 var(--bc)}
+.panel header .h{display:grid;gap:.2rem;min-width:0;flex:1}
+.panel .relline{font-size:var(--t-sm);color:var(--soft)}
+.panel h3{font-size:2.05rem;line-height:1.08;font-weight:700}
+.panel .years{font-family:var(--serif);font-style:italic;color:var(--soft);font-size:1.1rem}
+.close{border:1px solid var(--rule);background:var(--tint);border-radius:999px;width:2.4rem;height:2.4rem;cursor:pointer;flex:none;font-size:1.1rem;line-height:1}
+.panel .body{overflow-y:auto;overflow-anchor:none;overscroll-behavior:contain;padding:1.3rem 1.5rem 2.6rem;display:grid;gap:1.05rem;align-content:start}
+.fig .frame{min-height:8rem}
+.fig img{height:auto}
+.panel .body p{margin:0;max-width:62ch;font-family:var(--serif);font-size:1.12rem;line-height:1.62}
+.panel .storyhead{display:flex;flex-wrap:wrap;align-items:center;gap:.45rem .7rem}
+.panel h4{font-size:1.45rem;line-height:1.15}
+.gallery{display:grid;gap:.8rem}
+.gallery.two{grid-template-columns:1fr 1fr}
+.fig{margin:0;display:grid;gap:.4rem}
+.fig .frame{all:unset;box-sizing:border-box;cursor:zoom-in;border-radius:12px;overflow:hidden;background:#11141a;display:block}
+.fig .frame:focus-visible{outline:2px solid var(--accent)}
+.fig img{width:100%;max-height:25rem;object-fit:contain}
+.fig figcaption{font-size:var(--t-sm);color:var(--soft)}
+.vt{display:inline-flex;gap:2px;background:var(--tint);border:1px solid var(--rule);border-radius:999px;padding:2px}
+.vt button{border:0;background:transparent;border-radius:999px;padding:.2rem .75rem;font-size:var(--t-sm);cursor:pointer;color:var(--soft)}
+.vt button[aria-pressed="true"]{background:var(--ink);color:#fff}
+.quote{margin:0;font-family:var(--serif);font-style:italic;font-size:1.22rem;line-height:1.45;border-left:3px solid var(--bc);padding:.15rem 0 .15rem 1rem}
+.quote cite{display:block;font-family:var(--sans);font-style:normal;font-size:var(--t-sm);color:var(--soft);margin-top:.35rem}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:.3rem 1rem;margin:0;font-size:.98rem;background:var(--tint);border:1px solid var(--rule);border-radius:12px;padding:.85rem 1rem}
+.kv dt{color:var(--soft)}.kv dd{margin:0}
+.note{font-size:.98rem;background:var(--lead-bg);border-radius:10px;padding:.65rem .85rem;color:var(--ink)}
+.src{font-size:var(--t-sm);color:var(--soft);border-top:1px solid var(--rule);padding-top:.85rem}
+.empty{color:var(--soft);font-style:italic}
+
+/* Lightbox */
+.lightbox{position:fixed;inset:0;z-index:30;background:rgba(9,11,16,.95);display:grid;grid-template-rows:minmax(0,1fr) auto;gap:.8rem;
+  padding:max(16px, env(safe-area-inset-top, 0px)) max(16px, env(safe-area-inset-right, 0px)) max(16px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px))}
+.lightbox .stage{min-height:0;display:grid;place-items:center}
+.lightbox .stage > img{max-width:100%;max-height:100%;object-fit:contain}
+.lightbox .cmp{max-height:100%;max-width:100%;background:transparent}
+.lightbox .cmp img{max-height:calc(100vh - 8rem);width:auto;margin:auto}
+.lbbar{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:.6rem 1rem;color:#c9ced8;font-size:var(--t-sm)}
+.lbbar .vt{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.16)}
+.lbbar .vt button{color:#cfd4dd}
+.lbbar .vt button[aria-pressed="true"]{background:#fff;color:#111}
+.lbbar .close{background:rgba(255,255,255,.1);border-color:rgba(255,255,255,.2);color:#fff}
+
+footer{padding-block:2.2rem 3rem;color:var(--soft);font-size:var(--t-sm);border-top:1px solid var(--rule);display:grid;gap:.7rem}
+footer .legend{display:flex;flex-wrap:wrap;gap:.5rem 1.4rem;align-items:center}
+.loading{color:var(--soft);font-family:var(--serif);font-style:italic;padding:2rem 0}
+
+@media (max-width: 820px){ .hero{grid-template-columns:1fr;gap:1.6rem;padding-block:1.8rem 2.2rem} }
+@media (max-width: 640px){
+  .tabs{margin-left:0;width:100%;justify-content:space-between}
+  .search{max-width:none;flex-basis:100%;order:3}
+  .tabs button{padding:.4rem .5rem}
+  .gen{grid-template-columns:1fr;gap:.35rem}
+  .gen .gl{padding-top:0}
+  .tl::before{left:3.9rem}
+  .tl li{grid-template-columns:3.2rem 1.6rem minmax(0,1fr)}
+  .tl .yr{font-size:1.15rem}
+  .tl .thumb{display:none}
+  .panel{top:auto;height:92%;width:100%;border-radius:18px 18px 0 0;padding-left:env(safe-area-inset-left, 0px)}
+  .gallery.two{grid-template-columns:1fr}
+  .panel h3{font-size:1.75rem}
+}
+@media (prefers-reduced-motion: no-preference){
+  .panel{animation:slide .2s ease-out}
+  @keyframes slide{from{transform:translateX(20px);opacity:.7}to{transform:none;opacity:1}}
+}
+</style>
+
+<div class="topbar gutter">
+  <div class="container row">
+    <h1 class="brand">Moffitt &amp; Thompson Roots</h1>
+    <div class="search" role="search">
+      <input id="q" type="search" placeholder="Find a person, place or story" aria-label="Find a person, place or story" aria-controls="qResults" autocomplete="off" spellcheck="false">
+      <div class="results" id="qResults" hidden></div>
+    </div>
+    <nav class="tabs" role="tablist" aria-label="Sections">
+      <button role="tab" id="tab-stories" data-view="stories" aria-selected="true">Stories</button>
+      <button role="tab" id="tab-branches" data-view="branches" aria-selected="false">People</button>
+      <button role="tab" id="tab-photos" data-view="photos" aria-selected="false">Photos</button>
+      <button role="tab" id="tab-timeline" data-view="timeline" aria-selected="false">Timeline</button>
+    </nav>
+  </div>
+</div>
+
+<div class="heroband gutter">
+  <section class="container hero">
+    <div>
+      <h2>Four family lines, from the Choctaw Nation to Quaker North Carolina.</h2>
+      <p>The stories, records and photographs found so far about our ancestors on both sides. Open any story or person to read more, see the original records, and check the sources.</p>
+      <p>Relationships are shown from the point of view of Johnny and Barbara Moffitt's children.</p>
+      <p class="stats" id="stats"></p>
+      <div class="actions"><button class="btn primary" data-view-go="stories">Read the stories</button><button class="btn" data-view-go="photos">See the restored photos</button></div>
+    </div>
+    <figure class="herofig" id="heroFig"></figure>
+  </section>
+</div>
+
+<div class="gutter">
+<div class="container">
+  <main>
+    <section class="view" id="view-stories" role="tabpanel" aria-labelledby="tab-stories">
+      <div class="lede"><h2>Stories</h2><p>Each story is marked with how well the records support it.</p></div>
+      <div class="chips" id="storyFilters" aria-label="Filter stories"></div>
+      <div class="cards" id="storyCards"><p class="loading">Loading the family stories…</p></div>
+      <p class="morebar"><button class="morebtn" id="moreStories" hidden></button></p>
+    </section>
+    <section class="view" id="view-branches" role="tabpanel" aria-labelledby="tab-branches" hidden>
+      <div class="lede"><h2>People</h2><p>Pick a grandparent's line to walk back through the generations.</p></div>
+      <div class="branchgrid" id="branchCards"></div>
+      <div class="ladder" id="ladder"></div>
+    </section>
+    <section class="view" id="view-photos" role="tabpanel" aria-labelledby="tab-photos" hidden>
+      <div class="lede"><h2>Photographs and records</h2><p>Family portraits are restored, and black-and-white ones colorized; open one to compare it with the original. The other groups hold the records, clippings and places behind the stories.</p></div>
+      <div class="chips" id="photoFilters" aria-label="Photo groups"></div>
+      <div class="pgrid" id="photoGrid"></div>
+    </section>
+    <section class="view" id="view-timeline" role="tabpanel" aria-labelledby="tab-timeline" hidden>
+      <div class="lede"><h2>Timeline</h2><p>Dated events from both sides of the family.</p></div>
+      <div class="chips" id="tlFilters" aria-label="Filter timeline"></div>
+      <ol class="tl" id="timelineList"></ol>
+    </section>
+  </main>
+
+  <footer>
+    <div class="legend">
+      <span class="ev proven">Proven</span><span>Seen in an original or official record</span>
+      <span class="ev probable">Probable</span><span>A family account or good secondary source that fits the records</span>
+      <span class="ev lead">Lead</span><span>Still being checked</span>
+    </div>
+    <p>Main sources: Dawes enrollment cards and allotment files; 1896 Choctaw census; U.S. censuses 1880–1940; WPA Indian-Pioneer interviews #7392 and #7418 (1937); WWI and WWII draft registrations; U.S. Navy muster rolls; Colonial and State Records of North Carolina; Randolph County wills; Hinshaw's Encyclopedia of American Quaker Genealogy; Indiana Adjutant General's Report; Kappler's Indian Affairs: Laws and Treaties; newspaper obituaries.</p>
+    <p>Family photographs come from the Moffitt Family Tree on Ancestry. They were restored with CodeFormer and Real-ESRGAN and colorized with DDColor; the colors are the model's estimate, not a record. Marmon Wasp photo by OctaviaCombi and Alamance plaque photo by Hallcp, CC BY-SA 4.0 via Wikimedia Commons; USS Chief photo, U.S. Navy (NH 96996); 1919 code letter, U.S. Army. Hugo (1910 street view and 1912 Frisco shops postcard), Butler County, Allen County and Gibson County photographs: Wikimedia Commons, public domain. Mountain View courthouse photo by Sgerbic, CC BY-SA 4.0, via Wikimedia Commons.</p>
+  </footer>
+</div>
+</div>
+
+<div class="scrim" id="scrim" hidden></div>
+<aside class="panel" id="panel" role="dialog" aria-modal="true" aria-labelledby="pName" hidden>
+  <header>
+    <div class="h">
+      <span class="relline" id="pRel"></span>
+      <h3 id="pName"></h3>
+      <span class="years" id="pYears"></span>
+    </div>
+    <button class="close" id="pClose" aria-label="Close">✕</button>
+  </header>
+  <div class="body" id="pBody"></div>
+</aside>
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Photograph" hidden>
+  <div class="stage" id="lbStage"></div>
+  <div class="lbbar"><span id="lbCap"></span><span id="lbCtl"></span><button class="close" id="lbClose" aria-label="Close photograph">✕</button></div>
+</div>
+
+<script>
+let D = null, byId = {}, ALL = [];
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));
+const EVL = {proven:"Proven", probable:"Probable", lead:"Lead"};
+const evBadge = e => e ? `<span class="ev ${e}">${EVL[e]}</span>` : "";
+const bcolor = b => D.BRANCHES[b].color;
+const best = v => v.c || v.r || v.o;
+const restoredOrOrig = v => v.r || v.o;
+const avatar = p => p.av ? "img/" + p.av : p.ph ? restoredOrOrig(D.PH[p.ph]) : null;
+const firstImg = p => p.ph ? best(D.PH[p.ph]) : (p.imgs || [])[0]?.s;
+function nameHTML(n){
+  if (/&| ancestors| in \d{4}/.test(n) || !/\s/.test(n)) return esc(n);
+  const i = n.lastIndexOf(" "); const sur = n.slice(i + 1);
+  if (!/^[A-Z]/.test(sur)) return esc(n);
+  return `${esc(n.slice(0, i))} <span class="sc">${esc(sur)}</span>`;
+}
+function relLine(p){
+  if (p.id === "depression") return "Both sides of the family";
+  const side = D.BRANCHES[p.branch].side;                 // e.g. "Mom's father"
+  return `${p.rel}, on ${side.replace(/'s (\w+)$/, "'s $1's")} side`;
+}
+function initials(n){ return n.replace(/^(Rev\.|Pvt\.|Judge|The)\s+/, "").split(/\s+/).filter(w=>/^[A-Z]/.test(w)).slice(0,2).map(w=>w[0]).join(""); }
+
+/* Compare slider */
+function cmpHTML(left, right, lLabel, rLabel, alt){
+  return `<div class="cmp" style="--x:50%"><img src="${left}" alt="${esc(alt)} (${lLabel})"><img class="over" src="${right}" alt="${esc(alt)} (${rLabel})">
+    <span class="bar"></span><span class="knob" aria-hidden="true">⇆</span><span class="tag l">${lLabel}</span><span class="tag r">${rLabel}</span>
+    <input type="range" min="0" max="100" value="50" aria-label="Drag to compare ${lLabel.toLowerCase()} and ${rLabel.toLowerCase()}"></div>`;
+}
+document.addEventListener("input", e => { if (e.target.matches(".cmp input")) e.target.closest(".cmp").style.setProperty("--x", e.target.value + "%"); });
+
+function renderHero(){
+  const v = D.PH.henry_hannah;
+  document.getElementById("heroFig").innerHTML = cmpHTML(v.o, v.c || v.r, "Original", v.c ? "Restored in color" : "Restored", "Henry and Hannah Moffitt") +
+    `<figcaption><b>Henry and Hannah (Grimes) Moffitt</b>, Stone County, Arkansas. Drag the handle to compare the original with the restored photo.</figcaption>`;
+}
+
+/* Stories */
+const FILTERS = [["all","All"],["choctaw","Choctaw"],["military","Military"],["quaker","Quaker"],["notable","Notable"],["mom","Mom's side"],["dad","Dad's side"]];
+let storyFilter = "all", storyLimit = 24;
+const STORY_PAGE = 24;
+function storyItems(){
+  const rank = id => { const i = (D.ORDER || []).indexOf(id); return i < 0 ? 99 : i; };
+  return ALL.filter(x => x.title).sort((a,b) => rank(a.id) - rank(b.id)).filter(s => storyFilter === "all" ? true
+    : storyFilter === "mom" ? (s.branch === "thompson" || s.branch === "hulsey")
+    : storyFilter === "dad" ? (s.branch === "moffitt" || s.branch === "smith")
+    : (s.tags || []).includes(storyFilter));
+}
+function renderStories(){
+  document.getElementById("storyFilters").innerHTML = FILTERS.map(([k,l]) => `<button class="chip" data-f="${k}" aria-pressed="${k === storyFilter}">${l}</button>`).join("");
+  const items = storyItems();
+  const more = document.getElementById("moreStories"), left = items.length - storyLimit;
+  more.hidden = left <= 0;
+  more.textContent = `Show ${Math.min(left, STORY_PAGE)} more of ${items.length} stories`;
+  document.getElementById("storyCards").innerHTML = items.slice(0, storyLimit).map((s, i) => {
+    const im = firstImg(s);
+    return `<button class="card${i === 0 && storyFilter === "all" ? " feature" : ""}" data-person="${s.id}" style="--bc:${bcolor(s.branch)}">
+      ${im ? `<span class="ph"><img src="${im}" alt="" loading="lazy"></span>` : ""}
+      <span class="cb">
+        <span class="who"><span>${esc(s.name)}, ${esc(s.years)}</span>${evBadge(s.ev)}</span>
+        <h3>${esc(s.title)}</h3>
+        <p>${esc(s.hook)}</p>
+        <span class="rel"><span class="dot" style="--dc:${bcolor(s.branch)}"></span>${esc(relLine(s))}</span>
+      </span></button>`; }).join("") || `<p class="empty">No stories in this group yet.</p>`;
+}
+
+/* People */
+let branch = "thompson";
+function renderBranches(){
+  document.getElementById("branchCards").innerHTML = Object.entries(D.BRANCHES).map(([k,b]) => `
+    <button class="branchcard" data-branch="${k}" aria-pressed="${k === branch}" style="--bc:${b.color}">
+      <span class="side">${b.side}</span><span class="bn">${b.name} line</span><span class="bs">${b.blurb}</span></button>`).join("");
+  const people = D.P.filter(p => p.branch === branch);
+  const gens = [...new Set(people.map(p => p.gen))].sort((a,b) => a - b);
+  const extra = D.EXTRA.filter(e => e.branch === branch && e.id !== "depression");
+  let html = gens.map(g => `<div class="gen"><span class="gl">${D.GEN[g]}</span><div class="people">${people.filter(p => p.gen === g).map(pill).join("")}</div></div>`).join("");
+  if (extra.length) html += `<div class="gen"><span class="gl">Relatives and context</span><div class="people">${extra.map(pill).join("")}</div></div>`;
+  document.getElementById("ladder").innerHTML = html;
+}
+function pill(p){
+  const a = avatar(p);
+  const av = a ? `<img class="av" src="${a}" alt="" loading="lazy">` : `<span class="av none">${esc(initials(p.name))}</span>`;
+  return `<button class="pill" data-person="${p.id}" style="--bc:${bcolor(p.branch)}">${av}<span class="tx">${p.title ? `<span class="has">Story</span>` : ""}<span class="pn">${esc(p.name)}</span><span class="py">${esc(p.years)}</span></span></button>`;
+}
+
+/* Photos */
+const PHOTO_GROUPS = [
+  ["Records and documents", s => /img\/(rec|docs)\/|dawes|draft|census|codetalker|wpa_|hinshaw|nordyke_perkins|pension/.test(s)],
+  ["Newspapers and old books", s => /img\/(news|books)\//.test(s)],
+  ["Headstones", s => /headstone|grave/.test(s)],
+  ["Places and ships", s => true],
+];
+let photoGroup = "Family portraits";
+function galleryItems(){
+  const seen = new Set(), out = [];
+  for (const p of ALL) for (const im of (p.imgs || [])) {
+    if (seen.has(im.s)) continue; seen.add(im.s);
+    out.push({s: im.s, cap: im.cap, id: p.id, name: p.name});
+  }
+  return out;
+}
+function renderPhotos(){
+  const items = galleryItems();
+  const groups = {"Family portraits": null};
+  for (const [g] of PHOTO_GROUPS) groups[g] = [];
+  for (const it of items) groups[PHOTO_GROUPS.find(([, t]) => t(it.s))[0]].push(it);
+  const counts = {"Family portraits": (D.PHOTO_ORDER || Object.keys(D.PH)).filter(k => D.PH[k]).length};
+  for (const [g] of PHOTO_GROUPS) counts[g] = groups[g].length;
+  const chips = Object.keys(groups).filter(g => counts[g]).map(g =>
+    `<button class="chip" data-pg="${esc(g)}" aria-pressed="${g === photoGroup}">${esc(g)} <span class="cnt">${counts[g]}</span></button>`).join("");
+  let html;
+  if (photoGroup === "Family portraits") {
+    html = (D.PHOTO_ORDER || Object.keys(D.PH)).filter(k => D.PH[k]).map(k => {
+      const v = D.PH[k]; const owner = D.P.find(p => p.ph === k);
+      const what = [v.r ? "restored" : "", v.c ? "colorized" : ""].filter(Boolean).join(" and ");
+      return `<button class="pcard" data-zoomset="${k}"><span class="ph"><img src="${best(v)}" alt="${esc(v.cap)}" loading="lazy"></span>
+        <span class="pc"><span class="pn">${esc(owner ? owner.name : v.cap)}</span><span class="py">${owner ? esc(owner.years) + ". " : ""}${what ? "Original, " + what : "Original"}</span></span></button>`;
+    }).join("");
+  } else {
+    html = groups[photoGroup].map(it => `<figure class="gcard">
+      <button class="frame" data-zoom="${it.s}" data-cap="${esc(it.cap)}"><img src="${it.s}" alt="${esc(it.cap)}" loading="lazy"></button>
+      <figcaption>${esc(it.cap)} <button class="go" data-person="${it.id}">${esc(it.name)}</button></figcaption></figure>`).join("");
+  }
+  document.getElementById("photoFilters").innerHTML = chips;
+  const grid = document.getElementById("photoGrid");
+  grid.className = photoGroup === "Family portraits" ? "pgrid" : "ggrid";
+  grid.innerHTML = html;
+}
+
+/* Timeline */
+let tlFilter = "all";
+function renderTimeline(){
+  const opts = [["all","Both sides"],["mom","Mom's side"],["dad","Dad's side"]];
+  document.getElementById("tlFilters").innerHTML = opts.map(([k,l]) => `<button class="chip" data-tl="${k}" aria-pressed="${k === tlFilter}">${l}</button>`).join("");
+  const items = D.TIMELINE.filter(e => tlFilter === "all" ? true : tlFilter === "mom" ? (e.b === "thompson" || e.b === "hulsey") : (e.b === "moffitt" || e.b === "smith"));
+  document.getElementById("timelineList").innerHTML = items.map(e => `
+    <li><span class="yr">${esc(e.y)}</span><span class="mk" style="--dc:${bcolor(e.b)}"></span>
+      <span class="tx"><span>${esc(e.t)}</span>${byId[e.p] ? `<button class="go" data-person="${e.p}">Read the story</button>` : ""}</span>
+      ${e.i ? `<img class="thumb" src="img/${e.i}" alt="" loading="lazy">` : "<span></span>"}</li>`).join("");
+}
+
+/* Panel */
+const panel = document.getElementById("panel"), scrim = document.getElementById("scrim"), lb = document.getElementById("lightbox");
+let lastFocus = null, panelVar = {};
+function variantFig(k){
+  const v = D.PH[k]; const cur = panelVar[k] || (v.c ? "c" : v.r ? "r" : "o");
+  const opts = [["o","Original"], v.r ? ["r","Restored"] : null, v.c ? ["c","Colorized"] : null].filter(Boolean);
+  return `<figure class="fig" data-set="${k}"><button class="frame" data-zoomset="${k}" aria-label="Open and compare"><img src="${v[cur]}" alt="${esc(v.cap)}"></button>
+    ${opts.length > 1 ? `<span class="vt" role="group" aria-label="Photo version">${opts.map(([key,l]) => `<button data-pv="${key}" data-set="${k}" aria-pressed="${cur === key}">${l}</button>`).join("")}</span>` : ""}
+    <figcaption>${esc(v.cap)}</figcaption></figure>`;
+}
+function openPerson(id){
+  const p = byId[id]; if (!p) return;
+  lastFocus = document.activeElement;
+  panel.style.setProperty("--bc", bcolor(p.branch));
+  document.getElementById("pRel").textContent = relLine(p);
+  document.getElementById("pName").innerHTML = nameHTML(p.name);
+  document.getElementById("pYears").textContent = p.years;
+  let h = "";
+  if (p.ph && D.PH[p.ph]) h += `<div class="gallery">${variantFig(p.ph)}</div>`;
+  const imgs = p.imgs || [];
+  if (imgs.length) h += `<div class="gallery${imgs.length > 1 ? " two" : ""}">${imgs.map(im => `<figure class="fig"><button class="frame" data-zoom="${im.s}" data-cap="${esc(im.cap)}"><img src="${im.s}" alt="${esc(im.cap)}" loading="lazy"></button><figcaption>${esc(im.cap)}</figcaption></figure>`).join("")}</div>`;
+  if (p.title){
+    h += `<div class="storyhead">${evBadge(p.ev)}<h4>${esc(p.title)}</h4></div>`;
+    h += (p.body || []).map(t => `<p>${esc(t)}</p>`).join("");
+    if (p.kv) h += `<dl class="kv">${p.kv.map(([k,v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("")}</dl>`;
+    h += (p.quotes || []).map(q => `<blockquote class="quote">${esc(q.t)}<cite>${esc(q.c)}</cite></blockquote>`).join("");
+    if (p.note) h += `<div class="note">${esc(p.note)}</div>`;
+    if (p.src) h += `<p class="src">Sources: ${esc(p.src)}</p>`;
+  } else {
+    if (p.place) h += `<p>${esc(p.place)}</p>`;
+    if (p.kv) h += `<dl class="kv">${p.kv.map(([k,v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("")}</dl>`;
+    if (p.src) h += `<p class="src">Sources: ${esc(p.src)}</p>`;
+    if (!imgs.length && !p.ph && !p.place) h += `<p class="empty">No story written up yet for this ancestor.</p>`;
+  }
+  const body = document.getElementById("pBody"); body.innerHTML = h;
+  scrim.hidden = false; panel.hidden = false;
+  const top = () => { body.scrollTop = 0; };
+  top(); requestAnimationFrame(top); setTimeout(top, 120);   // reset after layout, and again once images have sized
+  body.querySelectorAll("img").forEach(im => im.addEventListener("load", top, {once: true}));
+  document.getElementById("pClose").focus({preventScroll: true});
+}
+function closePanel(){ panel.hidden = true; scrim.hidden = true; if (lastFocus) lastFocus.focus({preventScroll: true}); }
+
+/* Lightbox */
+let lbSet = null, lbMode = "cmp", lbRight = "r";
+function openZoom(src, cap){
+  lbSet = null;
+  document.getElementById("lbStage").innerHTML = `<img src="${src}" alt="${esc(cap)}">`;
+  document.getElementById("lbCap").textContent = cap; document.getElementById("lbCtl").innerHTML = "";
+  lb.hidden = false; document.getElementById("lbClose").focus();
+}
+function openSet(k){
+  const v = D.PH[k]; lbSet = k; lbRight = v.c ? "c" : "r"; lbMode = v.r ? "cmp" : "o";
+  renderSet(); lb.hidden = false; document.getElementById("lbClose").focus();
+}
+function renderSet(){
+  const v = D.PH[lbSet]; const L = {o:"Original", r:"Restored", c:"Colorized"};
+  document.getElementById("lbStage").innerHTML = lbMode === "cmp" ? cmpHTML(v.o, v[lbRight], "Original", L[lbRight], v.cap) : `<img src="${v[lbMode]}" alt="${esc(v.cap)} (${L[lbMode]})">`;
+  document.getElementById("lbCap").textContent = v.cap;
+  const b = (key, l, on) => `<button data-lb="${key}" aria-pressed="${on}">${l}</button>`;
+  document.getElementById("lbCtl").innerHTML = `<span class="vt" role="group" aria-label="View">${b("o","Original",lbMode==="o")}${v.r?b("r","Restored",lbMode==="r"):""}${v.c?b("c","Colorized",lbMode==="c"):""}${v.r?b("cmp:"+(v.c?"c":"r"),"Compare",lbMode==="cmp"):""}</span>`;
+}
+function closeZoom(){ lb.hidden = true; }
+
+document.getElementById("pClose").addEventListener("click", closePanel);
+document.getElementById("lbClose").addEventListener("click", closeZoom);
+lb.addEventListener("click", e => { if (e.target === lb || e.target.id === "lbStage") closeZoom(); });
+scrim.addEventListener("click", closePanel);
+document.addEventListener("keydown", e => { if (e.key !== "Escape") return; if (!lb.hidden) closeZoom(); else if (!panel.hidden) closePanel(); });
+
+/* Views + routing */
+const VIEWS = ["stories","branches","photos","timeline"];
+function show(v){
+  if (!VIEWS.includes(v)) v = "stories";
+  VIEWS.forEach(n => { document.getElementById("view-" + n).hidden = n !== v; document.getElementById("tab-" + n).setAttribute("aria-selected", String(n === v)); });
+}
+function go(v){ location.hash = v; show(v); document.querySelector("main").scrollIntoView({behavior:"smooth", block:"start"}); }
+document.querySelectorAll(".tabs button").forEach(b => b.addEventListener("click", () => { location.hash = b.dataset.view; show(b.dataset.view); }));
+window.addEventListener("hashchange", () => show(location.hash.slice(1)));
+
+document.addEventListener("click", e => {
+  const t = e.target;
+  const vg = t.closest("[data-view-go]"); if (vg){ go(vg.dataset.viewGo); return; }
+  const lbb = t.closest("[data-lb]"); if (lbb){ const k = lbb.dataset.lb; if (k.startsWith("cmp:")){ lbMode = "cmp"; lbRight = k.slice(4); } else lbMode = k; renderSet(); return; }
+  const pv = t.closest("[data-pv]"); if (pv){ panelVar[pv.dataset.set] = pv.dataset.pv; pv.closest("figure").outerHTML = variantFig(pv.dataset.set); return; }
+  const zs = t.closest("[data-zoomset]"); if (zs){ openSet(zs.dataset.zoomset); return; }
+  const z = t.closest("[data-zoom]"); if (z){ openZoom(z.dataset.zoom, z.dataset.cap); return; }
+  const f = t.closest("[data-f]"); if (f){ storyFilter = f.dataset.f; storyLimit = STORY_PAGE; renderStories(); return; }
+  if (t.closest("#moreStories")){
+    const first = storyLimit; storyLimit += STORY_PAGE; renderStories();
+    document.querySelectorAll("#storyCards .card")[first]?.focus({preventScroll: true});
+    return;
+  }
+  const tl = t.closest("[data-tl]"); if (tl){ tlFilter = tl.dataset.tl; renderTimeline(); return; }
+  const pg = t.closest("[data-pg]"); if (pg){ photoGroup = pg.dataset.pg; renderPhotos(); return; }
+  const b = t.closest("[data-branch]"); if (b){ branch = b.dataset.branch; renderBranches(); return; }
+  const p = t.closest("[data-person]"); if (p){ openPerson(p.dataset.person); }
+});
+
+/* Search */
+const fold = s => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+let INDEX = [], qSel = -1;
+function buildIndex(){
+  INDEX = ALL.map(x => ({x, name: fold(x.name), head: fold([x.title, x.hook, x.years].join(" ")),
+    all: fold([x.name, x.title, x.hook, x.place, x.years, x.rel, ...(x.body || []), ...(x.kv || []).flat(), x.note].join(" "))}));
+}
+function search(q){
+  const terms = fold(q).split(/\s+/).filter(Boolean);
+  if (!terms.length) return [];
+  const rank = id => { const i = (D.ORDER || []).indexOf(id); return i < 0 ? 999 : i; };
+  return INDEX.filter(e => terms.every(t => e.all.includes(t)))
+    .map(e => ({e, s: (terms.every(t => e.name.includes(t)) ? 4 : 0) + (terms.every(t => e.head.includes(t)) ? 2 : 0) + (e.x.gen !== undefined ? 1 : 0)}))
+    .sort((a, b) => b.s - a.s || rank(a.e.x.id) - rank(b.e.x.id)).slice(0, 14).map(r => r.e.x);
+}
+const qIn = document.getElementById("q"), qOut = document.getElementById("qResults");
+function renderResults(){
+  const q = qIn.value.trim();
+  if (!q || !D){ qOut.hidden = true; qSel = -1; return; }
+  const hits = search(q);
+  qOut.innerHTML = hits.length ? hits.map((p, i) => `<button type="button" data-person="${p.id}" data-qi="${i}" aria-selected="${i === qSel}" style="--bc:${bcolor(p.branch)}">
+      <span class="bar"></span><span class="rn">${esc(p.name)}<span class="ry">${esc(p.years)}</span></span>
+      <span class="rs">${esc(p.title || relLine(p))}</span></button>`).join("")
+    : `<p class="none">Nothing found for “${esc(q)}”.</p>`;
+  qOut.hidden = false;
+}
+qIn.addEventListener("input", () => { qSel = -1; renderResults(); });
+qIn.addEventListener("focus", renderResults);
+qIn.addEventListener("keydown", e => {
+  const n = qOut.querySelectorAll("[data-qi]").length;
+  if (e.key === "ArrowDown" && n){ e.preventDefault(); qSel = (qSel + 1) % n; renderResults(); }
+  else if (e.key === "ArrowUp" && n){ e.preventDefault(); qSel = (qSel - 1 + n) % n; renderResults(); }
+  else if (e.key === "Enter" && n){ e.preventDefault(); qOut.querySelectorAll("[data-qi]")[Math.max(qSel, 0)].click(); }
+  else if (e.key === "Escape"){ qIn.value = ""; renderResults(); }
+});
+document.addEventListener("click", e => { if (!e.target.closest(".search")) qOut.hidden = true; else if (e.target.closest("[data-qi]")) qOut.hidden = true; }, true);
+
+function renderStats(){
+  const photos = Object.keys(D.PH).length + galleryItems().length;
+  document.getElementById("stats").textContent =
+    `So far: ${ALL.length} ancestors, relatives and places, ${ALL.filter(x => x.title).length} stories, ${photos} photographs and records, and ${D.TIMELINE.length} dated events.`;
+}
+
+fetch("data.json").then(r => r.json()).then(data => {
+  D = data; ALL = [...D.P, ...D.EXTRA]; byId = Object.fromEntries(ALL.map(x => [x.id, x]));
+  buildIndex();
+  renderHero(); renderStats(); renderStories(); renderBranches(); renderPhotos(); renderTimeline();
+  show(location.hash.slice(1));
+}).catch(() => { document.getElementById("storyCards").innerHTML = `<p class="empty">The family data could not be loaded. Reload the page to try again.</p>`; });
+</script>
