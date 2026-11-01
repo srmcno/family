@@ -718,7 +718,7 @@ function renderStats(){
     `So far: ${ALL.length} ancestors, relatives and places, ${ALL.filter(x => x.title).length} stories, ${photos} photographs and records, and ${D.TIMELINE.length} dated events.`;
 }
 
-Promise.all([fetch("data.json?v=20261101m9").then(r => { if(!r.ok)throw new Error("Family data unavailable");return r.json(); }), fetch("tree.json?v=20261101m9").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
+Promise.all([fetch("data.json?v=20261101n1").then(r => { if(!r.ok)throw new Error("Family data unavailable");return r.json(); }), fetch("tree.json?v=20261101n1").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
   D = data; ALL = [...D.P, ...D.EXTRA]; byId = Object.fromEntries(ALL.map(x => [x.id, x]));
   T = tree;
   buildIndex();

@@ -182,9 +182,14 @@
     ]
    ],
    "body": [
-    "William 'Junior' Thompson Jr. (1934-2007) was the third of five children in Simon and Frances's household in 1940, listed as 'Junior, 6,' with four siblings and his Pisachubbe grandparents at Jeter. He married Mary Ellen Hulsey, joining the Thompson and Hulsey families."
+    "William ‘Junior’ Thompson Jr. grew up in Choctaw County, Oklahoma, in the household of Simon and Frances Thompson. The 1940 census lists him as Junior, age six, living at Jeter with his parents, siblings and his Pisachubbe grandparents.",
+    "A decade later, the 1950 census placed sixteen-year-old William at home with his parents and siblings in Jeter. His Pisachubbe grandmother was also in the household, and his father farmed his own land. William married Mary Ellen Hulsey, joining the Thompson and Hulsey families.",
+    "In March 2002, his sister Ethel Hamill’s obituary named William Thompson Jr. among her surviving brothers and placed him in Hugo. Ethel had grown up and attended school at Speer, and she lived much of her life in Choctaw County. William died in 2007."
    ],
-   "src": "1950 U.S. census, Jeter, Choctaw Co., Okla. (dwelling 421)."
+   "src": "1950 U.S. census, Jeter, Choctaw Co., Okla. (dwelling 421).; 1940 U.S. census, Jeter, Choctaw County, Oklahoma; Ethel Marietta Hamill obituary, Biskinik, April 2002, p. 14, Choctaw Nation, https://www.choctawnation.com/wp-content/uploads/2023/01/apr02-biskinik.pdf.",
+   "title": "Junior Thompson of Jeter",
+   "hook": "Two census households and a family obituary trace William’s life in Choctaw County.",
+   "ev": "probable"
   },
   {
    "id": "simon",
@@ -3201,6 +3206,10 @@
     {
      "s": "img/smith_satterfield_grave.jpg",
      "cap": "Charles O. and Artie Smith's grave"
+    },
+    {
+     "s": "img/rec/tx_death_1973_nellie_choat.jpg",
+     "cap": "Texas death certificate for Nellie Mae Choat, 1973, naming her parents."
     }
    ],
    "place": "Born 13 August 1898 in Butler County, Kentucky, probably near Morgantown. Married Charles Oscar Smith in 1914; died 21 July 1983 and buried with him at Grant Cemetery.",
@@ -3247,7 +3256,15 @@
     ]
    ],
    "ev": "probable",
-   "src": "Find a Grave Index (Grant Cemetery); Cemeteries of Choctaw County Oklahoma, Ron Henson, USGenWeb Archives (files.usgwarchives.net/ok/choctaw/cemeteries/cemchoc.txt); 1920, 1930, 1940 and 1950 U.S. censuses; Texas death certificate of Nellie Mae Choat, 1973."
+   "src": "Find a Grave Index (Grant Cemetery); Cemeteries of Choctaw County Oklahoma, Ron Henson, USGenWeb Archives (files.usgwarchives.net/ok/choctaw/cemeteries/cemchoc.txt); 1920, 1930, 1940 and 1950 U.S. censuses; Texas death certificate of Nellie Mae Choat, 1973.; Prater-Lampton-Mills & Coffey Funeral Home, obituary of Faye (Smith) Moffitt, 2014, https://www.okcemeteries.net/choctaw/grant/moffittf-obit.htm.",
+   "title": "Pearl's family across the Red River",
+   "hook": "A Kentucky-born girl became a Texas farm neighbor, married Oscar Smith, and raised four children in southeastern Oklahoma.",
+   "body": [
+    "Artie Pearl Satterfield was born in Butler County, Kentucky, in 1898, into the household of John C. and Samantha Johnson Satterfield. By 1910 the family had moved to Hagansport in Franklin County, Texas. Eleven-year-old Pearl and nineteen-year-old Oscar Smith appeared a few households apart on the same census route. They married in 1914. Their first daughter, Nellie Mae, was born at Talco, Texas, on 3 April 1917.",
+    "The Smiths crossed the Red River to Choctaw County, Oklahoma. In 1920, Pearl, Oscar and little Nellie were living on a rented farm in Oakes Township. By 1930 they were at Jeter with four children: Nellie, Robert Lee, Virgil and Faye. Faye had been born at Forney on 23 March 1929. The 1940 census still placed the household on rented farmland along Hugo Route 1. Pearl's family had gone from Kentucky to Texas to Oklahoma in one generation; the children's records preserve the different stops.",
+    "Pearl outlived Oscar and her eldest daughter. Nellie Mae Choat died in Paris, Texas, on 7 July 1973, aged 56, after breast cancer; her death certificate names her parents as Charley O. Smith and Pearl Satterfield. She was brought home to Hugo for burial at Mount Olivet Cemetery. Pearl lived until 1983 and was buried beside Oscar at Grant Cemetery. Her youngest daughter Faye lived until 2014, carrying the Smith and Satterfield connection into the Moffitt family."
+   ],
+   "note": "The census records support the household timeline. Nellie’s death certificate names her parents; Faye’s obituary independently names Charlie Oscar and Artie Pearl Smith."
   },
   {
    "id": "johnc",
