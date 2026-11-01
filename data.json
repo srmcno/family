@@ -164,13 +164,40 @@
   "edith_slaton": {
    "o": "img/p/edith_slaton_orig.jpg",
    "r": "img/p/edith_slaton_restored.jpg",
-   "cap": "Edith Irene (Thompson) Slaton. Family portrait published in the Choctaw Nation Biskinik, May 2012, page 16; restored from the original color image."
+   "cap": "Edith Irene (Thompson) Slaton. Family portrait published in the Choctaw Nation Biskinik, May 2012, page 16; restored from the original color image.",
+   "c": "img/p/edith_slaton_camera_enhanced.jpg",
+   "labels": {
+    "c": "Enhanced"
+   },
+   "edit_note": "The Enhanced version adds a modern-camera-style finish to the small source portrait. Compare the original for historical detail."
   },
   "faye_moffitt": {
    "o": "img/p/faye_moffitt_orig.jpg",
-   "r": "img/p/faye_moffitt_restored_roots.jpg",
+   "r": "img/p/faye_moffitt_restored_balanced.jpg",
    "cap": "Faye Renee (Smith) Moffitt beside a Christmas tree. Family color portrait accompanying her 2014 obituary; restored, with hair roots color-retouched at the family’s request. The original is available for comparison.",
-   "source": "Family portrait; Prater-Lampton-Mills & Coffey Funeral Home obituary, archived by Oklahoma Cemeteries. https://www.okcemeteries.net/choctaw/grant/moffittf-obit.htm"
+   "source": "Family portrait; Prater-Lampton-Mills & Coffey Funeral Home obituary, archived by Oklahoma Cemeteries. https://www.okcemeteries.net/choctaw/grant/moffittf-obit.htm",
+   "c": "img/p/faye_moffitt_restored_roots.jpg",
+   "labels": {
+    "c": "Hair retouched"
+   },
+   "edit_note": "The Hair retouched version blends gray roots into the existing brown hair. The original color photograph is retained."
+  },
+  "william_junior": {
+   "o": "img/p/william_junior_orig.jpg",
+   "r": "img/p/william_junior_restored_balanced.jpg",
+   "cap": "William “Junior” Thompson Jr. Family color portrait, identified by LarryHulsey1; restored with softened flash highlights and balanced color.",
+   "source": "FamilySearch Memory 137039370, contributed by LarryHulsey1, 26 Nov 2021. https://www.familysearch.org/photos/artifacts/137039370"
+  },
+  "rebecca_graves_studio": {
+   "o": "img/p/rebecca_graves_studio_orig.jpg",
+   "c": "img/p/rebecca_graves_studio_color.jpg",
+   "cap": "Sarah Rebecca (Graves) Hulsey, studio portrait. Restored and colorized; original colors are not documented.",
+   "source": "Family photograph shared by sshulsey, 20 Apr 2012, Ancestry tree 33317564, media 9d9c64bd-8ca1-4301-9e9d-6d21d07157ea."
+  },
+  "hulsey_family_yard": {
+   "o": "img/p/hulsey_family_yard_orig.jpg",
+   "cap": "Hulsey family group beside a picket fence. Original family photograph; date and individual identifications are not confirmed.",
+   "source": "Family photograph shared by sshulsey, 22 Apr 2012, Ancestry tree 33317564, media 5b21e57e-e255-49ff-83bd-ff6479526680."
   }
  },
  "P": [
@@ -190,17 +217,24 @@
     [
      "1950 census",
      "Age 16, living with his parents, brothers and sisters and his Pisachubbe grandmother at Jeter, Choctaw Co., Okla.; his father was a farmer working his own land"
+    ],
+    [
+     "Marriage license announced",
+     "5 Dec 1956: William Thompson Jr., Speer, and Mary Ellen Hulsey, Hugo"
     ]
    ],
    "body": [
-    "William ‘Junior’ Thompson Jr. grew up in Choctaw County, Oklahoma, in the household of Simon and Frances Thompson. The 1940 census lists him as Junior, age six, living at Jeter with his parents, siblings and his Pisachubbe grandparents.",
-    "A decade later, the 1950 census placed sixteen-year-old William at home with his parents and siblings in Jeter. His Pisachubbe grandmother was also in the household, and his father farmed his own land. William married Mary Ellen Hulsey, joining the Thompson and Hulsey families.",
-    "In March 2002, his sister Ethel Hamill’s obituary named William Thompson Jr. among her surviving brothers and placed him in Hugo. Ethel had grown up and attended school at Speer, and she lived much of her life in Choctaw County. William died in 2007."
+    "William “Junior” Thompson Jr. grew up on his parents’ farm at Jeter in Choctaw County, Oklahoma. In 1940 he was six, sharing the household with Simon and Frances Thompson, his brothers and sisters, and his Pisachubbe grandparents.",
+    "At sixteen, he was still at home in Jeter. His father worked his own farm, and his Pisachubbe grandmother remained part of the household. The two censuses place Junior in a family whose children and elders lived together.",
+    "By December 1956, William was living at Speer. His marriage license with Mary Ellen Hulsey of Hugo appeared in the local newspaper that month, joining the Thompson and Hulsey branches of the family.",
+    "He remained connected to Hugo through the years. His father Simon’s surviving family included William Thompson Jr. of Hugo in 1990, and his sister Ethel Hamill’s family included him there in 2002. William died in 2007."
    ],
-   "src": "1950 U.S. census, Jeter, Choctaw Co., Okla. (dwelling 421).; 1940 U.S. census, Jeter, Choctaw County, Oklahoma; Ethel Marietta Hamill obituary, Biskinik, April 2002, p. 14, Choctaw Nation, https://www.choctawnation.com/wp-content/uploads/2023/01/apr02-biskinik.pdf.",
-   "title": "Junior Thompson of Jeter",
-   "hook": "Two census households and a family obituary trace William’s life in Choctaw County.",
-   "ev": "probable"
+   "src": "1950 U.S. census, Jeter, Choctaw Co., Okla. (dwelling 421).; 1940 U.S. census, Jeter, Choctaw County, Oklahoma; Ethel Marietta Hamill obituary, Biskinik, April 2002, p. 14, Choctaw Nation, https://www.choctawnation.com/wp-content/uploads/2023/01/apr02-biskinik.pdf.; The Hugo Daily News, 5 Dec 1956, p. 1, marriage licenses, https://www.newspapers.com/image/901930026/; The Paris News, 17 Sep 1990, p. 2, Simon William Thompson obituary, https://www.newspapers.com/image/13497196/.",
+   "title": "Junior Thompson, from Jeter to Speer",
+   "hook": "A childhood in a household of several generations, and a marriage that joined the Thompson and Hulsey families.",
+   "ev": "probable",
+   "note": "The 5 December 1956 newspaper item announces a marriage license; it does not give the wedding date. The FamilySearch portrait is identified by its contributor as William “Junior” Thompson Jr.; the attached shared tree uses 1933 for his birth year, while the family’s census-based profile uses 1934. The photo does not resolve that discrepancy.",
+   "ph": "william_junior"
   },
   {
    "id": "simon",
@@ -690,7 +724,8 @@
    "imgs": [
     {
      "s": "img/emeline_tims.jpg",
-     "cap": "Emeline (Steadman) Tims"
+     "cap": "Emeline (Steadman) Tims",
+     "kind": "photo"
     },
     {
      "s": "img/docs/dawes_1410_joseph_w_birth_affidavit.jpg",
@@ -1157,7 +1192,8 @@
    "imgs": [
     {
      "s": "img/mary_ellen_hulsey.jpg",
-     "cap": "Mary Ellen Hulsey"
+     "cap": "Mary Ellen Hulsey",
+     "kind": "photo"
     },
     {
      "s": "img/places/broken_bow_sanborn_1921.jpg",
@@ -1165,7 +1201,8 @@
     },
     {
      "s": "img/places/broken_bow_downtown.jpg",
-     "cap": "Downtown Broken Bow, Oklahoma (photographed 2013). Wikimedia Commons, CC BY-SA 3.0, Billy Hathorn. Source: https://commons.wikimedia.org/wiki/File:Downtown_Broken_Bow,_OK_IMG_8546.JPG"
+     "cap": "Downtown Broken Bow, Oklahoma (photographed 2013). Wikimedia Commons, CC BY-SA 3.0, Billy Hathorn. Source: https://commons.wikimedia.org/wiki/File:Downtown_Broken_Bow,_OK_IMG_8546.JPG",
+     "kind": "photo"
     }
    ],
    "kv": [
@@ -1258,11 +1295,13 @@
    "imgs": [
     {
      "s": "img/places/wheelock_academy_1932.jpg",
-     "cap": "Wheelock Academy near Millerton, Oklahoma, in 1932-1933 (National Archives). Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Wheelock_Academy,_1932-1933_-_NARA_-_268446.jpg"
+     "cap": "Wheelock Academy near Millerton, Oklahoma, in 1932-1933 (National Archives). Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Wheelock_Academy,_1932-1933_-_NARA_-_268446.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/mount_ida_ar.jpg",
-     "cap": "Mount Ida, Montgomery County, Arkansas (photographed 2015). Wikimedia Commons, CC BY-SA 4.0, Brandonrush. Source: https://commons.wikimedia.org/wiki/File:Mt._Ida,_AR_001.jpg"
+     "cap": "Mount Ida, Montgomery County, Arkansas (photographed 2015). Wikimedia Commons, CC BY-SA 4.0, Brandonrush. Source: https://commons.wikimedia.org/wiki/File:Mt._Ida,_AR_001.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/rec/news_1938_valliant_hulsey_assault.jpg",
@@ -1320,7 +1359,8 @@
    "imgs": [
     {
      "s": "img/katie_hulsey.jpg",
-     "cap": "Katie Cornelia (Stevenson) Hulsey"
+     "cap": "Katie Cornelia (Stevenson) Hulsey",
+     "kind": "photo"
     },
     {
      "s": "img/rec/census_1910_stevenson_yell.jpg",
@@ -1332,11 +1372,13 @@
     },
     {
      "s": "img/places/yell_courthouse_danville.jpg",
-     "cap": "Yell County Courthouse, Danville, Arkansas (photographed 2026). Wikimedia Commons, CC0, Brandonrush. Source: https://commons.wikimedia.org/wiki/File:Yell_County_Courthouse,_Danville,_AR_001.jpg"
+     "cap": "Yell County Courthouse, Danville, Arkansas (photographed 2026). Wikimedia Commons, CC0, Brandonrush. Source: https://commons.wikimedia.org/wiki/File:Yell_County_Courthouse,_Danville,_AR_001.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/p/katie_at_92.jpg",
-     "cap": "Katie Stevenson Hulsey at 92, photographed in 2001; the handwritten note reads 'Daughter of Parsis J. O'Neal Stevenson.' Photograph shared in a public Ancestry member tree"
+     "cap": "Katie Stevenson Hulsey at 92, photographed in 2001; the handwritten note reads 'Daughter of Parsis J. O'Neal Stevenson.' Photograph shared in a public Ancestry member tree",
+     "kind": "photo"
     }
    ],
    "ev": "proven"
@@ -1344,7 +1386,7 @@
   {
    "id": "gwhulsey",
    "name": "Rev. George Washington Hulsey",
-   "years": "1876–1935",
+   "years": "1875–1935",
    "branch": "hulsey",
    "gen": 2,
    "rel": "2nd great-grandfather",
@@ -1359,15 +1401,18 @@
     },
     {
      "s": "img/places/montgomery_co_courthouse_ar.jpg",
-     "cap": "Montgomery County Courthouse, Mount Ida, Arkansas (photographed 2015). Wikimedia Commons, CC BY-SA 4.0, Brandonrush. Source: https://commons.wikimedia.org/wiki/File:Montgomery_County_Courthouse_001.jpg"
+     "cap": "Montgomery County Courthouse, Mount Ida, Arkansas (photographed 2015). Wikimedia Commons, CC BY-SA 4.0, Brandonrush. Source: https://commons.wikimedia.org/wiki/File:Montgomery_County_Courthouse_001.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/hot_springs_bathhouse_row.jpg",
-     "cap": "Hot Springs, Arkansas: the Army and Navy Hospital and Bathhouse Row, about 1922. Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Hot_Springs_Army_Navy_Hospital_1893-1922_and_Bathhouse_Row.jpg"
+     "cap": "Hot Springs, Arkansas: the Army and Navy Hospital and Bathhouse Row, about 1922. Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Hot_Springs_Army_Navy_Hospital_1893-1922_and_Bathhouse_Row.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/hot_springs_central_ave_1924.jpg",
-     "cap": "Central Avenue, Hot Springs, Arkansas, 1924. Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Picturesque_Hot_Springs_Central_Avenue_1924_Arlington.jpg"
+     "cap": "Central Avenue, Hot Springs, Arkansas, 1924. Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Picturesque_Hot_Springs_Central_Avenue_1924_Arlington.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/rec/hulsey-1880-household.jpg",
@@ -1377,17 +1422,17 @@
    "title": "A preacher at Camp Pike",
    "hook": "In 1918 he was building the Army's big WWI training camp near Little Rock.",
    "body": [
-    "A preacher from Hot Springs, Arkansas. On his WWI draft card (12 September 1918) he was 42, living at Story in Montgomery County, Arkansas, and working as a laborer for the Stewart-McGehee Construction Company at Camp Pike, the Army's big training camp near Little Rock. The card describes him as short and slender, with blue eyes and black hair. His wife was Sarah Rebecca (Graves) Hulsey.",
-    "He married Sarah Rebecca Graves on 22 December 1901, when she was 17, and they had ten children, among them Oscar, born in 1910. He died on 5 August 1935 and is buried in Breashears Cemetery, east of Story, where Benjamin F. Hulsey, believed to be his father, also lies.",
+    "George Washington Hulsey was forty-two when he registered for the draft on 12 September 1918. He gave his birth date as 24 December 1875 and his permanent address as Story, in Montgomery County, Arkansas. For work he was away at Camp Pike, the Army’s large training camp near Little Rock, employed as a laborer by the Stewart-McGehee Construction Company. His nearest relative was Sarah Rebecca Hulsey at Story. The card describes him as short and slender, with blue eyes and black hair.",
+    "He married Sarah Rebecca Graves on 22 December 1901, when she was 17, and they had ten children, among them Oscar, born in 1910. He died in 1935 and is buried in Breashears Cemetery, east of Story, where Benjamin F. Hulsey, believed to be his father, also lies.",
     "Rebecca and George Washington Hulsey had ten children: William Roy (1904), John Wesley (1906), Noah (1908), Oscar Franklin (1910), Fred (1913), Ruby Ellen (Stipe, 1915), Grady (1918), Louis Daniel (1920), Grace Irene (Dunagan, 1923) and George Paul (1925). Oscar was the fourth. Rebecca was 17 at the wedding and 41 when the last child was born.",
     "Find a Grave records his burial at Breashears Cemetery near Fannie in Montgomery County, Arkansas, with a death date of 5 August 1935, and names his father as Benjamin Franklin Hulsey and ten children. That date differs from the 22 December 1935 in the family tree, so the exact day is still to be confirmed from a death certificate or obituary.",
-    "At Oscar's death in 1982, two sisters and four brothers survived him. Since Oscar had eight siblings, at least two had died before then.",
-    "When he died on 5 August 1935, the oldest child, William Roy, was about 30 and the youngest, George Paul, about 9 or 10; his widow, Sarah Rebecca, was 51. She died at Bandon, Oregon in 1972.",
+    "At Oscar’s death in 1982, two sisters and four brothers survived him. Of his nine siblings, three had therefore died before him.",
+    "When he died in 1935, the oldest child, William Roy, was about 30 and the youngest, George Paul, about 9 or 10; his widow, Sarah Rebecca, was 51. She died at Bandon, Oregon in 1972.",
     "Camp Pike was under heavy strain when he signed. Eleven days after the draft card, on 23 September 1918, the camp base hospital admitted 214 influenza cases in a single day, and by the end of October 12,393 men had reported sick with the disease. See \"The camp where George Hulsey was working when the influenza came.\"",
-    "In June 1880, B. F. Hulsey, a 32-year-old miner born in Georgia, lived in Center Township, Montgomery County, Arkansas. His household included his wife, age 30, daughter Margaret M., age 6, son George W., age 4, and infant son Charles F. A later family account identifies Benjamin F. Hulsey as the father of George Washington Hulsey, who married Sarah Graves. Their names, ages, family and location support the connection, although the later account contains inconsistencies and the wife’s full name needs further evidence."
+    "In June 1880, B. F. Hulsey, a thirty-two-year-old Georgia-born miner, lived in Center Township with his wife Sarah G., thirty, and children Margaret M., six, George W., four, and infant Charles F. George’s later December 1875 birth date fits the child’s age. These records point toward this household as his childhood family, although the connection remains probable."
    ],
-   "src": "WWI Draft Registration, Little Rock, Ark., 1918. Find a Grave (Breashears Cemetery, Montgomery Co., Ark.); 1910, 1920 and 1930 U.S. Censuses; Find a Grave Index (Breashears Cemetery); Opie et al., Epidemic Respiratory Disease (1921), pp. 15–17 and 52; Montgomery County ARGenWeb, 'Breashears Cemetery, Story' (argenweb.net/montgomery/breashears_cemetery.htm; photo study, June 2020); 1930 U.S. census, Sulphur Twp., McCurtain Co., Okla. (dwelling 264); 1920 U.S. census, Sulphur Twp., McCurtain Co.; 1880 U.S. census, Center Township, Montgomery County, Arkansas, sheet 431, household 216, lines 1–5, NARA T9 roll 52, https://archive.org/details/10thcensus0052unit/page/n166/mode/1up; Franklin L. Hulsey family query, Arkansas Family Historian 15:4 (December 1977), p. 218, https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26",
-   "note": "His headstone gives his birth as 24 December 1876; his draft card age of 42 points to late 1875 or 1876. The date 22 December appears in some trees as his death, but it is the date of his marriage. Which church he preached for is not recorded; the only church named in the Story cemetery records is the Story Church of God, but nothing ties him to it. Occupation caveat: the records cited here give his work as laborer at Camp Pike (1918 draft card) and tenant or renting farmer (1920, 1930 censuses); none of them calls him a preacher, so 'Rev.' rests on family usage. The Find a Grave death date 5 Aug 1935 and the family-tree 22 Dec 1935 conflict (see above). The 1880 household and 1977 family account support B. F. Hulsey as a probable father; his identity with the Benjamin Franklin Hulsey in other records remains a lead. The mother’s name is not yet established.",
+   "src": "WWI Draft Registration, Little Rock, Ark., 1918. Find a Grave (Breashears Cemetery, Montgomery Co., Ark.); 1910, 1920 and 1930 U.S. Censuses; Find a Grave Index (Breashears Cemetery); Opie et al., Epidemic Respiratory Disease (1921), pp. 15–17 and 52; Montgomery County ARGenWeb, 'Breashears Cemetery, Story' (argenweb.net/montgomery/breashears_cemetery.htm; photo study, June 2020); 1930 U.S. census, Sulphur Twp., McCurtain Co., Okla. (dwelling 264); 1920 U.S. census, Sulphur Twp., McCurtain Co.; 1880 U.S. census, Center Township, Montgomery County, Arkansas, sheet 431, household 216, lines 1–5, NARA T9 roll 52, https://archive.org/details/10thcensus0052unit/page/n166/mode/1up; Franklin L. Hulsey family query, Arkansas Family Historian 15:4 (December 1977), p. 218, https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26; Original George W. Hulsey WWI draft registration, 12 Sep 1918, FamilySearch https://www.familysearch.org/ark:/61903/1:1:K359-2S8; 1900 original census, https://www.familysearch.org/ark:/61903/1:1:M365-N1R.",
+   "note": "His original 1918 draft registration gives 24 December 1875, also supported by December 1875 in the 1900 census; the grave transcription gives 1876. His exact death day remains unresolved: published sources differ between 5 August and 21 August 1935, while 22 December in the earlier tree repeats his wedding date. Family usage calls him “Rev.”; the occupational records reviewed identify a laborer and farmer. B. F. and Sarah G. are provisional parents: the 1880 census names George as B. F.’s son but does not expressly identify Sarah as his biological mother, and no named-parent record for the adult George has closed that connection. They have not been merged with Benjamin Franklin Hulsey and Sylvania Partain in other family accounts.",
    "kv": [
     [
      "1910 census",
@@ -1403,11 +1448,11 @@
     ],
     [
      "Born",
-     "24 Dec 1876 (headstone)"
+     "24 Dec 1875, original 1918 draft registration; 1900 census: Dec 1875. Grave transcription: 1876."
     ],
     [
      "Died",
-     "5 Aug 1935, age 58; Breashears Cemetery, Story"
+     "1935; exact day unresolved. Buried at Breashears Cemetery near Story."
     ],
     [
      "Children",
@@ -1449,7 +1494,8 @@
     },
     {
      "s": "img/places/hot_springs_bathhouse_row.jpg",
-     "cap": "Hot Springs, Arkansas: the Army and Navy Hospital and Bathhouse Row, about 1922. Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Hot_Springs_Army_Navy_Hospital_1893-1922_and_Bathhouse_Row.jpg"
+     "cap": "Hot Springs, Arkansas: the Army and Navy Hospital and Bathhouse Row, about 1922. Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Hot_Springs_Army_Navy_Hospital_1893-1922_and_Bathhouse_Row.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/hot_springs_sanborn_1886.jpg",
@@ -1544,11 +1590,9 @@
    "ev": "probable",
    "note": "Her birthplace is given as St. Francis County on one memorial and Little Rock on another; her mother's maiden name is Speer or Cornett. The identification of her father with Jesse King Graves is probable, not proven.",
    "src": "Graves Family Association, Gen. 242; Find a Grave memorial for Sarah Rebecca Hulsey (94352588); Find a Grave Index (Hawthorne Memorial Gardens)",
-   "imgs": [
-    {
-     "s": "img/rebecca_graves_hulsey.jpg",
-     "cap": "Sarah Rebecca (Graves) Hulsey"
-    }
+   "imgs": [],
+   "photo_sets": [
+    "rebecca_graves_studio"
    ]
   },
   {
@@ -1614,7 +1658,8 @@
    "imgs": [
     {
      "s": "img/gilbert_parsis_stevenson.jpg",
-     "cap": "Frank and Parsis Jane Stevenson"
+     "cap": "Frank and Parsis Jane Stevenson",
+     "kind": "photo"
     },
     {
      "s": "img/rec/census_1880_stevenson_giles.jpg",
@@ -1630,7 +1675,8 @@
     },
     {
      "s": "img/places/yell_courthouse_danville.jpg",
-     "cap": "Yell County Courthouse, Danville, Arkansas (photographed 2026). Wikimedia Commons, CC0, Brandonrush. Source: https://commons.wikimedia.org/wiki/File:Yell_County_Courthouse,_Danville,_AR_001.jpg"
+     "cap": "Yell County Courthouse, Danville, Arkansas (photographed 2026). Wikimedia Commons, CC0, Brandonrush. Source: https://commons.wikimedia.org/wiki/File:Yell_County_Courthouse,_Danville,_AR_001.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/pulaski_sanborn_1916.jpg",
@@ -1698,7 +1744,8 @@
     },
     {
      "s": "img/places/giles_courthouse_2008.jpg",
-     "cap": "Giles County Courthouse, Pulaski, Tennessee (photographed 2008). Wikimedia Commons, CC BY-SA 3.0, Ichabod. Source: https://commons.wikimedia.org/wiki/File:Giles_County_Tennessee_Courthouse.jpg"
+     "cap": "Giles County Courthouse, Pulaski, Tennessee (photographed 2008). Wikimedia Commons, CC BY-SA 3.0, Ichabod. Source: https://commons.wikimedia.org/wiki/File:Giles_County_Tennessee_Courthouse.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/stones/abner_stevenson_headstone_3.jpg",
@@ -1775,7 +1822,8 @@
     },
     {
      "s": "img/p/gilbert_parsis_color.jpg",
-     "cap": "\"Frank & Jane\": Gilbert Franklin and Parsis Jane (O'Neal) Stevenson on their porch"
+     "cap": "\"Frank & Jane\": Gilbert Franklin and Parsis Jane (O'Neal) Stevenson on their porch",
+     "kind": "photo"
     },
     {
      "s": "img/stones/parsis_oneal_stevenson_headstone_2.jpg",
@@ -1881,19 +1929,23 @@
     },
     {
      "s": "img/places/gibson_courthouse_princeton.jpg",
-     "cap": "Gibson County Courthouse, Princeton, Indiana. Wikimedia Commons, CC BY-SA 3.0, The original uploader was Kmweber at English Wikipedia.. Source: https://commons.wikimedia.org/wiki/File:Gibson_County_Courthouse.jpg"
+     "cap": "Gibson County Courthouse, Princeton, Indiana. Wikimedia Commons, CC BY-SA 3.0, The original uploader was Kmweber at English Wikipedia.. Source: https://commons.wikimedia.org/wiki/File:Gibson_County_Courthouse.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/gibson_courthouse_monument.jpg",
-     "cap": "Civil War monument on the Gibson County Courthouse grounds, Princeton, Indiana (photographed 2016). Wikimedia Commons, CC BY-SA 4.0, Rhatsa26X. Source: https://commons.wikimedia.org/wiki/File:Gibson_County,_IN_Courthouse_-_Southeast_Corner_%26_Civil_War_Monument.jpg"
+     "cap": "Civil War monument on the Gibson County Courthouse grounds, Princeton, Indiana (photographed 2016). Wikimedia Commons, CC BY-SA 4.0, Rhatsa26X. Source: https://commons.wikimedia.org/wiki/File:Gibson_County,_IN_Courthouse_-_Southeast_Corner_%26_Civil_War_Monument.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/p/oneal_headstone_restored.jpg",
-     "cap": "The O'Neal family stone, with Vashti's and Daniel's markers"
+     "cap": "The O'Neal family stone, with Vashti's and Daniel's markers",
+     "kind": "photo"
     },
     {
      "s": "img/p/oneal_family_new_color.jpg",
-     "cap": "O'Neal family gathering in Gibson County, Indiana; the typed caption names Daniel W. O'Neal and Vashti Pearson among the family. Photograph shared in a public Ancestry member tree Color and indistinct features have been interpreted."
+     "cap": "O'Neal family gathering in Gibson County, Indiana; the typed caption names Daniel W. O'Neal and Vashti Pearson among the family. Photograph shared in a public Ancestry member tree Color and indistinct features have been interpreted.",
+     "kind": "photo"
     }
    ]
   },
@@ -1923,11 +1975,13 @@
    "imgs": [
     {
      "s": "img/p/oneal_headstone_restored.jpg",
-     "cap": "The O'Neal family stone, with Vashti's and Daniel's markers"
+     "cap": "The O'Neal family stone, with Vashti's and Daniel's markers",
+     "kind": "photo"
     },
     {
      "s": "img/p/vashti_framed.jpg",
-     "cap": "Vashti Elizabeth (Pearson) O'Neal holding a framed picture. Photograph shared in a public Ancestry member tree"
+     "cap": "Vashti Elizabeth (Pearson) O'Neal holding a framed picture. Photograph shared in a public Ancestry member tree",
+     "kind": "photo"
     },
     {
      "s": "img/stones/vashti_pearson_oneal_headstone_4.jpg",
@@ -1992,7 +2046,8 @@
    "imgs": [
     {
      "s": "img/gilbert_parsis_stevenson.jpg",
-     "cap": "Elam's grandson Frank Stevenson and his wife Jane"
+     "cap": "Elam's grandson Frank Stevenson and his wife Jane",
+     "kind": "photo"
     },
     {
      "s": "img/books/goodspeed-1886-p872-stevenson.jpg",
@@ -2152,7 +2207,8 @@
     },
     {
      "s": "img/p/watt_headstone_restored.jpg",
-     "cap": "Hugh Watt and family stone"
+     "cap": "Hugh Watt and family stone",
+     "kind": "photo"
     },
     {
      "s": "img/books/gibson-1884-p212-archibald.jpg",
@@ -2256,7 +2312,8 @@
    "imgs": [
     {
      "s": "img/marmon_wasp.jpg",
-     "cap": "The Marmon \"Wasp,\" winner of the first Indianapolis 500 in 1911"
+     "cap": "The Marmon \"Wasp,\" winner of the first Indianapolis 500 in 1911",
+     "kind": "photo"
     },
     {
      "s": "img/nordyke_perkins_1731.jpg",
@@ -2353,7 +2410,8 @@
    "imgs": [
     {
      "s": "img/uss_chief.jpg",
-     "cap": "USS Chief (AM-315), the minesweeper he served on in 1946 (photo from 1952)"
+     "cap": "USS Chief (AM-315), the minesweeper he served on in 1946 (photo from 1952)",
+     "kind": "photo"
     },
     {
      "s": "img/rec/navy_chief_1945_moffitt.jpg",
@@ -2361,7 +2419,8 @@
     },
     {
      "s": "img/places/uss-ross-san-pedro-bay-1944.jpg",
-     "cap": "USS Chickasaw lays smoke beside the mine-damaged USS Ross in San Pedro Bay, October–November 1944, before Ross entered ARD-19. U.S. Navy / National Archives 80-G-319420; NavSource."
+     "cap": "USS Chickasaw lays smoke beside the mine-damaged USS Ross in San Pedro Bay, October–November 1944, before Ross entered ARD-19. U.S. Navy / National Archives 80-G-319420; NavSource.",
+     "kind": "photo"
     }
    ],
    "title": "Navy corpsman in the Pacific",
@@ -6312,7 +6371,8 @@
     },
     {
      "s": "img/places/fort_towson_frisco_1903.jpg",
-     "cap": "Frisco railroad plat showing extra right of way at Fort Towson, Choctaw Nation, 1903 (Dept. of the Interior). Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:St._Louis,_San_Francisco_%26_New_Orleans_Railroad_Company,_Frisco_System_Showing_Extra_Right_of_Way_at_Fort_Towson,_Choctaw_Nation,_I.T._-_DPLA_-_c2622aa3748dab8a151d7f297ef43497.jpg"
+     "cap": "Frisco railroad plat showing extra right of way at Fort Towson, Choctaw Nation, 1903 (Dept. of the Interior). Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:St._Louis,_San_Francisco_%26_New_Orleans_Railroad_Company,_Frisco_System_Showing_Extra_Right_of_Way_at_Fort_Towson,_Choctaw_Nation,_I.T._-_DPLA_-_c2622aa3748dab8a151d7f297ef43497.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/fort_towson_townsite_railway.jpg",
@@ -6365,7 +6425,8 @@
    "imgs": [
     {
      "s": "img/butler_courthouse.jpg",
-     "cap": "The Butler County Courthouse, Morgantown, Kentucky (Wikimedia Commons, public domain)"
+     "cap": "The Butler County Courthouse, Morgantown, Kentucky (Wikimedia Commons, public domain)",
+     "kind": "photo"
     }
    ]
   },
@@ -6391,7 +6452,8 @@
    "imgs": [
     {
      "s": "img/allen_courthouse.jpg",
-     "cap": "The Allen County courthouse, Scottsville, Kentucky (Wikimedia Commons, public domain)"
+     "cap": "The Allen County courthouse, Scottsville, Kentucky (Wikimedia Commons, public domain)",
+     "kind": "photo"
     },
     {
      "s": "img/places/scottsville_sanborn_1903.jpg",
@@ -6403,19 +6465,23 @@
     },
     {
      "s": "img/places/scottsville_square.jpg",
-     "cap": "The square at Scottsville, Kentucky (photographed 2009). Wikimedia Commons, CC BY-SA 3.0, Ichabod. Source: https://commons.wikimedia.org/wiki/File:Scottsville_ky_square_2009.jpg"
+     "cap": "The square at Scottsville, Kentucky (photographed 2009). Wikimedia Commons, CC BY-SA 3.0, Ichabod. Source: https://commons.wikimedia.org/wiki/File:Scottsville_ky_square_2009.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/scottsville_spring.jpg",
-     "cap": "The public spring at Scottsville, Kentucky (photographed 2014). Wikimedia Commons, Public domain, Nyttend. Source: https://commons.wikimedia.org/wiki/File:Scottsville_Public_Spring.jpg"
+     "cap": "The public spring at Scottsville, Kentucky (photographed 2014). Wikimedia Commons, Public domain, Nyttend. Source: https://commons.wikimedia.org/wiki/File:Scottsville_Public_Spring.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/scottsville_depot.jpg",
-     "cap": "The freight depot at Scottsville, Kentucky (photographed 2014). Wikimedia Commons, Public domain, Nyttend. Source: https://commons.wikimedia.org/wiki/File:Scottsville_Freight_Depot.jpg"
+     "cap": "The freight depot at Scottsville, Kentucky (photographed 2014). Wikimedia Commons, Public domain, Nyttend. Source: https://commons.wikimedia.org/wiki/File:Scottsville_Freight_Depot.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/scottsville_tabernacle.jpg",
-     "cap": "The Tabernacle at Scottsville, Kentucky (photographed 2014). Wikimedia Commons, Public domain, Nyttend. Source: https://commons.wikimedia.org/wiki/File:Scottsville_Tabernacle.jpg"
+     "cap": "The Tabernacle at Scottsville, Kentucky (photographed 2014). Wikimedia Commons, Public domain, Nyttend. Source: https://commons.wikimedia.org/wiki/File:Scottsville_Tabernacle.jpg",
+     "kind": "photo"
     }
    ]
   },
@@ -6467,11 +6533,13 @@
    "imgs": [
     {
      "s": "img/places/franklin_courthouse_a.jpg",
-     "cap": "Franklin County Courthouse, Mount Vernon, Texas (photographed 2012). Wikimedia Commons, CC BY 2.0, Nicolas Henderson from Coppell, Texas. Source: https://commons.wikimedia.org/wiki/File:Franklin_County_Courthouse,_Mt.Vernon,_Texas_(6991203868).jpg"
+     "cap": "Franklin County Courthouse, Mount Vernon, Texas (photographed 2012). Wikimedia Commons, CC BY 2.0, Nicolas Henderson from Coppell, Texas. Source: https://commons.wikimedia.org/wiki/File:Franklin_County_Courthouse,_Mt.Vernon,_Texas_(6991203868).jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/franklin_courthouse_b.jpg",
-     "cap": "Franklin County Courthouse, Mount Vernon, Texas, tower detail (photographed 2012). Wikimedia Commons, CC BY 2.0, Nicolas Henderson from Coppell, Texas. Source: https://commons.wikimedia.org/wiki/File:Franklin_County_Courthouse,_Mt._Vernon,_Texas_(7137287515).jpg"
+     "cap": "Franklin County Courthouse, Mount Vernon, Texas, tower detail (photographed 2012). Wikimedia Commons, CC BY 2.0, Nicolas Henderson from Coppell, Texas. Source: https://commons.wikimedia.org/wiki/File:Franklin_County_Courthouse,_Mt._Vernon,_Texas_(7137287515).jpg",
+     "kind": "photo"
     }
    ]
   },
@@ -6610,11 +6678,13 @@
    "imgs": [
     {
      "s": "img/places/alamance_battleground_field.jpg",
-     "cap": "The battlefield at Alamance, where the Regulators were defeated on 16 May 1771. Wikimedia Commons, CC BY-SA 3.0, 5minutes. Source: https://commons.wikimedia.org/wiki/File:AlamanceBattleground.jpg"
+     "cap": "The battlefield at Alamance, where the Regulators were defeated on 16 May 1771. Wikimedia Commons, CC BY-SA 3.0, 5minutes. Source: https://commons.wikimedia.org/wiki/File:AlamanceBattleground.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/alamance_battleground_2014.jpg",
-     "cap": "Alamance Battleground State Historic Site, Burlington, North Carolina (photographed 2014). Wikimedia Commons, CC BY-SA 2.0, Dougtone. Source: https://commons.wikimedia.org/wiki/File:Alamance_Battleground_State_Historic_Site_-_Burlington,_North_Carolina_-_14770365972.jpg"
+     "cap": "Alamance Battleground State Historic Site, Burlington, North Carolina (photographed 2014). Wikimedia Commons, CC BY-SA 2.0, Dougtone. Source: https://commons.wikimedia.org/wiki/File:Alamance_Battleground_State_Historic_Site_-_Burlington,_North_Carolina_-_14770365972.jpg",
+     "kind": "photo"
     }
    ]
   },
@@ -6642,11 +6712,13 @@
    "imgs": [
     {
      "s": "img/hugo_1910.jpg",
-     "cap": "Broadway at Duke Street, Hugo, Oklahoma, 1910 (Wikimedia Commons, public domain)"
+     "cap": "Broadway at Duke Street, Hugo, Oklahoma, 1910 (Wikimedia Commons, public domain)",
+     "kind": "photo"
     },
     {
      "s": "img/hugo_frisco_1912.jpg",
-     "cap": "The Frisco railroad shops at Hugo, 1912 postcard (Wikimedia Commons, public domain)"
+     "cap": "The Frisco railroad shops at Hugo, 1912 postcard (Wikimedia Commons, public domain)",
+     "kind": "photo"
     },
     {
      "s": "img/places/hugo_sanborn_1908.jpg",
@@ -6662,11 +6734,13 @@
     },
     {
      "s": "img/places/hugo_courthouse_2016.jpg",
-     "cap": "Choctaw County Courthouse, Hugo, Oklahoma (photographed 2016). Wikimedia Commons, CC BY-SA 4.0, Michael Barera. Source: https://commons.wikimedia.org/wiki/File:Hugo_March_2016_23_(Choctaw_County_Courthouse).jpg"
+     "cap": "Choctaw County Courthouse, Hugo, Oklahoma (photographed 2016). Wikimedia Commons, CC BY-SA 4.0, Michael Barera. Source: https://commons.wikimedia.org/wiki/File:Hugo_March_2016_23_(Choctaw_County_Courthouse).jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/hugo_courthouse_2015.jpg",
-     "cap": "Choctaw County Courthouse, Hugo, Oklahoma (photographed 2015). Wikimedia Commons, CC BY 4.0, Larry D. Moore. Source: https://commons.wikimedia.org/wiki/File:Choctaw_county_ok_courthouse.jpg"
+     "cap": "Choctaw County Courthouse, Hugo, Oklahoma (photographed 2015). Wikimedia Commons, CC BY 4.0, Larry D. Moore. Source: https://commons.wikimedia.org/wiki/File:Choctaw_county_ok_courthouse.jpg",
+     "kind": "photo"
     }
    ]
   },
@@ -6748,11 +6822,13 @@
     },
     {
      "s": "img/places/alamance_battleground_1.jpg",
-     "cap": "Alamance Battleground State Historic Site, North Carolina (photographed 2015). Wikimedia Commons, CC BY-SA 4.0, Hallcp. Source: https://commons.wikimedia.org/wiki/File:Alamance_battleground_1.jpg"
+     "cap": "Alamance Battleground State Historic Site, North Carolina (photographed 2015). Wikimedia Commons, CC BY-SA 4.0, Hallcp. Source: https://commons.wikimedia.org/wiki/File:Alamance_battleground_1.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/alamance_battleground_2.jpg",
-     "cap": "Alamance Battleground State Historic Site, North Carolina (photographed 2015). Wikimedia Commons, CC BY-SA 4.0, Hallcp. Source: https://commons.wikimedia.org/wiki/File:Alamance_battleground_2.jpg"
+     "cap": "Alamance Battleground State Historic Site, North Carolina (photographed 2015). Wikimedia Commons, CC BY-SA 4.0, Hallcp. Source: https://commons.wikimedia.org/wiki/File:Alamance_battleground_2.jpg",
+     "kind": "photo"
     }
    ]
   },
@@ -6791,7 +6867,8 @@
    "imgs": [
     {
      "s": "img/places/alamance_battleground_2014.jpg",
-     "cap": "Alamance Battleground State Historic Site, Burlington, North Carolina (photographed 2014). Wikimedia Commons, CC BY-SA 2.0, Dougtone. Source: https://commons.wikimedia.org/wiki/File:Alamance_Battleground_State_Historic_Site_-_Burlington,_North_Carolina_-_14770365972.jpg"
+     "cap": "Alamance Battleground State Historic Site, Burlington, North Carolina (photographed 2014). Wikimedia Commons, CC BY-SA 2.0, Dougtone. Source: https://commons.wikimedia.org/wiki/File:Alamance_Battleground_State_Historic_Site_-_Burlington,_North_Carolina_-_14770365972.jpg",
+     "kind": "photo"
     }
    ]
   },
@@ -6905,7 +6982,8 @@
     },
     {
      "s": "img/places/cane_creek_abigail_pike.jpg",
-     "cap": "Historical marker at Cane Creek Friends Meeting, North Carolina: 'Cane Creek Friends Meeting since 1751' (the meeting where Joseph Chamness and Margaret Norton married in 1763). Wikimedia Commons, CC BY-SA 4.0, Saneal. Source: https://commons.wikimedia.org/wiki/File:Quaker_Minister_Abigail_Pike_-_Cane_Creek_Meeting_Place,_NC_in_1751.jpg"
+     "cap": "Historical marker at Cane Creek Friends Meeting, North Carolina: 'Cane Creek Friends Meeting since 1751' (the meeting where Joseph Chamness and Margaret Norton married in 1763). Wikimedia Commons, CC BY-SA 4.0, Saneal. Source: https://commons.wikimedia.org/wiki/File:Quaker_Minister_Abigail_Pike_-_Cane_Creek_Meeting_Place,_NC_in_1751.jpg",
+     "kind": "photo"
     }
    ]
   },
@@ -7023,7 +7101,8 @@
    "imgs": [
     {
      "s": "img/mountainview_courthouse.jpg",
-     "cap": "The Stone County Courthouse at Mountain View, built of local stone in 1922. Henry and Hannah's county used a wooden courthouse built in 1888."
+     "cap": "The Stone County Courthouse at Mountain View, built of local stone in 1922. Henry and Hannah's county used a wooden courthouse built in 1888.",
+     "kind": "photo"
     }
    ]
   },
@@ -7078,11 +7157,13 @@
     },
     {
      "s": "img/hugo_1910.jpg",
-     "cap": "Broadway at Duke Street, Hugo, Oklahoma, 1910 (Wikimedia Commons, public domain)"
+     "cap": "Broadway at Duke Street, Hugo, Oklahoma, 1910 (Wikimedia Commons, public domain)",
+     "kind": "photo"
     },
     {
      "s": "img/hugo_frisco_1912.jpg",
-     "cap": "The Frisco railroad shops at Hugo, 1912 postcard (Wikimedia Commons, public domain)"
+     "cap": "The Frisco railroad shops at Hugo, 1912 postcard (Wikimedia Commons, public domain)",
+     "kind": "photo"
     },
     {
      "s": "img/places/hugo_sanborn_1918.jpg",
@@ -7097,11 +7178,11 @@
    "branch": "moffitt",
    "rel": "2nd great-grandparents",
    "title": "Mary's people: from Etowah County to Texas and Oklahoma",
-   "hook": "Mary Tinsley Shackleford's parents married in Etowah County, Alabama, in 1889, and their six living children scattered from West Texas to California.",
+   "hook": "An Alabama marriage in 1889, a Texas household in 1930, and Lizzie’s later home near her children at Apache.",
    "body": [
     "John Morgan Shackleford was born on 30 September 1862 in Alabama and married Catherine Elizabeth \"Lizzie\" Newton on 1 December 1889 in Etowah County. Etowah County had been created only 21 years before, and for two of those years, 1866 to 1868, it was called Baine County. In the 1900 census at Gilbert, John was 37 and Elizabeth 28, with five living children. Mary, born 4 June 1895, was the \"May, 5.\"",
     "Her siblings were Balis Anthony (1892-1982, who died in Los Angeles County), Robert Yates (1897-1961), John Newton (1906-2002), Hazel Marzee King (1908-1980), Edward Richard (1910-1988) and Helen Elizabeth Josey (1915-1997).",
-    "By 1930 John Morgan was in Martin County, Texas, with his wife and children; Grady and Mary and their six boys were living with them. John died on 22 May 1930 and is buried at Evergreen Cemetery in Stanton. Lizzie died on 8 November 1951 and is buried at Fairview Cemetery, Apache, Caddo County, Oklahoma.",
+    "By 1930 John Morgan was in Martin County, Texas, with his wife and children; Grady and Mary and their six boys were living with them. John died on 22 May 1930 and is buried at Evergreen Cemetery in Stanton. Lizzie died on 8 November 1951 and is buried at Fairview Cemetery, Apache, Caddo County, Oklahoma. In 1933 Lizzie moved from Dawson County, Texas, to Apache. She spent her final years near several of her grown children, and died at son Ed’s home southwest of town.",
     "The Shackelfords of Virginia trace to an immigrant, Roger, who received a grant in Gloucester County in 1658. A Shackleford family history of 1940 says the family had no coat of arms, and Mary's descent from Roger is not proved.",
     "The 1900 census household at Gilbert lists John, 37, Elizabeth, 28, and five children: \"Balous\" 8, Myrtle 6, May 5, Robert 3 and Eddie 8 months. Two later obituaries (Chico Enterprise-Record, 23 June 1961; Lamar County Echo, 1 January 1981) name sisters Josephine Haskell, Eulah Tillman and Beulah Hutchins who do not fit that list. Hazel was born at Rattan in Delta County, Texas, so the family was in northeast Texas about 1908 before reaching Martin County.",
     "Lizzie’s marriage papers preserve a family moment just before the wedding. On 28 November 1889, her father, Balas Newton, gave permission for her to marry John. John carried that consent into the probate office and, two days later, certified that he had written and signed it at her father’s direction. A separate affidavit names her as Lizzie Newton."
@@ -7135,7 +7216,7 @@
     ]
    ],
    "note": "John Morgan's birth is 1862 on his memorial and 1863 in the 1930 census. His parents-of-Mary link rests on Find a Grave family links, the 1889 marriage and the 1900 census; Mary's 1962 death certificate should name them. The source of Mary's middle name, Tinsley, is unknown.",
-   "src": "1900 U.S. Census, Gilbert, Etowah Co., Ala.; 1930 U.S. Census, Martin Co., Tex.; Find a Grave (John Morgan Shackleford, Catherine E. Shackelford, Balis Shackleford); Alabama Select Marriage Indexes, 1816–1942, Lizzie Newton and John M. Shackleford, 1 Dec 1889, Etowah County, Ancestry record 80731 (transcribed index), https://www.ancestry.com/search/collections/60000/records/80731.; Etowah County marriage book C, p. 460, attached consent and affidavit, November 1889, FamilySearch image 548 of 710, 3QS7-894J-14JR.",
+   "src": "1900 U.S. Census, Gilbert, Etowah Co., Ala.; 1930 U.S. Census, Martin Co., Tex.; Find a Grave (John Morgan Shackleford, Catherine E. Shackelford, Balis Shackleford); Alabama Select Marriage Indexes, 1816–1942, Lizzie Newton and John M. Shackleford, 1 Dec 1889, Etowah County, Ancestry record 80731 (transcribed index), https://www.ancestry.com/search/collections/60000/records/80731.; Etowah County marriage book C, p. 460, attached consent and affidavit, November 1889, FamilySearch image 548 of 710, 3QS7-894J-14JR.; The Apache Review, 9 Nov 1951, p. 1, https://www.newspapers.com/image/743077256/; Anadarko Daily News, 9 Nov 1951, p. 1, https://www.newspapers.com/image/873866750/.",
    "source_link": "https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR"
   },
   {
@@ -7225,7 +7306,8 @@
    "imgs": [
     {
      "s": "img/uss_chief.jpg",
-     "cap": "USS Chief (AM-315), the minesweeper he served on in 1946 (photo from 1952)"
+     "cap": "USS Chief (AM-315), the minesweeper he served on in 1946 (photo from 1952)",
+     "kind": "photo"
     },
     {
      "s": "img/rec/navy_chief_1945_moffitt.jpg",
@@ -7272,11 +7354,13 @@
    "imgs": [
     {
      "s": "img/butler_courthouse.jpg",
-     "cap": "The Butler County Courthouse, Morgantown, Kentucky (Wikimedia Commons, public domain)"
+     "cap": "The Butler County Courthouse, Morgantown, Kentucky (Wikimedia Commons, public domain)",
+     "kind": "photo"
     },
     {
      "s": "img/allen_courthouse.jpg",
-     "cap": "The Allen County courthouse, Scottsville, Kentucky (Wikimedia Commons, public domain)"
+     "cap": "The Allen County courthouse, Scottsville, Kentucky (Wikimedia Commons, public domain)",
+     "kind": "photo"
     },
     {
      "s": "img/places/soper_townsite.jpg",
@@ -7357,11 +7441,13 @@
     },
     {
      "s": "img/p/joel_young_color.jpg",
-     "cap": "Studio portrait of Joel John Thompson as a young man, the photograph handwritten 'Joel John Thompson' (restored and colorized). Photograph shared in a public Ancestry member tree"
+     "cap": "Studio portrait of Joel John Thompson as a young man, the photograph handwritten 'Joel John Thompson' (restored and colorized). Photograph shared in a public Ancestry member tree",
+     "kind": "photo"
     },
     {
      "s": "img/p/joel_ira_later.jpg",
-     "cap": "Joel and Ira Thompson in later life, standing by a white frame house (color print). Photograph shared in a public Ancestry member tree"
+     "cap": "Joel and Ira Thompson in later life, standing by a white frame house (color print). Photograph shared in a public Ancestry member tree",
+     "kind": "photo"
     },
     {
      "s": "img/stones/joel_j_thompson_headstone_4.jpg",
@@ -8033,11 +8119,13 @@
     },
     {
      "s": "img/places/pulaski_courthouse.jpg",
-     "cap": "The courthouse at Pulaski, Giles County, Tennessee (photographed 2023). Wikimedia Commons, CC BY-SA 4.0, Dmchap007. Source: https://commons.wikimedia.org/wiki/File:Pulaski,_TN_Courthouse.jpg"
+     "cap": "The courthouse at Pulaski, Giles County, Tennessee (photographed 2023). Wikimedia Commons, CC BY-SA 4.0, Dmchap007. Source: https://commons.wikimedia.org/wiki/File:Pulaski,_TN_Courthouse.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/giles_courthouse_2008.jpg",
-     "cap": "Giles County Courthouse, Pulaski, Tennessee (photographed 2008). Wikimedia Commons, CC BY-SA 3.0, Ichabod. Source: https://commons.wikimedia.org/wiki/File:Giles_County_Tennessee_Courthouse.jpg"
+     "cap": "Giles County Courthouse, Pulaski, Tennessee (photographed 2008). Wikimedia Commons, CC BY-SA 3.0, Ichabod. Source: https://commons.wikimedia.org/wiki/File:Giles_County_Tennessee_Courthouse.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/pulaski_sanborn_1905.jpg",
@@ -8483,7 +8571,8 @@
     },
     {
      "s": "img/places/choctaw_capitol_tuskahoma.jpg",
-     "cap": "The Choctaw Nation capitol at Tuskahoma, Oklahoma, now a museum (photographed 2009). Wikimedia Commons, Public domain, Urbanative at English Wikipedia. Source: https://commons.wikimedia.org/wiki/File:Choctaw_capitol_museum.jpg"
+     "cap": "The Choctaw Nation capitol at Tuskahoma, Oklahoma, now a museum (photographed 2009). Wikimedia Commons, Public domain, Urbanative at English Wikipedia. Source: https://commons.wikimedia.org/wiki/File:Choctaw_capitol_museum.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/tuskahoma_sanborn_1899.jpg",
@@ -8916,7 +9005,8 @@
    "imgs": [
     {
      "s": "img/places/choctaw_capitol_tuskahoma.jpg",
-     "cap": "The Choctaw Nation capitol at Tuskahoma, Oklahoma, now a museum (photographed 2009). Wikimedia Commons, Public domain, Urbanative at English Wikipedia. Source: https://commons.wikimedia.org/wiki/File:Choctaw_capitol_museum.jpg"
+     "cap": "The Choctaw Nation capitol at Tuskahoma, Oklahoma, now a museum (photographed 2009). Wikimedia Commons, Public domain, Urbanative at English Wikipedia. Source: https://commons.wikimedia.org/wiki/File:Choctaw_capitol_museum.jpg",
+     "kind": "photo"
     },
     {
      "s": "img/places/tuskahoma_sanborn_1908.jpg",
@@ -13831,6 +13921,137 @@
      "source": "https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR"
     }
    ]
+  },
+  {
+   "id": "lizzie-newton",
+   "name": "Catherine Elizabeth “Lizzie” (Newton) Shackleford",
+   "years": "1873–1951",
+   "branch": "moffitt",
+   "gen": 2,
+   "rel": "2nd great-grandmother",
+   "ev": "proven",
+   "title": "Lizzie’s road from Alabama to Apache",
+   "hook": "Married in Alabama in 1889, she made her later home near her children in southwestern Oklahoma.",
+   "body": [
+    "Lizzie Newton was born in Etowah County, Alabama, on 20 February 1873. She married John M. Shackleford there on 1 December 1889. Her father, Balas Newton, gave permission for the marriage; John brought that consent to the probate office and certified that he had written and signed it at her father’s direction.",
+    "The family’s travels eventually took Lizzie to Texas. In 1933 she moved from Dawson County to the Apache community in Caddo County, Oklahoma. She belonged to the Baptist church, and several of her grown children also made their homes in or around Apache.",
+    "She spent her final days at the home of her son Ed, six miles southwest of town, and died there on 8 November 1951, aged seventy-eight. She was buried in Fairview Cemetery at Apache.",
+    "Her family had grown across Oklahoma, Texas and California. At her death it included nine surviving children, forty-two grandchildren and sixteen great-grandchildren. Sons Ed and John and daughters Mrs. Joe Haskell and Helen Josey lived at Apache; other children had settled in Lawton, Texas and California."
+   ],
+   "kv": [
+    [
+     "Born",
+     "20 Feb 1873, Etowah County, Alabama"
+    ],
+    [
+     "Married",
+     "1 Dec 1889, Etowah County, Alabama"
+    ],
+    [
+     "Moved",
+     "1933, Dawson County, Texas, to Apache, Oklahoma"
+    ],
+    [
+     "Died",
+     "8 Nov 1951, at son Ed’s home southwest of Apache"
+    ],
+    [
+     "Buried",
+     "Fairview Cemetery, Apache"
+    ],
+    [
+     "Father",
+     "Balas Newton, named in the original 1889 consent and affidavit"
+    ]
+   ],
+   "note": "The 1951 obituaries and her grave marker agree on 20 February 1873; the 1900 census gives February 1872. The newspaper spelling “Etowak” is normalized to Etowah. Both obituaries place daughter May/Mary Moffett at Granite; that place has not been silently changed to Grant. The funeral time was tentative when the notices were printed. Her mother remains unidentified, and Balas has not been established as the Balous Newton in other records.",
+   "src": "The Apache Review, 9 Nov 1951, p. 1, “Mrs. Shackelford, 78 Dies Early Thursday,” https://www.newspapers.com/image/743077256/; Anadarko Daily News, 9 Nov 1951, p. 1, “Mrs. Shackelford Funeral Service Tentatively Set,” https://www.newspapers.com/image/873866750/; Etowah County marriage book C, p. 460, 1889, FamilySearch image 3QS7-894J-14JR, https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR.",
+   "source_link": "https://www.newspapers.com/image/743077256/"
+  },
+  {
+   "id": "jwm-moonshine",
+   "name": "John Winfred Moffitt",
+   "years": "1961–1962",
+   "branch": "moffitt",
+   "gen": 0,
+   "rel": "Grandfather (probable identification)",
+   "ev": "probable",
+   "title": "Moonshine and federal court in Hugo",
+   "hook": "An October arrest report and later federal court notices preserve a different side of life in Hugo.",
+   "body": [
+    "On a Saturday night in October 1961, two men looking for whisky visited John W. Moffitt in Hugo. They left without a purchase, but Moffitt later caught up with them in town and offered a half-gallon. When he handed it over, the buyers showed their badges: one was a federal alcohol-tax agent and the other worked for the state liquor board.",
+    "Moffitt, thirty-six, was arrested and brought before U.S. Commissioner Lon Kile on Monday. His bond was set at $1,000.",
+    "The following spring, federal court news named John Winfred Moffitt of Hugo. In May 1962 he pleaded guilty to two counts of violating the federal liquor stamp law. A June sentencing list recorded John Winfred Moffitt of Choctaw County receiving two years’ probation for operating a still."
+   ],
+   "kv": [
+    [
+     "Arraignment reported",
+     "31 Oct 1961, The Hugo Daily News"
+    ],
+    [
+     "Bond",
+     "$1,000"
+    ],
+    [
+     "Guilty plea reported",
+     "17 May 1962, The Ada Weekly News"
+    ],
+    [
+     "Sentence reported",
+     "23 Jun 1962: two years’ probation"
+    ]
+   ],
+   "note": "Identification as the family’s John Winfred Moffitt is probable: the 1962 reports give his full name and Hugo/Choctaw County; the October 1961 report gives John W. Moffitt’s age as 36, matching his 25 October 1925 birth. None names a wife, relative or street address. The court file has not been examined, so the 1961 arraignment and 1962 prosecution have not been proved to be the same case. The newspaper records establish what happened to the men they name; the remaining uncertainty is their identification with this family member and the link between cases.",
+   "src": "The Hugo Daily News, 31 Oct 1961, p. 1, https://www.newspapers.com/image/602946181/; Muskogee Times-Democrat, 25 Apr 1962, p. 9, https://www.newspapers.com/image/631019234/; The Ada Weekly News, 17 May 1962, p. 2, https://www.newspapers.com/image/667017065/; Muskogee Daily Phoenix and Times-Democrat, 23 Jun 1962, p. 2, https://www.newspapers.com/image/631077697/.",
+   "source_link": "https://www.newspapers.com/image/631077697/"
+  },
+  {
+   "id": "bf-hulsey-1880",
+   "name": "B. F. Hulsey",
+   "years": "Born about 1848",
+   "branch": "hulsey",
+   "gen": 3,
+   "rel": "Probable 3rd great-grandfather",
+   "ev": "probable",
+   "title": "A miner’s household in the Ouachitas",
+   "hook": "In 1880 B. F. Hulsey worked as a miner and raised a young family in Montgomery County, Arkansas.",
+   "body": [
+    "B. F. Hulsey was thirty-two when the census taker reached Center Township in June 1880. Born in Georgia, he was working as a miner in the Ouachita country of western Arkansas. His wife Sarah G., thirty, had been born in Arkansas.",
+    "Three children were at home: Margaret M., six; George W., four; and Charles F., five months. The household offers a likely childhood home for the later George Washington Hulsey of Story. George’s own draft registration gives a December 1875 birth, consistent with the four-year-old on this census."
+   ],
+   "note": "The original 1880 census records B. F. Hulsey, 32, born Georgia, with wife Sarah G., 30, born Arkansas, and son George W., 4, in Center Township, Montgomery County, Arkansas. George’s December 1875 birth in the 1900 Sulphur Springs census and 24 December 1875 birth on his 1918 draft card are consistent with the child’s age. A 1977 family query independently identifies Benjamin F. as George’s father. The connection remains probable: no record yet explicitly connects the adult George, husband of Sarah Rebecca Graves, to the named 1880 parents. This household has not been securely identified with the separate Benjamin Franklin Hulsey biography or with Sylvania Partain.",
+   "source_link": "https://www.familysearch.org/ark:/61903/3:1:33S7-9YYN-SL1S",
+   "src": "1880 U.S. census, Center Township, Montgomery County, Arkansas, ED 113, page 23, stamped 431A, household 216, NARA T9 roll 52; 1900 U.S. census, Sulphur Springs Township, Montgomery County, George Hulsey (FamilySearch M365-N1R); George W. Hulsey draft registration, 12 Sep 1918 (K359-2S8).",
+   "imgs": [
+    {
+     "s": "img/rec/hulsey-1880-household.jpg",
+     "cap": "B. F. Hulsey, wife Sarah G. and their household in the original 1880 census."
+    }
+   ]
+  },
+  {
+   "id": "sarah-g-hulsey-1880",
+   "name": "Sarah G. Hulsey",
+   "years": "Born about 1850",
+   "branch": "hulsey",
+   "gen": 3,
+   "rel": "Probable 3rd great-grandmother or stepmother",
+   "ev": "probable",
+   "title": "Sarah G., named on the 1880 census",
+   "hook": "Arkansas-born Sarah lived with a miner’s family and three young children in the Ouachita hills.",
+   "body": [
+    "Sarah G. lived with B. F. Hulsey and three young children in Center Township, Montgomery County, Arkansas, in June 1880. She was thirty and Arkansas-born; the census recorded her as his wife.",
+    "George W., four, appears as B. F.’s son. Sarah may have been George’s mother or stepmother. Her maiden name and full given names remain unknown."
+   ],
+   "note": "The original 1880 census lists Sarah G., 30, born Arkansas, as the wife of B. F. Hulsey, in the household containing his son George W., 4. She is a probable mother or stepmother of that child; the census names her as wife, not explicitly as his biological mother. The identification of this child with the later George Washington Hulsey remains probable. Hulsey is her married surname; her maiden name and full given names are unknown. She is not Sarah Rebecca Graves, George’s later wife, and has not been identified with Sylvania Susane Partain.",
+   "source_link": "https://www.familysearch.org/ark:/61903/3:1:33S7-9YYN-SL1S",
+   "src": "1880 U.S. census, Center Township, Montgomery County, Arkansas, ED 113, page 23, stamped 431A, household 216; NARA T9 roll 52; original FamilySearch image 33S7-9YYN-SL1S.",
+   "imgs": [
+    {
+     "s": "img/rec/hulsey-1880-household.jpg",
+     "cap": "Sarah G., age thirty, appears as B. F. Hulsey’s wife in household 216."
+    }
+   ]
   }
  ],
  "TIMELINE": [
@@ -15345,6 +15566,12 @@
    "p": "nancywilborn"
   },
   {
+   "y": "1933",
+   "t": "Lizzie (Newton) Shackleford moved from Dawson County, Texas, to Apache, Oklahoma.",
+   "p": "lizzie-newton",
+   "b": "moffitt"
+  },
+  {
    "y": "1937",
    "t": "Joel J. Thompson tells the family's story to a WPA interviewer in Hugo.",
    "b": "thompson",
@@ -15498,6 +15725,12 @@
    "p": "parsis"
   },
   {
+   "y": "1956",
+   "t": "William Thompson Jr. of Speer and Mary Ellen Hulsey of Hugo obtained a marriage license.",
+   "p": "wthompson",
+   "b": "thompson"
+  },
+  {
    "y": "1960",
    "t": "Mary Elizabeth (O'Neal) Wilson, Parsis's oldest sister, dies at Tuttle, Oklahoma, on 14 December, a month after her 100th birthday.",
    "b": "hulsey",
@@ -15571,6 +15804,11 @@
   }
  ],
  "ORDER": [
+  "wthompson",
+  "lizzie-newton",
+  "bf-hulsey-1880",
+  "sarah-g-hulsey-1880",
+  "jwm-moonshine",
   "shackleford",
   "balas-newton",
   "marylyn",
@@ -15832,6 +16070,9 @@
   "anc4-george-langley"
  ],
  "PHOTO_ORDER": [
+  "hulsey_family_yard",
+  "rebecca_graves_studio",
+  "william_junior",
   "faye_moffitt",
   "edith_slaton",
   "parsis_portrait",

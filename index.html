@@ -205,11 +205,14 @@ main{padding-block:2rem 4rem}
 .panel h4{font-size:1.45rem;line-height:1.15}
 .gallery{display:grid;gap:.8rem}
 .gallery.two{grid-template-columns:1fr 1fr}
-.fig{margin:0;display:grid;gap:.4rem}
+.fig{margin:0;display:grid;gap:.4rem;min-width:0}
+.archive-profile-records{scroll-margin-top:70px}
+.fig .vt{max-width:100%;flex-wrap:wrap;justify-content:center;border-radius:12px;box-sizing:border-box}
+.fig .vt button{max-width:100%;overflow-wrap:anywhere;min-height:44px}
 .fig .frame{all:unset;box-sizing:border-box;cursor:zoom-in;border-radius:12px;overflow:hidden;background:#11141a;display:block}
 .fig .frame:focus-visible{outline:2px solid var(--accent)}
 .fig img{width:100%;max-height:25rem;object-fit:contain}
-.fig figcaption{font-size:var(--t-sm);color:var(--soft)}
+.fig figcaption{font-size:var(--t-sm);color:var(--soft);overflow-wrap:anywhere}
 .vt{display:inline-flex;gap:2px;background:var(--tint);border:1px solid var(--rule);border-radius:999px;padding:2px}
 .vt button{border:0;background:transparent;border-radius:999px;padding:.2rem .75rem;font-size:var(--t-sm);cursor:pointer;color:var(--soft)}
 .vt button[aria-pressed="true"]{background:var(--ink);color:#fff}
@@ -270,7 +273,7 @@ footer .legend{display:flex;flex-wrap:wrap;gap:.5rem 1.4rem;align-items:center}
 <script src="archive-ui.js?v=20261101g"></script>
 <script src="timeline.js?v=20261101g"></script>
 <script src="tree-view.js?v=20261101g"></script>
-<script src="archive-features.js?v=20261101g"></script>
+<script src="archive-features.js?v=20261101h"></script>
 </head>
 <body class="family-site">
 <a class="skip" href="#main">Skip to family history</a>
@@ -380,6 +383,9 @@ const evBadge = e => e ? `<span class="ev ${e}">${EVL[e]}</span>` : "";
 const bcolor = b => D.BRANCHES[b].color;
 const best = v => v.c || v.r || v.o;
 const restoredOrOrig = v => v.c || v.r || v.o;
+const photoLabels = v => Object.fromEntries(Object.entries({o:"Original",r:"Restored",c:v.interpretation?"Photographic interpretation":"Colorized"}).map(([key,label])=>[key,typeof v.labels?.[key]==="string"&&v.labels[key].trim()?v.labels[key]:label]));
+const portraitKeys = p => [...new Set([p.ph,...(Array.isArray(p.photo_sets)?p.photo_sets:[])])].filter(key=>key&&D.PH[key]);
+const portraitOwner = key => ALL.find(p=>portraitKeys(p).includes(key));
 const avatar = p => p.av ? "img/" + p.av : p.ph ? restoredOrOrig(D.PH[p.ph]) : null;
 const isStone = im => /headstone|grave|stones\/|\bstone\b|marker/i.test(im.s + " " + (im.cap || "").replace(/Stone County/g, ""));
 const firstImg = p => p.ph ? best(D.PH[p.ph]) : (p.imgs || []).find(im => !isStone(im))?.s;   // never a gravestone as a cover
@@ -398,9 +404,9 @@ function initials(n){ return n.replace(/^(Rev\.|Pvt\.|Judge|The)\s+/, "").split(
 
 /* Compare slider */
 function cmpHTML(left, right, lLabel, rLabel, alt){
-  return `<div class="cmp" style="--x:50%"><img src="${left}" alt="${esc(alt)} (${lLabel})"><img class="over" src="${right}" alt="${esc(alt)} (${rLabel})">
-    <span class="bar"></span><span class="knob" aria-hidden="true">⇆</span><span class="tag l">${lLabel}</span><span class="tag r">${rLabel}</span>
-    <input type="range" min="0" max="100" value="50" aria-label="Drag to compare ${lLabel.toLowerCase()} and ${rLabel.toLowerCase()}"></div>`;
+  return `<div class="cmp" style="--x:50%"><img src="${esc(left)}" alt="${esc(`${alt} (${lLabel})`)}"><img class="over" src="${esc(right)}" alt="${esc(`${alt} (${rLabel})`)}">
+    <span class="bar"></span><span class="knob" aria-hidden="true">⇆</span><span class="tag l">${esc(lLabel)}</span><span class="tag r">${esc(rLabel)}</span>
+    <input type="range" min="0" max="100" value="50" aria-label="${esc(`Drag to compare ${lLabel.toLowerCase()} and ${rLabel.toLowerCase()}`)}"></div>`;
 }
 document.addEventListener("input", e => { if (e.target.matches(".cmp input")) e.target.closest(".cmp").style.setProperty("--x", e.target.value + "%"); });
 
@@ -501,11 +507,11 @@ function renderPhotos(){
     const group = record ? recordGroup : photoGroup;
     const names = record ? ["Records and documents", "Newspapers and old books", "Headstones"] : ["Family portraits", "Places and ships"];
     const query = document.getElementById(record ? "recordSearch" : "photoSearch").value.trim().toLowerCase();
-    const selected = group === "Family portraits" ? portraits.filter(k => {const owner = ALL.find(p => p.ph === k); return ((owner?.name || "") + " " + D.PH[k].cap).toLowerCase().includes(query);}) : groups[group].filter(it => (it.name + " " + it.cap).toLowerCase().includes(query));
+    const selected = group === "Family portraits" ? portraits.filter(k => {const owner = portraitOwner(k); return ((owner?.name || "") + " " + D.PH[k].cap).toLowerCase().includes(query);}) : groups[group].filter(it => (it.name + " " + it.cap).toLowerCase().includes(query));
     document.getElementById(record ? "recordFilters" : "photoFilters").innerHTML = names.map(g => `<button class="chip" data-${record ? "rg" : "pg"}="${esc(g)}" aria-pressed="${g === group}">${esc(g)} <span class="cnt">${g === "Family portraits" ? portraits.length : groups[g].length}</span></button>`).join("");
     const grid = document.getElementById(record ? "recordGrid" : "photoGrid"); grid.className = group === "Family portraits" ? "pgrid" : "ggrid";
     grid.innerHTML = selected.map(it => {
-      if (group === "Family portraits") { const v = D.PH[it], owner = ALL.find(p => p.ph === it); const what = [v.r ? "restored" : "", v.c ? (v.interpretation ? "photographic interpretation" : "colorized") : ""].filter(Boolean).join(" and "); return `<button class="pcard" data-zoomset="${esc(it)}"><span class="ph"><img src="${best(v)}" alt="${esc(v.cap)}" loading="lazy"></span><span class="pc"><span class="pn">${esc(owner ? owner.name : v.cap)}</span><span class="py">${owner ? esc(owner.years) + ". " : ""}${what ? "Original, " + what : "Original"}</span></span></button>`; }
+      if (group === "Family portraits") { const v = D.PH[it], owner = portraitOwner(it), labels = photoLabels(v); const what = [v.r ? labels.r.toLowerCase() : "", v.c ? labels.c.toLowerCase() : ""].filter(Boolean).join(" and "); return `<button class="pcard" data-zoomset="${esc(it)}"><span class="ph"><img src="${best(v)}" alt="${esc(v.cap)}" loading="lazy"></span><span class="pc"><span class="pn">${esc(owner ? owner.name : v.cap)}</span><span class="py">${owner ? esc(owner.years) + ". " : ""}${what ? esc(labels.o) + ", " + esc(what) : esc(labels.o)}</span></span></button>`; }
       return `<figure class="gcard"><button class="frame" data-zoom="${esc(it.s)}" data-cap="${esc(it.cap)}"><img src="${esc(it.s)}" alt="${esc(it.cap)}" loading="lazy"></button><figcaption>${esc(it.cap)} <button class="go" data-person="${esc(it.id)}">${esc(it.name)}</button></figcaption></figure>`;
     }).join("") || `<p class="empty">No ${record ? "records" : "photographs"} match this search.</p>`;
   }
@@ -527,9 +533,9 @@ const panel = document.getElementById("panel"), scrim = document.getElementById(
 let lastFocus = null, panelVar = {};
 function variantFig(k){
   const v = D.PH[k]; const cur = panelVar[k] || (v.c ? "c" : v.r ? "r" : "o");
-  const opts = [["o","Original"], v.r ? ["r","Restored"] : null, v.c ? ["c",v.interpretation ? "Photographic interpretation" : "Colorized"] : null].filter(Boolean);
-  return `<figure class="fig" data-set="${k}"><button class="frame" data-zoomset="${k}" aria-label="Open and compare"><img src="${v[cur]}" alt="${esc(v.cap)}"></button>
-    ${opts.length > 1 ? `<span class="vt" role="group" aria-label="Photo version">${opts.map(([key,l]) => `<button data-pv="${key}" data-set="${k}" aria-pressed="${cur === key}">${l}</button>`).join("")}</span>` : ""}
+  const labels = photoLabels(v), opts = [["o",labels.o], v.r ? ["r",labels.r] : null, v.c ? ["c",labels.c] : null].filter(Boolean);
+  return `<figure class="fig" data-set="${esc(k)}"><button class="frame" data-zoomset="${esc(k)}" aria-label="Open and compare"><img src="${esc(v[cur])}" alt="${esc(v.cap)}"></button>
+    ${opts.length > 1 ? `<span class="vt" role="group" aria-label="Photo version">${opts.map(([key,l]) => `<button data-pv="${key}" data-set="${esc(k)}" aria-pressed="${cur === key}">${esc(l)}</button>`).join("")}</span>` : ""}
     <figcaption>${esc(v.cap)}</figcaption></figure>`;
 }
 function familyConnections(tid){
@@ -541,8 +547,14 @@ function familyConnections(tid){
 function openPerson(id){
  const p=byId[id];if(!p)return;lastFocus=document.activeElement;panel.classList.toggle('large',largeText);panel.style.setProperty('--bc',bcolor(p.branch));
  document.getElementById('pRel').textContent=relLine(p);document.getElementById('pName').innerHTML=nameHTML(p.name);document.getElementById('pYears').textContent=p.years;
- let media='';if(p.ph&&D.PH[p.ph])media+=`<div class="gallery">${variantFig(p.ph)}</div>`;
- const imgs=p.imgs||[];if(imgs.length)media+=`<div class="gallery${imgs.length>1?' two':''}">${imgs.map(im=>im.s==='img/p/vashti_framed.jpg'?variantFig('vashti_framed'):`<figure class="fig"><button class="frame" data-zoom="${esc(im.s)}" data-cap="${esc(im.cap)}"><img src="${esc(im.s)}" alt="${esc(im.cap)}" loading="lazy"></button><figcaption>${esc(im.cap)}</figcaption></figure>`).join('')}</div>`;
+ const sets=new Set(portraitKeys(p)),photos=[],records=[];
+ const imageFigure=im=>`<figure class="fig"><button class="frame" data-zoom="${esc(im.s)}" data-cap="${esc(im.cap)}"><img src="${esc(im.s)}" alt="${esc(im.cap)}" loading="lazy"></button><figcaption>${esc(im.cap)}</figcaption></figure>`;
+ for(const im of p.imgs||[]){
+  const set=Object.keys(D.PH).find(key=>['o','r','c'].some(version=>D.PH[key][version]===im.s));
+  if(set)sets.add(set);else (im.kind==='photo'?photos:records).push(imageFigure(im));
+ }
+ photos.unshift(...[...sets].map(variantFig));
+ const mediaGallery=items=>`<div class="gallery${items.length>1?' two':''}">${items.join('')}</div>`;
  let body='';if(p.title)body+=`<div class="storyhead">${evBadge(p.ev)}<h4>${esc(p.title)}</h4></div>${p.hook?`<p class="profile-hook">${esc(p.hook)}</p>`:''}`;
  body+=(p.body||[]).map(text=>`<p>${esc(text)}</p>`).join('');
  if(!p.title&&p.place)body+=`<p>${esc(p.place)}</p>`;
@@ -551,9 +563,10 @@ function openPerson(id){
  if(p.note)body+=`<div class="note">${esc(p.note)}</div>`;
  if(!body)body='<p class="empty">A written story is not available for this profile yet.</p>';
  let sources=p.src?`<p class="src">${esc(p.src)}</p>`:'';
- if(p.source_link&&/^https:\/\//i.test(p.source_link))sources+=`<p class="src"><a href="${esc(p.source_link)}" target="_blank" rel="noopener noreferrer">View source and photograph ↗</a></p>`;
+ if(p.source_link&&/^https:\/\//i.test(p.source_link))sources+=`<p class="src"><a href="${esc(p.source_link)}" target="_blank" rel="noopener noreferrer">View source ↗</a></p>`;
  const tid=treeIdsFor(id)[0];let h=profileTools(id,p)+`<section class="archive-profile-story">${body}</section>`;
- if(media)h+=`<section class="archive-profile-photos"><h4>Photos and records</h4>${media}</section>`;
+ if(photos.length)h+=`<section class="archive-profile-photos"><h4>Photos</h4>${mediaGallery(photos)}</section>`;
+ if(records.length)h+=`<section class="archive-profile-records"><h4>Records</h4>${mediaGallery(records)}</section>`;
  h+=familyConnections(tid)+treeActions(treeIdsFor(id));h+=features?.profileEvents([id])||'';h+=features?.relationship(tid)||'';
  if(sources)h+=`<section class="archive-profile-sources"><h4>Sources</h4>${sources}</section>`;
  const host=document.getElementById('pBody');host.innerHTML=h;features?.enhanceProfile(panel);if(p.title)features?.storyOpened(id,host);scrim.hidden=false;panel.hidden=false;host.scrollTop=0;document.getElementById('pClose').focus({preventScroll:true});
@@ -576,11 +589,11 @@ function openSet(k, keepFocus=false){
   renderSet(); lb.hidden = false; features?.photoOpened({key:k}); if(!keepFocus)document.getElementById("lbClose").focus();
 }
 function renderSet(){
-  const v = D.PH[lbSet]; const L = {o:"Original", r:"Restored", c:v.interpretation ? "Photographic interpretation" : "Colorized"};
-  document.getElementById("lbStage").innerHTML = lbMode === "cmp" ? cmpHTML(v.o, v[lbRight], "Original", L[lbRight], v.cap) : `<img src="${v[lbMode]}" alt="${esc(v.cap)} (${L[lbMode]})">`;
-  document.getElementById("lbCap").textContent = v.cap + ((lbMode === "c" || (lbMode === "cmp" && lbRight === "c")) && /_(?:ai|new)_color\.jpg$/.test(v.c || "") ? " AI-edited copy; compare the original for historical detail." : "");
-  const b = (key, l, on) => `<button data-lb="${key}" aria-pressed="${on}">${l}</button>`;
-  document.getElementById("lbCtl").innerHTML = `<span class="vt" role="group" aria-label="View">${b("o","Original",lbMode==="o")}${v.r?b("r","Restored",lbMode==="r"):""}${v.c?b("c",L.c,lbMode==="c"):""}${v.r||v.c?b("cmp:"+(v.c?"c":"r"),"Compare",lbMode==="cmp"):""}</span>`;
+  const v = D.PH[lbSet]; const L = photoLabels(v);
+  document.getElementById("lbStage").innerHTML = lbMode === "cmp" ? cmpHTML(v.o, v[lbRight], L.o, L[lbRight], v.cap) : `<img src="${esc(v[lbMode])}" alt="${esc(`${v.cap} (${L[lbMode]})`)}">`;
+  document.getElementById("lbCap").textContent = v.cap + (lbMode!=="o"&&v.edit_note ? " "+v.edit_note : (lbMode === "c" || (lbMode === "cmp" && lbRight === "c")) && /_(?:ai|new)_color\.jpg$/.test(v.c || "") ? " AI-edited copy; compare the original for historical detail." : "");
+  const b = (key, l, on) => `<button data-lb="${key}" aria-pressed="${on}">${esc(l)}</button>`;
+  document.getElementById("lbCtl").innerHTML = `<span class="vt" role="group" aria-label="View">${b("o",L.o,lbMode==="o")}${v.r?b("r",L.r,lbMode==="r"):""}${v.c?b("c",L.c,lbMode==="c"):""}${v.r||v.c?b("cmp:"+(v.c?"c":"r"),"Compare",lbMode==="cmp"):""}</span>`;
 }
 function closeZoom(){ lb.hidden = true; if(photoFocus?.isConnected) queueMicrotask(()=>photoFocus.focus({preventScroll:true})); }
 
@@ -691,7 +704,7 @@ function renderStats(){
     `So far: ${ALL.length} ancestors, relatives and places, ${ALL.filter(x => x.title).length} stories, ${photos} photographs and records, and ${D.TIMELINE.length} dated events.`;
 }
 
-Promise.all([fetch("data.json?v=20261101n6").then(r => { if(!r.ok)throw new Error("Family data unavailable");return r.json(); }), fetch("tree.json?v=20261101n6").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
+Promise.all([fetch("data.json?v=20261101n7").then(r => { if(!r.ok)throw new Error("Family data unavailable");return r.json(); }), fetch("tree.json?v=20261101n7").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
   D = data; ALL = [...D.P, ...D.EXTRA]; byId = Object.fromEntries(ALL.map(x => [x.id, x]));
   savedStories=new Set([...savedStories].filter(id=>byId[id]?.title));
   T = tree;
@@ -700,7 +713,7 @@ Promise.all([fetch("data.json?v=20261101n6").then(r => { if(!r.ok)throw new Erro
   ArchiveTimeline.preview(document.getElementById("homeTimeline"),timelineEvents());
   const root='archive-generation',people={...(T?.people||{}),[root]:{n:'Johnny and Barbara’s children',f:T?.roots.father,m:T?.roots.mother}};
   const registry=[],seenPhotos=new Set();
-  for(const key of D.PHOTO_ORDER||Object.keys(D.PH)){const v=D.PH[key];if(!v)continue;const owner=ALL.find(p=>p.ph===key);registry.push({key,src:v.o,caption:v.cap,kind:'photo',source:v.source||owner?.photo_source||'Moffitt Family Tree on Ancestry',notes:[v.r?'A restored copy is available.':'',v.c?(v.interpretation?'A photographic interpretation is available.':'An AI-colorized interpretation is available; original colors are not documented.'):''].filter(Boolean).join(' '),versions:{original:v.o,restored:v.r,colorized:v.c}});seenPhotos.add(v.o);}
+  for(const key of D.PHOTO_ORDER||Object.keys(D.PH)){const v=D.PH[key];if(!v)continue;const owner=portraitOwner(key);registry.push({key,src:v.o,caption:v.cap,kind:'photo',source:v.source||owner?.photo_source||'Moffitt Family Tree on Ancestry',notes:v.edit_note||[v.r?'A restored copy is available.':'',v.c?(v.interpretation?'A photographic interpretation is available.':'An AI-colorized interpretation is available; original colors are not documented.'):''].filter(Boolean).join(' '),versions:{original:v.o,restored:v.r,colorized:v.c}});seenPhotos.add(v.o);}
   for(const image of galleryItems()){if(seenPhotos.has(image.s))continue;seenPhotos.add(image.s);const group=PHOTO_GROUPS.find(([,test])=>test(image.s))[0];registry.push({src:image.s,caption:image.cap,kind:['Records and documents','Newspapers and old books','Headstones'].includes(group)?'record':'photo',source:byId[image.id]?.src||'',sourceLabel:'Linked story sources'});}
   features=ArchiveFeatures.init({site:'family',timeline:D.TIMELINE.map(e=>({year:e.y,text:e.t,story:e.p})),journeys:[['choctaw','Choctaw family stories','Follow the people and records on this family line.'],['military','Service and home','Read stories of military service and the families at home.'],['quaker','Earlier Quaker roots','Explore the stories and documents from the Quaker branches.']].map(([tag,title,description])=>({title,description,stories:ALL.filter(p=>p.title&&(p.tags||[]).includes(tag)).slice(0,5).map(p=>p.id)})),people,root,personInfo:id=>{if(id===root)return{name:people[id].n,selectable:false};const t=tInfo(id);return{name:t.name,years:t.years};},stories:ALL.filter(p=>p.title).map(p=>({id:p.id,title:p.title,summary:p.hook,text:[p.name,...(p.body||[])].join(' ')})),photos:registry,home:document.getElementById('view-home'),searchId:'view-search',queryResults:'#qResults',searchHash:(q,kind)=>'#search/'+encodeURIComponent(q)+'/'+kind,openPerson:id=>{if(location.hash==='#person/'+id)openTreePerson(id);else location.hash='#person/'+id;},openStory:id=>{if(location.hash==='#person/'+id)openPerson(id);else location.hash='#person/'+id;},openPhoto:(p,keep)=>p.key?openSet(p.key,keep):openZoom(p.src,p.caption,keep),viewer:lb,photoMount:null});
   document.getElementById("load-status").hidden=true;
