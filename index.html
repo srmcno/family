@@ -130,8 +130,7 @@ main{padding-block:2rem 4rem}
   .card.feature p{font-size:1.12rem}
 }
 
-document.getElementById("storySearch").addEventListener("input", () => { storyLimit = STORY_PAGE; renderStories(); });
-document.getElementById("clearStorySearch").addEventListener("click", () => { document.getElementById("storySearch").value = ""; storyLimit = STORY_PAGE; renderStories(); document.getElementById("storySearch").focus(); });
+
 
 /* People */
 .branchgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(14rem,1fr));gap:.8rem;margin-bottom:1.25rem}
@@ -267,10 +266,11 @@ footer .legend{display:flex;flex-wrap:wrap;gap:.5rem 1.4rem;align-items:center}
   @keyframes slide{from{transform:translateX(20px);opacity:.7}to{transform:none;opacity:1}}
 }
 </style>
-<link rel="stylesheet" href="archive.css?v=20261101f">
-<script src="archive-ui.js?v=20261101d"></script>
-<script src="timeline.js?v=20261101d"></script>
-<script src="tree-view.js?v=20261101d"></script>
+<link rel="stylesheet" href="archive.css?v=20261101g">
+<script src="archive-ui.js?v=20261101g"></script>
+<script src="timeline.js?v=20261101g"></script>
+<script src="tree-view.js?v=20261101g"></script>
+<script src="archive-features.js?v=20261101g"></script>
 </head>
 <body class="family-site">
 <a class="skip" href="#main">Skip to family history</a>
@@ -279,18 +279,10 @@ footer .legend{display:flex;flex-wrap:wrap;gap:.5rem 1.4rem;align-items:center}
   <div class="container row">
     <a class="brand" href="#home">Moffitt &amp; Thompson Roots<small>Thompson · Hulsey · Moffitt · Smith</small></a>
     <div class="search" role="search">
-      <input id="q" type="search" placeholder="Find a person, place or story" aria-label="Find a person, place or story" aria-controls="qResults" autocomplete="off" spellcheck="false">
+      <input id="q" type="search" placeholder="Search the family archive" aria-label="Search the archive" aria-controls="qResults" autocomplete="off" spellcheck="false">
       <div class="results" id="qResults" hidden></div>
     </div>
-    <nav class="tabs" role="tablist" aria-label="Sections">
-      <button role="tab" id="tab-home" data-view="home" aria-selected="true"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M3 11 12 4l9 7M5 10v10h14V10M9 20v-6h6v6"/></svg>Home</button>
-      <button role="tab" id="tab-stories" data-view="stories" aria-selected="false"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M4 5.5A1.5 1.5 0 0 1 5.5 4H11v16H5.5A1.5 1.5 0 0 1 4 18.5zM20 5.5A1.5 1.5 0 0 0 18.5 4H13v16h5.5a1.5 1.5 0 0 0 1.5-1.5z"/></svg>Stories</button>
-      <button role="tab" id="tab-tree" data-view="tree" aria-selected="false"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="10" width="6" height="4" rx="1"/><rect x="15" y="4" width="6" height="4" rx="1"/><rect x="15" y="16" width="6" height="4" rx="1"/><path d="M9 12h3M12 6v12M12 6h3M12 18h3"/></svg>Tree</button>
-      <button role="tab" id="tab-branches" data-view="branches" aria-selected="false"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="9" cy="8" r="3.2"/><path d="M3.5 19a5.5 5.5 0 0 1 11 0"/><circle cx="17" cy="9" r="2.5"/><path d="M15.5 14.2A4.5 4.5 0 0 1 21 18.5"/></svg>People</button>
-      <button role="tab" id="tab-photos" data-view="photos" aria-selected="false"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="1.8"/><path d="m4 17 5-4.5 4 3.5 3-2.5 4 3.5"/></svg>Photos</button>
-      <button role="tab" id="tab-records" data-view="records" aria-selected="false"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M6 3h8l4 4v14H6zM14 3v5h4M9 12h6M9 15h6"/></svg>Records</button>
-      <button role="tab" id="tab-timeline" data-view="timeline" aria-selected="false"><svg class="navicon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 3v18"/><circle cx="12" cy="7" r="2"/><circle cx="12" cy="17" r="2"/><path d="M14 7h6M4 17h6"/></svg>Timeline</button>
-    </nav>
+
   </div>
 </div>
 
@@ -310,48 +302,49 @@ footer .legend{display:flex;flex-wrap:wrap;gap:.5rem 1.4rem;align-items:center}
 <div class="gutter">
 <div class="container">
   <main id="main" tabindex="-1">
+    <div class="load-status" id="load-status" role="status">Loading family history…</div>
     <noscript><p>This family archive needs JavaScript to show its people and stories.</p></noscript>
-    <section class="view" id="view-home" role="tabpanel" aria-labelledby="tab-home">
+    <section class="view" id="view-home" role="region" aria-label="Home">
       <div class="home-paths"><a href="#tree"><strong>Follow the family tree</strong><span>Walk through the generations and open any person.</span></a><a href="#photos"><strong>Open the photo collection</strong><span>Compare photographs with their restored editions.</span></a><a href="#timeline"><strong>Travel through the years</strong><span>Follow dated events from both sides of the family.</span></a></div>
       <div class="home-section-head"><h2>Lives behind the names</h2><a href="#stories">All stories</a></div>
       <div class="cards" id="homeStories"><p class="loading" role="status">Loading the family stories…</p></div>
       <div class="home-section-head"><h2>Across the generations</h2><a href="#timeline">Full timeline</a></div><div id="homeTimeline"></div>
     </section>
-    <section class="view" id="view-stories" role="tabpanel" aria-labelledby="tab-stories" hidden>
+    <section class="view" id="view-stories" role="region" aria-label="Stories" hidden>
       <div class="lede"><h2>Stories</h2><p>Each story is marked with how well the records support it.</p></div>
       <div class="search-row"><label for="storySearch">Search stories<input id="storySearch" type="search" placeholder="Name, place or topic" autocomplete="off"></label><button class="morebtn" id="clearStorySearch" hidden>Clear search</button></div><p class="result-count" id="storyCount" role="status"></p>
       <div class="chips" id="storyFilters" aria-label="Filter stories"></div>
       <div class="cards" id="storyCards"><p class="loading">Loading the family stories…</p></div>
       <p class="morebar"><button class="morebtn" id="moreStories" hidden></button></p>
     </section>
-    <section class="view" id="view-tree" role="tabpanel" aria-labelledby="tab-tree" hidden>
+    <section class="view" id="view-tree" role="region" aria-label="Tree" hidden>
       <div class="lede"><h2>Family tree</h2><p>Explore the generations. Drag to move, zoom in for detail, and open anyone to read their story.</p></div>
       <div id="archiveTree"></div>
     </section>
-    <section class="view" id="view-branches" role="tabpanel" aria-labelledby="tab-branches" hidden>
+    <section class="view" id="view-branches" role="region" aria-label="People" hidden>
       <div class="lede"><h2>People</h2><p>Pick a grandparent's line to walk back through the generations.</p></div>
       <div class="branchgrid" id="branchCards"></div>
       <div class="ladder" id="ladder"></div>
     </section>
-    <section class="view" id="view-photos" role="tabpanel" aria-labelledby="tab-photos" hidden>
+    <section class="view" id="view-photos" role="region" aria-label="Photos" hidden>
       <div class="lede"><h2>Photos</h2><p>Family portraits and historic places. Open a portrait to compare its restored, colorized and original versions.</p></div>
       <label for="photoSearch">Search photographs</label><input id="photoSearch" type="search" placeholder="Name or caption" style="width:100%;padding:.7rem;margin:.5rem 0 1rem;font:inherit">
       <div class="chips" id="photoFilters" aria-label="Photo groups"></div>
       <div class="pgrid" id="photoGrid"></div>
     </section>
-    <section class="view" id="view-records" role="tabpanel" aria-labelledby="tab-records" hidden>
+    <section class="view" id="view-records" role="region" aria-label="Records" hidden>
       <div class="lede"><h2>Records</h2><p>Newspaper clippings, documents, books and headstones from the family archive.</p></div>
       <label for="recordSearch">Search records</label><input id="recordSearch" type="search" placeholder="Name or caption" style="width:100%;padding:.7rem;margin:.5rem 0 1rem;font:inherit">
       <div class="chips" id="recordFilters" aria-label="Record groups"></div><div class="ggrid" id="recordGrid"></div>
     </section>
-    <section class="view" id="view-timeline" role="tabpanel" aria-labelledby="tab-timeline" hidden>
+    <section class="view" id="view-timeline" role="region" aria-label="Timeline" hidden>
       <div class="lede"><h2>Timeline</h2><p>Dated events from both sides of the family.</p></div>
       <div id="timelineBrowser"></div>
     </section>
   </main>
 
 </div></div>
-<footer><div class="wrap" style="padding-inline:20px"><div class="footer-inner"><div><b>Moffitt &amp; Thompson Roots</b><p>A family history in people, photographs and records.</p><a href="#home">Return to the family archive</a></div><nav aria-label="More ways to explore"><a href="#stories">Family stories</a><a href="#branches">Family branches</a><a href="#records">Records and clippings</a><a href="#tree">Family tree</a><a href="#timeline">Timeline</a></nav><div><label for="appearance">Appearance</label><select id="appearance"><option value="system">Use device setting</option><option value="light">Light</option><option value="dark">Dark</option></select><p id="appearance-status" role="status"></p></div></div><details class="footer-notes"><summary>Sources, evidence and photograph credits</summary>
+<footer><div class="wrap" style="padding-inline:20px"><div class="footer-inner"><div><b>Moffitt &amp; Thompson Roots</b><p>A family history in people, photographs and records.</p><a href="#home">Return to the family archive</a></div><nav aria-label="More ways to explore"><a href="#stories">Family stories</a><a href="#branches">People and family branches</a><a href="#stories/saved">Saved stories</a><a href="#records">Records and clippings</a><a href="#tree">Family tree</a><a href="#timeline">Timeline</a></nav><div><label for="appearance">Appearance</label><select id="appearance"><option value="system">Use device setting</option><option value="light">Light</option><option value="dark">Dark</option></select><p id="appearance-status" role="status"></p></div></div><details class="footer-notes"><summary>Sources, evidence and photograph credits</summary>
     <div class="legend">
       <span class="ev proven">Proven</span><span>Seen in an original or official record</span>
       <span class="ev probable">Probable</span><span>A family account or good secondary source that fits the records</span>
@@ -361,7 +354,7 @@ footer .legend{display:flex;flex-wrap:wrap;gap:.5rem 1.4rem;align-items:center}
     <p>Family photographs come from the Moffitt Family Tree on Ancestry. Some have been restored or colorized with AI; colors and reconstructed details are interpretations. The originals are available for comparison. Marmon Wasp photo by OctaviaCombi and Alamance plaque photo by Hallcp, CC BY-SA 4.0 via Wikimedia Commons; USS Chief photo, U.S. Navy (NH 96996); 1919 code letter, U.S. Army. Hugo (1910 street view and 1912 Frisco shops postcard), Butler County, Allen County and Gibson County photographs: Wikimedia Commons, public domain. Mountain View courthouse photo by Sgerbic, CC BY-SA 4.0, via Wikimedia Commons.</p>
 </details><div class="footer-bottom"><span>People, places and the records that connect them.</span><button class="to-top" type="button">Back to top ↑</button></div></div></footer>
 
-<nav class="bottom-nav" aria-label="Quick navigation"><a href="#home" data-quick="home"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11 12 4l9 7M5 10v10h14V10M9 20v-6h6v6"/></svg>Home</a><a href="#stories" data-quick="stories"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h6a3 3 0 0 1 2 1v14a3 3 0 0 0-2-1H4zM20 5h-6a3 3 0 0 0-2 1v14a3 3 0 0 1 2-1h6z"/></svg>Stories</a><a href="#tree" data-quick="tree"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2" y="10" width="6" height="4" rx="1"/><rect x="16" y="4" width="6" height="4" rx="1"/><rect x="16" y="16" width="6" height="4" rx="1"/><path d="M8 12h4M12 6v12M12 6h4M12 18h4"/></svg>Tree</a><a href="#photos" data-quick="photos"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="1.5"/><path d="m4 17 5-4 4 3 3-2 4 3"/></svg>Photos</a><a href="#timeline" data-quick="timeline"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3v18M6 6h12M6 12h8M6 18h12"/><circle cx="6" cy="6" r="2"/><circle cx="6" cy="12" r="2"/></svg>Timeline</a></nav>
+<nav class="bottom-nav" aria-label="Quick navigation"><a href="#home" data-quick="home"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11 12 4l9 7M5 10v10h14V10M9 20v-6h6v6"/></svg>Home</a><a href="#stories" data-quick="stories"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h6a3 3 0 0 1 2 1v14a3 3 0 0 0-2-1H4zM20 5h-6a3 3 0 0 0-2 1v14a3 3 0 0 1 2-1h6z"/></svg>Stories</a><a href="#tree" data-quick="tree"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2" y="10" width="6" height="4" rx="1"/><rect x="16" y="4" width="6" height="4" rx="1"/><rect x="16" y="16" width="6" height="4" rx="1"/><path d="M8 12h4M12 6v12M12 6h4M12 18h4"/></svg>Tree</a><a class="desktop-nav-item" href="#branches" data-quick="branches"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="8" r="3"/><path d="M3 19a6 6 0 0 1 12 0M16 6a3 3 0 0 1 0 6M17 14a5 5 0 0 1 4 5"/></svg>People</a><a href="#photos" data-quick="photos"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="1.5"/><path d="m4 17 5-4 4 3 3-2 4 3"/></svg>Photos</a><a href="#records" data-quick="records"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h8l4 4v14H6zM14 3v5h4M9 12h6M9 15h6M9 18h4"/></svg>Records</a><a href="#timeline" data-quick="timeline"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3v18M6 6h12M6 12h8M6 18h12"/><circle cx="6" cy="6" r="2"/><circle cx="6" cy="12" r="2"/></svg>Timeline</a><a class="desktop-nav-item" href="#stories/saved" data-quick="saved"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z"/></svg>Saved</a></nav>
 <div class="scrim" id="scrim" hidden></div>
 <aside class="panel" id="panel" role="dialog" aria-modal="true" aria-labelledby="pName" hidden>
   <header>
@@ -380,7 +373,7 @@ footer .legend{display:flex;flex-wrap:wrap;gap:.5rem 1.4rem;align-items:center}
 </div>
 
 <script>
-let D = null, byId = {}, ALL = [];
+let D = null, byId = {}, ALL = [], features = null;
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));
 const EVL = {proven:"Proven", probable:"Probable", lead:"Lead"};
 const evBadge = e => e ? `<span class="ev ${e}">${EVL[e]}</span>` : "";
@@ -425,21 +418,27 @@ function renderHero(){
 }
 
 /* Stories */
-const FILTERS = [["all","All"],["choctaw","Choctaw"],["military","Military"],["quaker","Quaker"],["notable","Notable"],["mom","Mom's side"],["dad","Dad's side"]];
+const FILTERS = [["all","All"],["choctaw","Choctaw"],["military","Military"],["quaker","Quaker"],["notable","Notable"],["mom","Mom's side"],["dad","Dad's side"],["saved","Saved"]];
 let storyFilter = "all", storyLimit = 24;
 const STORY_PAGE = 24;
+let savedStories=new Set(),largeText=false,readingStorageOK=true;
+try{const values=JSON.parse(localStorage.getItem('family.saved')||'[]');if(Array.isArray(values))savedStories=new Set(values.filter(id=>typeof id==='string'));largeText=localStorage.getItem('family.largeText')==='true';}catch{readingStorageOK=false;}
+function saveReadingPreferences(){try{localStorage.setItem('family.saved',JSON.stringify([...savedStories]));localStorage.setItem('family.largeText',String(largeText));return true;}catch{readingStorageOK=false;return false;}}
+function profileTools(id,p){const minutes=p.title?Math.max(1,Math.ceil((p.body||[]).join(' ').split(/\s+/).length/200)):0;return `<div class="readtools">${minutes?`<span class="reading-time">${minutes} min read</span><button class="btn" data-save-story="${esc(id)}" aria-pressed="${savedStories.has(id)}">${savedStories.has(id)?'Story saved':'Save story'}</button>`:''}<button class="btn" data-large-profile aria-pressed="${largeText}">Larger text</button><button class="btn" data-print-profile>Print ${p.title?'story':'profile'}</button><button class="btn" data-copy-link="${esc(new URL('#person/'+encodeURIComponent(id),location.href).href)}">Copy link</button><p class="link-status" role="status"></p></div><p class="reading-notice" id="profile-reading-notice" role="status">${readingStorageOK?'':'Reading preferences are available for this visit only.'}</p>`;}
+
 function storyItems(){
   const rank = id => { const i = (D.ORDER || []).indexOf(id); return i < 0 ? 99 : i; };
   const terms = fold(document.getElementById("storySearch").value).split(/\s+/).filter(Boolean);
   return ALL.filter(x => x.title && terms.every(term => fold([x.name,x.title,x.hook,...(x.body || [])].join(" ")).includes(term))).sort((a,b) => rank(a.id) - rank(b.id)).filter(s => storyFilter === "all" ? true
+    : storyFilter === "saved" ? savedStories.has(s.id)
     : storyFilter === "mom" ? (s.branch === "thompson" || s.branch === "hulsey")
     : storyFilter === "dad" ? (s.branch === "moffitt" || s.branch === "smith")
     : (s.tags || []).includes(storyFilter));
 }
 function renderStories(){
-  document.getElementById("storyFilters").innerHTML = FILTERS.map(([k,l]) => `<button class="chip" data-f="${k}" aria-pressed="${k === storyFilter}">${l}</button>`).join("");
+  document.getElementById("storyFilters").innerHTML = FILTERS.map(([k,l]) => `<button class="chip" data-f="${k}" aria-pressed="${k === storyFilter}">${l}${k === "saved" ? ` (${savedStories.size})` : ""}</button>`).join("");
   const items = storyItems();
-  document.getElementById("storyCount").textContent = `${items.length} stories`;
+  document.getElementById("storyCount").textContent = `${items.length} ${items.length===1?"story":"stories"}`;
   document.getElementById("clearStorySearch").hidden = !document.getElementById("storySearch").value;
   const more = document.getElementById("moreStories"), left = items.length - storyLimit;
   more.hidden = left <= 0;
@@ -453,8 +452,11 @@ function renderStories(){
         <h3>${esc(s.title)}</h3>
         <p>${esc(s.hook)}</p>
         <span class="rel"><span class="dot" style="--dc:${bcolor(s.branch)}"></span>${esc(relLine(s))}</span>
-      </span></button>`; }).join("") || `<p class="empty">No stories in this group yet.</p>`;
+      </span></button>`; }).join("") || `<p class="empty">${storyFilter === "saved" ? "No saved stories yet. Open a story and choose Save story." : "No stories match these filters."}</p>`;
 }
+
+document.getElementById("storySearch").addEventListener("input", () => { storyLimit = STORY_PAGE; renderStories(); });
+document.getElementById("clearStorySearch").addEventListener("click", () => { document.getElementById("storySearch").value = ""; storyLimit = STORY_PAGE; renderStories(); document.getElementById("storySearch").focus(); });
 
 /* People */
 let branch = "thompson";
@@ -530,51 +532,48 @@ function variantFig(k){
     ${opts.length > 1 ? `<span class="vt" role="group" aria-label="Photo version">${opts.map(([key,l]) => `<button data-pv="${key}" data-set="${k}" aria-pressed="${cur === key}">${l}</button>`).join("")}</span>` : ""}
     <figcaption>${esc(v.cap)}</figcaption></figure>`;
 }
-function openPerson(id){
-  const p = byId[id]; if (!p) return;
-  lastFocus = document.activeElement;
-  panel.style.setProperty("--bc", bcolor(p.branch));
-  document.getElementById("pRel").textContent = relLine(p);
-  document.getElementById("pName").innerHTML = nameHTML(p.name);
-  document.getElementById("pYears").textContent = p.years;
-  let h = treeActions(treeIdsFor(id));
-  if (p.ph && D.PH[p.ph]) h += `<div class="gallery">${variantFig(p.ph)}</div>`;
-  const imgs = p.imgs || [];
-  if (imgs.length) h += `<div class="gallery${imgs.length > 1 ? " two" : ""}">${imgs.map(im => im.s === "img/p/vashti_framed.jpg" ? variantFig("vashti_framed") : `<figure class="fig"><button class="frame" data-zoom="${im.s}" data-cap="${esc(im.cap)}"><img src="${im.s}" alt="${esc(im.cap)}" loading="lazy"></button><figcaption>${esc(im.cap)}</figcaption></figure>`).join("")}</div>`;
-  if (p.title){
-    h += `<div class="storyhead">${evBadge(p.ev)}<h4>${esc(p.title)}</h4></div>`;
-    h += (p.body || []).map(t => `<p>${esc(t)}</p>`).join("");
-    if (p.kv) h += `<dl class="kv">${p.kv.map(([k,v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("")}</dl>`;
-    h += (p.quotes || []).map(q => `<blockquote class="quote">${esc(q.t)}<cite>${esc(q.c)}</cite></blockquote>`).join("");
-    if (p.note) h += `<div class="note">${esc(p.note)}</div>`;
-    if (p.src) h += `<p class="src">Sources: ${esc(p.src)}</p>`;
-  } else {
-    if (p.place) h += `<p>${esc(p.place)}</p>`;
-    if (p.kv) h += `<dl class="kv">${p.kv.map(([k,v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("")}</dl>`;
-    if (p.src) h += `<p class="src">Sources: ${esc(p.src)}</p>`;
-    if (!imgs.length && !p.ph && !p.place) h += `<p class="empty">No story written up yet for this ancestor.</p>`;
-  }
-  if (p.source_link && /^https:\/\//i.test(p.source_link)) h += `<p class="src"><a href="${esc(p.source_link)}" target="_blank" rel="noopener noreferrer">View obituary and photograph ↗</a></p>`;
-  const body = document.getElementById("pBody"); body.innerHTML = h;
-  scrim.hidden = false; panel.hidden = false;
-  body.scrollTop = 0;
-  document.getElementById("pClose").focus({preventScroll: true});
+function familyConnections(tid){
+ if(!T?.people[tid])return '';const person=T.people[tid],links=[];
+ for(const [id,label] of [[person.f,'Father'],[person.m,'Mother']])if(T.people[id])links.push({id,label});
+ for(const [id,p] of Object.entries(T.people))if(p.f===tid||p.m===tid)links.push({id,label:p.x==='M'?'Son':p.x==='F'?'Daughter':'Child'});
+ return links.length?`<section class="archive-family-links"><h4>Family connections</h4><div class="fam">${links.map(({id,label})=>{const p=tInfo(id);return `<button type="button" data-tree="${esc(id)}"><span><strong>${esc(p.name)}</strong><small>${label} · ${esc(p.years)}</small></span></button>`;}).join('')}</div></section>`:'';
 }
+function openPerson(id){
+ const p=byId[id];if(!p)return;lastFocus=document.activeElement;panel.classList.toggle('large',largeText);panel.style.setProperty('--bc',bcolor(p.branch));
+ document.getElementById('pRel').textContent=relLine(p);document.getElementById('pName').innerHTML=nameHTML(p.name);document.getElementById('pYears').textContent=p.years;
+ let media='';if(p.ph&&D.PH[p.ph])media+=`<div class="gallery">${variantFig(p.ph)}</div>`;
+ const imgs=p.imgs||[];if(imgs.length)media+=`<div class="gallery${imgs.length>1?' two':''}">${imgs.map(im=>im.s==='img/p/vashti_framed.jpg'?variantFig('vashti_framed'):`<figure class="fig"><button class="frame" data-zoom="${esc(im.s)}" data-cap="${esc(im.cap)}"><img src="${esc(im.s)}" alt="${esc(im.cap)}" loading="lazy"></button><figcaption>${esc(im.cap)}</figcaption></figure>`).join('')}</div>`;
+ let body='';if(p.title)body+=`<div class="storyhead">${evBadge(p.ev)}<h4>${esc(p.title)}</h4></div>${p.hook?`<p class="profile-hook">${esc(p.hook)}</p>`:''}`;
+ body+=(p.body||[]).map(text=>`<p>${esc(text)}</p>`).join('');
+ if(!p.title&&p.place)body+=`<p>${esc(p.place)}</p>`;
+ if(p.kv)body+=`<dl class="kv">${p.kv.map(([key,value])=>`<dt>${esc(key)}</dt><dd>${esc(value)}</dd>`).join('')}</dl>`;
+ body+=(p.quotes||[]).map(quote=>`<blockquote class="quote">${esc(quote.t)}<cite>${esc(quote.c)}</cite></blockquote>`).join('');
+ if(p.note)body+=`<div class="note">${esc(p.note)}</div>`;
+ if(!body)body='<p class="empty">A written story is not available for this profile yet.</p>';
+ let sources=p.src?`<p class="src">${esc(p.src)}</p>`:'';
+ if(p.source_link&&/^https:\/\//i.test(p.source_link))sources+=`<p class="src"><a href="${esc(p.source_link)}" target="_blank" rel="noopener noreferrer">View source and photograph ↗</a></p>`;
+ const tid=treeIdsFor(id)[0];let h=profileTools(id,p)+`<section class="archive-profile-story">${body}</section>`;
+ if(media)h+=`<section class="archive-profile-photos"><h4>Photos and records</h4>${media}</section>`;
+ h+=familyConnections(tid)+treeActions(treeIdsFor(id));h+=features?.profileEvents([id])||'';h+=features?.relationship(tid)||'';
+ if(sources)h+=`<section class="archive-profile-sources"><h4>Sources</h4>${sources}</section>`;
+ const host=document.getElementById('pBody');host.innerHTML=h;features?.enhanceProfile(panel);if(p.title)features?.storyOpened(id,host);scrim.hidden=false;panel.hidden=false;host.scrollTop=0;document.getElementById('pClose').focus({preventScroll:true});
+}
+document.getElementById("pBody").addEventListener("click",event=>{const target=event.target.closest("button");if(!target)return;if(target.hasAttribute("data-save-story")){const id=target.dataset.saveStory;savedStories.has(id)?savedStories.delete(id):savedStories.add(id);saveReadingPreferences();target.textContent=savedStories.has(id)?"Story saved":"Save story";target.setAttribute("aria-pressed",String(savedStories.has(id)));document.getElementById("profile-reading-notice").textContent=readingStorageOK?"Saved stories are kept on this browser.":"Reading preferences are available for this visit only.";renderStories();}else if(target.hasAttribute("data-large-profile")){largeText=!largeText;panel.classList.toggle("large",largeText);target.setAttribute("aria-pressed",String(largeText));if(!saveReadingPreferences())document.getElementById("profile-reading-notice").textContent="Reading preferences are available for this visit only.";}else if(target.hasAttribute("data-print-profile"))window.print();});
 function closePanel(){ panel.hidden = true; scrim.hidden = true; if (lastFocus) queueMicrotask(()=>lastFocus?.isConnected&&lastFocus.focus({preventScroll: true})); }
 
 /* Lightbox */
 let lbSet = null, lbMode = "cmp", lbRight = "r", photoFocus = null;
-function openZoom(src, cap){
-  photoFocus = document.activeElement;
+function openZoom(src, cap, keepFocus=false){
+  if(!keepFocus)photoFocus = document.activeElement;
   lbSet = null;
   document.getElementById("lbStage").innerHTML = `<img src="${src}" alt="${esc(cap)}">`;
   document.getElementById("lbCap").textContent = cap; document.getElementById("lbCtl").innerHTML = "";
-  lb.hidden = false; document.getElementById("lbClose").focus();
+  lb.hidden = false; features?.photoOpened({src}); if(!keepFocus)document.getElementById("lbClose").focus();
 }
-function openSet(k){
-  photoFocus = document.activeElement;
+function openSet(k, keepFocus=false){
+  if(!keepFocus)photoFocus = document.activeElement;
   const v = D.PH[k]; lbSet = k; lbRight = v.c ? "c" : "r"; lbMode = v.c || v.r ? "cmp" : "o";
-  renderSet(); lb.hidden = false; document.getElementById("lbClose").focus();
+  renderSet(); lb.hidden = false; features?.photoOpened({key:k}); if(!keepFocus)document.getElementById("lbClose").focus();
 }
 function renderSet(){
   const v = D.PH[lbSet]; const L = {o:"Original", r:"Restored", c:v.interpretation ? "Photographic interpretation" : "Colorized"};
@@ -592,19 +591,26 @@ scrim.addEventListener("click", closePanel);
 document.addEventListener("keydown", e => { if (e.key !== "Escape") return; if (!lb.hidden) closeZoom(); else if (!panel.hidden) closePanel(); });
 
 /* Views + routing */
-const VIEWS = ["home","stories","tree","branches","photos","records","timeline"];
+const VIEWS = ["home","stories","tree","branches","photos","records","timeline","search"];
 function show(v){
   if (!VIEWS.includes(v)) v = "home";
-  VIEWS.forEach(n => { document.getElementById("view-" + n).hidden = n !== v; const tab=document.getElementById("tab-"+n); tab.setAttribute("aria-selected",String(n===v));tab.tabIndex=n===v?0:-1; });
+  VIEWS.forEach(n => { const section=document.getElementById("view-"+n);if(section)section.hidden=n!==v; });
   document.querySelector(".heroband").hidden = v !== "home";
   if(v === "tree" && T) requestAnimationFrame(renderTree);
-  document.querySelectorAll("[data-quick]").forEach(a => {if(a.dataset.quick===v)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current");});
+  document.querySelectorAll("[data-quick]").forEach(a => {if(a.dataset.quick===(v==="stories"&&storyFilter==="saved"?"saved":v))a.setAttribute("aria-current","page");else a.removeAttribute("aria-current");});
   document.title = (v === "home" ? "" : (v === "branches" ? "People" : v[0].toUpperCase()+v.slice(1))+" · ")+"Moffitt & Thompson Roots";
 }
 function go(v){ if(!panel.hidden)closePanel();if(!lb.hidden)closeZoom();location.hash = v; show(v); scrollTo(0,0); }
-document.querySelectorAll(".tabs button").forEach(b => b.addEventListener("click", () => go(b.dataset.view)));
-document.querySelector('[role="tablist"]').addEventListener("keydown",e=>{const tabs=[...document.querySelectorAll(".tabs button")];let i=tabs.indexOf(e.target);if(i<0)return;if(e.key==="ArrowRight")i=(i+1)%tabs.length;else if(e.key==="ArrowLeft")i=(i-1+tabs.length)%tabs.length;else if(e.key==="Home")i=0;else if(e.key==="End")i=tabs.length-1;else return;e.preventDefault();go(tabs[i].dataset.view);tabs[i].focus();});
-window.addEventListener("hashchange", () => { if(!panel.hidden)closePanel();if(!lb.hidden)closeZoom();show(location.hash.slice(1));scrollTo(0,0); });
+function route(){
+ let parts;try{parts=location.hash.slice(1).split('/').map(decodeURIComponent);}catch{parts=['home'];}
+ const [view,id,kind]=parts;
+ if(!panel.hidden)closePanel();if(!lb.hidden)closeZoom();
+ if(view==='search'&&features){show('search');features.renderSearch(id||'',kind||'all');}
+ else if(view==='person'&&id&&D){show('stories');if(byId[id])openPerson(id);else if(T?.people[id])openTreePerson(id);else document.getElementById('storyCount').textContent='That profile link is not in this archive. Browse the stories below.';}
+ else {if(view==='stories'){if(id==='saved'){storyFilter='saved';storyLimit=STORY_PAGE;document.getElementById('storySearch').value='';}else if(storyFilter==='saved')storyFilter='all';if(D)renderStories();}show(view);}
+ scrollTo(0,0);
+}
+window.addEventListener("hashchange",route);
 
 
 document.addEventListener("click", e => {
@@ -614,7 +620,7 @@ document.addEventListener("click", e => {
   const pv = t.closest("[data-pv]"); if (pv){ panelVar[pv.dataset.set] = pv.dataset.pv; pv.closest("figure").outerHTML = variantFig(pv.dataset.set); return; }
   const zs = t.closest("[data-zoomset]"); if (zs){ openSet(zs.dataset.zoomset); return; }
   const z = t.closest("[data-zoom]"); if (z){ openZoom(z.dataset.zoom, z.dataset.cap); return; }
-  const f = t.closest("[data-f]"); if (f){ storyFilter = f.dataset.f; storyLimit = STORY_PAGE; renderStories(); return; }
+  const f = t.closest("[data-f]"); if (f){ storyFilter = f.dataset.f; storyLimit = STORY_PAGE; renderStories(); history.replaceState(null,"","#stories"+(storyFilter==="saved"?"/saved":""));show("stories"); return; }
   if (t.closest("#moreStories")){
     const first = storyLimit; storyLimit += STORY_PAGE; renderStories();
     document.querySelectorAll("#storyCards .card")[first]?.focus({preventScroll: true});
@@ -662,7 +668,8 @@ function openTreePerson(tid){
   document.getElementById("pRel").textContent = t.p.lv ? "Parent" : `From the family tree, ${D.GEN[Math.max(0, t.p.gen - 1)] ? D.GEN[Math.max(0, t.p.gen - 1)].replace(/s$/, "").toLowerCase() + " level" : "earlier generation"}`;
   document.getElementById("pName").innerHTML = nameHTML(t.name);
   document.getElementById("pYears").textContent = t.years;
-  let h = treeActions([tid]);
+  panel.classList.toggle("large",largeText);
+  let h = profileTools(tid,{})+treeActions([tid]);
   if (t.p.lv) h += `<p>Living. Details for living family members are kept private.</p>`;
   else {
     const kv = [["Born", [t.p.b, t.p.bp].filter(Boolean).join(", ")], ["Died", [t.p.d, t.p.dp].filter(Boolean).join(", ")]].filter(([, v]) => v);
@@ -670,6 +677,7 @@ function openTreePerson(tid){
     h += `<div class="note">${esc(t.p.note || "This person comes from the family’s Ancestry tree and has not yet been checked against original records.")}</div>`;
     for (const url of (t.p.source_urls || [])) if (/^https:\/\//i.test(url)) h += `<p class="src"><a href="${esc(url)}" target="_blank" rel="noopener noreferrer">View source ↗</a></p>`;
   }
+  h += features?.relationship(tid) || "";
   const body = document.getElementById("pBody"); body.innerHTML = h; body.scrollTop = 0;
   scrim.hidden = false; panel.hidden = false;
   document.getElementById("pClose").focus({preventScroll: true});
@@ -677,41 +685,6 @@ function openTreePerson(tid){
 
 /* Search */
 const fold = s => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
-let INDEX = [], qSel = -1;
-function buildIndex(){
-  INDEX = ALL.map(x => ({x, name: fold(x.name), head: fold([x.title, x.hook, x.years].join(" ")),
-    all: fold([x.name, x.title, x.hook, x.place, x.years, x.rel, ...(x.body || []), ...(x.kv || []).flat(), x.note].join(" "))}));
-}
-function search(q){
-  const terms = fold(q).split(/\s+/).filter(Boolean);
-  if (!terms.length) return [];
-  const rank = id => { const i = (D.ORDER || []).indexOf(id); return i < 0 ? 999 : i; };
-  return INDEX.filter(e => terms.every(t => e.all.includes(t)))
-    .map(e => ({e, s: (terms.every(t => e.name.includes(t)) ? 4 : 0) + (terms.every(t => e.head.includes(t)) ? 2 : 0) + (e.x.gen !== undefined ? 1 : 0)}))
-    .sort((a, b) => b.s - a.s || rank(a.e.x.id) - rank(b.e.x.id)).slice(0, 14).map(r => r.e.x);
-}
-const qIn = document.getElementById("q"), qOut = document.getElementById("qResults");
-function renderResults(){
-  const q = qIn.value.trim();
-  if (!q || !D){ qIn.setAttribute("aria-expanded","false"); qOut.hidden = true; qSel = -1; return; }
-  const hits = search(q);
-  qOut.innerHTML = hits.length ? hits.map((p, i) => `<button type="button" data-person="${p.id}" data-qi="${i}" aria-selected="${i === qSel}" style="--bc:${bcolor(p.branch)}">
-      <span class="bar"></span><span class="rn">${esc(p.name)}<span class="ry">${esc(p.years)}</span></span>
-      <span class="rs">${esc(p.title || relLine(p))}</span></button>`).join("")
-    : `<p class="none">Nothing found for “${esc(q)}”.</p>`;
-  qOut.hidden = false; qIn.setAttribute("aria-expanded","true");
-}
-qIn.addEventListener("input", () => { qSel = -1; renderResults(); });
-qIn.addEventListener("focus", renderResults);
-qIn.addEventListener("keydown", e => {
-  const n = qOut.querySelectorAll("[data-qi]").length;
-  if (e.key === "ArrowDown" && n){ e.preventDefault(); qSel = (qSel + 1) % n; renderResults(); }
-  else if (e.key === "ArrowUp" && n){ e.preventDefault(); qSel = (qSel - 1 + n) % n; renderResults(); }
-  else if (e.key === "Enter" && n){ e.preventDefault(); qOut.querySelectorAll("[data-qi]")[Math.max(qSel, 0)].click(); }
-  else if (e.key === "Escape"){ qIn.value = ""; renderResults(); }
-});
-document.addEventListener("click", e => { if (!e.target.closest(".search")) qOut.hidden = true; else if (e.target.closest("[data-qi]")) qOut.hidden = true; }, true);
-
 function renderStats(){
   const photos = Object.keys(D.PH).length + galleryItems().length;
   document.getElementById("stats").textContent =
@@ -720,13 +693,19 @@ function renderStats(){
 
 Promise.all([fetch("data.json?v=20261101m9").then(r => { if(!r.ok)throw new Error("Family data unavailable");return r.json(); }), fetch("tree.json?v=20261101m9").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
   D = data; ALL = [...D.P, ...D.EXTRA]; byId = Object.fromEntries(ALL.map(x => [x.id, x]));
+  savedStories=new Set([...savedStories].filter(id=>byId[id]?.title));
   T = tree;
-  buildIndex();
   renderHero(); renderStats(); renderStories(); renderTree(); renderBranches(); renderPhotos(); renderTimeline();
   document.getElementById("homeStories").innerHTML = [...document.querySelectorAll("#storyCards .card")].slice(0,6).map(card=>card.outerHTML).join("");
   ArchiveTimeline.preview(document.getElementById("homeTimeline"),timelineEvents());
-  show(location.hash.slice(1));
-}).catch(() => { for(const id of ["storyCards","homeStories"])document.getElementById(id).innerHTML = `<p class="empty" role="alert">The family data could not be loaded. Check your connection and reload the page.</p>`; });
+  const root='archive-generation',people={...(T?.people||{}),[root]:{n:'Johnny and Barbara’s children',f:T?.roots.father,m:T?.roots.mother}};
+  const registry=[],seenPhotos=new Set();
+  for(const key of D.PHOTO_ORDER||Object.keys(D.PH)){const v=D.PH[key];if(!v)continue;const owner=ALL.find(p=>p.ph===key);registry.push({key,src:v.o,caption:v.cap,kind:'photo',source:v.source||owner?.photo_source||'Moffitt Family Tree on Ancestry',notes:[v.r?'A restored copy is available.':'',v.c?(v.interpretation?'A photographic interpretation is available.':'An AI-colorized interpretation is available; original colors are not documented.'):''].filter(Boolean).join(' '),versions:{original:v.o,restored:v.r,colorized:v.c}});seenPhotos.add(v.o);}
+  for(const image of galleryItems()){if(seenPhotos.has(image.s))continue;seenPhotos.add(image.s);const group=PHOTO_GROUPS.find(([,test])=>test(image.s))[0];registry.push({src:image.s,caption:image.cap,kind:['Records and documents','Newspapers and old books','Headstones'].includes(group)?'record':'photo',source:byId[image.id]?.src||'',sourceLabel:'Linked story sources'});}
+  features=ArchiveFeatures.init({site:'family',timeline:D.TIMELINE.map(e=>({year:e.y,text:e.t,story:e.p})),journeys:[['choctaw','Choctaw family stories','Follow the people and records on this family line.'],['military','Service and home','Read stories of military service and the families at home.'],['quaker','Earlier Quaker roots','Explore the stories and documents from the Quaker branches.']].map(([tag,title,description])=>({title,description,stories:ALL.filter(p=>p.title&&(p.tags||[]).includes(tag)).slice(0,5).map(p=>p.id)})),people,root,personInfo:id=>{if(id===root)return{name:people[id].n,selectable:false};const t=tInfo(id);return{name:t.name,years:t.years};},stories:ALL.filter(p=>p.title).map(p=>({id:p.id,title:p.title,summary:p.hook,text:[p.name,...(p.body||[])].join(' ')})),photos:registry,home:document.getElementById('view-home'),searchId:'view-search',queryResults:'#qResults',searchHash:(q,kind)=>'#search/'+encodeURIComponent(q)+'/'+kind,openPerson:id=>{if(location.hash==='#person/'+id)openTreePerson(id);else location.hash='#person/'+id;},openStory:id=>{if(location.hash==='#person/'+id)openPerson(id);else location.hash='#person/'+id;},openPhoto:(p,keep)=>p.key?openSet(p.key,keep):openZoom(p.src,p.caption,keep),viewer:lb,photoMount:null});
+  document.getElementById("load-status").hidden=true;
+  route();features.restoreScroll();
+}).catch(error => {console.error('Family archive could not load:',error);const status=document.getElementById('load-status');status.hidden=false;status.innerHTML='<strong>Family history could not load.</strong><p>Check your connection and try again.</p><button class="btn" id="retryArchive">Try again</button>';document.getElementById('retryArchive').onclick=()=>location.reload();});
 </script>
 
 </body>
