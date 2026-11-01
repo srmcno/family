@@ -160,6 +160,11 @@
    "c": "img/p/vashti_framed_photo_interpretation.jpg",
    "interpretation": true,
    "cap": "Vashti Elizabeth (Pearson) O’Neal holding a framed picture. Original portrait from a public Ancestry member tree; the photographic version is an AI interpretation."
+  },
+  "edith_slaton": {
+   "o": "img/p/edith_slaton_orig.jpg",
+   "r": "img/p/edith_slaton_restored.jpg",
+   "cap": "Edith Irene (Thompson) Slaton. Family portrait published in the Choctaw Nation Biskinik, May 2012, page 16; restored from the original color image."
   }
  },
  "P": [
@@ -310,12 +315,17 @@
      "Age 42 at Jeter with Simon, five of their children and her mother Lizzie Pisachubby (58); \"Keeping house\""
     ]
    ],
-   "src": "U.S. Censuses (Ancestry); Dawes Cards 1363 and 1580; Newborn Card 1203; Act of Congress approved 26 April 1906 (birth affidavit forms); 1930 and 1940 U.S. censuses; 1950 U.S. census, Jeter, Choctaw Co., Okla. (dwelling 421).",
+   "src": "U.S. Censuses (Ancestry); Dawes Cards 1363 and 1580; Newborn Card 1203; Act of Congress approved 26 April 1906 (birth affidavit forms); 1930 and 1940 U.S. censuses; 1950 U.S. census, Jeter, Choctaw Co., Okla. (dwelling 421).; Act of April 26, 1906, ch. 1876, section 2, 34 Stat. 137, https://govtrackus.s3.amazonaws.com/legislink/pdf/stat/34/STATUTE-34-Pg136a.pdf; National Archives, Enrollment Cards for the Five Civilized Tribes, M1186, https://www.archives.gov/files/research/microfilm/m1186.pdf; 1930, 1940, 1950 U.S. censuses as previously cited for Frances and Simon Thompson.",
    "body": [
-    "Frances Pisachubbe was born in 1907, after the rolls had closed to new births. The April 1906 act that let the Commission add newborns asked each parent to swear the child was \"living March 4, 1906,\" so she has no Dawes card, unlike her cousin Colbert, whose card 1203 was sworn in 1906. Her place in the record is the family around her: her father Robert and grandmother Eunice on Card 1580, her mother Lizzie and grandparents Legion and Molsey Austin on Card 1363.",
-    "Her grandmother Eunice died 19 May 1927, leaving Robert and William H. Pisachubbe as her only heirs. Her other grandmother, Molsey, appears in the 1915-16 list of restriction-removal cases as \"Molsey Pisachubbi, Austin,\" and her mother Lizzie appears in the same list as \"Lizzie Pisachubbee, nee Austin.\" Frances married Simon Thompson in 1925, whose own enrollment affidavit had been sworn in 1899 by his grandmother Emeline Tims. By 1930 the young couple shared a house at Jeter with her parents, and in 1940 they owned a $400 farm there with five children."
+    "Frances Pisachubbe was born in 1907 to Robert Pisachubbe and Lizzie Austin. Her parents came from Choctaw families whose earlier generations appear in the Dawes enrollment records: Robert and his mother Eunice on Card 1580, and Lizzie with her parents Legion and Molsey on Card 1363.",
+    "The federal enrollment process was governed by dates set in law. An act approved on 26 April 1906 authorized a limited application period for eligible children who were minors living on 4 March 1906. Frances was born the following year; her family's earlier cards provide information about her relatives, but the cutoff helps explain why she was not enrolled as one of those children.",
+    "Frances married Simon Thompson in 1925. In the 1930 census the couple shared a household at Jeter, Oklahoma, with her parents. Ten years later the 1940 census recorded Simon and Frances on a farm they owned, valued at $400, with five children in the household.",
+    "The 1950 census again placed the family at Jeter. Frances, then recorded as 42, lived with Simon, five children and her mother Lizzie Pisachubbe. Lizzie's presence connects the household directly to the earlier Austin and Pisachubbe records. Frances died in 1979 and is buried at Long Creek Cemetery."
    ],
-   "ev": "proven"
+   "ev": "proven",
+   "title": "Frances Thompson and the family at Jeter",
+   "hook": "Frances and Simon built a household at Jeter that included three generations of the family.",
+   "note": "The 1906 enrollment cutoff concerns eligibility under the act; it should not be described as determining modern tribal citizenship. Census details and family relationships follow the existing sourced profiles."
   },
   {
    "id": "joseph",
@@ -547,9 +557,9 @@
      "cap": "Dawes Card 1363: Legion and Molsey Austin's family, Towson County, 1899"
     }
    ],
-   "place": "Full-blood Choctaw, Dawes Roll No. 3738, from Fowlerville (now Valliant). Her baby brother James died in April 1899, weeks before the family applied for enrollment. Her younger sister Adline married Robert's brother William Harrison Pisachubbe. Age 42 in 1940, living with her daughter Frances at Jeter; buried at Long Creek Cemetery.",
+   "place": "Full-blood Choctaw, Dawes Roll No. 3738, from Fowlerville (now Valliant). Her brother James is recorded on the family's enrollment card; his death date conflicts with wording in a later affidavit. Her younger sister Adline married Robert's brother William Harrison Pisachubbe. Age 42 in 1940, living with her daughter Frances at Jeter; buried at Long Creek Cemetery.",
    "body": [
-    "Lizzie is Roll No. 3738 on Dawes Card 1363, filled out on 21 May 1899 for her father Legion and mother Molsey, who are written full-blood Choctaw. She was 7 years old on the card (10 on the final roll, which counted her age in 1902). She had an infant brother, James, who died in April 1899, and a baby sister, Adline, born on 5 August 1900. Adline later married William Harrison Pisachubbe, and Lizzie married his younger brother Robert.",
+    "Lizzie is Roll No. 3738 on Dawes Card 1363, filled out on 21 May 1899 for her father Legion and mother Molsey, who are written full-blood Choctaw. She was 7 years old on the card (10 on the final roll, which counted her age in 1902). The card records her brother James as having died in April 1899; a birth affidavit dated 2 May 1899 retains printed wording that he was then living. The conflict remains unresolved. Her younger sister Adline was born on 5 August 1900. Adline later married William Harrison Pisachubbe, and Lizzie married his younger brother Robert.",
     "In the same 1915-16 list of land-restriction cases, in a later section dated June to September 1915, appears \"Lizzie Pisachubbee, née Austin,\" an application to free her inherited land from federal restrictions."
    ],
    "kv": [
@@ -559,10 +569,10 @@
     ],
     [
      "Siblings",
-     "James (d. Apr 1899); Adline (b. 5 Aug 1900)"
+     "James (death date disputed between records); Adline (b. 5 Aug 1900)"
     ]
    ],
-   "src": "Dawes Card 1363; House Committee on Indian Affairs, Five Civilized Tribes of Indians, hearings (1916), list of removal-of-restriction cases, Choctaws.",
+   "src": "Dawes Card 1363; House Committee on Indian Affairs, Five Civilized Tribes of Indians, hearings (1916), list of removal-of-restriction cases, Choctaws.; James Austin birth affidavit, sworn 2 May 1899, Dawes Card 1363 enrollment jacket, National Archives; Dawes Card 1363.",
    "ev": "proven"
   },
   {
@@ -13756,7 +13766,8 @@
     "Edith died in Durant on 12 April 2012, at age 72. The family’s memorial named her brothers Junior and Leonard and sisters Ethel and Norma among those who had died before her."
    ],
    "src": "Choctaw Nation, Biskinik, May 2012, p. 16, https://www.choctawnation.com/wp-content/uploads/2022/07/may-2012-biskinik.pdf#page=16.",
-   "source_link": "https://www.choctawnation.com/wp-content/uploads/2022/07/may-2012-biskinik.pdf#page=16"
+   "source_link": "https://www.choctawnation.com/wp-content/uploads/2022/07/may-2012-biskinik.pdf#page=16",
+   "ph": "edith_slaton"
   }
  ],
  "TIMELINE": [
@@ -15755,6 +15766,7 @@
   "anc4-george-langley"
  ],
  "PHOTO_ORDER": [
+  "edith_slaton",
   "parsis_portrait",
   "vashti_framed",
   "daniel_oneal",
