@@ -165,6 +165,12 @@
    "o": "img/p/edith_slaton_orig.jpg",
    "r": "img/p/edith_slaton_restored.jpg",
    "cap": "Edith Irene (Thompson) Slaton. Family portrait published in the Choctaw Nation Biskinik, May 2012, page 16; restored from the original color image."
+  },
+  "faye_moffitt": {
+   "o": "img/p/faye_moffitt_orig.jpg",
+   "r": "img/p/faye_moffitt_restored.jpg",
+   "cap": "Faye Renee (Smith) Moffitt beside a Christmas tree. Family color portrait accompanying her 2014 obituary; restored from a small original.",
+   "source": "Family portrait; Prater-Lampton-Mills & Coffey Funeral Home obituary, archived by Oklahoma Cemeteries. https://www.okcemeteries.net/choctaw/grant/moffittf-obit.htm"
   }
  },
  "P": [
@@ -2363,7 +2369,7 @@
    "body": [
     "Born 25 October 1925 at Frogville, Oklahoma, a Red River community of about 40 families, to Grady and Mary Moffitt; his older brothers were Alvin, Odis and Dois. In 1930 the family was living with his mother's parents in Martin County, Texas, and in 1940 he was \"Johnnie,\" 14, at 411 North H Street in Hugo.",
     "He enlisted in the U.S. Navy on 17 December 1943, at 18, and trained at the Navy Hospital Corps School in San Diego, the school for corpsmen (medics). From the day it was commissioned, 22 March 1944, he served on ARD-19, a floating drydock towed across the Pacific to Manus and then to Leyte in the Philippines. In late November 1944, while ARD-19 held the mine-damaged destroyer USS Ross, a Japanese fighter crashed into the dock and started gasoline fires, and the crews shot down a second attacker. ARD-19 earned a battle star for Leyte, then moved to Subic Bay on Luzon, where it kept repairing ships until after the war. For nearly all his time aboard, its commanding officer had a name much like his: Lieutenant Commander Allan P. Moffat.",
-    "By the start of 1946 he was aboard the minesweeper USS Chief, which had swept mines off Japan and was on occupation duty at Nagoya and Sasebo until March 1946, when she sailed home to San Francisco. He was discharged on 9 May 1946 and married Faye Smith in Paris, Texas, on 12 June 1947. He was a Baptist, and lived in Hugo until his death in 1990."
+    "By the start of 1946 he was aboard the minesweeper USS Chief, which had swept mines off Japan and was on occupation duty at Nagoya and Sasebo until March 1946, when she sailed home to San Francisco. He was discharged on 9 May 1946 and married Faye Renee Smith in Paris, Texas, on 12 June 1947. He belonged to Emanuel Baptist Church in Hugo and died at Choctaw Memorial Hospital on 19 September 1990. His funeral followed two days later at Grant Cemetery."
    ],
    "kv": [
     [
@@ -2404,7 +2410,7 @@
     ]
    ],
    "note": "His exact role during the attack is not recorded, and his rate is not confirmed. The muster index labels his second ship MCM 14, a mix-up with a later ship; AM-315 is correct. The rolls run past his 9 May 1946 discharge, probably because the index follows roll dates. His service file can be requested from the National Personnel Records Center.",
-   "src": "U.S. Navy muster rolls, 1943–46; VA BIRLS death file; 1940 U.S. Census, Hugo; obituary, The Paris News, Sept. 1990; ship histories (DANFS, NavSource). 1930 U.S. Census, Martin Co., Tex; U.S., Newspapers.com Obituary Index (Paris News 20 Sep 1990; Daily Oklahoman 21 Sep 1990); U.S., Department of Veterans Affairs BIRLS Death File; U.S., Social Security Death Index.; NavSource, ARD-19 photographs, including 1946 Subic Bay views (after his service aboard).; U.S. Navy / National Archives photograph 80-G-319420, https://www.navsource.net/archives/05/563.htm.",
+   "src": "U.S. Navy muster rolls, 1943–46; VA BIRLS death file; 1940 U.S. Census, Hugo; obituary, The Paris News, Sept. 1990; ship histories (DANFS, NavSource). 1930 U.S. Census, Martin Co., Tex; U.S., Newspapers.com Obituary Index (Paris News 20 Sep 1990; Daily Oklahoman 21 Sep 1990); U.S., Department of Veterans Affairs BIRLS Death File; U.S., Social Security Death Index.; NavSource, ARD-19 photographs, including 1946 Subic Bay views (after his service aboard).; U.S. Navy / National Archives photograph 80-G-319420, https://www.navsource.net/archives/05/563.htm.; The Paris News, 20 Sep 1990, p. 4, original obituary of John W. Moffitt, https://www.newspapers.com/image/13498859/.",
    "source_link": "https://www.navsource.net/archives/09/67/6701.htm"
   },
   {
@@ -3084,14 +3090,16 @@
   },
   {
    "id": "marylyn",
-   "name": "Faye (Smith) Moffitt",
+   "name": "Faye Renee (Smith) Moffitt",
    "years": "1929–2014",
    "branch": "smith",
    "gen": 0,
    "rel": "Grandmother",
    "place": "Married John W. Moffitt in Paris, Texas, on 12 June 1947. Died in Paris, Texas.",
    "body": [
-    "Faye Smith was the youngest child of Charles Oscar and Artie Pearl Smith, born at Forney, Choctaw County, on 23 March 1929. She appears as \"Fay May,\" 2, in the 1930 census at Jeter and as \"Fay,\" 12, in 1940. She married John W. Moffitt at Paris, Texas, on 12 June 1947, died at Paris on 23 December 2014 and is buried at Grant Cemetery."
+    "Faye Smith was the youngest child of Charles Oscar and Artie Pearl Smith, born at Forney, Choctaw County, on 23 March 1929. She appears as \"Fay May,\" 2, in the 1930 census at Jeter and as \"Fay,\" 12, in 1940. She married John W. Moffitt at Paris, Texas, on 12 June 1947, died at Paris on 23 December 2014 and is buried at Grant Cemetery.",
+    "She made her home around family life. Singing, shopping, visits with friends and trips to the Nutrition Center filled her days. Holidays were a particular pleasure, and her Christmas portrait catches her smiling beside the tree.",
+    "She and John married in Paris, Texas, in June 1947, a year after his return from Navy service. By her death in 2014, the family had grown to 20 grandchildren, 38 great-grandchildren and two great-great-grandchildren. Her funeral was held in Hugo, with burial at Grant Cemetery beside John."
    ],
    "kv": [
     [
@@ -3111,9 +3119,12 @@
      "\"Fay,\" 12, with her parents and two brothers on a rented farm, Hugo Route 1, Jeter"
     ]
    ],
-   "note": "The 1930 census records her name as “Fay May”; her obituary calls her Faye (Smith) Moffitt.",
-   "src": "1930 U.S. census and 1940 U.S. census, Jeter, Choctaw Co., Okla.; Find a Grave index (memorial 140426039).; Prater-Lampton-Mills & Coffey Funeral Home obituary, 2014.",
-   "source_link": "https://www.okcemeteries.net/choctaw/grant/moffittf-obit.htm"
+   "note": "Her husband’s 20 September 1990 obituary names her Faye Renee Smith. The 1930 census records “Fay May”; her own obituary uses Faye (Smith) Moffitt.",
+   "src": "1930 U.S. census and 1940 U.S. census, Jeter, Choctaw Co., Okla.; Find a Grave index (memorial 140426039).; Prater-Lampton-Mills & Coffey Funeral Home obituary, 2014.; The Paris News, 20 Sep 1990, p. 4, obituary of John W. Moffitt, https://www.newspapers.com/image/13498859/.",
+   "source_link": "https://www.okcemeteries.net/choctaw/grant/moffittf-obit.htm",
+   "title": "Singing, holidays and a house full of family",
+   "hook": "From a Jeter farm childhood to a family of children, grandchildren and Christmas gatherings.",
+   "ph": "faye_moffitt"
   },
   {
    "id": "charles",
@@ -3993,19 +4004,32 @@
     ],
     [
      "Lizzie Newton's parents",
-     "Not found."
+     "Father: Balas Newton, named in the 1889 original marriage consent and sworn affidavit; mother not named."
     ]
    ],
-   "note": "Named as parents in a sister's obituary; probable, not yet proven by an original record. An Alabama marriage index names Lizzie’s father as Balas Newton; the original register and possible match to Balous Newton still need review.",
-   "src": "1900 U.S. census; obituary of Hazel King (Find a Grave 200655081).; Alabama Select Marriage Indexes, 1816–1942, Lizzie Newton and John M. Shackleford, 1 Dec 1889, Etowah County, Ancestry record 80731.",
+   "note": "Lizzie’s father is named in the original marriage papers. Her mother remains unidentified. Balas has not yet been proved to be the Balous Newton found in other Etowah County records.",
+   "src": "1900 U.S. census; obituary of Hazel King (Find a Grave 200655081).; Alabama Select Marriage Indexes, 1816–1942, Lizzie Newton and John M. Shackleford, 1 Dec 1889, Etowah County, Ancestry record 80731.; Etowah County, Alabama, marriage records, volume C, page 460, John M. Shackleford and Lizzie Newton, November–December 1889; FamilySearch image 3QS7-894J-14JR, FHL film 1035318.",
    "rel": "2nd great-grandparents",
    "ev": "probable",
    "imgs": [
     {
      "s": "img/stones/lizzie_newton_shackleford_headstone_1.jpg",
      "cap": "Headstone: Catherine E. Shackelford, Feb 20 1873 - Nov 8 1951. Photograph shared in a public Ancestry member tree"
+    },
+    {
+     "s": "img/rec/newton-shackleford-marriage-1889.jpg",
+     "cap": "Etowah County marriage book C, page 460: John M. Shackleford and Lizzie Newton, 1889, with consent and sworn affidavit. The consent was written and signed by John at her father’s direction; the original scan is preserved.",
+     "source": "https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR"
     }
-   ]
+   ],
+   "title": "The consent folded into their marriage book",
+   "hook": "A father’s permission survived with John and Lizzie’s Alabama marriage papers.",
+   "body": [
+    "John M. Shackleford and Lizzie Newton obtained their marriage license in Etowah County, Alabama, on 30 November 1889. A small note was kept over the page: permission from her father, Balas Newton, for the couple to marry.",
+    "The consent is dated 28 November. John certified two days later that he had written and signed it at Balas’s direction. In a separate sworn statement, he presented the permission and explicitly identified Lizzie as Newton’s daughter. The marriage index dates the wedding to 1 December 1889.",
+    "By 1900 John and Elizabeth were raising their family in Gilbert Precinct, Etowah County. Their daughter Mary Tinsley later married Woodford Grady Moffitt, carrying this Alabama branch into the Moffitt family in Oklahoma."
+   ],
+   "source_link": "https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR"
   },
   {
    "id": "nortonsr",
@@ -7076,11 +7100,11 @@
    "hook": "Mary Tinsley Shackleford's parents married in Etowah County, Alabama, in 1889, and their six living children scattered from West Texas to California.",
    "body": [
     "John Morgan Shackleford was born on 30 September 1862 in Alabama and married Catherine Elizabeth \"Lizzie\" Newton on 1 December 1889 in Etowah County. Etowah County had been created only 21 years before, and for two of those years, 1866 to 1868, it was called Baine County. In the 1900 census at Gilbert, John was 37 and Elizabeth 28, with five living children. Mary, born 4 June 1895, was the \"May, 5.\"",
-    "Her siblings were Balis Anthony (1892-1982, who died in Los Angeles County), Robert Yates (1897-1961), John Newton (1906-2002), Hazel Marzee King (1908-1980), Edward Richard (1910-1988) and Helen Elizabeth Josey (1915-1997). Their son John Newton's name confirms the mother's maiden name.",
+    "Her siblings were Balis Anthony (1892-1982, who died in Los Angeles County), Robert Yates (1897-1961), John Newton (1906-2002), Hazel Marzee King (1908-1980), Edward Richard (1910-1988) and Helen Elizabeth Josey (1915-1997).",
     "By 1930 John Morgan was in Martin County, Texas, with his wife and children; Grady and Mary and their six boys were living with them. John died on 22 May 1930 and is buried at Evergreen Cemetery in Stanton. Lizzie died on 8 November 1951 and is buried at Fairview Cemetery, Apache, Caddo County, Oklahoma.",
     "The Shackelfords of Virginia trace to an immigrant, Roger, who received a grant in Gloucester County in 1658. A Shackleford family history of 1940 says the family had no coat of arms, and Mary's descent from Roger is not proved.",
     "The 1900 census household at Gilbert lists John, 37, Elizabeth, 28, and five children: \"Balous\" 8, Myrtle 6, May 5, Robert 3 and Eddie 8 months. Two later obituaries (Chico Enterprise-Record, 23 June 1961; Lamar County Echo, 1 January 1981) name sisters Josephine Haskell, Eulah Tillman and Beulah Hutchins who do not fit that list. Hazel was born at Rattan in Delta County, Texas, so the family was in northeast Texas about 1908 before reaching Martin County.",
-    "An Alabama marriage index names Lizzie Newton’s father as Balas Newton when it records her marriage to John M. Shackleford on 1 December 1889. The indexed name is a promising connection; the original register and a possible match to Balous Newton remain to be checked."
+    "Lizzie’s marriage papers preserve a family moment just before the wedding. On 28 November 1889, her father, Balas Newton, gave permission for her to marry John. John carried that consent into the probate office and, two days later, certified that he had written and signed it at her father’s direction. A separate affidavit names her as Lizzie Newton."
    ],
    "ev": "probable",
    "tags": [],
@@ -7111,7 +7135,8 @@
     ]
    ],
    "note": "John Morgan's birth is 1862 on his memorial and 1863 in the 1930 census. His parents-of-Mary link rests on Find a Grave family links, the 1889 marriage and the 1900 census; Mary's 1962 death certificate should name them. The source of Mary's middle name, Tinsley, is unknown.",
-   "src": "1900 U.S. Census, Gilbert, Etowah Co., Ala.; 1930 U.S. Census, Martin Co., Tex.; Find a Grave (John Morgan Shackleford, Catherine E. Shackelford, Balis Shackleford); Alabama Select Marriage Indexes, 1816–1942, Lizzie Newton and John M. Shackleford, 1 Dec 1889, Etowah County, Ancestry record 80731 (transcribed index), https://www.ancestry.com/search/collections/60000/records/80731."
+   "src": "1900 U.S. Census, Gilbert, Etowah Co., Ala.; 1930 U.S. Census, Martin Co., Tex.; Find a Grave (John Morgan Shackleford, Catherine E. Shackelford, Balis Shackleford); Alabama Select Marriage Indexes, 1816–1942, Lizzie Newton and John M. Shackleford, 1 Dec 1889, Etowah County, Ancestry record 80731 (transcribed index), https://www.ancestry.com/search/collections/60000/records/80731.; Etowah County marriage book C, p. 460, attached consent and affidavit, November 1889, FamilySearch image 548 of 710, 3QS7-894J-14JR.",
+   "source_link": "https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR"
   },
   {
    "id": "ard19-leyte",
@@ -13768,6 +13793,44 @@
    "src": "Choctaw Nation, Biskinik, May 2012, p. 16, https://www.choctawnation.com/wp-content/uploads/2022/07/may-2012-biskinik.pdf#page=16.",
    "source_link": "https://www.choctawnation.com/wp-content/uploads/2022/07/may-2012-biskinik.pdf#page=16",
    "ph": "edith_slaton"
+  },
+  {
+   "id": "balas-newton",
+   "name": "Balas Newton",
+   "years": "Living in 1889",
+   "branch": "moffitt",
+   "gen": 3,
+   "rel": "3rd great-grandfather",
+   "ev": "proven",
+   "title": "A father’s permission, preserved on paper",
+   "hook": "Named as Lizzie Newton’s father in the original papers for her 1889 marriage.",
+   "body": [
+    "In November 1889, Balas Newton authorized his daughter Lizzie’s marriage to John M. Shackleford in Etowah County, Alabama. His consent survives with the marriage book. John wrote and signed the permission at Balas’s direction, then swore to that arrangement before the probate judge on 30 November.",
+    "That small paper supplies a father’s name for the Newton branch. It does not give Balas’s age, birthplace, wife or parents. Records for a similarly named Balous Newton offer a promising next step, but the two identities remain separate until another record connects them."
+   ],
+   "kv": [
+    [
+     "Daughter",
+     "Lizzie Newton, wife of John M. Shackleford"
+    ],
+    [
+     "Consent",
+     "Dated 28 Nov 1889; certified 30 Nov 1889"
+    ],
+    [
+     "Mother of Lizzie",
+     "Not named in this record"
+    ]
+   ],
+   "src": "Etowah County, Alabama, marriage records, volume C, page 460, John M. Shackleford and Lizzie Newton, November–December 1889; FamilySearch image 3QS7-894J-14JR, FHL film 1035318.",
+   "source_link": "https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR",
+   "imgs": [
+    {
+     "s": "img/rec/newton-shackleford-marriage-1889.jpg",
+     "cap": "Etowah County marriage book C, page 460: John M. Shackleford and Lizzie Newton, 1889, with consent and sworn affidavit. The consent was written and signed by John at her father’s direction; the original scan is preserved.",
+     "source": "https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR"
+    }
+   ]
   }
  ],
  "TIMELINE": [
@@ -15508,6 +15571,9 @@
   }
  ],
  "ORDER": [
+  "shackleford",
+  "balas-newton",
+  "marylyn",
   "edith-thompson-slaton",
   "william",
   "simon",
@@ -15766,6 +15832,7 @@
   "anc4-george-langley"
  ],
  "PHOTO_ORDER": [
+  "faye_moffitt",
   "edith_slaton",
   "parsis_portrait",
   "vashti_framed",
