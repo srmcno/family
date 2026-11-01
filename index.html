@@ -445,7 +445,7 @@ function cmpHTML(left, right, lLabel, rLabel, alt){
 document.addEventListener("input", e => { if (e.target.matches(".cmp input")) e.target.closest(".cmp").style.setProperty("--x", e.target.value + "%"); });
 
 function renderHero(){
-  const keys = ["henry_hannah", "gilbert_parsis", "joel_ira", "mary_tinsley", "rebecca_graves", "parsis_portrait"].filter(k => D.PH[k]);
+  const keys = ["henry_hannah", "gilbert_parsis", "daniel_oneal", "joel_ira", "mary_tinsley", "rebecca_graves", "parsis_portrait"].filter(k => D.PH[k]);
   const fig = document.getElementById("heroFig");
   if (!keys.length) return;
   let index = 0, timer = null, playing = !matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -533,7 +533,7 @@ function renderPhotos(){
     document.getElementById(record ? "recordFilters" : "photoFilters").innerHTML = names.map(g => `<button class="chip" data-${record ? "rg" : "pg"}="${esc(g)}" aria-pressed="${g === group}">${esc(g)} <span class="cnt">${g === "Family portraits" ? portraits.length : groups[g].length}</span></button>`).join("");
     const grid = document.getElementById(record ? "recordGrid" : "photoGrid"); grid.className = group === "Family portraits" ? "pgrid" : "ggrid";
     grid.innerHTML = selected.map(it => {
-      if (group === "Family portraits") { const v = D.PH[it], owner = ALL.find(p => p.ph === it); const what = [v.r ? "restored" : "", v.c ? "colorized" : ""].filter(Boolean).join(" and "); return `<button class="pcard" data-zoomset="${esc(it)}"><span class="ph"><img src="${best(v)}" alt="${esc(v.cap)}" loading="lazy"></span><span class="pc"><span class="pn">${esc(owner ? owner.name : v.cap)}</span><span class="py">${owner ? esc(owner.years) + ". " : ""}${what ? "Original, " + what : "Original"}</span></span></button>`; }
+      if (group === "Family portraits") { const v = D.PH[it], owner = ALL.find(p => p.ph === it); const what = [v.r ? "restored" : "", v.c ? (v.interpretation ? "photographic interpretation" : "colorized") : ""].filter(Boolean).join(" and "); return `<button class="pcard" data-zoomset="${esc(it)}"><span class="ph"><img src="${best(v)}" alt="${esc(v.cap)}" loading="lazy"></span><span class="pc"><span class="pn">${esc(owner ? owner.name : v.cap)}</span><span class="py">${owner ? esc(owner.years) + ". " : ""}${what ? "Original, " + what : "Original"}</span></span></button>`; }
       return `<figure class="gcard"><button class="frame" data-zoom="${esc(it.s)}" data-cap="${esc(it.cap)}"><img src="${esc(it.s)}" alt="${esc(it.cap)}" loading="lazy"></button><figcaption>${esc(it.cap)} <button class="go" data-person="${esc(it.id)}">${esc(it.name)}</button></figcaption></figure>`;
     }).join("") || `<p class="empty">No ${record ? "records" : "photographs"} match this search.</p>`;
   }
@@ -559,7 +559,7 @@ const panel = document.getElementById("panel"), scrim = document.getElementById(
 let lastFocus = null, panelVar = {};
 function variantFig(k){
   const v = D.PH[k]; const cur = panelVar[k] || (v.c ? "c" : v.r ? "r" : "o");
-  const opts = [["o","Original"], v.r ? ["r","Restored"] : null, v.c ? ["c","Colorized"] : null].filter(Boolean);
+  const opts = [["o","Original"], v.r ? ["r","Restored"] : null, v.c ? ["c",v.interpretation ? "Photographic interpretation" : "Colorized"] : null].filter(Boolean);
   return `<figure class="fig" data-set="${k}"><button class="frame" data-zoomset="${k}" aria-label="Open and compare"><img src="${v[cur]}" alt="${esc(v.cap)}"></button>
     ${opts.length > 1 ? `<span class="vt" role="group" aria-label="Photo version">${opts.map(([key,l]) => `<button data-pv="${key}" data-set="${k}" aria-pressed="${cur === key}">${l}</button>`).join("")}</span>` : ""}
     <figcaption>${esc(v.cap)}</figcaption></figure>`;
@@ -610,11 +610,11 @@ function openSet(k){
   renderSet(); lb.hidden = false; document.getElementById("lbClose").focus();
 }
 function renderSet(){
-  const v = D.PH[lbSet]; const L = {o:"Original", r:"Restored", c:"Colorized"};
+  const v = D.PH[lbSet]; const L = {o:"Original", r:"Restored", c:v.interpretation ? "Photographic interpretation" : "Colorized"};
   document.getElementById("lbStage").innerHTML = lbMode === "cmp" ? cmpHTML(v.o, v[lbRight], "Original", L[lbRight], v.cap) : `<img src="${v[lbMode]}" alt="${esc(v.cap)} (${L[lbMode]})">`;
   document.getElementById("lbCap").textContent = v.cap;
   const b = (key, l, on) => `<button data-lb="${key}" aria-pressed="${on}">${l}</button>`;
-  document.getElementById("lbCtl").innerHTML = `<span class="vt" role="group" aria-label="View">${b("o","Original",lbMode==="o")}${v.r?b("r","Restored",lbMode==="r"):""}${v.c?b("c","Colorized",lbMode==="c"):""}${v.r||v.c?b("cmp:"+(v.c?"c":"r"),"Compare",lbMode==="cmp"):""}</span>`;
+  document.getElementById("lbCtl").innerHTML = `<span class="vt" role="group" aria-label="View">${b("o","Original",lbMode==="o")}${v.r?b("r","Restored",lbMode==="r"):""}${v.c?b("c",L.c,lbMode==="c"):""}${v.r||v.c?b("cmp:"+(v.c?"c":"r"),"Compare",lbMode==="cmp"):""}</span>`;
 }
 function closeZoom(){ lb.hidden = true; }
 
@@ -824,7 +824,7 @@ function renderStats(){
     `So far: ${ALL.length} ancestors, relatives and places, ${ALL.filter(x => x.title).length} stories, ${photos} photographs and records, and ${D.TIMELINE.length} dated events.`;
 }
 
-Promise.all([fetch("data.json?v=20261101m1").then(r => r.json()), fetch("tree.json?v=20261101m1").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
+Promise.all([fetch("data.json?v=20261101m2").then(r => r.json()), fetch("tree.json?v=20261101m2").then(r => r.ok ? r.json() : null).catch(() => null)]).then(([data, tree]) => {
   D = data; ALL = [...D.P, ...D.EXTRA]; byId = Object.fromEntries(ALL.map(x => [x.id, x]));
   T = tree;
   if (T) for (const [id, p] of Object.entries(T.people)) for (const par of [p.f, p.m]) if (par) childOf[par] = id;

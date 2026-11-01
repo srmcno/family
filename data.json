@@ -57,35 +57,38 @@
   "rebecca_graves": {
    "o": "img/p/rebecca_graves_orig.jpg",
    "r": "img/p/rebecca_graves_restored.jpg",
-   "c": "img/p/rebecca_graves_color.jpg",
+   "c": "img/p/rebecca_graves_new_color.jpg",
    "cap": "Sarah Rebecca (Graves) Hulsey"
   },
   "emeline_tims": {
    "o": "img/p/emeline_tims_orig.jpg",
    "r": "img/p/emeline_tims_restored.jpg",
-   "cap": "Emiline (Steadman) Tims; the only known image, from a photocopy"
+   "cap": "Emiline (Steadman) Tims; the only known image, from a photocopy",
+   "c": "img/p/emeline_tims_new_color.jpg"
   },
   "nathan_moffitt": {
    "o": "img/p/nathan_moffitt_orig.jpg",
    "r": "img/p/nathan_moffitt_restored.jpg",
-   "c": "img/p/nathan_moffitt_color.jpg",
+   "c": "img/p/nathan_moffitt_new_color.jpg",
    "cap": "Photo labeled \"Nathan Moffitt\" in the family tree, with children"
   },
   "katie_hulsey": {
    "o": "img/p/katie_hulsey_orig.jpg",
    "r": "img/p/katie_hulsey_restored.jpg",
-   "cap": "Katie (Stevenson) Hulsey at about 92, in 2001"
+   "cap": "Katie (Stevenson) Hulsey at about 92, in 2001",
+   "c": "img/p/katie_hulsey_new_color.jpg"
   },
   "mary_ellen_hulsey": {
    "o": "img/p/mary_ellen_hulsey_orig.jpg",
    "r": "img/p/mary_ellen_hulsey_restored.jpg",
-   "c": "img/p/mary_ellen_hulsey_color.jpg",
+   "c": "img/p/mary_ellen_hulsey_new_color.jpg",
    "cap": "Mary Ellen Hulsey, school portrait, 1950s"
   },
   "john_c_satterfield": {
    "o": "img/p/john_c_satterfield_orig.jpg",
    "r": "img/p/john_c_satterfield_restored.jpg",
-   "cap": "John C. Satterfield of Butler County, Kentucky (an earlier colorized copy)"
+   "cap": "John C. Satterfield of Butler County, Kentucky (an earlier colorized copy)",
+   "c": "img/p/john_c_satterfield_new_color.jpg"
   },
   "joel_ira": {
    "o": "img/p/joel_ira_orig.jpg",
@@ -102,8 +105,8 @@
   "benjamin_family": {
    "o": "img/p/benjamin_family_orig.jpg",
    "r": "img/p/benjamin_family_restored.jpg",
-   "cap": "Benjamin F. Hulsey (1847-1924) seated with his children, about the 1890s; the dark area is damage to the original print. Photograph shared in a public Ancestry member tree",
-   "c": "img/p/benjamin_family_color.jpg"
+   "cap": "Benjamin F. Hulsey (1847-1924) seated with his children, about the 1890s; the dark area is damage to the original print. Photograph shared in a public Ancestry member tree In the edited copy, the area obscured by damage has been removed; see the original for the unaltered image.",
+   "c": "img/p/benjamin_family_new_color.jpg"
   },
   "oneal_family": {
    "o": "img/p/oneal_family_orig.jpg",
@@ -140,7 +143,8 @@
   "daniel_oneal": {
    "o": "img/p/daniel_oneal_orig.jpg",
    "cap": "Daniel W. O'Neal (1838–1919). Original portrait artwork from an Ancestry member tree; the photographic version is an AI interpretation.",
-   "c": "img/p/daniel_oneal_ai_color.jpg"
+   "c": "img/p/daniel_oneal_ai_color.jpg",
+   "interpretation": true
   },
   "parsis_portrait": {
    "o": "img/p/parsis_portrait_orig.jpg",
@@ -2073,8 +2077,10 @@
    "rel": "4th great-grandmother",
    "place": "A native of \"Lawrenceburg, Ohio,\" per the 1884 county history. Widowed in 1841; later married Hugh Watt and was still living on the old home farm in 1884. Died in 1901.",
    "body": [
-    "Parses Shaw was born about 1811 and, as the 1884 county history puts it, was 'a native of Lawrenceburg, Ohio,' who 'came to this county in 1839' with her husband Archibald O'Neal. After he died in 1841 she married Hugh Watt, and in 1884 she was still on the old home farm. She died in 1901.",
-    "The township directory in the 1884 county history lists her as \"Watt, Mrs. Parsis,\" farming on Section 32 at Oakland City. The two men in her story are listed directly beneath her. One is \"Archibald O'Neal,\" \"First Husband of Mrs. P. W.,\" born in Tennessee, came in 1839, \"Died Ap'l 22,'41.\" The other is \"Watt, Hugh,\" the \"Second\" husband, who died \"Sept. 20,'71\" and was born in \"County Down, Irel'd.\" (page 239). So Hugh Watt was an Irishman from County Down who died in 1871, thirteen years before the book was printed, and Parses was living on the old O'Neal farm as his widow."
+    "In 1884, a Gibson County directory listed “Mrs. Parsis Watt” as a farmer in Section 32 near Oakland City, Indiana. The entry gave her birthplace as Lawrenceburg, Ohio, and the year she came to the county as 1839. The directory set two more names immediately below hers: Archibald O’Neal, her first husband, and Hugh Watt, her second.",
+    "Archibald O’Neal came to Gibson County in 1839 and farmed there. He died in April 1841, leaving Parses a widow. She later married Hugh Watt, an Irishman from County Down. The county history says that, decades after Archibald’s death, she was still living on the old home farm.",
+    "The directory records Hugh’s death in September 1871. By the time the book appeared thirteen years later, Parses was listed under her own name and occupation. Its pairing of a widow’s farming entry with the names of two deceased husbands preserves a compact account of a household that had changed over more than forty years.",
+    "The same book gives conflicting dates for Archibald’s death: its biographical sketch says April 25, 1841, while the directory says April 22. Both agree on the year. Parses died in 1901, according to the family record."
    ],
    "ev": "probable",
    "kv": [
@@ -2093,7 +2099,7 @@
      "c": "Township directory, History of Gibson County, Indiana (1884), p. 239"
     }
    ],
-   "src": "History of Gibson County, Indiana (1884), township directory, p. 239.",
+   "src": "History of Gibson County, Indiana (1884), township directory, p. 239.; History of Gibson County, Indiana (1884), pp. 212 and 239. The original pages are reproduced in this collection.",
    "imgs": [
     {
      "s": "img/books/gibson-1884-p239-watt.jpg",
@@ -2102,8 +2108,15 @@
     {
      "s": "img/p/watt_headstone_restored.jpg",
      "cap": "Hugh Watt and family stone"
+    },
+    {
+     "s": "img/books/gibson-1884-p212-archibald.jpg",
+     "cap": "History of Gibson County (1884), p. 212: Archibald O’Neal and the old home farm."
     }
-   ]
+   ],
+   "title": "Parses Watt and the old home farm",
+   "hook": "In an Indiana township directory, a widow and farmer appears alongside the names of both her husbands.",
+   "note": "The 1884 county history supplies the farming entry, relationships and farm residence. Its two entries disagree about the day of Archibald’s death."
   },
   {
    "id": "jamesstev",
