@@ -1,5 +1,6 @@
 """Validate the archive data that drives both the story links and photo viewer."""
 import json
+import hashlib
 from pathlib import Path
 import unittest
 
@@ -66,10 +67,14 @@ class ArchiveDataTests(unittest.TestCase):
                 self.assertIn(person['a'], BY_ID)
 
     def test_photograph_editions_and_story_images_exist(self):
+        source_digests = {}
         for key, image in D['PH'].items():
             for edition in ('o', 'r', 'c'):
                 if image.get(edition):
                     self.assertTrue((ROOT / image[edition]).is_file(), (key, edition, image[edition]))
+            digest = hashlib.sha256((ROOT / image['o']).read_bytes()).hexdigest()
+            self.assertNotIn(digest, source_digests, f"duplicate original photograph: {key} and {source_digests.get(digest)}")
+            source_digests[digest] = key
         for story in ENTRIES:
             images = [image['s'] for image in story.get('imgs', [])]
             self.assertEqual(len(images), len(set(images)), story['id'])

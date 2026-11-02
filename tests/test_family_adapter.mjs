@@ -1,6 +1,8 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import { readFileSync } from 'node:fs';
 import { adaptFamily } from '../adapter.js';
+import { createRelationships } from '../relationships.js';
 
 globalThis.window = { SITE: { rootName: 'Root' } };
 
@@ -36,4 +38,17 @@ test('merged stories preserve old references, both portraits, and photograph met
   assert.equal(C.archivePhotos.length, 0, 'a school portrait and a map are not historic-place photos');
   assert.equal(T.people.person.n, 'Person');
   assert.equal(T.people.person.img, 'img/p/rebecca_graves_orig.jpg', 'the surname Graves is not a grave record');
+});
+
+test('Andrews family connection resolves through the recorded Stevenson parents', () => {
+  const data = JSON.parse(readFileSync(new URL('../data.json', import.meta.url)));
+  const tree = JSON.parse(readFileSync(new URL('../tree.json', import.meta.url)));
+  const { T, C } = adaptFamily(data, tree);
+  const relation = createRelationships(T.people, T.root).describe('A:frank-maxwell-andrews');
+  assert.equal(relation.label, '3rd cousin, twice removed');
+  assert.equal(relation.commonAncestor, 'I352820878523');
+  const story = C.stories.find(s => s.id === 'frank-maxwell-andrews');
+  assert.ok(story.people.includes('A:frank-maxwell-andrews'));
+  assert.ok(story.imgs.some(img => img.s === 'img/p/frank_maxwell_andrews_orig.jpg'));
+  assert.ok(C.restorations['img/p/frank_maxwell_andrews_orig.jpg'].colorized);
 });

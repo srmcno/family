@@ -44,103 +44,93 @@
  "PH": {
   "henry_hannah": {
    "o": "img/p/henry_hannah_orig.jpg",
-   "r": "img/p/henry_hannah_restored.jpg",
    "c": "img/p/henry_hannah_ai_color.jpg",
    "cap": "Henry and Hannah (Grimes) Moffitt, Stone County, Arkansas, about 1890s"
   },
   "gilbert_parsis": {
    "o": "img/p/gilbert_parsis_orig.jpg",
-   "r": "img/p/gilbert_parsis_restored.jpg",
    "c": "img/p/gilbert_parsis_ai_color.jpg",
    "cap": "\"Frank & Jane\": Gilbert Franklin and Parsis Jane (O'Neal) Stevenson on their porch"
   },
   "rebecca_graves": {
    "o": "img/p/rebecca_graves_orig.jpg",
-   "r": "img/p/rebecca_graves_restored.jpg",
    "c": "img/p/rebecca_graves_new_color.jpg",
    "cap": "Sarah Rebecca (Graves) Hulsey"
   },
   "emeline_tims": {
    "o": "img/p/emeline_tims_orig.jpg",
-   "r": "img/p/emeline_tims_restored.jpg",
    "cap": "Emiline (Steadman) Tims; the only known image, from a photocopy. The colorized copy reconstructs details that are unclear in the original.",
    "c": "img/p/emeline_tims_new_color.jpg"
   },
   "nathan_moffitt": {
    "o": "img/p/nathan_moffitt_orig.jpg",
-   "r": "img/p/nathan_moffitt_restored.jpg",
    "c": "img/p/nathan_moffitt_new_color.jpg",
-   "cap": "Photo labeled \"Nathan Moffitt\" in the family tree, with children. The colorized copy reconstructs details that are unclear in the original."
+   "cap": "Photo labeled \"Nathan Moffitt\" in the family tree, with children. The colorized copy reconstructs details that are unclear in the original.",
+   "note": "The comparison uses the original crop; the full source scan with its caption appears in this story’s records."
   },
   "katie_hulsey": {
    "o": "img/p/katie_hulsey_orig.jpg",
-   "r": "img/p/katie_hulsey_restored.jpg",
    "cap": "Katie (Stevenson) Hulsey at about 92, in 2001",
    "c": "img/p/katie_hulsey_new_color.jpg"
   },
   "mary_ellen_hulsey": {
    "o": "img/p/mary_ellen_hulsey_orig.jpg",
-   "r": "img/p/mary_ellen_hulsey_restored.jpg",
    "c": "img/p/mary_ellen_hulsey_new_color.jpg",
    "cap": "Mary Ellen Hulsey, school portrait, 1950s"
   },
   "john_c_satterfield": {
-   "o": "img/p/john_c_satterfield_orig.jpg",
-   "r": "img/p/john_c_satterfield_restored.jpg",
-   "cap": "John C. Satterfield of Butler County, Kentucky (an earlier colorized copy)",
-   "c": "img/p/john_c_satterfield_new_color.jpg"
+   "o": "img/p/john_c_satterfield_source.jpg",
+   "cap": "John C. Satterfield of Butler County, Kentucky, in the family’s original black-and-white scan.",
+   "c": "img/p/john_c_satterfield_rebalanced_2026.jpg",
+   "source": "Family photograph shared in a public Ancestry member tree.",
+   "note": "Source scan and newly balanced color restoration.",
+   "edit_note": "Colors and fine facial details are interpreted from a faded photograph."
   },
   "joel_ira": {
    "o": "img/p/joel_ira_orig.jpg",
-   "r": "img/p/joel_ira_restored.jpg",
    "cap": "'Grandpa Joel Thompson and Ira Thompson' standing together outdoors. Photograph shared in a public Ancestry member tree",
    "c": "img/p/joel_ira_new_color.jpg"
   },
   "mary_tinsley": {
    "o": "img/p/mary_tinsley_orig.jpg",
-   "r": "img/p/mary_tinsley_restored.jpg",
    "cap": "Mary Tinsley (Shackleford) Moffitt (1895-1962) as an older woman. Photograph shared in a public Ancestry member tree",
    "c": "img/p/mary_tinsley_new_color.jpg"
   },
   "benjamin_family": {
    "o": "img/p/benjamin_family_orig.jpg",
-   "r": "img/p/benjamin_family_restored.jpg",
    "cap": "Benjamin F. Hulsey (1847-1924) seated with his children, about the 1890s; the dark area is damage to the original print. Photograph shared in a public Ancestry member tree. In the edited copy, the area obscured by damage has been removed; see the original for the unaltered image.",
    "c": "img/p/benjamin_family_new_color.jpg"
   },
   "oneal_family": {
    "o": "img/p/oneal_family_orig.jpg",
-   "r": "img/p/oneal_family_restored.jpg",
    "cap": "O'Neal family gathering in Gibson County, Indiana; the typed caption names Daniel W. O'Neal and Vashti Pearson among the family. Photograph shared in a public Ancestry member tree. The colorized copy reconstructs details that are unclear in the original.",
    "c": "img/p/oneal_family_new_color.jpg"
   },
   "vashti_trio": {
    "o": "img/p/vashti_trio_orig.jpg",
-   "r": "img/p/vashti_trio_restored.jpg",
    "cap": "Vashti Pearson, Mary O’Neal Hartin (described in the handwritten note as Daniel’s sister), and Daniel W. O’Neal, at a porch. Photograph shared in a public Ancestry member tree. The colorized copy reconstructs details that are unclear in the faded original.",
    "c": "img/p/vashti_trio_new_color.jpg"
   },
   "jimmie_tims": {
    "o": "img/p/jimmie_tims_orig.jpg",
-   "r": "img/p/jimmie_tims_restored.jpg",
    "cap": "James Brown 'Jimmie' Tims seated, with his son-in-law Fulsom Jacob standing behind (newspaper copy of the photograph). Photograph shared in a public Ancestry member tree. The colorized copy reconstructs details that are unclear in the original.",
    "c": "img/p/jimmie_tims_new_color.jpg"
   },
   "jh_satterfield": {
    "o": "img/p/jh_satterfield_orig.jpg",
-   "r": "img/p/jh_satterfield_restored.jpg",
    "cap": "James Henry Satterfield standing in a hat among trees, from a faded copy of the photograph. Photograph shared in a public Ancestry member tree",
    "c": "img/p/jh_satterfield_new_color.jpg"
   },
   "abner_stevenson": {
-   "o": "img/p/abner_stevenson_orig.jpg",
-   "r": "img/p/abner_stevenson_restored.jpg",
-   "cap": "Rev. Abner Arrington Stevenson (1816-1896), son of Rev. Elam Stevenson and Lydia Catherine Payne. Photo courtesy of Beth Mize, via a public Ancestry member tree",
-   "c": "img/p/abner_stevenson_new_color.jpg"
+   "o": "img/p/abner_stevenson_source.jpg",
+   "cap": "Rev. Abner Arrington Stevenson (1816–1896). Photo courtesy of Beth Mize, via a public Ancestry member tree.",
+   "c": "img/p/abner_stevenson_rebalanced_2026.jpg",
+   "source": "The full source image includes the original caption and credit to Beth Mize.",
+   "note": "The source scan includes the printed identification and photo credit.",
+   "edit_note": "Color and details in the portrait are interpreted from the faded original."
   },
   "elam_stevenson": {
    "o": "img/p/elam_stevenson_orig.jpg",
-   "r": "img/p/elam_stevenson_restored.jpg",
    "cap": "Rev. Elam Stevenson (1787-1875) of Giles County, Tennessee. Photo courtesy of Beth Mize, via a public Ancestry member tree",
    "c": "img/p/elam_stevenson_new_color.jpg"
   },
@@ -231,6 +221,29 @@
    },
    "note": "Surface damage repaired and bright face and shirt tones balanced. The full seated pose is retained.",
    "edit_note": "Colors and fine facial, hand and clothing details are reconstructed from a faded source. Use the original for historical detail."
+  },
+  "joel_ira_later": {
+   "o": "img/p/joel_ira_later.jpg",
+   "c": "img/p/joel_ira_later_restored_2026.jpg",
+   "cap": "Joel and Ira Thompson beside a white frame house in later life. Shared in a public Ancestry family tree.",
+   "note": "The original print is shown for comparison.",
+   "edit_note": "The faded color was rebalanced and the photograph straightened; fine facial and clothing details are reconstructed."
+  },
+  "frank_maxwell_andrews": {
+   "o": "img/p/frank_maxwell_andrews_orig.jpg",
+   "c": "img/p/frank_maxwell_andrews_color_2026.jpg",
+   "cap": "Lt. Gen. Frank Maxwell Andrews at his desk, 1943. U.S. Air Force photograph 040130-F-0000G-015; public domain.",
+   "source": "https://commons.wikimedia.org/wiki/File:Frank-M-Andrews.jpg",
+   "note": "The original U.S. Air Force photograph is available for comparison.",
+   "edit_note": "Colors and fine details are interpreted from the black-and-white original."
+  },
+  "wt_andrews": {
+   "o": "img/p/wt_andrews_1912_source.png",
+   "c": "img/p/wt_andrews_color_2026.jpg",
+   "cap": "Rev. William Thomas Andrews, frontispiece of Memorial Sketches (1912). Original portrait rendered from the public-domain book.",
+   "source": "https://archive.org/details/memorialsketches00andr/page/n6/mode/1up",
+   "note": "The original portrait is a region rendered from the book page; the complete identified frontispiece is among the records.",
+   "edit_note": "Color and fine details are interpreted from the printed photograph."
   }
  },
  "P": [
@@ -262,7 +275,7 @@
     "By December 1956, William was living at Speer. His marriage license with Mary Ellen Hulsey of Hugo appeared in the local newspaper that month, joining the Thompson and Hulsey branches of the family.",
     "He remained connected to Hugo through the years. His father Simon’s surviving family included William Thompson Jr. of Hugo in 1990, and his sister Ethel Hamill’s family included him there in 2002. William died in 2007."
    ],
-   "src": "1950 U.S. census, Jeter, Choctaw Co., Okla. (dwelling 421).; 1940 U.S. census, Jeter, Choctaw County, Oklahoma; Ethel Marietta Hamill obituary, Biskinik, April 2002, p. 14, Choctaw Nation, https://www.choctawnation.com/wp-content/uploads/2023/01/apr02-biskinik.pdf.; The Hugo Daily News, 5 Dec 1956, p. 1, marriage licenses, https://www.newspapers.com/image/901930026/; The Paris News, 17 Sep 1990, p. 2, Simon William Thompson obituary, https://www.newspapers.com/image/13497196/.",
+   "src": "1950 U.S. census, Jeter, Choctaw Co., Okla. (dwelling 421); 1940 U.S. census, Jeter, Choctaw County, Oklahoma; Ethel Marietta Hamill obituary, Biskinik, April 2002, p. 14, Choctaw Nation, https://www.choctawnation.com/wp-content/uploads/2023/01/apr02-biskinik.pdf; The Hugo Daily News, 5 Dec 1956, p. 1, marriage licenses, https://www.newspapers.com/image/901930026/; The Paris News, 17 Sep 1990, p. 2, Simon William Thompson obituary, https://www.newspapers.com/image/13497196/.",
    "title": "Junior Thompson, from Jeter to Speer",
    "hook": "A childhood in a household of several generations, and a marriage that joined the Thompson and Hulsey families.",
    "ev": "probable",
@@ -388,7 +401,7 @@
      "Age 42 at Jeter with Simon, five of their children and her mother Lizzie Pisachubby (58); \"Keeping house\""
     ]
    ],
-   "src": "U.S. Censuses (Ancestry); Dawes Cards 1363 and 1580; Newborn Card 1203; Act of Congress approved 26 April 1906 (birth affidavit forms); 1930 and 1940 U.S. censuses; 1950 U.S. census, Jeter, Choctaw Co., Okla. (dwelling 421).; Act of April 26, 1906, ch. 1876, section 2, 34 Stat. 137, https://govtrackus.s3.amazonaws.com/legislink/pdf/stat/34/STATUTE-34-Pg136a.pdf; National Archives, Enrollment Cards for the Five Civilized Tribes, M1186, https://www.archives.gov/files/research/microfilm/m1186.pdf; 1930, 1940, 1950 U.S. censuses as previously cited for Frances and Simon Thompson.",
+   "src": "U.S. Censuses (Ancestry); Dawes Cards 1363 and 1580; Newborn Card 1203; Act of Congress approved 26 April 1906 (birth affidavit forms); 1930 and 1940 U.S. censuses; 1950 U.S. census, Jeter, Choctaw Co., Okla. (dwelling 421); Act of April 26, 1906, ch. 1876, section 2, 34 Stat. 137, https://govtrackus.s3.amazonaws.com/legislink/pdf/stat/34/STATUTE-34-Pg136a.pdf; National Archives, Enrollment Cards for the Five Civilized Tribes, M1186, https://www.archives.gov/files/research/microfilm/m1186.pdf; 1930, 1940, 1950 U.S. censuses as previously cited for Frances and Simon Thompson.",
    "body": [
     "Frances Pisachubbe was born in 1907 to Robert Pisachubbe and Lizzie Austin. Her parents came from Choctaw families whose earlier generations appear in the Dawes enrollment records: Robert and his mother Eunice on Card 1580, and Lizzie with her parents Legion and Molsey on Card 1363.",
     "The federal enrollment process was governed by dates set in law. An act approved on 26 April 1906 authorized a limited application period for eligible children who were minors living on 4 March 1906. Frances was born the following year; her family's earlier cards provide information about her relatives, but the cutoff helps explain why she was not enrolled as one of those children.",
@@ -436,11 +449,10 @@
     "A full-blood Choctaw (Dawes Roll No. 3487), born in Cedar County in December 1861, two miles west of High Hill church. His Dawes card names his parents as John and Betsy Thompson, both dead by 1899; his son Joel said John died when Joseph was nine.",
     "A sketch of Joseph printed in 1891, while he was still a young man, says he was educated at Spencer Academy and at 'Mount Harmon Institute, Northfield' (D. L. Moody's Mount Hermon School for boys in Massachusetts), and finished at Roanoke College in Salem, Virginia, where he stayed until 1886. Joel remembered it in a different order: three years at Roanoke, then three years at a college in Massachusetts studying law.",
     "The 1885 Choctaw census shows him at 24 in Cedar County, farming 20 acres of his own with a horse, six cattle and 30 hogs. The 1891 sketch says he began as a schoolteacher, was appointed county clerk of Cedar County in 1889, and the next year was elected to the lower house of the Choctaw Council, 'one of the youngest members of the legislature.' Joel said he later served as County Judge of Cedar County, holding court at Sulphur Springs near present-day Rattan, and about six years as a Senator.",
-    "He married Betsy Tims in 1889. They started in a one-room log house. In 1901 he built a big white house with two front rooms, a wide hall, an L-shaped kitchen and dining room, and lots of porches, 300 yards from High Hill Methodist Church. He sat on the school board, raised an orphan boy named Wister Davis, and named a son Peter Pitchlyn Thompson after the Choctaw chief.",
-    "The 1910 census, taken on the special Indian schedule, shows Joseph at 48 farming his own allotment free of mortgage in Wilson Township, Choctaw County. He gave both his parents' birthplace as Mississippi, which fits a family that came west on the Removal. Living with them was 19-year-old \"David Wister,\" the orphan the family raised, whom Joel remembered as Wister Davis. Their nearest neighbors were Henry W. Thompson, probably Joseph's brother, and two Tims households, one headed by James Tims, very likely Betsy's brother Jimmie.",
+    "He married Betsy Tims in 1889. They started in a one-room log house. In 1901 he built a big white house with two front rooms, a wide hall, an L-shaped kitchen and dining room, and lots of porches, 300 yards from High Hill Methodist Church. He sat on the school board, raised an orphan boy named Wister Davis, and had a son named Peter Pitchlyn Thompson.",
+    "The 1910 census, taken on the special Indian schedule, shows Joseph at 48 farming his own allotment free of mortgage in Wilson Township, Choctaw County. He gave both his parents' birthplace as Mississippi, which fits a family that came west on the Removal. Living with them was 19-year-old \"David Wister,\" the orphan the family raised, whom Joel remembered as Wister Davis. Their nearest neighbors included Henry W. Thompson and two Tims households, one headed by James Tims, very likely Betsy's brother Jimmie. Henry's Dawes card names Simon and Lucy Thompson as his parents, while Joseph's card names John and Betsy.",
     "Joel said his father was 'second of nine children' and that the 1901 house stood on a farm that raised 'plenty of hogs' and 'lots to eat.' He added that his father 'was always interested in the government of his people.' The county officers Joel named were Robert S. Frazier, High Sheriff, and Noah Frazier, Clerk, with James Brown Tims as a representative in the Council.",
-    "Joseph's name is in the federal record again after statehood. He filed a petition on 27 August 1908 from Fort Towson, and again on 10 September 1915 from Corinne, when the Secretary of the Interior approved removal of restrictions on his land on 28 March 1916. In 1903 he had gone to Atoka to pick out the allotments for his wife and children.",
-    "A correction to the neighborhood: the Henry W. Thompson who lived near Joseph in 1910 is on Dawes Card 1282, filed the same day as Joseph's, and the card gives his parents as Simon and Lucy Thompson, not John and Betsy. He is told on his own page."
+    "Joseph's name is in the federal record again after statehood. He filed a petition on 27 August 1908 from Fort Towson, and again on 10 September 1915 from Corinne, when the Secretary of the Interior approved removal of restrictions on his land on 28 March 1916. In 1903 he had gone to Atoka to pick out the allotments for his wife and children."
    ],
    "quotes": [
     {
@@ -456,7 +468,7 @@
      "c": "Joel J. Thompson, 1937"
     }
    ],
-   "note": "The 1891 sketch heads him 'Joseph B. Thompson,' probably a printer's error; everything else in it fits. It also calls his father 'Rev. John Thompson,' a Presbyterian minister in Cedar County for twenty years, which does not fit Joel's memory that John died about 1870. Roanoke College had about 35 Choctaw students between 1876 and 1896, but Joseph does not appear in the 1881-82 catalogue; that fits the sketch, which has him at Mount Hermon first, but the 1882-86 catalogues have not been seen. Joseph's terms as judge and senator have not yet been found in Choctaw Nation records. A Find a Grave memorial gives his birth as 1862 and has him at High Hill, but his burial there is unverified; his death in 1927 comes from family files. The orphan he raised is 'Wister Davis' in Joel's interview. Paragraph 5 guesses that Henry W. Thompson, a 1910 neighbor, was Joseph's brother; the last paragraph corrects that from Dawes Card 1282, which names Henry's parents as Simon and Lucy Thompson.",
+   "note": "The 1891 sketch heads him 'Joseph B. Thompson,' probably a printer's error; everything else in it fits. It also calls his father 'Rev. John Thompson,' a Presbyterian minister in Cedar County for twenty years, which does not fit Joel's memory that John died about 1870. Roanoke College had about 35 Choctaw students between 1876 and 1896, but Joseph does not appear in the 1881-82 catalogue; that fits the sketch, which has him at Mount Hermon first, but the 1882-86 catalogues have not been seen. Joseph's terms as judge and senator have not yet been found in Choctaw Nation records. A Find a Grave memorial gives his birth as 1862 and has him at High Hill, but his burial there is unverified; his death in 1927 comes from family files. The orphan he raised is 'Wister Davis' in Joel's interview.",
    "src": "H. F. O'Beirne, Leaders and Leading Men of the Indian Territory, vol. 1 (1891), p. 162; 1885 Choctaw census, Cedar County (NARA M595, roll 623); Dawes Card 1283; WPA Indian-Pioneer Papers, interviews #7392 and #7418 (Joel J. Thompson, Hugo, 1937); 1910 U.S. Census, Indian Population schedule, Wilson Twp, Choctaw Co., Okla., ED 64, sheet 11A; 1920 U.S. Census, Wilson, Choctaw Co; Allotment files and restriction-removal ledgers, 1903-1916; Dawes Cards 1282 and 1283.",
    "kv": [
     [
@@ -590,7 +602,7 @@
     "The county land records bring his land forward. A 1979 decree of heirship for his daughter Frances Pisachubbe Thompson covers Section 29, Township 5 South, Range 17 East, the same section as his allotment. An order in his own estate was entered in 1982.",
     "His 1896 census number was Kiamitia No. 10433, listed right after his mother, and the 1899 card gives his age as 11 and his father as the dead Joseph Pisachubbe. He was approved as Choctaw by Blood No. 4467 on 12 December 1902. His wife Lizzie came from the Austin family of Fowlerville (Card 1363), whose roll numbers ran 3736 to 3740; her brother James, who died in 1899 before enrollment, was struck off by the Department on 16 September 1904."
    ],
-   "src": "Dawes Cards 1580 and 1363; WWI Draft Registration, 1917; WWII Draft Registration, 1942; 1940 U.S. Census, Jeter; Hugo Daily News, 11 May 1937; Find a Grave (Speer and Long Creek cemeteries); Allotment file for Roll 4467; Choctaw County Clerk records (1979-091763, 1982-115102); Dawes Cards 1580 and 1363.",
+   "src": "Dawes Cards 1580 and 1363; WWI Draft Registration, 1917; WWII Draft Registration, 1942; 1940 U.S. Census, Jeter; Hugo Daily News, 11 May 1937; Find a Grave (Speer and Long Creek cemeteries); Allotment file for Roll 4467; Choctaw County Clerk records (1979-091763, 1982-115102).",
    "quotes": [
     {
      "t": "He was a full blood Choctaw Indian, and was well known among the white people as well as among members of his tribe.",
@@ -829,7 +841,7 @@
      "Application 10 May 1899; approved 12 Dec 1902"
     ]
    ],
-   "src": "Choctaw County Court, Estate of Eunice Pisachubbe, petition for approval of full-blood deed (1927); Dawes Card 1580; Dawes Card 1580 (1896 census numbers and marginal notes); Choctaw Commissioner's letter, 1 Aug. 1911 (jacket 7-1580).; Choctaw County Court, Estate of Eunice Pisachubbe, Petition for Approval of Full Blood Deed, 1927; Choctaw by Blood enrollment card 1580, National Archives.",
+   "src": "Choctaw County Court, Estate of Eunice Pisachubbe, petition for approval of full-blood deed (1927); Dawes Card 1580; Dawes Card 1580 (1896 census numbers and marginal notes); Choctaw Commissioner's letter, 1 Aug. 1911 (jacket 7-1580); Choctaw County Court, Estate of Eunice Pisachubbe, Petition for Approval of Full Blood Deed, 1927; Choctaw by Blood enrollment card 1580, National Archives.",
    "ev": "proven",
    "title": "Eunice Pisachubbe’s family and allotment",
    "hook": "An enrollment card and a later court petition trace a Choctaw mother’s family and land across nearly three decades.",
@@ -882,7 +894,7 @@
     "Joseph P. Thompson's card, No. 1283, was filled out on 1 May 1899 in Cedar County, post office Doaksville, and its first line, Joseph himself, names his parents: \"John Thompson,\" dead, of Cedar County, and \"Betsy Thompson,\" dead, of Cedar County. Joseph's wife shared his mother's first name, and both women were Betsy. Joseph was born in December 1861, two miles west of High Hill church, the year the Choctaw Nation sided with the Confederacy, and he gave the 1910 census taker Mississippi as the birthplace of both his parents.",
     "His son Joel, interviewed in Hugo in 1937, supplied what the card does not. Joseph was the second of nine children. John died when Joseph was nine, about 1870, and was buried near the family home toward Spencer Academy. Spencer, which had closed in 1861, reopened in 1871, and Joseph, who had lost his father the year before, was of school age during its reopened years; the 1891 sketch of him says he was educated at Spencer, and from there he went east to Roanoke College in Virginia.",
     "Betsy's side was a harder subject. Joel said his father's mother's people \"had some sort of a Choctaw name\" and never took a white man's name, which fits the pattern the Dawes cards show elsewhere on this line: surnames such as Thompson, Austin and Gardner came into use among the Choctaw after the 1830s, often borrowed from the given name of a respected white man, while others, like Pisachubbe and Ata-sa-ha-bi, kept their Choctaw names to the end.",
-    "The neighborhood that marked their lives was High Hill, where the Methodist church stood two miles east of their son's birthplace; Joseph later built his white house 300 yards from it, and Emeline Tims, his mother-in-law, is buried in its cemetery. Henry W. Thompson, who was enrolled on the next card the same day, is not their son: his parents are written as Simon and Lucy. Joseph's eight brothers and sisters are not named in any source on this site."
+    "The neighborhood that marked their lives was High Hill, where the Methodist church stood two miles east of their son's birthplace; Joseph later built his white house 300 yards from it, and Emeline Tims, his mother-in-law, is buried in its cemetery. Henry W. Thompson, who was enrolled on the next card the same day, is not their son: his parents are written as Simon and Lucy. The names of Joseph's eight brothers and sisters have not been found in the records cited here."
    ],
    "kv": [
     [
@@ -891,7 +903,7 @@
     ]
    ],
    "ev": "proven",
-   "title": "John and Betsy Thompson, who raised nine children toward Spencer Academy",
+   "title": "John and Betsy Thompson, Joseph's parents",
    "hook": "Two names on the first line of a Dawes card, and a grandson's memory of a burial, are all that survive of the parents of Judge Joseph Thompson."
   },
   {
@@ -921,7 +933,7 @@
     "He signed by mark. On the affidavit for his infant son James, sworn at Fowlerville in early May 1899, the clerk crossed out the form's printed \"Affidavit of Mother\" and wrote \"Father\" above it, and Legion, \"33 years of age and a citizen by blood,\" swore as the husband of Molsey that the boy was born 15 November 1898. The man who vouched for the birth was a neighbor, Leonidas Willis, who also signed with a mark and is written in as \"a Neighbor,\" not a physician. Nobody named a doctor or midwife for that birth."
    ],
    "ev": "proven",
-   "src": "Dawes Card 1363; Foreman, 'Early Post Offices of Oklahoma' (1928); Dawes Card 1363 and jacket 7-1363 (letters of 9 Oct. 1900 and 5 June 1901); Dawes Card 1363 (front and back) and jacket 7-1363, NARA Dawes Enrollment Jackets (Choctaw by Blood).; James Austin birth affidavit, sworn 2 May 1899, Dawes Card 1363 enrollment jacket, National Archives; Dawes Card 1363.",
+   "src": "Dawes Card 1363; Foreman, 'Early Post Offices of Oklahoma' (1928); Dawes Card 1363 and jacket 7-1363 (letters of 9 Oct. 1900 and 5 June 1901); Dawes Card 1363 (front and back) and jacket 7-1363, NARA Dawes Enrollment Jackets (Choctaw by Blood); James Austin birth affidavit, sworn 2 May 1899, Dawes Card 1363 enrollment jacket, National Archives; Dawes Card 1363.",
    "kv": [
     [
      "Children on card",
@@ -962,7 +974,7 @@
     "The federal enrollment records recorded the family under several spellings, including “Mulcy” for Molsey and “Leageon” for Legion. A later land-restriction list uses “Molsey Pisachubbi, Austin,” suggesting she later carried the name Pisachubbi."
    ],
    "ev": "proven",
-   "src": "House Committee on Indian Affairs, Five Civilized Tribes of Indians, hearings (1916), \"Removal of restriction cases received in the Indian Office since Jan. 1, 1915,\" Choctaws, p. 93; Dawes Card 1363 (front and back) and jacket 7-1363, NARA Dawes Enrollment Jackets (Choctaw by Blood).; Dawes Card 1363 and enrollment jacket 7-1363, Choctaw by Blood; Adline Austin birth affidavit sworn 19 April 1901, National Archives; House Committee on Indian Affairs, Five Civilized Tribes of Indians, hearings (1916), removal-of-restrictions list, p. 93.",
+   "src": "House Committee on Indian Affairs, Five Civilized Tribes of Indians, hearings (1916), \"Removal of restriction cases received in the Indian Office since Jan. 1, 1915,\" Choctaws, p. 93; Dawes Card 1363 (front and back) and jacket 7-1363, NARA Dawes Enrollment Jackets (Choctaw by Blood); Dawes Card 1363 and enrollment jacket 7-1363, Choctaw by Blood; Adline Austin birth affidavit sworn 19 April 1901, National Archives; House Committee on Indian Affairs, Five Civilized Tribes of Indians, hearings (1916), removal-of-restrictions list, p. 93.",
    "kv": [
     [
      "Dawes roll",
@@ -1182,7 +1194,7 @@
    ],
    "ev": "proven",
    "title": "Jackson and Viney Gardner of Blue County",
-   "hook": "Eunice Pisachubbe's parents, written 'dead' on a 1899 card, lived in the county that held Armstrong Academy."
+   "hook": "Eunice Pisachubbe's parents, written 'dead' on an 1899 card, lived in the county that held Armstrong Academy."
   },
   {
    "id": "brazil",
@@ -1194,7 +1206,7 @@
    "place": "Red River County, Choctaw Nation. Named as Molsey's parents on Dawes Card 1363, both dead by 1899; the clerk wrote \"Siney\" in quotation marks.",
    "body": [
     "Dawes Card 1363 names them in the parents' columns on line 2, the line of their daughter Molsey Austin: \"Brazil,\" dead, of Red River, and \"Siney,\" dead, of Red River, with the clerk setting the mother's name in quotation marks. The quotation marks may mean the clerk was unsure of the spelling or that it was a nickname. Brazil is written with no surname.",
-    "Red River County was one of the Choctaw Nation's counties along the Red River on the Texas border. Molsey was counted in Towson County in 1896 (No. 200), after her husband Legion Austin, so she had moved from Red River County to Towson.  Molsey was about 25 in April 1901, which puts her birth about 1876.",
+    "Red River County was one of the Choctaw Nation's counties along the Red River on the Texas border. Molsey was counted in Towson County in 1896 (No. 200), after her husband Legion Austin, so she had moved from Red River County to Towson. Molsey was about 25 in April 1901, which puts her birth about 1876.",
     "A midwife named Sinie Hall attended the birth of Molsey's daughter Adline on 5 August 1900, and signed the affidavit with her mark at Fowlerville. The two spellings may be the same name; the affidavit does not state any kinship. What Brazil and Siney left is Molsey, who signed with her mark as \"Mulcy Austin\" and was later listed in the 1916 hearings as \"Molsey Pisachubbi, Austin,\" and the children on Card 1363: Lizzie, James and Adline."
    ],
    "ev": "proven",
@@ -1206,7 +1218,7 @@
    ],
    "src": "Dawes Card 1363. Dawes Card 1363 and jacket 7-1363; Adline Austin birth affidavit, 19 Apr 1901.",
    "title": "Brazil and Siney of Red River County",
-   "hook": "The parents of Molsey Austin are two names with quotation marks around one of them."
+   "hook": "Dawes Card 1363 records the names of Molsey Austin's parents, Brazil and Siney, in the Choctaw Nation's Red River County."
   },
   {
    "id": "atasahabi",
@@ -1363,8 +1375,8 @@
    "imgs": [
     {
      "s": "img/places/wheelock_academy_1932.jpg",
-     "cap": "Wheelock Academy near Millerton, Oklahoma, in 1932-1933 (National Archives). Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Wheelock_Academy,_1932-1933_-_NARA_-_268446.jpg",
-     "kind": "photo"
+     "cap": "A page from the 1932–33 Wheelock Academy report about field work and a child health clinic (National Archives). Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Wheelock_Academy,_1932-1933_-_NARA_-_268446.jpg",
+     "kind": "record"
     },
     {
      "s": "img/places/mount_ida_ar.jpg",
@@ -1502,8 +1514,8 @@
      "cap": "1880 U.S. census, Center Township, Montgomery County, Arkansas, household 216: B. F. Hulsey and family. National Archives, T9 roll 52."
     }
    ],
-   "title": "A preacher at Camp Pike",
-   "hook": "In 1918 he was building the Army's big WWI training camp near Little Rock.",
+   "title": "Working at Camp Pike",
+   "hook": "In 1918, George Hulsey registered for the draft while working at Camp Pike near Little Rock.",
    "body": [
     "George Washington Hulsey was forty-two when he registered for the draft on 12 September 1918. He gave his birth date as 24 December 1875 and his permanent address as Story, in Montgomery County, Arkansas. For work he was away at Camp Pike, the Army’s large training camp near Little Rock, employed as a laborer by the Stewart-McGehee Construction Company. His nearest relative was Sarah Rebecca Hulsey at Story. The card describes him as short and slender, with blue eyes and black hair.",
     "He married Sarah Rebecca Graves on 22 December 1901, when she was seventeen. They had ten children, among them Oscar, born in 1910. George died in 1935 and is buried in Breashears Cemetery near Story. Family accounts also place a Benjamin F. Hulsey there, but the shared cemetery does not by itself establish their relationship.",
@@ -2595,7 +2607,7 @@
     ]
    ],
    "note": "His exact role during the attack is not recorded, and his rate is not confirmed. The muster index labels his second ship MCM 14, a mix-up with a later ship; AM-315 is correct. The rolls run past his 9 May 1946 discharge, probably because the index follows roll dates. His service file can be requested from the National Personnel Records Center.",
-   "src": "U.S. Navy muster rolls, 1943–46; VA BIRLS death file; 1940 U.S. Census, Hugo; obituary, The Paris News, Sept. 1990; ship histories (DANFS, NavSource). 1930 U.S. Census, Martin Co., Tex; U.S., Newspapers.com Obituary Index (Paris News 20 Sep 1990; Daily Oklahoman 21 Sep 1990); U.S., Department of Veterans Affairs BIRLS Death File; U.S., Social Security Death Index.; NavSource, ARD-19 photographs, including 1946 Subic Bay views (after his service aboard).; U.S. Navy / National Archives photograph 80-G-319420, https://www.navsource.net/archives/05/563.htm.; The Paris News, 20 Sep 1990, p. 4, original obituary of John W. Moffitt, https://www.newspapers.com/image/13498859/.",
+   "src": "U.S. Navy muster rolls, 1943–46; VA BIRLS death file; 1940 U.S. Census, Hugo; obituary, The Paris News, Sept. 1990; ship histories (DANFS, NavSource). 1930 U.S. Census, Martin Co., Tex; U.S., Newspapers.com Obituary Index (Paris News 20 Sep 1990; Daily Oklahoman 21 Sep 1990); U.S., Department of Veterans Affairs BIRLS Death File; U.S., Social Security Death Index.; NavSource, ARD-19 photographs, including 1946 Subic Bay views (after his service aboard); U.S. Navy / National Archives photograph 80-G-319420, https://www.navsource.net/archives/05/563.htm; The Paris News, 20 Sep 1990, p. 4, original obituary of John W. Moffitt, https://www.newspapers.com/image/13498859/.",
    "source_link": "https://www.navsource.net/archives/09/67/6701.htm"
   },
   {
@@ -2624,7 +2636,7 @@
     }
    ],
    "title": "Timberman at Ervin, laborer in the Depression",
-   "hook": "Tall, stout and gray-eyed in 1917. Nine children and almost no work in 1939.",
+   "hook": "Tall, stout and gray-eyed in 1917, Grady supported his family as a timberman and faced long periods without work in 1939.",
    "body": [
     "Born 6 November 1891 at Mountain View, Arkansas, the youngest of Henry and Hannah Moffitt's children at home in 1900. In 1910, at 18, he was living with his widowed mother in Stone County and working in the timber, apparently making barrel staves.",
     "When he registered for the WWI draft on 5 June 1917 he was 25, working as a timberman for C. D. Neese at Ervin, Oklahoma, married and supporting a wife, his mother and a child. The card describes him as tall and stout, with gray eyes and dark hair.",
@@ -2746,13 +2758,13 @@
    ],
    "src": "1900 U.S. Census, Etowah Co., Ala.; Find a Grave; 1930 U.S. Census, Martin Co., Tex.; Find a Grave 77401916; Find a Grave Index (Shoat Springs Cemetery); Shoat Springs Cemetery, Choctaw County, Oklahoma, transcription by Tammy Sharp and Karla K. Willis Sharp (USGenWeb Archives, files.usgwarchives.net/ok/choctaw/cemeteries/shoatesprings.txt); U.S., Newspapers.com Obituary Index (The Southeast Oklahoman, 30 Aug 1962); Texas, U.S., Death Certificates, 1903-1982; 1950 U.S. census, Grant, Choctaw Co.",
    "title": "Mary Tinsley Shackleford",
-   "hook": "Born in Etowah County, Alabama, in 1895, she raised nine children with Grady and is buried at Shoat Springs Cemetery.",
+   "hook": "Born in Etowah County, Alabama, in 1895, Mary raised her family with Grady and is buried at Shoat Springs Cemetery.",
    "body": [
     "Mary was born on 4 June 1895 in Alabama and is the \"May, 5\" in her parents' 1900 household at Gilbert, Etowah County. Her parents were John Morgan and Lizzie (Newton) Shackleford. She married Grady Moffitt about 1914 and bore at least eleven children, two of whom died as toddlers.",
     "In 1930 she and Grady and their six boys were living with her parents in Martin County, Texas. She died in Paris, Texas, on 26 August 1962 and is buried beside Grady at Shoat Springs Cemetery, Hugo."
    ],
    "ev": "probable",
-   "note": "Where her middle name Tinsley came from is unknown. Her Texas death certificate should name her parents.",
+   "note": "The origin of her middle name Tinsley remains unknown.",
    "ph": "mary_tinsley"
   },
   {
@@ -2866,7 +2878,7 @@
     "Henry and Hannah were the same age. Henry was born in 1855, when his father Nathan Moffitt, the wheelwright, and Rebecca Williams were farming in Lawrence County; Hannah was born in July 1855, the daughter of David H. Grimes of Wayne County, Tennessee. Their children were Josephine, Jesse Gee (1879-1957), Gimsa, Bertha, Thomas Berry (1889-1953) and Grady (1891-1972). The 1910 age of 53 would put Hannah's birth nearer 1857 than 1855, and where she was born is itself in dispute: a family tree gives Arkansas City, Desha County, a second WikiTree profile gives Illinois, and the 1855 date has no original record behind it; WikiTree lists only Tom and Grady as her children. The Desha County name cannot be right as written. In 1855 the Mississippi River landing that became Arkansas City lay in Chicot County and had seen little growth; the town was not incorporated until 1873 and was not in Desha County until the boundary moved in 1879.",
     "What the records do show is where she ended up. By 1910 she was among the Moffitts of Stone County, a county only 37 years old, whose seat Mountain View had barely 100 people in 1880. Her brother-in-law Patrick Moffitt also lived in Stone County, and his wife Alice Ann died in May 1901, a few months before Henry. After Henry's death Hannah kept a household of grown sons going on rented ground, and the two sons at home worked for wages, Tom on the railroad and Grady making barrel staves.",
     "She spent her last years at Herpel, a Rocky Bayou community about six miles east of Mountain View, with a grist mill, a cotton gin, a stave mill and a sawmill. Its post office ran from 1907 to 1957. The Herpel Missionary Baptist Church laid its cornerstone on 5 March 1923, and Hannah died on 4 April 1923, about a month later. She is buried in Herpel Cemetery. Her stone reads \"Wife of Henry H Moffitt,\" the only memorial the couple have, since Henry's own grave has not been located.",
-    "Hannah links two lines on this site. Through her husband she is the daughter-in-law of Nathan and Rebecca, whose road went from Randolph County, North Carolina, to Arkansas and Missouri; through her father David she belongs to the Grimes family of Hardin Creek in Wayne County. Her youngest son Grady carried both names into Hugo, Oklahoma, where his own nine children were raised."
+    "Hannah’s marriage connected the Grimes and Moffitt families. Through her husband she was the daughter-in-law of Nathan and Rebecca, whose road led from Randolph County, North Carolina, to Arkansas and Missouri; through her father David she belonged to the Grimes family of Hardin Creek in Wayne County. Her youngest son Grady carried both lines to Hugo, Oklahoma, where he raised his family."
    ],
    "ev": "probable",
    "note": "Birth conflict: the dates above (1855) come from a family tree (July 1855, Arkansas City, Desha Co.; a second WikiTree profile says Illinois); the 1910 census age of 53 would give c.1857. No original record for her birth has been seen.",
@@ -2958,6 +2970,11 @@
     {
      "s": "img/docs/marriage_moffitt_williams.jpg",
      "cap": "Randolph County, North Carolina marriage bond, 13 October 1835: Nathan Moffitt and David Moffitt bound for £500 so Nathan could marry Rebecca Williams. Both Moffitts signed."
+    },
+    {
+     "s": "img/rec/nathan_moffitt_full_source.jpg",
+     "cap": "Full family-tree source scan, labeled Nathan Moffitt, showing the seated man and two children. The identification comes from the scan caption.",
+     "kind": "record"
     }
    ]
   },
@@ -3137,7 +3154,7 @@
     "The book also repeats a story about \"the Davis millions.\" Hamilton County heirs, it says, raised money to send an agent to the old country to look into an inheritance, but \"this supposed wealth, like the fortune at the foot of the rainbow, was always just out of reach.\"",
     "WikiTree quotes the Bible Record of Abijah Moffitt for William's parents: Robert Moffitt, born in Scotland and later of County Donegal, and Margaret Stuart, with eleven children, six of whom came to America. It adds that William and his brother Hugh both married Davis daughters in North Carolina, which matches William's 1763 marriage to Mary Davies. The Alamance Battleground Book gives the mother as Martha Steward. Both accounts are family-based, not contemporary records."
    ],
-   "src": "Colonial and State Records of North Carolina, vol. 7, pp. 251, 731–37, 758–59, 850–51; vol. 8, pp. 67–68; will of William Moffitt, Randolph Co., NC (1796), Will Book 2, pp. 30–31; Cane Creek MM marriage record (1763); Hinshaw, Encyclopedia of American Quaker Genealogy, vol. 1 (Centre MM); NC Gazetteer, 'Moffitt'; James Otis, The Boy Spies with the Regulators (1901); Cane Creek MM marriage record (1763); WikiTree Moffitt-65; Alamance Battleground Book of Remembrance; Frank Moffitt, Moffitt Genealogy: A Genealogical Record of Silas Moffitt and Hannah Wilkinson Moffitt (1928), p. 3; Descendants of Solomon Cox of Cole Creek, Va. (1955), pp. 18-20; Colonial Records of North Carolina, vol. 7, pp. 759-767, 811-813, 844-845; WikiTree Moffitt-289 (Bible Record of Abijah Moffitt); Moffitt-65; From Whence We Came: Cane Creek Meeting Sesquibicentennial Reunion (Snow Camp, N.C., c. 2000), archive.org/details/fromwhencewecame00cane",
+   "src": "Colonial and State Records of North Carolina, vol. 7, pp. 251, 731–37, 758–59, 850–51; vol. 8, pp. 67–68; will of William Moffitt, Randolph Co., NC (1796), Will Book 2, pp. 30–31; Cane Creek MM marriage record (1763); Hinshaw, Encyclopedia of American Quaker Genealogy, vol. 1 (Centre MM); NC Gazetteer, 'Moffitt'; James Otis, The Boy Spies with the Regulators (1901); WikiTree Moffitt-65; Alamance Battleground Book of Remembrance; Frank Moffitt, Moffitt Genealogy: A Genealogical Record of Silas Moffitt and Hannah Wilkinson Moffitt (1928), p. 3; Descendants of Solomon Cox of Cole Creek, Va. (1955), pp. 18-20; Colonial Records of North Carolina, vol. 7, pp. 759-767, 811-813, 844-845; WikiTree Moffitt-289 (Bible Record of Abijah Moffitt); Moffitt-65; From Whence We Came: Cane Creek Meeting Sesquibicentennial Reunion (Snow Camp, N.C., c. 2000), archive.org/details/fromwhencewecame00cane",
    "kv": [
     [
      "1763",
@@ -3248,7 +3265,7 @@
    "src": "Cane Creek MM marriage certificate (1763) and Centre MM births, in Hinshaw vol. 1 and Hanson (1922); U.S., Quaker Meeting Records, 1681-1935 (Cane Creek MM, marriage of Joseph Chamness and Margret Norton, 17 Mar 1763) Zimri Hanson, History and Genealogy of the American Descendants of John and Ann Chamness (1922), the Chamness family: Joseph's children and the 1791 certificate of his son William",
    "body": [
     "Joseph Chamness was in his twenty-third year when he married Margaret Norton at Cane Creek Meeting on 17 March 1763. The certificate names him as the son of Anthony and Sarah Chamness of Orange County and her as the daughter of Edward and Elizabeth Norton of Rowan County; all four parents signed as witnesses. The next year, in 1764, the meeting made him its Recorder of Marriage Certificates, and the certificate book in his handwriting was kept in the vault at Guilford College when Zimri Hanson wrote the family's history in 1922. He was born in Baltimore County, Maryland, in 1740, and had come south with his father at the age of nine.",
-    "Eleven children were born to Joseph and Margaret between 1764 and 1784, the first three in Orange County and the rest in what became Randolph. Hanson lists Sarah (1764), William (1766), Elizabeth (1768), Mary (1770), Joseph (1771), Anthony (1773), Margaret (1776), Martha (1778), Lydia (1780), Edward (1782) and Mourning (1784). Joseph later took a certificate of removal from Cane Creek to Providence meeting in Randolph County, where he owned a farm. Martha, the eighth child, married Robert Moffitt at Providence in 1797, and is the link to this site.",
+    "Eleven children were born to Joseph and Margaret between 1764 and 1784, the first three in Orange County and the rest in what became Randolph. Hanson lists Sarah (1764), William (1766), Elizabeth (1768), Mary (1770), Joseph (1771), Anthony (1773), Margaret (1776), Martha (1778), Lydia (1780), Edward (1782) and Mourning (1784). Joseph later took a certificate of removal from Cane Creek to Providence meeting in Randolph County, where he owned a farm. Martha, the eighth child, married Robert Moffitt at Providence in 1797, joining the Chamness and Moffitt families.",
     "On the 12th of Fourth month 1784 Margaret died, with the youngest of her eleven, Mourning, a newborn. Hanson's account is that the eldest daughter, Sarah, then in her twentieth year, took charge of the infant and was the guiding star of the household until a stepmother appeared; some three years after her mother's death she married Obadiah Elliott in Randolph County and took the little sister into her own home. Joseph's second wife was Hannah Beeson, daughter of William and Mary Beeson, and they were married at Deep River meeting on 6 March 1786. Their daughter Susanna, born in 1788, was the twelfth child. Hanson counts twelve Beesons among the relatives of the bride when Joseph's son William married Isabel Beeson in Providence meeting, and records that William's stepmother signed that certificate too.",
     "Joseph died on 17 May 1818 in Randolph County and is buried at Providence Cemetery. By Hanson's count he lived to see all his children married and settled, the youngest, Susanna, then about thirty. His own wedding certificate, printed in Hanson's book (pp. 17-18), is the document that ties the Chamness line to the Nortons, and his daughter's marriage to Robert Moffitt in 1797 tied both to the Moffitts."
    ],
@@ -3384,7 +3401,7 @@
     ]
    ],
    "note": "The 1930 census records her name as “Fay May”; her husband’s 1990 obituary uses Faye Renee Smith, and hers uses Faye (Smith) Moffitt.",
-   "src": "1930 U.S. census and 1940 U.S. census, Jeter, Choctaw Co., Okla.; Find a Grave index (memorial 140426039).; Prater-Lampton-Mills & Coffey Funeral Home obituary, 2014.; The Paris News, 20 Sep 1990, p. 4, obituary of John W. Moffitt, https://www.newspapers.com/image/13498859/.",
+   "src": "1930 U.S. census and 1940 U.S. census, Jeter, Choctaw Co., Okla.; Find a Grave index (memorial 140426039); Prater-Lampton-Mills & Coffey Funeral Home obituary, 2014.; The Paris News, 20 Sep 1990, p. 4, obituary of John W. Moffitt, https://www.newspapers.com/image/13498859/.",
    "source_link": "https://www.okcemeteries.net/choctaw/grant/moffittf-obit.htm",
    "title": "Singing, holidays and a house full of family",
    "hook": "From a Jeter farm childhood to a family of children, grandchildren and Christmas gatherings.",
@@ -3622,7 +3639,8 @@
     },
     {
      "s": "img/places/soper_townsite.jpg",
-     "cap": "Townsite limits of Soper, Choctaw Nation, depot grounds on the Arkansas and Choctaw Railway. Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Townsite_Limits_of_Soper,_Choctaw_Nation,_Indian_Territory,_Depot_Station_Grounds_on_the_Center_Line_of_the_Arkansas_and_Choctaw_Railway_-_DPLA_-_7c5273b4d055422f54b4ad042c99e094.jpg"
+     "cap": "Townsite limits of Soper, Choctaw Nation, depot grounds on the Arkansas and Choctaw Railway. Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Townsite_Limits_of_Soper,_Choctaw_Nation,_Indian_Territory,_Depot_Station_Grounds_on_the_Center_Line_of_the_Arkansas_and_Choctaw_Railway_-_DPLA_-_7c5273b4d055422f54b4ad042c99e094.jpg",
+     "kind": "record"
     }
    ]
   },
@@ -4101,7 +4119,7 @@
     "Ann Mercer was born on the 24th day of the 12th month 1666/7 at Ringwood in Hampshire, the daughter of Thomas Mercer of Andover and his wife Ann, Quakers who crossed to Pennsylvania about 1682-83 and settled in Aston Township, Chester County. Ann was William Brown's second wife. William, born at Wellingborough, Northamptonshire, in 1658, the son of Richard and Margery Browne, had married Dorothy in England, and their son Joseph was born there on 12 June 1682. Dorothy died at sea on the voyage to the Delaware. William went first to his brother James, a weaver at Marcus Hook, and in 1684, when Ann was seventeen, he married her.",
     "Gilbert Cope's 1864 list of the family, built from the Nottingham Monthly Meeting registers, gives the children Ann bore him: Mercer, born the 27th of the 12th month 1685; Ann, 1st of the 10th month 1687; William, 21st of the 7th month 1689; John, 3rd of the 5th month 1691; Richard, 31st of the 1st month 1693; and Thomas, 17th of the 11th month 1694. Mercer, named for her family and often written \"Messer,\" was the first. Ann Mercer died in 1696; a 1709 Quaker list of Friends who died in Pennsylvania names her as \"Ann Browne daughtr of said Thoms Mercer.\" Her father Thomas had died on 22 November 1694, eight weeks before her youngest, Thomas Brown, was born in January 1695.",
     "William married Catharine Williams of Philadelphia in 1699, and in 1702 he moved to the Nottingham Lots on the Pennsylvania-Maryland line, where Lots 23 and 33 were assigned to him. A 1902 history of the Brick Meeting House says that he \"was the first Friend to settle on the Nottingham lots\" and that the first meeting was held at his house in 1704. His fourth wife, whom he married in 1711, was Mary Matthews. The family memorandum entered at East Nottingham Monthly Meeting in 1786 calls him an elder and a substantial Friend, and puts his death in 1746 in his ninety-first year; the Wellingborough register, which gives his birth in 1658, would make him about eighty-eight.",
-    "The Ann Mercer family is the knot that ties several lines on this site. Her son William married Elizabeth Cowgill in 1715; her son Thomas married Elizabeth's sister Ellin in 1718/9; her son Richard married three times and ended with Mary Norton of Armagh in 1733; and William's daughter Elizabeth Brown married Mary's brother Edward Norton in 1739. Their daughter Margaret Norton married Joseph Chamness, and Margaret's daughter Martha married Robert Moffitt. Ann Mercer is Martha Chamness's great-great-grandmother, and so the ancestor of every child Martha bore Robert Moffitt."
+    "Ann Mercer’s descendants connect several branches of the family. Her son William married Elizabeth Cowgill in 1715; her son Thomas married Elizabeth's sister Ellin in 1718/9; her son Richard married three times and ended with Mary Norton of Armagh in 1733; and William's daughter Elizabeth Brown married Mary's brother Edward Norton in 1739. Their daughter Margaret Norton married Joseph Chamness, and Margaret's daughter Martha married Robert Moffitt. Ann Mercer is Martha Chamness's great-great-grandmother, and so the ancestor of every child Martha bore Robert Moffitt."
    ],
    "kv": [
     [
@@ -4445,7 +4463,7 @@
    "branch": "smith",
    "gen": 3,
    "place": "Mother of Samantha \"Mantha\" Johnson, who married John C. Satterfield in 1892. Daughter of Newton Jasper Clark and Mary \"Polly\" Elms.",
-   "note": "Linked by family memorials on Find a Grave. The memorial notes a 1850 census age of 3, which conflicts with a November 1851 birth. No husband is named on the memorials seen.",
+   "note": "Linked by family memorials on Find a Grave. The memorial notes an 1850 census age of 3, which conflicts with a November 1851 birth. No husband is named on the memorials seen.",
    "src": "Find a Grave memorials 269080605, 82285257 and 87367153. 1850 U.S. census, Butler Co., Ky.; Find a Grave (Samantha D. Stephens, Soper Cemetery).",
    "rel": "3rd great-grandmother",
    "body": [
@@ -4497,7 +4515,7 @@
     ]
    ],
    "note": "Lizzie’s father is named in the original marriage papers. Her mother remains unidentified. Balas has not yet been proved to be the Balous Newton found in other Etowah County records.",
-   "src": "1900 U.S. census; obituary of Hazel King (Find a Grave 200655081).; Alabama Select Marriage Indexes, 1816–1942, Lizzie Newton and John M. Shackleford, 1 Dec 1889, Etowah County, Ancestry record 80731.; Etowah County, Alabama, marriage records, volume C, page 460, John M. Shackleford and Lizzie Newton, November–December 1889; FamilySearch image 3QS7-894J-14JR, FHL film 1035318.",
+   "src": "1900 U.S. census; obituary of Hazel King (Find a Grave 200655081); Alabama Select Marriage Indexes, 1816–1942, Lizzie Newton and John M. Shackleford, 1 Dec 1889, Etowah County, Ancestry record 80731.; Etowah County, Alabama, marriage records, volume C, page 460, John M. Shackleford and Lizzie Newton, November–December 1889; FamilySearch image 3QS7-894J-14JR, FHL film 1035318.",
    "rel": "2nd great-grandparents",
    "ev": "probable",
    "imgs": [
@@ -4557,7 +4575,7 @@
     "William Brown Jr. was born on the 21st day of the 7th month 1689, the third child of the Nottingham pioneer William Brown and Ann Mercer. In 1715 he married Elizabeth Cowgill, born on the 24th of the 6th month 1694 at Middletown, Bucks County, to John Cowgill and Bridget Croasdale. Her father had come from Yorkshire in 1682; accounts differ on which ship carried the Settle families. He was a tanner who moved about 1713 or 1714 to the Delaware shore, where on 10 May 1718 he asked for another hundred acres, \"having erected a tan-yard on a branch of Black Bird's Creek.\" The marriage was recorded in Duck Creek Monthly Meeting as that of Elizabeth Cowgill, \"daughter of John Cowgill, of Duck Creek in New Castle,\" and William Brown, \"son of William Brown, of Nottingham.\"",
     "Cope's list gives the couple two children. John was born on the 27th of the 2nd month 1717 and died on the 12th of the 7th month 1723, aged six. Elizabeth was born in the twelfth month of 1718, which in modern dating is early 1719. Her mother died within about three years of that birth, before March 1721/2, when William married Margaret Davis. That marriage produced William (1722) and Jacob (1724), and William Jr. himself died about 1727. His widow married William Kirk on the 6th of the 3rd month 1730. Her stepdaughter Elizabeth was eight or nine when her father died. In 1739 the Nottingham book called her \"dt William & Elizabeth (Cowgill), both dec.\"",
     "The Cowgill sisters had already made two marriages with the Browns. Elizabeth's sister Ellin, born on the 14th of the 10th month 1700, married William's brother Thomas Brown in 1718/9; Thomas died on 19 February 1746/7, and Ellin lived to 5 January 1772, aged 71. Two immigrant families, one from Yorkshire and one from Northamptonshire and Hampshire, had become a single network of cousins at Nottingham.",
-    "The child they left carried the line. Elizabeth Brown married Edward Norton at West Nottingham on 16 October 1739, her uncle Richard Brown having married Edward's sister Mary six years before, and their daughter Margaret married Joseph Chamness at Cane Creek in 1763. The Cowgill and Brown stories on this site, the tan-yard, the Nottingham lots and the Norton certificate, meet in that one orphan."
+    "The child they left carried the line. Elizabeth Brown married Edward Norton at West Nottingham on 16 October 1739, her uncle Richard Brown having married Edward's sister Mary six years before, and their daughter Margaret married Joseph Chamness at Cane Creek in 1763. Through Elizabeth Brown, the Cowgill and Brown families became part of the Norton and Chamness lines."
    ],
    "ev": "probable",
    "title": "Two Cowgill sisters, two Brown brothers, and a daughter left behind",
@@ -5412,7 +5430,7 @@
    ],
    "src": "McCracken, Welcome Claimants Proved, Disproved and Doubtful, vol. 2; Patterson, Quaker Emigrants to America (Swarthmore); Cleaver, Ancestry of Allenn Grinnell Cleaver and Martha Irene Jessup, 1989, pp. 328-9; as cited on WikiTree Croasdale-17 (https://www.wikitree.com/wiki/Croasdale-17)",
    "title": "Friends of Newhey, and the son who crossed the Atlantic",
-   "hook": "Thomas Croasdale's parents are buried side by side at Settle Meeting; the authors call it 'highly probable' that they are the parents of the emigrant.",
+   "hook": "William and Elizabeth Croasdale were buried side by side at Settle Meeting; a family history calls it 'highly probable' that they were the emigrant Thomas's parents.",
    "body": [
     "William Croasdale of Newhey in the Forest of Bowland died on the 29th day of the 11th month 1666 and was buried on the 31st at the Friends' burial ground at Settle Meeting, Newton. His wife Elizabeth died in the 4th month of 1672 and was buried next to him.",
     "The Welcome Society's reference work and Patterson's list of Quaker emigrants both place a Thomas, son of William and Elizabeth, at Settle. Cleaver, the family genealogist cited on WikiTree, calls it 'highly probable' that William and Elizabeth were the parents of the Thomas who emigrated to Pennsylvania in 1682, while noting that other parentage has been suggested. In every proposed line, Henry Croasdale of Newhey is the common ancestor.",
@@ -5449,7 +5467,7 @@
    ],
    "src": "Waddington parish register (FreeREG; Ancestry Yorkshire Parish Records 1599-1812); FamilySearch England Births and Christenings; YAS Record Series; as cited on WikiTree Croasdale-34 (https://www.wikitree.com/wiki/Croasdale-34)",
    "title": "Henry Croasdale of Newhey, yeoman",
-   "hook": "A Bowland yeoman made his will in September 1652 and was buried at Waddington three weeks later, naming his son William as administrator.",
+   "hook": "A Bowland yeoman named his son William as administrator in his September 1652 will and was buried at Waddington three weeks later.",
    "body": [
     "Henry Croasdale lived at Newhey in the Forest of Bowland, within the parish of Waddington. The register records three of his children between 1616 and 1621: Elizabeth, buried 1 June 1616; Edward, baptized 13 January 1617/8; and William, baptized 24 October 1621.",
     "His burial reads 'Henry Croasdell buried Oct: 10' (1652). He had made his will the month before, on 21 September 1652, as 'Henrie Croasdale, yeoman; Newhay within Bolannd', with his son William as administrator; it was registered in 1654.",
@@ -5572,7 +5590,7 @@
    "hook": "A Chesterfield Meeting birth record gives a John Rogers born in 1687 to John and Mary; whether he is the John Rogers whose son Thomas married Ann Staples is not settled.",
    "body": [
     "The Burlington County Quaker John Rogers, born about 1656 at Rotherham, is said to have crossed with Friends on the Kent, which loaded at London in March 1677 and landed at the Delaware in 1678. He married Mary Groom, who died on 13 February 1693, and the couple had at least five children.",
-    "WikiTree attaches this family to the John Rogers born 'the 5th day of the 1st month 1687' at Nottingham, Burlington County, on the strength of the Chesterfield Monthly Meeting birth record, and gives that John a wife Martha Middleton, whose mother's 1712 will names a 'son-in-law John Rogers' - a fact already in this tree.",
+    "WikiTree attaches this family to the John Rogers born 'the 5th day of the 1st month 1687' at Nottingham, Burlington County, on the strength of the Chesterfield Monthly Meeting birth record, and gives that John a wife Martha Middleton, whose mother's 1712 will names a 'son-in-law John Rogers'.",
     "The trouble is the John Rodgers whose will was proved in 1767 and who left his son Thomas one-fifth of the residue. WikiTree's John Rogers has ten children and a will of 1769 proved in 1776 at Windsor, which does not match. The two may be different men."
    ],
    "ev": "lead",
@@ -6648,7 +6666,7 @@
     }
    ],
    "title": "Postmaster and judge of Doaksville",
-   "hook": "Vinson's brother was a Towson County judge, Doaksville's postmaster, and once talked of for Principal Chief.",
+   "hook": "Vinson's brother was a Towson County judge and Doaksville's postmaster, and he was considered for Principal Chief.",
    "body": [
     "Doaksville was the capital of the Choctaw Nation from 1858 to 1863. By 1850 it was the largest town in Indian Territory, and in 1860 a convention there adopted the constitution that governed the Choctaw Nation until 1906. At the end of the Civil War there were two surrenders at Doaksville: Principal Chief Peter Pitchlynn surrendered the Choctaw forces on 19 June 1865, and General Stand Watie surrendered his Cherokee, Creek, Seminole and Osage troops on 23 June, the last Confederate general to lay down arms.",
     "Edward Ward Tims, Choctaw by Blood No. 4009, served as District Trustee of Apukshunnubbee District in the early 1880s and for many years as County Judge of Towson County. On 24 October 1887 he was appointed postmaster at Doaksville, succeeding James T. Fleming; the office closed in 1903, when the name changed to Fort Towson.",
@@ -6979,7 +6997,7 @@
    "branch": "thompson",
    "rel": "Place the family lived",
    "title": "Fort Towson: the army post built to receive the Choctaw",
-   "hook": "The fort existed before the Choctaw arrived, to be a buffer for people still in Mississippi.",
+   "hook": "The Army established Fort Towson in 1824, before the forced removal of the Choctaw from Mississippi.",
    "body": [
     "In May 1824 a company of the Seventh Infantry camped on Gates Creek near the Kiamichi and Red rivers. The outpost, Cantonment Towson, was named for Gen. Nathan Towson.",
     "It was abandoned in 1829. After the Treaty of Dancing Rabbit Creek it reopened in 1830 as Camp Phoenix and was soon renamed Fort Towson. The Oklahoma Historical Society says the fort was meant as a buffer for the Choctaw slated for removal to the area, and it later served as a terminal on the Choctaw Trail of Tears.",
@@ -7020,11 +7038,11 @@
    "branch": "thompson",
    "rel": "Place the family lived",
    "title": "The Atoka Agreement and the end of Choctaw common land",
-   "hook": "The 1897 deal that turned shared tribal land into individual allotments is why the Dawes rolls exist.",
+   "hook": "The 1897 agreement between the Choctaw and Chickasaw Nations and the Dawes Commission set terms for dividing tribal lands into individual allotments.",
    "body": [
-    "The Atoka Agreement was signed April 23, 1897 by representatives of the Choctaw and Chickasaw Nations and the Dawes Commission. Common tribal land was to be divided into household allotments for certified citizens, with surplus land sold to non-Natives. Coal and asphalt lands were reserved and sold or leased for the tribes' benefit.",
+    "On 23 April 1897, representatives of the Choctaw and Chickasaw Nations and the Dawes Commission signed the Atoka Agreement. It set terms for dividing tribal lands into individual allotments and reserved coal and asphalt lands. The agreement treated Freedmen and their descendants unequally, assigning them smaller allotments.",
     "Tribal governments were to end on March 4, 1906. Both nations ratified it in November 1897, but Chickasaw voters rejected it under Chickasaw law. The Curtis Act of 1898 required resubmission, and approval came in a joint election on August 24, 1898.",
-    "Enrolling for an allotment is the reason a family like this appears on the Dawes cards between 1898 and 1906."
+    "The Dawes Commission had been established in 1893, before the agreement. The enrollment process later produced cards naming individual family members, including the Thompsons and Pisachubbes."
    ],
    "ev": "probable",
    "tags": [
@@ -7032,7 +7050,7 @@
    ],
    "quotes": [],
    "note": "Background to the Dawes enrollment; connection to specific cards is covered by existing stories.",
-   "src": "Wikipedia, Atoka Agreement"
+   "src": "Matthew Rex Cox, 'Atoka Agreement,' Encyclopedia of Oklahoma History and Culture, Oklahoma Historical Society, https://www.okhistory.org/publications/enc/entry?entry=AT004; Oklahoma Historical Society, 'The Dawes Commission and the Allotment of the Five Tribes,' https://www.okhistory.org/learn/opening6; 1902 Supplemental Agreement with the Choctaw and Chickasaw, https://treaties.okstate.edu/treaties/agreement-with-the-choctaw-and-chickasaw-1902-22427."
   },
   {
    "id": "smith-butler-monument",
@@ -7135,7 +7153,7 @@
    "ev": "probable",
    "tags": [],
    "quotes": [],
-   "note": "Place story. Complements the neighbors story already in the app.",
+   "note": "The Smith and Satterfield families lived in the Hagansport area.",
    "src": "Handbook of Texas, Hagansport (https://www.tshaonline.org/handbook/entries/hagansport-tx)",
    "imgs": [
     {
@@ -7340,7 +7358,7 @@
     "choctaw"
    ],
    "quotes": [],
-   "note": "Place story. Grady and the timber work are already in the app; this gives the town's setting. No specific mill is tied to our family here.",
+   "note": "No particular sawmill has been tied to the family's timber work.",
    "src": "Wikipedia, Hugo, Oklahoma (en.wikipedia.org/wiki/Hugo,_Oklahoma)",
    "imgs": [
     {
@@ -7364,11 +7382,6 @@
     {
      "s": "img/places/hugo_sanborn_1918.jpg",
      "cap": "Hugo, Oklahoma, Sanborn fire insurance map, 1918, plate 1 (Library of Congress). Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Sanborn_Fire_Insurance_Map_from_Hugo,_Choctaw_County,_Oklahoma,_1918,_Plate_0001.jpg"
-    },
-    {
-     "s": "img/places/hugo_courthouse_2016.jpg",
-     "cap": "Choctaw County Courthouse, Hugo, Oklahoma (photographed 2016). Wikimedia Commons, CC BY-SA 4.0, Michael Barera. Source: https://commons.wikimedia.org/wiki/File:Hugo_March_2016_23_(Choctaw_County_Courthouse).jpg",
-     "kind": "photo"
     },
     {
      "s": "img/places/hugo_courthouse_2015.jpg",
@@ -7741,12 +7754,12 @@
    "years": "1914–1972",
    "branch": "moffitt",
    "rel": "Great-grandparents",
-   "title": "Nine children, a timber camp and a rented house in Hugo",
-   "hook": "Grady and Mary raised nine children through Ervin, Wilson, West Texas and Hugo, and buried three of them.",
+   "title": "A timber camp and a rented house in Hugo",
+   "hook": "Grady and Mary raised their family in Oklahoma and Texas and buried three of their children.",
    "body": [
     "Grady and Mary married about 1914. Their first son, Alvin, was born in September 1915. In 1917 Grady's draft card puts him at Ervin, Oklahoma, a place that existed only from 1904 to 1922, as a timberman for C. D. Neese. Which sawmill that was is not recorded. The county's biggest one was the Pine Belt Lumber Company at Fort Towson, begun in 1902.",
     "Hugo was a young town. It was founded in 1901 where the Frisco's north-south line crossed the Arkansas & Choctaw, and the Frisco depot went up in 1914. Grady's family rented there at 411 North H Street by 1940.",
-    "The children, with the dates family trees give, were Alvin B. (1915-1994, U.S. Army Air Corps in World War II), Odas Eugene (1918-1995; \"Odis\" in the census, and \"Ottis\" in 1920), Dois L. (1921-1947), Jimmie Gaynell (1923-1926), John Winfred (1925-1990), the twins Alton V. (1928-1975) and Eldon Herman (1928-2014), Donald K. (1931-2014) and Henry Wayne (1934-1937). The two toddlers who died were three years old.",
+    "Family trees name the following children, with these dates: Alvin B. (1915-1994, U.S. Army Air Corps in World War II), Odas Eugene (1918-1995; \"Odis\" in the census, and \"Ottis\" in 1920), Dois L. (1921-1947), Jimmie Gaynell (1923-1926), John Winfred (1925-1990), the twins Alton V. (1928-1975) and Eldon Herman (1928-2014), Donald K. (1931-2014) and Henry Wayne (1934-1937). The two toddlers who died were three years old.",
     "In 1930, with six boys, they were living with Mary's parents, John Morgan and Lizzie Shackleford, in Martin County, Texas. That is the county where Mary's father is buried. In 1940 Grady, 48, had been out of work for 50 weeks and earned $100.",
     "Grady's brother Tom farmed beside him in 1920 and later lived in Paris, Texas, where he died in 1953, with a stone marked WW I and WW II. Their brother Jesse is buried at Tahoka, Texas. Grady and Mary lie at Shoat Springs Cemetery near Hugo.",
     "The Shoat Springs transcription confirms the full dates for the two children who died young: Jimmie Gaynell, 17 January 1923 to 26 October 1926, and Henry Wayne, 13 January 1934 to 12 May 1937."
@@ -7845,7 +7858,7 @@
     ]
    ],
    "note": "John Morgan's birth is 1862 on his memorial and 1863 in the 1930 census. His parents-of-Mary link rests on Find a Grave family links, the 1889 marriage and the 1900 census; Mary's 1962 death certificate should name them. The source of Mary's middle name, Tinsley, is unknown.",
-   "src": "1900 U.S. Census, Gilbert, Etowah Co., Ala.; 1930 U.S. Census, Martin Co., Tex.; Find a Grave (John Morgan Shackleford, Catherine E. Shackelford, Balis Shackleford); Alabama Select Marriage Indexes, 1816–1942, Lizzie Newton and John M. Shackleford, 1 Dec 1889, Etowah County, Ancestry record 80731 (transcribed index), https://www.ancestry.com/search/collections/60000/records/80731.; Etowah County marriage book C, p. 460, attached consent and affidavit, November 1889, FamilySearch image 548 of 710, 3QS7-894J-14JR.; The Apache Review, 9 Nov 1951, p. 1, https://www.newspapers.com/image/743077256/; Anadarko Daily News, 9 Nov 1951, p. 1, https://www.newspapers.com/image/873866750/.",
+   "src": "1900 U.S. Census, Gilbert, Etowah Co., Ala.; 1930 U.S. Census, Martin Co., Tex.; Find a Grave (John Morgan Shackleford, Catherine E. Shackelford, Balis Shackleford); Alabama Select Marriage Indexes, 1816–1942, Lizzie Newton and John M. Shackleford, 1 Dec 1889, Etowah County, Ancestry record 80731 (transcribed index), https://www.ancestry.com/search/collections/60000/records/80731; Etowah County marriage book C, p. 460, attached consent and affidavit, November 1889, FamilySearch image 548 of 710, 3QS7-894J-14JR.; The Apache Review, 9 Nov 1951, p. 1, https://www.newspapers.com/image/743077256/; Anadarko Daily News, 9 Nov 1951, p. 1, https://www.newspapers.com/image/873866750/.",
    "source_link": "https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR"
   },
   {
@@ -8058,7 +8071,7 @@
     }
    ],
    "note": "This is a son's memory, set down in 1937. Details such as dates and the order of his father's schooling are his recollection, not records.",
-   "src": "Indian-Pioneer Papers, Joel J. Thompson interviews #7392 and #7418 (Works Progress Administration, Hugo, 28 Aug 1937).; Dawes Card 1283, Joel J. Thompson, roll 3490; shared Joel John and Ira Mae Thompson headstone (29 Jan 1892–20 Jun 1977).",
+   "src": "Indian-Pioneer Papers, Joel J. Thompson interviews #7392 and #7418 (Works Progress Administration, Hugo, 28 Aug 1937); Dawes Card 1283, Joel J. Thompson, roll 3490; shared Joel John and Ira Mae Thompson headstone (29 Jan 1892–20 Jun 1977).",
    "imgs": [
     {
      "s": "img/wpa_interview_p2.jpg",
@@ -8069,17 +8082,16 @@
      "cap": "World War I draft registration card of Joel Thompson, age 25, farmer at Corinne, Choctaw County, Oklahoma, born 29 January 1892 at Doaksville; registered 5 June 1917. He lists a wife and children."
     },
     {
-     "s": "img/p/joel_ira_later.jpg",
-     "cap": "Joel and Ira Thompson in later life, standing by a white frame house (color print). Photograph shared in a public Ancestry member tree",
-     "kind": "photo"
-    },
-    {
      "s": "img/stones/joel_j_thompson_headstone_4.jpg",
      "cap": "Joel John and Ira Mae Thompson's shared headstone: Ira Mae (Nov 23 1892 - Jun 17 1985), Joel John (Jan 29 1892 - Jun 20 1977), 'At Peace'. Photograph shared in a public Ancestry member tree"
     }
    ],
    "ph": "joel_thompson_young",
-   "source_link": "https://digital.libraries.ou.edu/cdm/singleitem/collection/indianpp/id/5285/rec/1"
+   "source_link": "https://digital.libraries.ou.edu/cdm/singleitem/collection/indianpp/id/5285/rec/1",
+   "photo_sets": [
+    "joel_ira",
+    "joel_ira_later"
+   ]
   },
   {
    "id": "allotment-1903",
@@ -9205,7 +9217,8 @@
     },
     {
      "s": "img/places/tuskahoma_depot_1901.jpg",
-     "cap": "Frisco depot reserve at Tuskahoma Station, Choctaw Nation, 1901 (Dept. of the Interior). Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:St_Louis_and_San_Francisco_Railway,_Depot_Reserve_in_the_Choctaw_Nation,_Indian_Territory,_Tuskahoma_Station,_15th_Reservation(2_copies)_-_DPLA_-_34babc7f8f249051d13de15abf08e51f.jpg"
+     "cap": "Frisco depot reserve at Tuskahoma Station, Choctaw Nation, 1901 (Dept. of the Interior). Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:St_Louis_and_San_Francisco_Railway,_Depot_Reserve_in_the_Choctaw_Nation,_Indian_Territory,_Tuskahoma_Station,_15th_Reservation(2_copies)_-_DPLA_-_34babc7f8f249051d13de15abf08e51f.jpg",
+     "kind": "record"
     }
    ]
   },
@@ -9937,7 +9950,7 @@
    "tags": [
     "military"
    ],
-   "note": "The NPS soldier record names a Calvin V. Moffitt; whether that soldier was Nathan's son is unconfirmed. The family-tree profiles and the Strawberry Township household establish a separate family lead. The dates of Matilda's and the infant's deaths come from a tree import and no certificate has been seen. A 1880 census entry at Janes Creek, Randolph County, attached to him in that profile does not fit his children being born in Missouri through 1889, so it is not used here.",
+   "note": "The NPS soldier record names a Calvin V. Moffitt; whether that soldier was Nathan's son is unconfirmed. The family-tree profiles and the Strawberry Township household establish a separate family lead. The dates of Matilda's and the infant's deaths come from a tree import and no certificate has been seen. An 1880 census entry at Janes Creek, Randolph County, attached to him in that profile does not fit his children being born in Missouri through 1889, so it is not used here.",
    "branch": "moffitt",
    "quotes": []
   },
@@ -10308,19 +10321,19 @@
      "Jimmie Gaynell (1923-1926), Henry Wayne (1934-1937)"
     ]
    ],
-   "title": "Nine children, three lost: the rest of Grady's boys",
+   "title": "Grady and Mary's sons",
    "hook": "Grady and Mary raised five more sons to adulthood beside John and Dois, and lost two toddlers and Dois himself.",
    "body": [
     "Alvin B., born in September 1915, was the first of Grady and Mary's children. He served in the U.S. Army Air Corps in World War II and died in 1994.",
     "Odas Eugene (1918-1995) was \"Odis, 21\" in the 1940 census and \"Ottis\" in 1920. The twins Alton V. and Eldon Herman were born in 1928 and were 11 in 1940; Donald K., born in 1931, was 8.",
-    "Two children died at three years old: Jimmie Gaynell in 1926 and Henry Wayne in 1937. With Dois, who died after breaking his neck in the Red River in 1947, that makes three of the nine buried before their parents."
+    "Two children died at three years old: Jimmie Gaynell in 1926 and Henry Wayne in 1937. They and Dois, who died after breaking his neck in the Red River in 1947, were three of the children who died before their parents."
    ],
    "src": "1920, 1930 and 1940 U.S. censuses (Choctaw Co., Okla.; Martin Co., Tex.; Hugo); Find a Grave family links (Shoat Springs Cemetery); family-tree dates",
    "ev": "probable",
    "tags": [
     "military"
    ],
-   "note": "Dates are the ones family trees give; they repeat what the Grady and Mary entry already says, with names added.",
+   "note": "The dates listed for these children come from census records and family-tree entries; some exact dates need independent confirmation.",
    "branch": "moffitt",
    "quotes": []
   },
@@ -11286,7 +11299,7 @@
    "rel": "Possible kin of Salathiel Hulsey (4th great-grandfather)",
    "place": "Hall County, Georgia",
    "title": "Seventeen Hulsey households in Hall County, 1830",
-   "hook": "Salathiel Hulsey was one of a whole neighborhood of South Carolina-born Hulseys; his place in that family is the open question.",
+   "hook": "The 1830 Hall County census names seventeen Hulsey households; Salathiel’s relationship to the others remains unknown.",
    "body": [
     "The 1830 census of Hall County, Georgia, a county formed in 1818 from the Cherokee cession, lists seventeen heads of household named Hulsey, among them Charles, Adler Jr., Joel, Elija, Demsey, William, Sarah, Pleasant, James, Adler Sr., Armistead, Hiram, Micajah, Jesse, Salathiel, Charles F. and Vincent. Printed lists of the 1832 Cherokee land lottery also carry Hall County names such as Pleasant T. Hulsey, James Halsey and Alder Halsey Jr., all in Hall County districts.",
     "A 1997 newsletter article, drawing on The Hulsey Book by Lou Pero, traces the senior line: Charles Hulsey and his wife Hannah, married about 1752, lived in Pittsylvania County, Virginia, in the 1770s, near the North Carolina line, then in Greenville County, South Carolina. A Greenville deed of 1792 names their sons \"James, Charles, Jesse, Adonijah and Adler.\" The article says the family name was spelled \"interchangeably Huddlesy, Hulsey, Huldsey.\"",
@@ -13688,7 +13701,7 @@
      "c": "Soil Survey of Franklin County, Texas (1908), p. 931"
     }
    ],
-   "note": "Place story from a government survey. It names no ancestor; the census facts about the Smiths and Satterfields come from entries already in the app."
+   "note": "The soil survey describes the area, not an individual ancestor; the family details come from census records."
   },
   {
    "id": "sd-abner-fifteen",
@@ -13702,7 +13715,7 @@
     "Rev. Abner A. Stevenson and Martha S. Watson were married on 8 December 1838. A family history compiled from the Stevenson family sketches of the 1950s lists their fifteen children, all born in Giles County: Lucinda C. (3 May 1840), William Elam Fletcher (9 April 1842), Lydia Mary Eliza (20 December 1843), Catherine M. Frances (10 January 1846), Augustus Summerfield (30 October 1847), Ellen Tillman and James Willis (twins, 30 January 1850), Larkin Henry (12 October 1852), Amanda Elizabeth (21 October 1854), Julia Ann Desdemona (July 1857), John Edward Thomas (16 September 1859), the twins Gilbert Franklin and George Washington (both 17 November 1861), Wilson McAlister (15 August 1864) and Manerva Jane (22 July 1866).",
     "The 1870 census, as printed on the WikiTree page for Frank, finds the household in District 10 with A. A. Stevenson, 54, Martha, 47, and eleven children: Lucinda 28, James 20, Ellen 20, Larkin 18, Amanda 16, Julia A. 14, John E. 12, George W. 8, Gilbert 8, Mack 5 and Manerva J. 3. The two eight-year-olds are the twins. By 1880 the house was nearly empty: Abner, 63, \"Farming Preacher,\" Martha, 56, Gilbert F., 18, Wilson M., 16 and Jane M., 12, with three hired or fostered Whittaker children and a one-year-old grandchild named Berry Andrew, born in Alabama. The Andrew grandchild was probably the youngest son of Abner's daughter Eliza, who had died in November 1878 (lead).",
     "Several of the dates check against the Bee Spring graveyard. W. Mack Stevenson is on the cemetery list as born 15 August 1864 and dead 30 June 1940, which matches Wilson McAlister. Nathan A. Stevenson, 12 November 1870 to 21 July 1936, is Abner's grandson Nathaniel, William's son. Werner W. Stevenson, 4 March 1880 to 23 June 1974, is James Willis's son. Abner himself lies there, as does Martha S., 19 February 1823 to 12 July 1887.",
-    "The children scattered. Lucinda married Perry Pittman Williams and died in 1920; Eliza Mary married John Newton Andrew on 20 December 1870 and died in 1878; Frances married J. M. Whitaker and died on 18 April 1889; Summerfield went to Arkansas and was buried near Crowley's Ridge; Ellen married James Marion Britton; Julia went to Texas as John Newton Andrew's third Stevenson wife; Edward died in El Paso; George became a judge at Lubbock; James Willis became a Methodist minister; Manerva married Andrew R. Merrill and moved to Ardmore, Tennessee. Frank went to Indiana. Each has a short story of her or his own in this section."
+    "The children scattered. Lucinda married Perry Pittman Williams and died in 1920; Eliza Mary married John Newton Andrew on 20 December 1870 and died in 1878; Frances married J. M. Whitaker and died on 18 April 1889; Summerfield went to Arkansas and was buried near Crowley's Ridge; Ellen married James Marion Britton; Julia went to Texas as John Newton Andrew's third Stevenson wife; Edward died in El Paso; George became a judge at Lubbock; James Willis became a Methodist minister; Manerva married Andrew R. Merrill and moved to Ardmore, Tennessee. Frank went to Indiana."
    ],
    "ev": "probable",
    "src": "Robert Casey, Interactive Family Histories, \"Stevenson, Arrington and Tucker Families,\" Master Publication pp. 3-98 to 3-120 (http://www.rcasey.net/master/steelam.htm and steabner.htm); WikiTree profiles (api.wikitree.com) for Gilbert Franklin Stevenson (Stevenson-12558), Parsis Jane O'Neal (O'Neal-3514) and Daniel Waters O'Neal (O'Neal-2667), with the 1870, 1880 and 1910 census transcriptions printed there; Bee Spring Cemetery listing, Giles County, Tennessee (Giles Co. TNGenWeb cemetery page); Goodspeed list of Elam Stevenson's children, p. 872.",
@@ -13966,11 +13979,11 @@
    "rel": "3rd great-granduncle (brother of Abner)",
    "place": "Near Bryson, Giles County, Tennessee",
    "title": "Golden-wedding preacher, and a general in the family",
-   "hook": "\"Uncle Jimmie,\" who preached 63 years, planned a golden wedding for October 1885; a great-grandson was probably the lieutenant general who died in Iceland in 1943.",
+   "hook": "A Tennessee preacher’s family connects the Stevenson line to an Army Air Forces commander.",
    "body": [
     "James Calvin Stevenson was born on 23 June 1813 in North Carolina and brought to Giles County as a babe. On 19 November 1835 he married Margaret Caroline Brown, born on 8 December 1816. County marriage returns of the 1850s and 1860s name \"James C. Stevenson\" as the officiating minister at several weddings, among them Swinney-Dyer on 19 January 1852, Young-Huff on 3 November 1852, Stovall-Stephenson on 3 September 1860 and Woodard-Barnfield on 25 August 1862.",
     "On 20 August 1885 the Pulaski Citizen's county correspondent visited \"our old friends, Rev. and Mrs. Jas. C. Stevenson of near Bryson,\" who \"speak of celebrating their golden wedding in October.\" Margaret died on 11 February 1886. James lived until 23 February 1899 and is buried beside her at Bee Spring. His ten children included Catherine Eliza (1838) and another daughter, Sarah, who married James Hollon.",
-    "Catherine Eliza married William Thomas Andrews in 1856. He was a minister, born in Alabama in 1838, the son of David Andrews and Eliza Brown. Their sons became a minister (John), a physician (Charles) and a writer and real estate man (James David Andrews, a \"newspaper reporter and author\"). The Casey family history adds that James David married Lula A. Maxwell and that their son Frank Andrews \"was a general and died off the coast of Iceland.\" That fits Lt. Gen. Frank Maxwell Andrews, killed in an airplane crash in Iceland on 3 May 1943. Wikipedia records him as born in Nashville in 1884 and as a great-great-nephew of the Tennessee governors John C. and Neill S. Brown, which fits the Brown mother in this line. No record that names his parents has been seen, so the identification is probable, not proven."
+    "Eliza Catherine Stevenson married the Rev. William Thomas Andrews in 1856. In his 1912 autobiography he named her as the daughter of James C. and Margaret C. Stevenson and listed their son James David Andrews. James David’s 1937 memorial names his son Major General Frank M. Andrews; the Nashville Public Library’s family papers identify him as Frank Maxwell Andrews. He became a lieutenant general and the namesake of Andrews Field, now Joint Base Andrews."
    ],
    "ev": "probable",
    "tags": [
@@ -13986,8 +13999,8 @@
      "c": "Casey family history, p. 3-107"
     }
    ],
-   "src": "Robert Casey, Interactive Family Histories, \"Stevenson, Arrington and Tucker Families,\" Master Publication pp. 3-98 to 3-120 (http://www.rcasey.net/master/steelam.htm and steabner.htm) (James Calvin Stevenson, Catherine Eliza Stevenson); The Pulaski Citizen, 20 Aug 1885, p. 3; Bee Spring Cemetery listing, Giles County, Tennessee (Giles Co. TNGenWeb cemetery page); Giles County marriage returns (Giles Co. TNGenWeb marriage index, grooms S-Y); Wikipedia, \"Frank Maxwell Andrews,\" early life.",
-   "note": "The family history gives 14 January 1892 as James C.'s death, which belongs to his brother William Payne on the cemetery list. The cemetery date of 23 February 1899 is used here. The Andrews connection comes from the family history only.",
+   "src": "Robert Casey, Interactive Family Histories, \"Stevenson, Arrington and Tucker Families,\" Master Publication pp. 3-98 to 3-120 (http://www.rcasey.net/master/steelam.htm and steabner.htm) (James Calvin Stevenson, Catherine Eliza Stevenson); The Pulaski Citizen, 20 Aug 1885, p. 3; Bee Spring Cemetery listing, Giles County, Tennessee (Giles Co. TNGenWeb cemetery page); Giles County marriage returns (Giles Co. TNGenWeb marriage index, grooms S-Y); Wikipedia, \"Frank Maxwell Andrews,\" early life.; W. T. Andrews, Memorial Sketches (1912), pp. 340–341, https://archive.org/details/memorialsketches00andr/page/340/mode/1up; The Pulaski Citizen, 10 Mar 1937, https://tngenweb.org/gilestn/obituaries/GC1930-1939_Obits.html; Nashville Public Library, James D. Andrews Papers, https://assets.library.nashville.gov/documents/finding-aids/Special_Collections_Division_Finding_Aid_AndrewsSeries2.pdf; Goodspeed (1886), https://www.tngenweb.org/goodspeed/giles/bios.html; Elam Stevenson will, https://ahgp.org/tn/giles/wills/stev.htm.",
+   "note": "The 1912 autobiography, 1937 newspaper account and Nashville Public Library papers identify the generations from James Calvin Stevenson to Frank Maxwell Andrews. Elam Stevenson’s will and the 1886 Goodspeed sketch support the connection between James Calvin and his brother Abner, the direct ancestor.",
    "branch": "hulsey",
    "kv": []
   },
@@ -14656,7 +14669,7 @@
     "The census calls Margaret M. a daughter and George W. and Charles F. sons of B. F. Margaret had been born about 1874, George about 1875–76, and Charles early in 1880. Sarah G. appears as B. F.’s wife. Those relationships establish the household, but they do not expressly establish that Sarah was every child’s biological mother.",
     "A later family query in the Arkansas Family Historian connects a Benjamin F. Hulsey with a son George Washington and children named Charles, Mary and Francis. It also gives a wife named Margaret Partain and dates that conflict with other accounts. The overlapping names are useful clues, but the query does not resolve the mother’s identity or prove that all the Benjamin Hulsey records concern one man."
    ],
-   "note": "The original 1880 census records B. F. Hulsey, 32, born Georgia, with wife Sarah G., 30, born Arkansas, and son George W., 4, in Center Township, Montgomery County, Arkansas. George’s December 1875 birth in the 1900 Sulphur Springs census and 24 December 1875 birth on his 1918 draft card are consistent with the child’s age. A 1977 family query independently identifies Benjamin F. as George’s father. The connection remains probable: no record yet explicitly connects the adult George, husband of Sarah Rebecca Graves, to the named 1880 parents. This household has not been securely identified with the separate Benjamin Franklin Hulsey biography or with Sylvania Partain. The 1977 query is an unsourced family-research submission with conflicting names and dates; it calls the wife Margaret Partain and gives a 1921 death. It is supporting evidence, not proof of the connection or of a mother’s identity.",
+   "note": "The original 1880 census records B. F. Hulsey, 32, born Georgia, with wife Sarah G., 30, born Arkansas, and son George W., 4, in Center Township, Montgomery County, Arkansas. George’s December 1875 birth in the 1900 Sulphur Springs census and 24 December 1875 birth on his 1918 draft card are consistent with the child’s age. A 1977 family query associates a Benjamin F. Hulsey with a son named George Washington. The connection remains probable: no record yet explicitly connects the adult George, husband of Sarah Rebecca Graves, to the named 1880 parents. This household has not been securely identified with the separate Benjamin Franklin Hulsey biography or with Sylvania Partain. The 1977 query is an unsourced family-research submission with conflicting names and dates; it calls the wife Margaret Partain and gives a 1921 death. It is supporting evidence, not proof of the connection or of a mother’s identity.",
    "source_link": "https://www.familysearch.org/ark:/61903/3:1:33S7-9YYN-SL1S",
    "src": "1880 U.S. census, Center Township, Montgomery County, Arkansas, ED 113, page 23, stamped 431A, household 216, NARA T9 roll 52; 1900 U.S. census, Sulphur Springs Township, Montgomery County, George Hulsey (FamilySearch M365-N1R); George W. Hulsey draft registration, 12 Sep 1918 (K359-2S8). Franklin L. Hulsey family query, Arkansas Family Historian 15:4 (Dec 1977), p. 218, https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26.",
    "imgs": [
@@ -14688,6 +14701,108 @@
     {
      "s": "img/rec/hulsey-1880-household.jpg",
      "cap": "Sarah G., age thirty, appears as B. F. Hulsey’s wife in household 216."
+    }
+   ]
+  },
+  {
+   "id": "frank-maxwell-andrews",
+   "name": "Lt. Gen. Frank Maxwell Andrews",
+   "years": "1884–1943",
+   "branch": "hulsey",
+   "rel": "3rd cousin, twice removed",
+   "ev": "proven",
+   "tags": [
+    "military",
+    "notable"
+   ],
+   "ph": "frank_maxwell_andrews",
+   "title": "The air commander behind the Andrews name",
+   "hook": "From the Stevenson family in Tennessee came Frank Maxwell Andrews, a pioneer of American air power and the namesake of Joint Base Andrews.",
+   "body": [
+    "Frank Maxwell Andrews was born in Nashville on 3 February 1884, the son of James David Andrews and Lula Adaline Maxwell. He graduated from West Point in 1906 and began his Army career in the cavalry. During the First World War he entered aviation and earned his pilot’s wings in 1918.",
+    "In 1935 Andrews took command of the newly organized General Headquarters Air Force. He argued for a modern long-range bomber force and supported developing and buying the Boeing B-17. By 1943 he was commanding United States forces in the European theater, where American and Allied forces were preparing for the campaigns ahead.",
+    "When his father died in 1937, Frank recalled how the family had traveled to a world’s fair by train under oil lamps when he was a boy. Years later he flew his father to the Chicago fair in an amphibious airplane, landing on Lake Michigan.",
+    "On 3 May 1943 Andrews was killed when the B-24 bomber Hot Stuff crashed in Iceland. In 1945 Camp Springs Army Air Field in Maryland was renamed Andrews Field in his honor; it became Andrews Air Force Base in 1948 and is now part of Joint Base Andrews.",
+    "The family connection runs through the Stevenson line. Elam and Lydia Stevenson’s sons included Abner Arrington Stevenson, our ancestor, and his brother James Calvin. James’s daughter Eliza Catherine married William Thomas Andrews; their son James David was Frank’s father. Elam and Lydia are the shared ancestors."
+   ],
+   "kv": [
+    [
+     "Born",
+     "3 Feb 1884, Nashville, Tennessee"
+    ],
+    [
+     "West Point",
+     "Graduated 1906; earned pilot wings in 1918"
+    ],
+    [
+     "Command",
+     "General Headquarters Air Force, 1935–1939; European theater, 1943"
+    ],
+    [
+     "Died",
+     "3 May 1943, Iceland"
+    ],
+    [
+     "Family line",
+     "Elam Stevenson → James Calvin Stevenson → Eliza Catherine Stevenson → James David Andrews → Frank Maxwell Andrews"
+    ]
+   ],
+   "src": "Nashville Public Library, James D. Andrews Papers, Series II: Frank Maxwell Andrews, https://assets.library.nashville.gov/documents/finding-aids/Special_Collections_Division_Finding_Aid_AndrewsSeries2.pdf; Rev. W. T. Andrews, Memorial Sketches (1912), pp. 340–341, https://archive.org/details/memorialsketches00andr/page/340/mode/1up; The Pulaski Citizen, 10 Mar 1937, James David Andrews memorial, https://tngenweb.org/gilestn/obituaries/GC1930-1939_Obits.html; Goodspeed, History of Tennessee (1886), Coleman L. Stevenson sketch, https://www.tngenweb.org/goodspeed/giles/bios.html; National Museum of the U.S. Air Force, Lt. Gen. Frank M. Andrews, https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196933/USAFmuseum/lt-gen-frank-m-andrews/; Air Force history, Joint Base Andrews, https://media.defense.gov/2010/Sep/21/2001330255/-1/-1/0/AFD-100921-026.pdf.",
+   "source_link": "https://assets.library.nashville.gov/documents/finding-aids/Special_Collections_Division_Finding_Aid_AndrewsSeries2.pdf",
+   "note": "The 1912 autobiography and 1937 newspaper account identify the intervening parent-child links. The 1886 family sketch and Elam Stevenson’s will support the James Calvin–Abner sibling connection. Colors in the restored military portrait are interpretive.",
+   "imgs": []
+  },
+  {
+   "id": "wt-andrews-family-memoir",
+   "name": "Rev. William Thomas Andrews",
+   "years": "1856–1912 records",
+   "branch": "hulsey",
+   "rel": "Husband of a Stevenson cousin",
+   "ev": "proven",
+   "tags": [
+    "notable"
+   ],
+   "ph": "wt_andrews",
+   "title": "A minister’s memoir that connected two families",
+   "hook": "In 1912 William Thomas Andrews set down the names of his wife’s parents and their children, preserving a link between the Stevensons and the Andrews family.",
+   "body": [
+    "William Thomas Andrews grew up in Giles County, Tennessee, after his mother brought the family there from Limestone County, Alabama. He was licensed to preach in 1856. On 30 November of that year he married Eliza Catherine Stevenson, daughter of the Rev. James C. and Margaret C. Stevenson.",
+    "In the autobiography he included in his 1912 volume of Methodist conference memorials, Andrews named their five sons and daughter. The first son named was James David Andrews of Nashville, the future father of Frank Maxwell Andrews. James David’s later newspaper memorial also identified William Thomas and Eliza as his parents.",
+    "Andrews spent his first fourteen years in ministry as a local preacher, then joined the North Alabama Conference. His assignments took him to Limestone, Scottsboro, Florence, Gadsden, Talladega and other communities. His published account lists those appointments across decades of church work.",
+    "The book includes his portrait as a frontispiece. Its printed caption identifies him; the original page and the autobiography can be viewed with this story."
+   ],
+   "kv": [
+    [
+     "Married",
+     "30 Nov 1856, Eliza Catherine Stevenson"
+    ],
+    [
+     "Son",
+     "James David Andrews of Nashville"
+    ],
+    [
+     "Memoir",
+     "Memorial Sketches, 1912, pp. 340–341"
+    ]
+   ],
+   "src": "Rev. W. T. Andrews, Memorial Sketches of the Lives and Labors of the Deceased Ministers of the North Alabama Conference (1912), autobiography pp. 340–341 and frontispiece, https://archive.org/details/memorialsketches00andr/page/340/mode/1up; The Pulaski Citizen, 10 Mar 1937, James David Andrews memorial, https://tngenweb.org/gilestn/obituaries/GC1930-1939_Obits.html.",
+   "source_link": "https://archive.org/details/memorialsketches00andr/page/340/mode/1up",
+   "note": "The frontispiece is a published photograph. The colorized copy interprets details in the printed image.",
+   "imgs": [
+    {
+     "s": "img/rec/wt_andrews_1912_frontispiece.jpg",
+     "cap": "The original frontispiece in the 1912 volume identifies Rev. W. T. Andrews.",
+     "kind": "record"
+    },
+    {
+     "s": "img/rec/wt_andrews_autobiography_p340.jpg",
+     "cap": "Andrews’s 1912 autobiography names his wife Eliza Catherine, her parents and their son James David, p. 340.",
+     "kind": "record"
+    },
+    {
+     "s": "img/rec/wt_andrews_autobiography_p341.jpg",
+     "cap": "Continuation of Andrews’s autobiography and list of ministerial appointments, p. 341.",
+     "kind": "record"
     }
    ]
   }
@@ -15767,6 +15882,12 @@
    "p": "sd-louderback"
   },
   {
+   "y": "1884",
+   "t": "Frank Maxwell Andrews is born in Nashville on 3 February.",
+   "b": "hulsey",
+   "p": "frank-maxwell-andrews"
+  },
+  {
    "y": "1885",
    "t": "A Kentucky history book prints the Satterfield family's account of three generations.",
    "b": "smith",
@@ -16222,6 +16343,12 @@
    "b": "moffitt"
   },
   {
+   "y": "1935",
+   "t": "Frank Maxwell Andrews takes command of the General Headquarters Air Force.",
+   "b": "hulsey",
+   "p": "frank-maxwell-andrews"
+  },
+  {
    "y": "1937",
    "t": "Joel J. Thompson tells the family's story to a WPA interviewer in Hugo.",
    "b": "thompson",
@@ -16283,6 +16410,12 @@
    "p": "oscar"
   },
   {
+   "y": "1943",
+   "t": "Lt. Gen. Frank Maxwell Andrews is killed in a B-24 crash in Iceland on 3 May.",
+   "b": "hulsey",
+   "p": "frank-maxwell-andrews"
+  },
+  {
    "y": "1944",
    "t": "John Winfred Moffitt, Navy corpsman, is aboard ARD-19 at Leyte when it is attacked from the air.",
    "b": "moffitt",
@@ -16312,6 +16445,12 @@
    "t": "Katie Hulsey files a divorce suit against Oscar in McCurtain County, no. 12,652.",
    "b": "hulsey",
    "p": "oscar-katie-court"
+  },
+  {
+   "y": "1945",
+   "t": "Camp Springs Army Air Field is renamed Andrews Field in his honor.",
+   "b": "hulsey",
+   "p": "frank-maxwell-andrews"
   },
   {
    "y": "1946",
@@ -16454,6 +16593,8 @@
   }
  ],
  "ORDER": [
+  "frank-maxwell-andrews",
+  "wt-andrews-family-memoir",
   "wthompson",
   "lizzie-newton",
   "bf-hulsey-1880",
@@ -16747,7 +16888,10 @@
   "elam_stevenson",
   "katie_possible_at_home",
   "katie_possible_at_gate",
-  "joel_thompson_young"
+  "joel_thompson_young",
+  "joel_ira_later",
+  "frank_maxwell_andrews",
+  "wt_andrews"
  ],
  "STORY_ALIASES": {
   "col-perkins-estates-1731": "jperkins",
@@ -16781,6 +16925,15 @@
   },
   "img/rec/croasdale_children_settle_potts_1895.jpg": {
    "url": "https://archive.org/details/ourfamilyancesto1895pott/page/29/mode/1up"
+  },
+  "img/rec/wt_andrews_1912_frontispiece.jpg": {
+   "url": "https://archive.org/details/memorialsketches00andr/page/340/mode/1up"
+  },
+  "img/rec/wt_andrews_autobiography_p340.jpg": {
+   "url": "https://archive.org/details/memorialsketches00andr/page/340/mode/1up"
+  },
+  "img/rec/wt_andrews_autobiography_p341.jpg": {
+   "url": "https://archive.org/details/memorialsketches00andr/page/340/mode/1up"
   }
  }
 }
