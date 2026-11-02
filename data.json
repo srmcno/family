@@ -730,9 +730,9 @@
     "choctaw"
    ],
    "title": "The midwife of Doaksville",
-   "hook": "¼ Choctaw, daughter of a white man and a Choctaw woman named O-we-na. She delivered her own grandson.",
+   "hook": "Her Dawes card names her parents as John Steadman and O-we-na. She attended the birth of her grandson Simon.",
    "body": [
-    "Born 26 January 1842, Emeline was enrolled as Choctaw by Blood, Roll No. 1947, one-quarter blood, with her sons Johnny and Calvin on Card 778. Her father John Steadman was a white man (\"non-citizen\"); her mother O-we-na was Choctaw of Towson County.",
+    "Born 26 January 1842, Emeline was enrolled as Choctaw by Blood, Roll No. 1947, one-quarter blood, with her sons Johnny and Calvin on Card 778. The card names her father John Steadman as a noncitizen and her mother O-we-na as deceased in Towson County; it does not state John's race or O-we-na's ancestry.",
     "She and Vinson farmed in the High Hill neighborhood north of Doaksville. Their children included James, Mitchell, Betsy (Mrs. Joseph Thompson), John, Rev. Robert Tims, Willie, Rosie and Calvin, and several of them later lived around Spencerville.",
     "When her grandson Simon was born on 4 May 1899, Emeline attended as the midwife. On 17 October 1899 she swore before a notary at Doaksville that \"there was born to her on said date a male child… said to have been named Simon Thompson,\" the affidavit that put Simon on the rolls. She died on 16 March 1918 and is buried at High Hill Cemetery.",
     "Her grandson Joel did not remember her maiden name ('Grandmother Tims first name was Emmaline'), so the name Steadman comes from the Dawes records, not family memory. Joel placed her home 'about four miles north and a little west of Doaksville,' in Towson County, 'known as the Charley Blankenship place now.' A local history says six or seven miles. Betsy and Joseph were married there in 1889.",
@@ -1111,9 +1111,9 @@
    "branch": "thompson",
    "gen": 4,
    "rel": "4th great-grandfather",
-   "place": "A non-citizen (white) man, named as Emeline's father on her 1899 Dawes card (Card 778) and dead by then. Family says he was Irish; no record has confirmed it.",
+   "place": "Named as Emeline's father on her 1899 Dawes card (Card 778), where he is marked noncitizen and deceased. Family says he was Irish; no record has confirmed it.",
    "body": [
-    "The Dawes clerk's habit is the key to him. On Card 778, in the father column of line 1, the clerk wrote \"John Steadman,\" the year column \"Dead,\" and the county column \"Non Citz.\" Every other parent on the card is given a Choctaw county. A man called a non-citizen in that column was a white man who had not been adopted into the Choctaw Nation, though he had fathered a child in it, and his daughter Emeline was enrolled as a Choctaw by blood through her mother. Emeline herself is Roll No. 1947, enrolled with her sons Johnny and Calvin, and the clerk wrote her blood as one-quarter. A white father and a full-blood mother would have made her half; the quarter blood implies that her mother O-we-na was counted as about half Choctaw herself, a detail the card does not explain.",
+    "On Card 778, in the father column of line 1, the clerk wrote \"John Steadman,\" with \"Dead\" and \"Non Citz.\" in the adjoining columns. Emeline was enrolled as a Choctaw citizen by blood, and the card records her mother as O-we-na. The noncitizen label does not by itself establish John's race or birthplace. The card gives Emeline's recorded blood fraction as one-quarter, but does not record a fraction for either parent; it cannot establish O-we-na's ancestry on its own.",
     "Emeline was born on 26 January 1842, while Fort Towson was still an army post and Doaksville a trading town. Her father's surname is Steadman on the Dawes card; her own grandson Joel Thompson could not recall her maiden name when he was interviewed in 1937, so the name comes from the card and not from family memory. Her 1896 census entry is Towson County No. 12116, written there as Emeline Tims, and the clerk gave her age as 57 against a final-roll age of 60.",
     "He may have been Irish (lead). The card gives no birthplace, residence or death year, only that he was dead by 1899. What the card does show is how far his line travelled from him. His daughter married Vinson W. Tims, a son of the Doaksville trader Vincent B. Tims, and bore eight children, among them Betsy, who married Judge Joseph P. Thompson in 1889. Emeline herself lived to see her grandson Simon born on 4 May 1899, attended his birth as midwife and swore the affidavit that put him on the roll."
    ],
@@ -1135,7 +1135,7 @@
     }
    ],
    "ev": "proven",
-   "title": "John Steadman, the white man on Card 778",
+   "title": "John Steadman on Card 778",
    "hook": "The one name on a Choctaw card whose county column reads 'Non Citz': the father of the Doaksville midwife."
   },
   {
@@ -9454,6 +9454,27 @@
    ]
   },
   {
+   "id": "armstrong-choctaw-schools",
+   "name": "Armstrong Academy and Choctaw schools",
+   "years": "1845–1899",
+   "branch": "thompson",
+   "rel": "William Harrison Pisachubbe's school",
+   "ev": "proven",
+   "tags": ["choctaw"],
+   "title": "A family name on the Armstrong school list",
+   "hook": "A school list preserves William Harrison Pisachubbe's name and points to a Choctaw education system built and funded by the Nation.",
+   "body": [
+    "On 22 August 1899, a list of Armstrong Academy students was submitted to the Dawes Commission. It included Harrison Pisachubbe. Twelve years later, a federal official identified him as William H. Pisachubbe, son of Eunice and brother of Robert, the family's direct ancestor. The school list gave him a second enrollment number under his middle name; the 1911 letter and later roll notation document the correction. The letter does not describe his lessons or tell us how long he attended.",
+    "Armstrong Academy had opened in 1845 as part of the Choctaw Nation's school system. The Choctaw Council funded schools, often contracting with religious mission boards to operate them. The Civil War interrupted instruction, and the academy building later served as a Choctaw government meeting place before the Nation's capital moved to Tuskahoma.",
+    "In 1883 the Choctaw General Council passed an act establishing a school for orphan boys at Armstrong and appropriated money for its reopening. A separate act set a planned enrollment of fifty boys there and fifty girls at the Choctaw orphan school. The acts show the Nation making educational policy; a place on a later student list does not by itself explain a child's family circumstances or whether a parent was living.",
+    "The Oklahoma Historical Society dates the reopened orphan boys' academy to 1884. In 1898 the federal Curtis Act placed Choctaw Nation schools under United States government control. William's 1899 listing therefore belongs to a period when control over an institution begun by the Choctaw Nation was being transferred to the federal government. His own experience at the school remains to be researched."
+   ],
+   "src": "Commissioner's letter, 1 August 1911, Dawes enrollment jacket Choctaw by Blood 7-1580, reproduced here; Acts of the General Council of the Choctaw Nation, approved 22 October 1883, bills 26–27, Library of Congress: https://tile.loc.gov/storage-services/service/ll/llscd/31013490/31013490.pdf; Oklahoma Historical Society, Choctaw Schools: https://www.okhistory.org/publications/enc/entry?entry=CH049; Choctaw Nation Historic Preservation, Architectural History of the Choctaw Nation Capitol Buildings: https://www.choctawnation.com/news/iti-fabvssa/architectural-history-of-the-choctaw-nation-capitol-buildings-1834-1883/",
+   "imgs": [
+    {"s": "img/docs/dawes_1580_pisachubbe_duplicate_1911.jpg", "cap": "The 1911 commission letter identifies Harrison Pisachubbe on the 1899 Armstrong Academy student list as William H. Pisachubbe."}
+   ]
+  },
+  {
    "id": "choc-william-h-pisachubbe",
    "name": "William Harrison Pisachubbe",
    "years": "c.1883–1937",
@@ -15943,6 +15964,12 @@
    "p": "snews-stevenson-pulaski"
   },
   {
+   "y": "1883",
+   "t": "The Choctaw General Council approves an orphan boys' school at Armstrong Academy, where William Harrison Pisachubbe later appears on an 1899 student list.",
+   "b": "thompson",
+   "p": "armstrong-choctaw-schools"
+  },
+  {
    "y": "1884",
    "t": "Sarah Rebecca Graves is born on 5 May; her mother’s identity remains unconfirmed.",
    "b": "hulsey",
@@ -16740,6 +16767,7 @@
   "edmond",
   "jwm",
   "spencer",
+  "armstrong-choctaw-schools",
   "henryh",
   "aden",
   "marydavies",
