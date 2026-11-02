@@ -86,6 +86,23 @@ class ArchiveDataTests(unittest.TestCase):
             if person.get('a'):
                 self.assertIn(person['a'], BY_ID)
 
+    def test_melvina_conflicting_originals_do_not_invent_a_resolved_mother(self):
+        story = BY_ID['melvina']
+        text = ' '.join(story['body'])
+        self.assertIn('78 years, 2 months, 6 days', text)
+        self.assertIn('10 November 1851', text)
+        self.assertIn('indexed as Vina', text)
+        self.assertIn('identification of Vina with Melvina remains open', text)
+        self.assertIn('KYVR_7017537-2275', story['src'])
+        mother = TREE['people']['I352820878334']
+        self.assertEqual(mother['ev'], 'probable')
+        self.assertIn('have not been reconciled', mother['note'])
+        self.assertNotIn('Elms', mother['n'])
+        # A combined name incorrectly turns two unresolved surnames into one person.
+        for entry in ENTRIES:
+            self.assertNotIn('Mary Dunn "Polly" Elms', str(entry))
+            self.assertNotIn('Mary Dunn "Polly" (Elms)', str(entry))
+
     def test_photograph_editions_and_story_images_exist(self):
         source_digests = {}
         for key, image in D['PH'].items():
