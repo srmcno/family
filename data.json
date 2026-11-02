@@ -45,7 +45,7 @@
   "henry_hannah": {
    "o": "img/p/henry_hannah_orig.jpg",
    "c": "img/p/henry_hannah_ai_color.jpg",
-   "cap": "Henry and Hannah (Grimes) Moffitt, Stone County, Arkansas, about 1890s"
+   "cap": "Labeled Henry and Hannah (Grimes) Moffitt in the family tree; date and identification unconfirmed (the clothing suggests about 1905–1920, after Henry's 1901 death)"
   },
   "gilbert_parsis": {
    "o": "img/p/gilbert_parsis_orig.jpg",
@@ -118,7 +118,7 @@
   },
   "jh_satterfield": {
    "o": "img/p/jh_satterfield_orig.jpg",
-   "cap": "James Henry Satterfield standing in a hat among trees, from a faded copy of the photograph. Photograph shared in a public Ancestry member tree",
+   "cap": "Labeled James Henry Satterfield in the family tree (identification unconfirmed): a figure standing in a hat among trees, from a faded copy of the photograph. Photograph shared in a public Ancestry member tree",
    "c": "img/p/jh_satterfield_new_color.jpg"
   },
   "abner_stevenson": {
@@ -1581,10 +1581,6 @@
    ],
    "imgs": [
     {
-     "s": "img/draft_hulsey.jpg",
-     "cap": "Rev. G. W. Hulsey's 1918 draft card"
-    },
-    {
      "s": "img/news/snews-hulsey-deed-1910.jpg",
      "cap": "Real estate transfers, The Sentinel-Record, Hot Springs, 13 February 1910, page 4: \"B. F. Hulsey and wife to C. Floyd Huff\" (Library of Congress)"
     },
@@ -1737,6 +1733,10 @@
     [
      "Siblings",
      "Fifteen children of Abner and Martha Stevenson, Giles Co., Tenn."
+    ],
+    [
+     "Stone (photograph)",
+     "'Gilbert Franklin Stevenson, November 17, 1861 – May 9, 1950', agreeing with the family record"
     ]
    ],
    "src": "1870, 1880, 1910 and 1920 U.S. Censuses; Find a Grave memorial 36591170; Vashti O'Neal obituary (Find a Grave 24711779); U.S. Censuses 1870-1920; The Pulaski Citizen, 27 Jan 1881, p. 2 and 5 May 1881, p. 2 (Library of Congress); Choctaw County, Oklahoma, Mount Olivet Cemetery, Block 2 (Upper and Lower), canvassed 2000 by Ron Henson (USGenWeb Archives, files.usgwarchives.net/ok/choctaw/cemeteries/mtolivet/block2.txt); Goodspeed, History of Tennessee (1886), Giles County chapter, p. 759; Robert Casey, Interactive Family Histories, Master Publication 3-108 to 3-120; WikiTree Stevenson-12558. Wikipedia, 'Danville, Arkansas'; see site stories 'Frank Stevenson's road' and 'Two Stevenson brothers go to Texas'.",
@@ -1745,7 +1745,7 @@
     "In April 1910 the census taker at Danville, Arkansas, wrote \"Clergyman\" after Frank Stevenson's name. He was 51, renting, married for 25 years, and his seven children had been born in Indiana, Texas, Oklahoma and Arkansas. He had begun life in a Tennessee circuit preacher's household: Gilbert Franklin Stevenson was born on 17 November 1861 near Pulaski, Giles County, one of fifteen children of Rev. Abner Arrington Stevenson and Martha Still Watson, and the twin of George Washington Stevenson.",
     "He was five months old when Federal troops first reached Pulaski in April 1862. Goodspeed's county history says Giles County was \"continually overrun with both Federal and Confederate soldiers\" and that in 1863 the Federals relieved the county of \"horses, cattle and grain.\" His first cousins Coleman and Wilbur Stevenson served in the Confederate 32nd Tennessee. In 1870 he and George, both 8, were in their father's household with younger children; in 1880 he was 18 and a farmer. In January 1881 The Pulaski Citizen reported that his father had \"abandoned the idea of going to Texas,\" and that May that \"Judge Geo. Stevenson, son of Rev. A. Stevenson, returned from Texas last week.\" Texas was in the family's talk before Frank himself lived there.",
     "He married Parsis Jane O'Neal of Gibson County, Indiana, whose father Daniel had served in the 42nd Indiana. Their older children were probably born in Indiana; later ones were born in Texas (Willie, Frank and Elisha) and Oklahoma (Eddie), and the youngest, Katie, at Danville in 1910. By January 1919 his mother-in-law's obituary placed his wife as \"Mrs. Frank Stevenson of Valiant, Oklahoma,\" and in 1920 he farmed a rented place on the South Millerton Road in Kirk Township, McCurtain County. The road he took is traced in \"Frank Stevenson's road: Pulaski to Indiana to Danville to Valliant.\"",
-    "He died at Hugo on 9 May 1950, aged 88, and lies in Block 2 of Mount Olivet Cemetery next to Parsis. The stone, as canvassed in 2000, reads 'Stevenson, Frank N., 1860-1950.' The year of birth is a year off the family record, and the census ages of 1870, 1880 and 1910 range from 1859 to 1862. His youngest daughter Katie married Oscar Hulsey, and she outlived him by almost sixty years."
+    "He died at Hugo on 9 May 1950, aged 88, and lies in Block 2 of Mount Olivet Cemetery next to Parsis. The stone, as canvassed in 2000, reads 'Stevenson, Frank N., 1860-1950.' The year of birth is a year off the family record, and the census ages of 1870, 1880 and 1910 range from 1859 to 1862. His youngest daughter Katie married Oscar Hulsey, and she outlived him by almost sixty years. A photograph of the grave shows a stone reading 'Gilbert Franklin Stevenson, November 17, 1861 – May 9, 1950', which agrees with the family record; the 2000 canvass reading may come from an older marker or a misreading."
    ],
    "ev": "probable",
    "imgs": [
@@ -1948,6 +1948,10 @@
     [
      "Possible first marriage",
      "Otho Louderback, Pulaski Co., Ark., 25 Dec 1884 (indexed; lead)"
+    ],
+    [
+     "Stone (photograph)",
+     "'Parsis Jane Stevenson, March 26, 1868 – January 26, 1956', agreeing with her 1868 birth"
     ]
    ],
    "src": "Choctaw County, Oklahoma, Mount Olivet Cemetery, Block 2 (Upper and Lower), canvassed 2000 by Ron Henson (USGenWeb Archives, files.usgwarchives.net/ok/choctaw/cemeteries/mtolivet/block2.txt); WikiTree O'Neal-3514 and sibling profiles; 1880 and 1910 censuses as printed there. Arkansas Marriages, 1837-1944 (index, as quoted on WikiTree O'Neal-3514).",
@@ -2501,7 +2505,7 @@
     },
     {
      "s": "img/docs/mary_rogers_nordyke_headstone.jpg",
-     "cap": "The weathered fieldstone grave marker of Mary (Rogers) Nordyke, wife of Abraham Nordyke."
+     "cap": "Marble tablet said to mark the grave of Mary (Rogers) Nordyke, wife of Abraham Nordyke; the inscription is illegible in the photograph (identification lead)."
     }
    ],
    "place": "Burlington County, New Jersey Quakers, married 1 June 1761. They moved through Virginia, Georgia, North Carolina and Tennessee before settling in Clinton County, Ohio, in 1806. Their children included Aden, Israel, Benajah, Beulah, Micajah, Daniel, Phebe and Hiram.",
@@ -8154,7 +8158,7 @@
     },
     {
      "s": "img/stones/joel_j_thompson_headstone_4.jpg",
-     "cap": "Joel John and Ira Mae Thompson's shared headstone: Ira Mae (Nov 23 1892 - Jun 17 1985), Joel John (Jan 29 1892 - Jun 20 1977), 'At Peace'. Photograph shared in a public Ancestry member tree"
+     "cap": "Joel John and Ira Mae Thompson's shared headstone: Ira Mae (Nov 28 1892 - Jun 17 1985), Joel John (Jan 29 1892 - Jun 20 1977), 'At Peace'. Photograph shared in a public Ancestry member tree"
     }
    ],
    "ph": "joel_thompson_young",
@@ -8381,7 +8385,7 @@
     },
     {
      "s": "img/stones/james_b_tims_headstone_2.jpg",
-     "cap": "Shared headstone of James B. Tims and his wife. Photograph shared in a public Ancestry member tree"
+     "cap": "Shared headstone of James B. Tims and his wife Viney (Dec 7 1870 – Dec 14 1942). His Dawes card names his wife as Mary J.; whether Viney is the same woman or a later wife is unresolved. Photograph shared in a public Ancestry member tree"
     }
    ],
    "ph": "jimmie_tims"
