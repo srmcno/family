@@ -1646,9 +1646,9 @@
    "place": "Born 5 May 1884 (her grave memorial says St. Francis County, its biography Little Rock). Married G. W. Hulsey in 1901 at 17. Died at Bandon, Oregon, on 23 December 1972, at 88.",
    "hook": "Sarah Rebecca Graves arrived on 5 May 1884, married a Hulsey at 17, bore ten children, and ended her life on the Oregon coast.",
    "body": [
-    "Sarah Rebecca Graves was born on 5 May 1884, and her mother, Margaret Crumpton, died the same day. Margaret had married Jesse Graves in Garland County, Arkansas, on 31 January 1884, so the marriage lasted a little over three months (see \"She died the day her daughter was born\"). Jesse was a widower with children, and Sarah Rebecca grew up among half-brothers and sisters: Abraham Nicholas, Catherine Eunice, Greenbury and Vestal, Lucinda, William Vestal, Pearl Mae and Cora Ellen. When she was five her father married Nancy (Wilborn) Kyle Cuttler, whose children and Jesse's were raised together (\"The stepmother of the Graves children\").",
+    "Sarah Rebecca Graves was born on 5 May 1884. A family genealogy identifies Margaret Crumpton as her mother and says Margaret died the same day, but neither claim has been confirmed by a primary record. A 1977 family-history query names Jesse Graves as Sarah's father and lists Margaret as one of his wives, without stating which wife was her mother. An 1884 Garland County marriage record names a Jesse Graves and Margaret Crumpton; the groom's recorded age differs from other accounts of Jesse, so the identification needs more research.",
     "On 22 December 1901, at 17, she married George Washington Hulsey in Arkansas. They farmed in Sulphur Township and between 1904 and 1925 had ten children, from Roy, the eldest, to George Paul, the youngest, with Oscar, the father of Katie's children, among them (\"The oldest of the ten Hulsey children\"; \"George Paul, the last child\"). By 1920 the family was in McCurtain County, Oklahoma. In September 1918 George Washington was a laborer at Camp Pike near Little Rock while she was at Story, Montgomery County; he died in 1935 and she was a widow at 51.",
-    "The census of 1880 had put her mother, Margaret Crumpton, in Garland County with her own mother, Rebecca Cornett; the name Rebecca may have come down from that grandmother (lead). Her father Jesse was probably the son of Gilliam Graves, who came from North Carolina by way of Georgia and Alabama to Cedar Glades in Montgomery County and volunteered there for the Union army in January 1864, at 45.",
+    "An index to an Arkansas Gazette obituary for Abe N. Graves, published on 4 February 1943, lists Mrs. Rebecca Hulsey as his sister. It is consistent with the family's account of her Graves relatives, but does not name her parents. The Graves family genealogy says Jesse was the son of Gilliam Graves, who came from North Carolina by way of Georgia and Alabama to Cedar Glades in Arkansas and volunteered for the Union army in January 1864.",
     "She died on 23 December 1972 at Bandon, on the Oregon coast, at 88, and is buried at Hawthorne Memorial Gardens, Grants Pass. Her grandson Glen, Oscar and Katie's son, died at Veneta, Oregon, in 2001, so more than one branch of the Hulsey family ended up in Oregon."
    ],
    "kv": [
@@ -1666,29 +1666,25 @@
     ],
     [
      "Mother",
-     "Margaret Crumpton, d. 5 May 1884"
+     "Not yet established; Margaret Crumpton is a family-history lead"
     ],
     [
      "Buried",
-     "Hawthorne Memorial Gardens, Grants Pass, Josephine Co., Oregon; died 23 Dec 1972, Coos Co., Oregon (Find a Grave memorial 94352588)"
+     "Hawthorne Memorial Gardens, Grants Pass, Josephine County, Oregon"
     ],
     [
-     "Stepmother",
-     "Nancy (Wilborn) Kyle Cuttler Graves (d. 20 Nov 1932)"
-    ],
-    [
-     "Maternal grandmother",
-     "Rebecca Cornett (1880 census, Garland Co.)"
+     "Jesse Graves’s later wife",
+     "The 1977 family query names Nancy Wilborn Sutton; an 1889 record names Nancy Cutter"
     ]
    ],
    "ev": "probable",
-   "note": "Her birthplace is given as St. Francis County on one memorial and Little Rock on another; her mother's maiden name is Speer or Cornett. The identification of her father with Jesse King Graves is probable, not proven.",
-   "src": "Graves Family Association, Gen. 242; Find a Grave memorial for Sarah Rebecca Hulsey (94352588); Find a Grave Index (Hawthorne Memorial Gardens) Arkansas county marriage records as cited in the profile; see site stories on the Graves family.",
+   "note": "Her birthplace is given as St. Francis County on one memorial and Little Rock on another. The Graves Family Association names Margaret Crumpton as her mother, but the 1977 family query does not identify which of Jesse's wives bore Sarah; a record naming Sarah's mother is still needed. The 1884 groom's age conflicts with that recorded for the Jesse of the 1871 marriage, so the two records may not concern the same man. Sarah's identification with the daughter of the Jesse in this tree remains probable, not proven.",
+   "src": "Graves Family Association, Gen. 242 (https://www.graves-fa.org/gen-histories/gens/gen242.html); Franklin L. Hulsey family query, Arkansas Family Historian, December 1977, p. 218 (https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26); Arkansas Gazette obituary index for Abe N. Graves, 4 Feb 1943 (https://www.familysearch.org/ark:/61903/1:1:Q533-GBW5); Garland County marriage register, 1884 (https://www.familysearch.org/ark:/61903/1:1:NMBP-V29); Find a Grave memorial 94352588.",
    "imgs": [],
    "photo_sets": [
     "rebecca_graves_studio"
    ],
-   "title": "The girl born on the day her mother died"
+   "title": "From Arkansas to the Oregon coast"
   },
   {
    "id": "gilbert",
@@ -2039,7 +2035,7 @@
     },
     {
      "s": "img/p/oneal_family_orig.jpg",
-     "cap": "O'Neal family gathering in Gibson County, Indiana; the typed caption names Daniel W. O'Neal and Vashti Pearson among the family. Photograph shared in a public Ancestry member tree Color and indistinct features have been interpreted.",
+     "cap": "O'Neal family gathering in Gibson County, Indiana; the typed caption names Daniel W. O'Neal and Vashti Pearson among the family. Photograph shared in a public Ancestry member tree. Color and indistinct features have been interpreted.",
      "kind": "photo"
     }
    ]
@@ -2152,7 +2148,7 @@
    "imgs": [
     {
      "s": "img/p/gilbert_parsis_orig.jpg",
-     "cap": "Elam's grandson Frank Stevenson and his wife Jane",
+     "cap": "Elam's grandson Gilbert Franklin (Frank) Stevenson and his wife Parsis Jane (O'Neal) Stevenson on their porch",
      "kind": "photo"
     },
     {
@@ -4657,13 +4653,13 @@
    "gen": 3,
    "rel": "3rd great-grandfather",
    "title": "From Alabama to the Cedar Glades",
-   "hook": "Jesse Graves, born in Alabama, married three times and is buried by rocks in the yard of his old home in Garland County.",
+   "hook": "A family account traces Jesse Graves from Alabama to Arkansas, where his household grew through several marriages.",
    "body": [
-    "Jesse S. Graves, probably the Jesse King Graves of our tree, was born about 1855 in Blount County, Alabama, a son of Gilliam Graves, who had earlier lived in Cherokee County, Georgia, and Randolph County, North Carolina. Gilliam settled the family at Cedar Glades in Montgomery County, Arkansas.",
-    "At about 16, Jesse married Sarah Emma Fisher on 2 April 1871 at Jack Phillips's home in Mountain Township, Montgomery County. They had four children, and in 1880 the family was in Garland County. On 31 January 1884 he married Margaret Crumpton. She died on 5 May 1884, the same day their daughter Sarah Rebecca was born.",
-    "He married a third time, to Nancy (Wilborn) Kyle Cuttler, on 19 September 1889, and had four more children. Jesse died in 1910 and was buried in the yard of his former home on Walnut Valley Road, with the grave marked only by rocks. His daughter Sarah Rebecca had married George Washington Hulsey on 22 December 1901.",
-    "Two details of the genealogy differ from the usual story. The Montgomery County marriage record, Book A, page 278, gives Jesse's age at his marriage as 18 and his bride Emma Fisher's as 15, which puts his birth about 1853 rather than 1855. And Margaret Crumpton's mother is named in the 1880 census as Rebecca Cornett, which supports Cornett over Speer for Margaret's maiden name.",
-    "His second wife, Margaret, brought two Crumpton sons, John and Henry; his third, Nancy, brought Isaac Kyle, Prince Cuttler and a Cindy Sutton about Sarah Rebecca's age. The family therefore grew up with half- and step-siblings of three marriages. In 2002 he was named on a list of burials in McGill Cemetery, Garland County, though the genealogy places his grave in the yard of his old home on Walnut Valley Road.",
+    "The Graves Family Association places Jesse S. Graves's birth about 1855 in Blount County, Alabama, and identifies him as a son of Gilliam Graves. He may be the Jesse King Graves in the tree, but that identification needs more work. The genealogy traces Gilliam from North Carolina through Georgia and Alabama to Cedar Glades, Arkansas.",
+    "A family genealogy cites a Montgomery County marriage record for Jesse and Sarah Emma Fisher at Jack Phillips's home on 2 April 1871; it gives their ages as 18 and 15. The family query published in 1977 names Margaret Crumpton as Jesse's second wife. A Garland County register records a Jesse Graves marrying Margaret Crumpton on 31 January 1884, but its reported age for the groom differs from that cited for Jesse in 1871.",
+    "A Garland County marriage record shows a Jesse Graves marrying Nancy Cutter on 19 September 1889. The Graves family genealogy calls his third wife Nancy Wilborn Kyle Cuttler, while a 1977 family query calls her Nancy Wilborn Sutton; the names require further verification. The query names Sarah Rebecca as Jesse's daughter, but does not identify her mother.",
+    "The reported ages need more work. The family genealogy cites the 1871 Montgomery County marriage entry as giving Jesse's age as 18. The 1884 and 1889 Garland County marriage registers each record their groom Jesse Graves as 38, five years apart. These records may contain an error or refer to different men; their connection to Sarah Rebecca's father remains a lead.",
+    "The 1977 query lists John and Henry Crumpton, Cindy Sutton, and Issas and Prince Cuttler among Jesse's stepchildren. In 2002 Jesse was named on a list of burials in McGill Cemetery, Garland County, though the genealogy places his grave in the yard of his old home on Walnut Valley Road.",
     "His widow Nancy, who lived to 20 November 1932, is on the 1920 census with their daughter Lucinda and son-in-law Benjamin Hogue."
    ],
    "ev": "probable",
@@ -4671,32 +4667,32 @@
    "kv": [
     [
      "Born",
-     "c.1855, Blount Co., Ala."
+     "About 1853–55 in family accounts; other records conflict"
     ],
     [
-     "Married",
-     "Sarah Emma Fisher, 2 Apr 1871; Margaret Crumpton, 31 Jan 1884; Nancy Wilborn Kyle Cuttler, 19 Sep 1889"
+     "Marriages",
+     "The 1977 query names Sarah E., Margaret Crumpton and Nancy Wilborn Sutton; the 1889 marriage record names Nancy Cutter"
     ],
     [
      "Children",
-     "At least nine, including Sarah Rebecca (b. 1884)"
+     "The 1977 query names Sarah Rebecca among Jesse’s children"
     ],
     [
      "Died",
-     "1910, Garland Co., Ark."
+     "1910, Garland County, Arkansas, according to family genealogy"
     ],
     [
-     "Marriage record",
-     "Bk A, p. 278, Montgomery Co.: Jesse 18, Emma 15 (2 Apr 1871)"
+     "1871 marriage",
+     "Montgomery County Book A, p. 278, cited as Jesse age 18"
     ],
     [
-     "Stepchildren",
-     "John and Henry Crumpton; Isaac Kyle, Prince Cuttler, Cindy Sutton"
+     "1884 marriage",
+     "Garland County register: a Jesse Graves, age 38, and Margaret Crumpton, age 28; identification needs verification"
     ]
    ],
    "quotes": [],
-   "note": "The genealogy gives his middle initial as S., and his wife's name as Margaret (Speer or Cornett) Crumpton. Online trees call him Jesse King Graves and list different wives. His daughter Sarah Rebecca, born 5 May 1884, is named in the same genealogy, but the link to our Jesse King Graves is probable, not proven. Birth conflict: the Graves genealogy and Margaret's 1884 marriage (he was 'about 29') give c.1855; the Montgomery Co. marriage record, Bk A p. 278 (2 Apr 1871: Jesse 18, Emma 15), points to c.1853. His Blount Co., Alabama birth also sits badly with his father Gilliam being on the Montgomery Co., Ark. tax lists from 1853.",
-   "src": "Graves Family Association, Gen. 242, entries for Jesse S. Graves and children (#62-70); Graves Family Association, Gen. 242, Jesse S. Graves (no. 14) and nos. 62-70"
+   "note": "The genealogy calls him Jesse S. Graves, while the tree calls him Jesse King Graves. The 1884 and 1889 marriage registers each record their groom as 38, five years apart. The 1871 Montgomery County marriage, as quoted in the genealogy, gives Jesse's age as 18, suggesting 1852–53. These records could contain errors or concern different men. Sarah Rebecca's maternal identity has not been established by a record naming her mother. The stated Blount County birthplace also needs checking against Gilliam Graves's reported Arkansas tax records.",
+   "src": "Graves Family Association, Gen. 242, Jesse S. Graves (no. 14) (https://www.graves-fa.org/gen-histories/gens/gen242.html); Franklin L. Hulsey family query, Arkansas Family Historian, December 1977, p. 218 (https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26); Garland County marriage register, 1884 (https://www.familysearch.org/ark:/61903/1:1:NMBP-V29). 1889 Garland County marriage index, Jesse Graves and Nancy Cutter (https://www.familysearch.org/ark:/61903/1:1:NMB3-BVZ)."
   },
   {
    "id": "wt-john-mary-satterfield",
@@ -10791,51 +10787,53 @@
   },
   {
    "id": "margaretcornett",
-   "name": "Margaret (Cornett) Crumpton Graves",
-   "years": "c.1855-1884",
+   "name": "Margaret Crumpton Graves",
+   "years": "c.1855–unknown",
    "branch": "hulsey",
-   "rel": "3rd great-grandmother (mother of Sarah Rebecca)",
+   "rel": "Possible connection through the Graves family",
    "place": "Garland Co., Arkansas",
    "kv": [
     [
      "Born",
-     "c.1855, Arkansas"
+     "About 1855–56, based on her reported age at the 1884 marriage"
     ],
     [
-     "Parents",
-     "John Speer and Elizabeth Mason, or Edward Cornett and Rebecca (the genealogy gives both)"
+     "Possible 1880 household",
+     "Rebecca Cornett, Margaret J. Crumpton, John W. Crumpton and William H. Crumpton"
     ],
     [
-     "First husband",
-     "Crumpton (sons John and Henry)"
+     "Marriage",
+     "Jesse Graves, 31 Jan 1884, Garland County, Arkansas"
     ],
     [
-     "Married Jesse Graves",
-     "31 Jan 1884, Garland Co."
+     "Maiden name",
+     "Unconfirmed; family genealogy offers Speer or Cornett"
     ],
     [
-     "Died",
-     "5 May 1884, Little Rock or Cedar Glades, at the birth of her child"
+     "Connection to Sarah Rebecca",
+     "The family genealogy identifies Margaret as her mother; direct confirmation is needed"
     ]
    ],
-   "src": "Graves Family Association, Gen. 242 (https://www.graves-fa.org/gen-histories/gens/gen242.html), Jesse S. Graves (no. 14), citing family records and the 1880 census, Garland Co., Ark.",
-   "title": "She died the day her daughter was born",
-   "hook": "Margaret Crumpton married Jesse Graves on 31 January 1884 and died on 5 May, the day Sarah Rebecca was born.",
+   "src": "1880 U.S. census, Mountain Township, Garland County (https://www.familysearch.org/ark:/61903/1:1:MNW7-5H4); 1860 U.S. census, Locust Grove Township, Searcy County (https://www.familysearch.org/ark:/61903/1:1:M87Y-86Y); Garland County marriage register, Book C, p. 293 (https://www.familysearch.org/ark:/61903/1:1:NMBP-V29); Franklin L. Hulsey query, Arkansas Family Historian, December 1977, p. 218 (https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26); Graves Family Association, Gen. 242 (https://www.graves-fa.org/gen-histories/gens/gen242.html).",
+   "title": "Margaret Crumpton and the Graves family",
+   "hook": "An 1884 Garland County marriage register names Margaret Crumpton and Jesse Graves. How she connects to Sarah Rebecca is still being researched.",
    "body": [
-    "Margaret was born about 1855 in Arkansas. The Graves genealogy names her as Margaret (Speer or Cornett) Crumpton, and gives two sets of parents for her: John Speer and Elizabeth Mason, or Edward Cornett and a Rebecca. The surname Crumpton is from an earlier marriage to a man of that name, who had died by 1880.",
-    "The 1880 census of Garland County has her as \"Margaret Crumpton living with her mother Rebecca Cornett and her two Crumpton sons.\" The sons are named as John and Henry Crumpton, who became Jesse Graves's stepsons.",
-    "She married Jesse S. Graves in Garland County on 31 January 1884. She was a widow with two sons; he was about 29, and his first wife Emma is last recorded in the 1880 census.",
-    "Margaret died on 5 May 1884, at the birth of the child who became Sarah Rebecca (Graves) Hulsey, the grandmother of the Hulsey children of McCurtain County. The genealogy gives her place of death as Little Rock, or Cedar Glades in Garland County. Her grave is not recorded in that source (lead)."
+    "In 1880, the census of Mountain Township, Garland County, listed a widowed Margarett J. Crumpton, age 25, in a household with Rebecca Cornett, age 69, and John W. and William H. Crumpton, ages four and two. The matching name, age and county make this a possible match for the 1884 bride, not a proven identification. A later Graves family genealogy identifies Rebecca as Margaret's mother and the boys as Margaret's sons; the FamilySearch census index does not state those relationships.",
+    "A Margaret Cornett, age six, appeared in the 1860 census of Searcy County with Edward and Rebecca Cornett. That is a promising lead, but linking her to the woman in the 1880 household requires more evidence. Rebecca's reported ages differ substantially between the two records, and the 1860 census did not state relationships.",
+    "On 31 January 1884, a Jesse Graves married Margaret Crumpton in Garland County. The register records Margaret as 28 and Jesse as 38. A family query published in 1977 names Margaret as a wife of Jesse Graves and Sarah Rebecca as his daughter, but does not say which wife bore Sarah. The age on the 1884 register conflicts with an age attributed to Jesse in an 1871 marriage record, so whether both records concern the same man is unresolved.",
+    "The Graves Family Association identifies Margaret as Sarah Rebecca's mother and reports that Margaret died on 5 May 1884, the day Sarah was born. A record directly confirming the parentage and the death account has not yet been found. The genealogy gives two possible maiden names, Speer and Cornett, without resolving the conflict."
    ],
-   "ev": "probable",
+   "ev": "lead",
    "tags": [],
-   "quotes": [
+   "quotes": [],
+   "note": "The identification of the 1880 and 1884 Margaret Crumptons, Margaret's maiden name, the identity of the 1860 Margaret Cornett, and Sarah Rebecca's mother are unresolved. The 1884 groom's age differs substantially from that cited for Jesse in 1871. The family genealogy's account of Margaret's death has not been independently verified.",
+   "imgs": [
     {
-     "t": "Margaret Crumpton living with her mother Rebecca Cornett and her two Crumpton sons",
-     "c": "Graves Family Association, Gen. 242, on the 1880 census, Garland Co., Ark."
+     "s": "img/rec/garland_1884_graves_crumpton_marriage.jpg",
+     "cap": "Garland County, Arkansas, marriage register, Book C, p. 293: Jesse Graves and Margaret Crumpton, married 31 January 1884. The register gives their ages as 38 and 28. FamilySearch; identifying this Jesse with Sarah Rebecca’s father remains a lead.",
+     "kind": "record"
     }
-   ],
-   "note": "The mother's maiden name is Speer or Cornett in the source itself. Her mother is called Rebecca Cornett in the 1880 census entry, which favors Cornett, and may be the origin of the name Rebecca for her daughter (lead)."
+   ]
   },
   {
    "id": "emmafisher",
@@ -10851,7 +10849,7 @@
     ],
     [
      "Parents",
-     "Nicholas Fisher and Sarah L. (Garrett) Gray Kirkland Phillips"
+     "Nicholas Fisher; Sarah L. Garrett is named as her probable mother in the family genealogy"
     ],
     [
      "Married",
@@ -10866,9 +10864,9 @@
    "title": "Married at fifteen in a neighbor's house",
    "hook": "Jesse Graves's first wife was 15 when they married at Jack Phillips's house in 1871.",
    "body": [
-    "Emma Fisher was the daughter of Nicholas Fisher and Sarah L. (Garrett) Gray Kirkland. Her mother had a hard run of husbands: Gray, Kirkland, Fisher and then Jack Zacharia Phillips, whose home in Mountain Township, Montgomery County, hosted the wedding.",
+    "The Graves family genealogy identifies Emma as a daughter of Nicholas Fisher and names Sarah L. Garrett as her probable mother. It describes Sarah's marriages to William Gray, a man named Kirkland, Nicholas Fisher and Jack Phillips, whose home in Mountain Township was the location given for Emma's marriage.",
     "The marriage record, Book A, page 278, is quoted in the Graves genealogy: Jesse was \"18 years old and Emma was 15.\" They married on 2 April 1871 at the residence of Jack Phillips.",
-    "They lived in Garland County, and the family was recorded there on the census of 11 June 1880 with four children, Abraham Nicholas (b. 7 Jan 1874), Catherine Eunice (b. 9 Mar 1876), Greenbury H. (b. Jan 1880) and Vestal (b. 21 Mar 1881, so added after the census). Emma is not recorded after that census; by January 1884 Jesse had married Margaret Crumpton (lead as to what became of Emma)."
+    "They lived in Garland County, and the family was recorded there on the census of 11 June 1880. The family genealogy lists Abraham Nicholas, Catherine Eunice and Greenbury H. as the children born by then, and a son Vestal born in 1881. Emma is not recorded after that census. A 1977 family query identifies Margaret Crumpton as another wife of Jesse, although the identity of the Jesse in the 1884 marriage record still needs verification."
    ],
    "ev": "probable",
    "tags": [],
@@ -10878,45 +10876,41 @@
      "c": "Marriage Record Bk. A, p. 278, Montgomery Co., Ark., as quoted in Graves Family Association, Gen. 242"
     }
    ],
-   "note": "Vestal's birth date (21 Mar 1881) is after the 1880 census date, so the census household listed Abraham, Catherine and Greenbury only."
+   "note": "The genealogy treats Sarah L. Garrett's identification as Emma's mother as probable. Vestal's reported birth date, 21 March 1881, is after the 1880 census; the genealogy lists Abraham, Catherine and Greenbury as the children born by then."
   },
   {
    "id": "nancywilborn",
-   "name": "Nancy (Wilborn) Kyle Cuttler Graves",
+   "name": "Nancy Cutter Graves",
    "years": "c.1856-1932",
    "branch": "hulsey",
-   "rel": "Stepmother of Sarah Rebecca (Graves) Hulsey",
+   "rel": "Possible connection through the Graves family",
    "place": "Garland Co., Arkansas",
    "kv": [
     [
-     "Born",
-     "c.1856, Arkansas"
+     "1889 marriage",
+     "Jesse Graves and Nancy Cutter, 19 September, Garland County"
     ],
     [
-     "Husbands",
-     "John B. Kyle; Samuel B. Cuttler; Jesse S. Graves (19 Sep 1889)"
+     "Name in family accounts",
+     "Nancy Wilborn Kyle Cuttler or Nancy Wilborn Sutton; identification requires further research"
     ],
     [
-     "Died",
-     "20 Nov 1932; buried McGill Cemetery, Garland Co."
-    ],
-    [
-     "Children with Jesse",
-     "Lucinda, William Vestal, Pearl Mae, Cora Ellen"
+     "Later life",
+     "A family genealogy reports a death on 20 November 1932 and burial at McGill Cemetery"
     ]
    ],
-   "src": "Graves Family Association, Gen. 242 (https://www.graves-fa.org/gen-histories/gens/gen242.html), Jesse S. Graves (no. 14) and nos. 67-70.",
-   "title": "The stepmother of the Graves children",
-   "hook": "Nancy Wilborn married Jesse Graves when his motherless daughter Sarah Rebecca was five, and was still in Garland County in 1930.",
+   "src": "Garland County marriage record, 19 September 1889 (https://www.familysearch.org/ark:/61903/1:1:NMB3-BVZ); Franklin L. Hulsey family query, Arkansas Family Historian, December 1977, p. 218 (https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26); Graves Family Association, Gen. 242 (https://www.graves-fa.org/gen-histories/gens/gen242.html).",
+   "title": "Nancy Cutter and the Graves household",
+   "hook": "An 1889 Garland County marriage record names Jesse Graves and Nancy Cutter. Family accounts offer different surnames for Nancy.",
    "body": [
-    "Nancy Wilborn married first John B. Kyle, and their son Isaac was born on 15 December 1879. She next married Samuel B. Cuttler and had a son, Prince Sylvester Cuttler, in 1882. The genealogy also lists a Cindy Sutton, about Sarah Rebecca's age, among her children.",
-    "On 19 September 1889 she married Jesse Graves. Sarah Rebecca, then five, had lost her mother Margaret on the day she was born, and Nancy became her stepmother. Nancy and Jesse had four children of their own: Lucinda (b. 8 Jun 1889), William Vestal (b. 22 Apr 1892), Pearl Mae (b. 24 May 1895) and Cora Ellen (b. 1 Jul 1898).",
-    "Jesse died in 1910 and was buried in the yard of the old home on Walnut Valley Road. Nancy was on the 1920 census in Garland County with her daughter Lucinda and son-in-law Benjamin Hogue, and in 1930 she lived in Hot Springs with her widowed son William. She died on 20 November 1932 and was buried in McGill Cemetery."
+    "A Garland County marriage register records a Jesse Graves marrying Nancy Cutter on 19 September 1889. The register lists the groom as 38. A 1977 Hulsey family query names Nancy Wilborn Sutton as a wife of Jesse Graves, while the Graves Family Association calls her Nancy Wilborn Kyle Cuttler. The different names need further research before the records can be tied together with confidence.",
+    "The Graves family genealogy says Nancy had earlier married John B. Kyle and Samuel B. Cuttler, and names children Isaac and Prince. It also lists Lucinda, William Vestal, Pearl Mae and Cora Ellen as children of Nancy and Jesse. Those relationships are reported by the genealogy and need independent confirmation.",
+    "The same genealogy places Nancy in Garland County in the 1920 and 1930 censuses, reports that Jesse died in 1910 and says Nancy died on 20 November 1932. The 1977 query names Sarah Rebecca as Jesse's daughter, but does not identify which wife was her mother; the relationship between Sarah and Nancy remains to be established."
    ],
-   "ev": "probable",
+   "ev": "lead",
    "tags": [],
    "quotes": [],
-   "note": "The genealogy gives her second husband's surname as Cuttler and alternatively Sutton; one step-child is named Cindy Sutton."
+   "note": "The 1889 marriage index names Nancy Cutter; the 1977 query uses Nancy Wilborn Sutton, while the family genealogy uses Nancy Wilborn Kyle Cuttler. The connection between these names and Sarah Rebecca requires independent verification."
   },
   {
    "id": "robertrhulsey",
@@ -13791,12 +13785,12 @@
    "hook": "A twin born in 1850 who married a Giles County farmer, went to Texas and back, and raised seven children.",
    "body": [
     "Ellen Tillman Stevenson was born on 30 January 1850, the twin of James Willis. On 24 December 1871 she married James Marion Britton, born on 3 March 1840 in Giles County, the son of Wilson Britton and Elizabeth Ragains. His brother John Frank Britton died in Collin County, Texas, in 1890.",
-    "Her seven children were born in several places: Logan Harwell Britton on 17 September 1872 (at Wichita Falls, Texas, according to WikiTree, and he died at Wichita Falls on 25 March 1950); Sarah Beulah on 24 January 1873 in Tennessee; Amanda Elizabeth on 6 February 1877 (Dallas, Texas, by the family history; Giles County by WikiTree); an infant daughter on 6 March 1880; Wilson Arrington on 12 May 1882 at Friendship, Crockett County, Tennessee; James Wilson Lafayette \"Fate\" on 8 December 1884; and Carlos Erskine on 15 May 1890. The 1880 census finds the family in Crockett County, Tennessee, and by 1900 they were back in Giles County.",
+    "The family history names seven children: Logan Harwell, Sarah Beulah, Amanda Elizabeth, an infant daughter, Wilson Arrington, James Wilson Lafayette \"Fate,\" and Carlos Erskine. In the 1880 census of Friendship, Crockett County, James and Ellen's household included son L. H., age seven, and daughters B. V., age five, and M. E., age three. The family history gives Logan's birth as 17 September 1872 and Sarah Beulah's as 24 January 1873; these dates are only four months apart and cannot both be accepted without further evidence. By 1900 Ellen and James were back in Giles County.",
     "James died on 18 September 1913 in Giles County and Ellen on 4 March 1927 (Find a Grave gives 4 February); both lie at Mount Zion (New Zion) Cemetery near Pulaski. Their daughter Amanda married Eli Bascom Pitts on 2 March 1892 and had eleven children. Sarah Beulah married Samuel McNeese and had eight, including twins who died the day they were born, 10 June 1902."
    ],
    "ev": "probable",
-   "src": "Robert Casey, Interactive Family Histories, \"Stevenson, Arrington and Tucker Families,\" Master Publication pp. 3-98 to 3-120 (http://www.rcasey.net/master/steelam.htm and steabner.htm); WikiTree profiles Stevenson-3637 (Ellen Tillman), Britton-1643 (James Marion Britton) and Britton-2364 (Logan Harwell Britton).",
-   "note": "Birthplaces and the month of Ellen's death differ between the sources; the family history and WikiTree each have errors that the other does not.",
+   "src": "Robert Casey, Stevenson, Arrington and Tucker Families, pp. 3-98 to 3-120 (https://www.rcasey.net/acrobat/ste0301b.pdf); 1880 U.S. census, Friendship, Crockett County, Tennessee (https://www.familysearch.org/ark:/61903/1:1:MDQY-F5F); 1900 U.S. census, Logan Britton (https://www.familysearch.org/ark:/61903/1:1:MSCB-B5Z); Sarah Bulah McNeece, Tennessee death record, 1957 (https://www.familysearch.org/ark:/61903/1:1:QKM9-KRS9); Find a Grave memorial 88644767; WikiTree profiles Stevenson-3637, Britton-1643 and Britton-2364.",
+   "note": "Birthplaces and the month of Ellen's death differ between the sources. The family history's 17 September 1872 birth date for Logan and 24 January 1873 date for Sarah Beulah are only four months apart. The 1880 census records a son L. H., age seven, and daughter B. V., age five; Logan's 1900 census gives September 1872. Sarah Beulah's 1957 death record names her parents James Britton and Ellen Stevenson but estimates her birth year as 1873; her grave memorial gives 24 January 1872. The exact dates and the identification of B. V. with Beulah remain unresolved.",
    "branch": "hulsey",
    "tags": [],
    "quotes": [],
@@ -15864,14 +15858,14 @@
   },
   {
    "y": "1884",
-   "t": "Sarah Rebecca Graves is born on 5 May, the day her mother Margaret dies.",
+   "t": "Sarah Rebecca Graves is born on 5 May; her mother’s identity remains unconfirmed.",
    "b": "hulsey",
    "p": "sarahg",
    "i": "rebecca_graves_hulsey.jpg"
   },
   {
    "y": "1884",
-   "t": "Margaret Crumpton, who married Jesse Graves in January, dies on 5 May, the day Sarah Rebecca is born.",
+   "t": "A Garland County marriage register records Jesse Graves and Margaret Crumpton on 31 January; their connection to Sarah Rebecca’s parents remains under investigation.",
    "b": "hulsey",
    "p": "margaretcornett"
   },
@@ -16332,7 +16326,7 @@
   },
   {
    "y": "1932",
-   "t": "Nancy (Wilborn) Graves, Sarah Rebecca's stepmother, dies on 20 November.",
+   "t": "A family genealogy reports the death of Nancy Wilborn Graves on 20 November.",
    "b": "hulsey",
    "p": "nancywilborn"
   },
@@ -16934,6 +16928,9 @@
   },
   "img/rec/wt_andrews_autobiography_p341.jpg": {
    "url": "https://archive.org/details/memorialsketches00andr/page/340/mode/1up"
+  },
+  "img/rec/garland_1884_graves_crumpton_marriage.jpg": {
+   "url": "https://www.familysearch.org/ark:/61903/3:1:S3HY-X2MQ-Z3M"
   }
  }
 }

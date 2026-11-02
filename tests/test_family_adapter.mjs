@@ -52,3 +52,13 @@ test('Andrews family connection resolves through the recorded Stevenson parents'
   assert.ok(story.imgs.some(img => img.s === 'img/p/frank_maxwell_andrews_orig.jpg'));
   assert.ok(C.restorations['img/p/frank_maxwell_andrews_orig.jpg'].colorized);
 });
+
+test('an unconnected research lead does not acquire a family relationship', () => {
+  const people = {
+    root: { n: 'Root', x: 'M', f: null, m: null, sp: [] },
+    lead: { n: 'Research lead', x: 'F', f: null, m: null, sp: [], gen: 7, side: 'J' }
+  };
+  const result = createRelationships(people, 'root').describe('lead');
+  assert.equal(result.kind, 'unknown');
+  assert.equal(result.label, 'Relationship not determined');
+});
