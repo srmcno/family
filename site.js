@@ -27,7 +27,7 @@ window.SITE = {
     credits: 'Family photographs come from the Moffitt Family Tree on Ancestry. Some have been restored or colorized with AI; colors and reconstructed details are interpretations. The originals are available for comparison. Marmon Wasp photo by OctaviaCombi and Alamance plaque photo by Hallcp, CC BY-SA 4.0 via Wikimedia Commons; USS Chief photo, U.S. Navy (NH 96996); 1919 code letter, U.S. Army. Hugo (1910 street view and 1912 Frisco shops postcard), Butler County, Allen County and Gibson County photographs: Wikimedia Commons, public domain. Mountain View courthouse photo by Sgerbic, CC BY-SA 4.0, via Wikimedia Commons.'
   },
   lineBlurbs: ['North Carolina Quaker country, then Missouri and Arkansas', 'Kentucky and northeast Texas', 'Choctaw Nation: Doaksville, Cedar & Kiamitia counties', 'Arkansas, Tennessee, Indiana; Quakers from New Jersey'],
-  heroKeys: ['henry_hannah', 'gilbert_parsis', 'daniel_oneal', 'vashti_framed', 'joel_ira', 'mary_tinsley', 'rebecca_graves', 'parsis_portrait', 'william_junior', 'faye_moffitt'],
+  heroKeys: ['gilbert_parsis', 'daniel_oneal', 'vashti_framed', 'joel_ira', 'mary_tinsley', 'rebecca_graves', 'parsis_portrait', 'william_junior', 'faye_moffitt'],
   featured: [],
   topics: {
     choctaw: { label: 'Choctaw Nation', copy: 'Enrollment, allotments, courts and family life in the Choctaw Nation.', tag: 'choctaw',

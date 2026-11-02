@@ -45,7 +45,7 @@
   "henry_hannah": {
    "o": "img/p/henry_hannah_orig.jpg",
    "c": "img/p/henry_hannah_ai_color.jpg",
-   "cap": "Labeled Henry and Hannah (Grimes) Moffitt in the family tree; date and identification unconfirmed (the clothing suggests about 1905–1920, after Henry's 1901 death)"
+   "cap": "Family-tree label calls this Henry and Hannah (Grimes) Moffitt, but neither person is independently identified. The clothing may date after Henry’s 1901 death; it may show Hannah with a younger relative."
   },
   "gilbert_parsis": {
    "o": "img/p/gilbert_parsis_orig.jpg",
@@ -65,7 +65,7 @@
   "nathan_moffitt": {
    "o": "img/p/nathan_moffitt_orig.jpg",
    "c": "img/p/nathan_moffitt_new_color.jpg",
-   "cap": "Photo labeled \"Nathan Moffitt\" in the family tree, with children. The colorized copy reconstructs details that are unclear in the original.",
+   "cap": "Family-tree label calls the seated man Nathan Moffitt, but the identification is unconfirmed. He died in 1873, and the apparent age and photographic format warrant caution. The colorized copy reconstructs unclear details.",
    "note": "The comparison uses the original crop; the full source scan with its caption appears in this story’s records."
   },
   "katie_hulsey": {
@@ -2588,7 +2588,7 @@
    "imgs": [
     {
      "s": "img/nordyke_perkins_1731.jpg",
-     "cap": "Their marriage license, 1731"
+     "cap": "New Jersey marriage license for Henry Nordyke and Rebecca Perkins, dated 6 January 1731/2 (1732 in modern year numbering). The image includes a later family note giving 3 January 1731 as their marriage date; the license itself does not establish a ceremony date. Copy from the New Jersey State Archives."
     }
    ],
    "place": "Married at Willingboro, New Jersey, on 6 January 1731. Rebecca's father, Jacob Perkins Jr., named her in his will that October; her brother David's will calls her \"Rebecca, wife of Henry Nordike.\"",
@@ -2597,11 +2597,11 @@
    "title": "The man who owed Jacob Perkins money",
    "hook": "Henry Nordyke married Rebecca Perkins at Willingboro, New Jersey, on 6 January 1731, and the Perkins estates were settled around him that same year.",
    "body": [
-    "Henry Nordyke and Rebecca Perkins were married at Willingboro (Wellingborough), Burlington County, New Jersey, on 6 January 1731. The name looks Dutch, and a compiled family page gives Henry's birth as 2 January 1710 in the Netherlands, but the marriage records say only \"Henry\" and no ship or church record has been found; a Dutch origin is a lead.",
+    "A New Jersey marriage license was granted on 6 January 1731/2 for Henry Nordyke of Burlington County and Rebecca Perkins of Wellingborough. The document records permission to marry, not the ceremony or its date. Her father’s will of 26 October 1731 names his daughter Rebeckah without a husband; her brother David’s will, dated January 1731/2, calls her Henry’s wife. A compiled family page places Henry’s birth on 2 January 1710 in the Netherlands, but no ship or church record has been found; his Dutch origin remains a lead.",
     "Henry's name appears again in the estates of his wife's family. Her father, Jacob Perkins Jr., made his will on 26 October 1731, naming his wife Sarah and ten children, among them Rebeckah, and listing bonds due him \"from James Smith, Esq., John Shinn and Henry Nordike.\" He left ten pounds to St. Mary's Church, Burlington. The will was proved on 7 December. Rebecca's brother David then died too; his will of January 1731/2 names \"Sister, Rebecca, wife of Henry Nordike\" and was witnessed by Henry himself, and it was proved on 4 March 1731/2 (\"A cane and a sword\").",
     "Their son Abraham, who died at 89 in 1825, was born about 1736; he was a member of Chesterfield Meeting when he married Mary Rogers in 1761. From there the line goes to Guilford County, North Carolina, to Ohio and Indiana (\"Six homes in forty-four years\")."
    ],
-   "src": "Wills of Jacob Perkins Jr. (1731) and David Perkins (1731/2), Calendar of New Jersey Wills, Lib. 3 p. 102 and Lib. 8 p. 184."
+   "src": "New Jersey State Archives, marriage license for Henry Nordyke and Rebecca Perkins, 6 January 1731/2 (copy supplied by family); Jacob Perkins Jr. will, 26 October 1731, and David Perkins will, January 1731/2, Calendar of New Jersey Wills, Lib. 3 p. 102 and Lib. 8 p. 184."
   },
   {
    "id": "jwm",
@@ -3215,7 +3215,7 @@
     ]
    ],
    "ev": "proven",
-   "note": "A memorial gives 6 October 1778 for Robert’s birth and 6 October 1844 for his death, but that birth date also appears for Martha; neither date has been verified. As executor in 1796, Robert was probably born by about 1775. Martha’s death is given as 11 October or 11 November 1865. Her parents and the children’s list come from compiled Quaker abstracts. The records do not establish that Robert was the Patriot Robert Moffitt of Brush Creek or Robert son of Hugh; neither married Martha.",
+   "note": "A memorial gives 6 October 1778 for Robert’s birth and 6 October 1844 for his death, but that birth date also appears for Martha; neither date has been verified. As executor in 1796, Robert was probably born by about 1775. Martha’s death is given as 11 October or 11 November 1865. Her parents and the children’s list come from compiled Quaker abstracts. The records do not establish that Robert was the Patriot Robert Moffitt of Brush Creek or Robert son of Hugh; neither married Martha. Robert’s exact birth date is unverified; 6 October 1778 duplicates Martha Chamness’s documented birth date and has been removed from the tree.",
    "title": "Robert Moffitt's year: a father's will in 1796 and a Chamness wedding in 1797",
    "hook": "Robert Moffitt was named executor of his father's will in 1796 and married Joseph Chamness's daughter Martha at Providence meeting on 20 September 1797.",
    "tags": [
@@ -17490,7 +17490,6 @@
   "parsis_portrait",
   "vashti_framed",
   "daniel_oneal",
-  "henry_hannah",
   "gilbert_parsis",
   "rebecca_graves",
   "nathan_moffitt",
