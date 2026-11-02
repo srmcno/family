@@ -189,7 +189,7 @@ $('#pq').oninput=renderPeople;$('#pgroups').onclick=e=>{const l=e.target.closest
 const photos=[];const seen=new Set();
 const photoSide=(id,path=new Set())=>{const p=P[id];if(!p||path.has(id))return '';if(p.side)return p.side;const sides=[...new Set([p.f,p.m].filter(Boolean).map(parent=>photoSide(parent,new Set([...path,id]))).filter(Boolean))];return sides.length===1?sides[0]:''};
 STORIES.forEach(s=>(s.imgs||[]).forEach(i=>{if(!seen.has(i.s)){seen.add(i.s);photos.push({s:i.s,t:i.s,c:i.cap,kind:i.kind,side:s.side,news:i.s.includes('/news/')?1:0,story:s.id,id:(s.people||[])[0],source:C.photoSources?.[i.s]?.url||''})}}));
-Object.entries(P).forEach(([id,p])=>(p.ph||[]).forEach(ph=>{const s=phSrc(ph);if(seen.has(s))return;seen.add(s);photos.push({s,t:phThumb(ph),c:p.n+(ph.c&&!ph.c.includes(p.n)&&!/^(IMG|Photo|Android)/i.test(ph.c)?' — '+ph.c:''),side:photoSide(id),id})}));
+Object.entries(P).forEach(([id,p])=>(p.ph||[]).forEach(ph=>{const s=phSrc(ph);if(seen.has(s))return;seen.add(s);const caption=ph.c&&!/^(IMG|Photo|Android)/i.test(ph.c)?(ph.c.includes(p.n)?ph.c:p.n+' — '+ph.c):p.n;photos.push({s,t:phThumb(ph),c:caption,kind:ph.kind,side:photoSide(id),id})}));
 (C.archivePhotos||[]).forEach(i=>{if(!seen.has(i.s)){seen.add(i.s);photos.push({s:i.s,t:i.s,c:i.cap,side:i.side,story:i.story,source:i.source})}});
 let activePhoto=null,photoFocus=null;
 function setPhotoVariant(variant){
