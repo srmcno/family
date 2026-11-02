@@ -273,14 +273,22 @@
     "William “Junior” Thompson Jr. grew up on his parents’ farm at Jeter in Choctaw County, Oklahoma. In 1940 he was six, sharing the household with Simon and Frances Thompson, his brothers and sisters, and his Pisachubbe grandparents.",
     "At sixteen, he was still at home in Jeter. His father worked his own farm, and his Pisachubbe grandmother remained part of the household. The two censuses place Junior in a family whose children and elders lived together.",
     "By December 1956, William was living at Speer. His marriage license with Mary Ellen Hulsey of Hugo appeared in the local newspaper that month, joining the Thompson and Hulsey branches of the family.",
-    "He remained connected to Hugo through the years. His father Simon’s surviving family included William Thompson Jr. of Hugo in 1990, and his sister Ethel Hamill’s family included him there in 2002. William died in 2007."
+    "He remained connected to Hugo through the years. His father Simon’s surviving family included William Thompson Jr. of Hugo in 1990, and his sister Ethel Hamill’s family included him there in 2002. William died in 2007.",
+    "He and Mary Ellen share one granite marker at Woodlawn Cemetery in Choctaw County, under a scroll lettered THOMPSON: \"Mary E. / Aug. 22, 1938 / Nov. 4, 2002\" on one side and \"William, Jr. / Mar. 14, 1934 / Feb. 17, 2007\" on the other."
    ],
-   "src": "1950 U.S. census, Jeter, Choctaw Co., Okla. (dwelling 421); 1940 U.S. census, Jeter, Choctaw County, Oklahoma; Ethel Marietta Hamill obituary, Biskinik, April 2002, p. 14, Choctaw Nation, https://www.choctawnation.com/wp-content/uploads/2023/01/apr02-biskinik.pdf; The Hugo Daily News, 5 Dec 1956, p. 1, marriage licenses, https://www.newspapers.com/image/901930026/; The Paris News, 17 Sep 1990, p. 2, Simon William Thompson obituary, https://www.newspapers.com/image/13497196/.",
+   "src": "1950 U.S. census, Jeter, Choctaw Co., Okla. (dwelling 421); 1940 U.S. census, Jeter, Choctaw County, Oklahoma; Ethel Marietta Hamill obituary, Biskinik, April 2002, p. 14, Choctaw Nation, https://www.choctawnation.com/wp-content/uploads/2023/01/apr02-biskinik.pdf; The Hugo Daily News, 5 Dec 1956, p. 1, marriage licenses, https://www.newspapers.com/image/901930026/; The Paris News, 17 Sep 1990, p. 2, Simon William Thompson obituary, https://www.newspapers.com/image/13497196/.; Find a Grave memorial 66405975, William \"Junior\" Thompson Jr., Woodlawn Cemetery, Choctaw Co., Okla., photo by Diann (2011): https://www.findagrave.com/memorial/66405975",
    "title": "Junior Thompson, from Jeter to Speer",
    "hook": "A childhood in a household of several generations, and a marriage that joined the Thompson and Hulsey families.",
    "ev": "probable",
    "note": "The 5 December 1956 newspaper item announces a marriage license; it does not give the wedding date. The FamilySearch portrait is identified by its contributor as William “Junior” Thompson Jr.; the attached shared tree uses 1933 for his birth year, while the family’s census-based profile uses 1934. The photo does not resolve that discrepancy.",
-   "ph": "william_junior"
+   "ph": "william_junior",
+   "imgs": [
+    {
+     "cap": "The Thompson marker of Mary E. (1938-2002) and William Jr. (1934-2007), Woodlawn Cemetery, Choctaw County, Oklahoma. Photo: Diann, Find a Grave",
+     "source": "https://www.findagrave.com/memorial/66405975",
+     "s": "img/rec/thompson-william-jr-mary-e-stone-woodlawn.jpg"
+    }
+   ]
   },
   {
    "id": "simon",
@@ -1115,7 +1123,8 @@
    "body": [
     "On Card 778, in the father column of line 1, the clerk wrote \"John Steadman,\" with \"Dead\" and \"Non Citz.\" in the adjoining columns. Emeline was enrolled as a Choctaw citizen by blood, and the card records her mother as O-we-na. The noncitizen label does not by itself establish John's race or birthplace. The card gives Emeline's recorded blood fraction as one-quarter, but does not record a fraction for either parent; it cannot establish O-we-na's ancestry on its own.",
     "Emeline was born on 26 January 1842, while Fort Towson was still an army post and Doaksville a trading town. Her father's surname is Steadman on the Dawes card; her own grandson Joel Thompson could not recall her maiden name when he was interviewed in 1937, so the name comes from the card and not from family memory. Her 1896 census entry is Towson County No. 12116, written there as Emeline Tims, and the clerk gave her age as 57 against a final-roll age of 60.",
-    "He may have been Irish (lead). The card gives no birthplace, residence or death year, only that he was dead by 1899. What the card does show is how far his line travelled from him. His daughter married Vinson W. Tims, a son of the Doaksville trader Vincent B. Tims, and bore eight children, among them Betsy, who married Judge Joseph P. Thompson in 1889. Emeline herself lived to see her grandson Simon born on 4 May 1899, attended his birth as midwife and swore the affidavit that put him on the roll."
+    "He may have been Irish (lead). The card gives no birthplace, residence or death year, only that he was dead by 1899. What the card does show is how far his line travelled from him. His daughter married Vinson W. Tims, a son of the Doaksville trader Vincent B. Tims, and bore eight children, among them Betsy, who married Judge Joseph P. Thompson in 1889. Emeline herself lived to see her grandson Simon born on 4 May 1899, attended his birth as midwife and swore the affidavit that put him on the roll.",
+    "The law John Steadman married under was strict on paper. An act of October 1840 barred any white man from marrying in the Choctaw Nation until he had been a citizen for two years and required a license from a judge or the district clerk and a ceremony by a minister \"before he shall be entitled and admitted to the privilege of citizenship.\" It forbade a white husband to dispose of his Choctaw wife's property without her consent. Emeline was born in January 1842, so her parents' marriage falls close to the passing of that act. No license or marriage record for John and O-we-na has been found, and the Dawes clerk's \"Non Citz.\" in 1899 records only how the Commission classed him, not whether he ever held Choctaw citizenship."
    ],
    "kv": [
     [
@@ -1127,7 +1136,7 @@
      "Towson County, No. 12116"
     ]
    ],
-   "src": "Dawes Card 778 (NARA). Joel J. Thompson, Indian-Pioneer Papers #7392 (Hugo, 1937); Dawes Card 778 and Card 1283 file (affidavit of 17 Oct 1899).",
+   "src": "Dawes Card 778 (NARA). Joel J. Thompson, Indian-Pioneer Papers #7392 (Hugo, 1937); Dawes Card 778 and Card 1283 file (affidavit of 17 Oct 1899).; Constitution and Laws of the Choctaw Nation, together with the treaties of 1855, 1865 and 1866 (Chahta Tamaha, 1869), pp. 71 and 76-77, https://archive.org/details/constitutionandl00chociala; Dawes Card 778 (NARA)",
    "imgs": [
     {
      "s": "img/docs/dawes_card_778_tims_full.jpg",
@@ -1513,6 +1522,11 @@
     {
      "s": "img/rec/hulsey-1880-household.jpg",
      "cap": "1880 U.S. census, Center Township, Montgomery County, Arkansas, household 216: B. F. Hulsey and family. National Archives, T9 roll 52."
+    },
+    {
+     "cap": "George Hulsey's marker, Breashears Cemetery, Montgomery County, Arkansas: Dec. 24, 1876 - Aug. 5, 1935. Photo: Kenneth Lambert, Find a Grave",
+     "source": "https://www.findagrave.com/memorial/24413994/george_washington-hulsey",
+     "s": "img/rec/george-w-hulsey-stone-breashears.jpg"
     }
    ],
    "title": "Working at Camp Pike",
@@ -1525,9 +1539,10 @@
     "At Oscar’s death in 1982, two sisters and four brothers survived him. Of his nine siblings, three had therefore died before him.",
     "When he died in 1935, the oldest child, William Roy, was about 30 and the youngest, George Paul, about 9 or 10; his widow, Sarah Rebecca, was 51. She died at Bandon, Oregon in 1972.",
     "Camp Pike was under heavy strain when he signed. Eleven days after the draft card, on 23 September 1918, the camp base hospital admitted 214 influenza cases in a single day, and by the end of October 12,393 men had reported sick with the disease. See \"The camp where George Hulsey was working when the influenza came.\"",
-    "In June 1880, B. F. Hulsey, a thirty-two-year-old Georgia-born miner, lived in Center Township with his wife Sarah G., thirty, and children Margaret M., six, George W., four, and infant Charles F. George’s later December 1875 birth date fits the child’s age. These records point toward this household as his childhood family, although the connection remains probable."
+    "In June 1880, B. F. Hulsey, a thirty-two-year-old Georgia-born miner, lived in Center Township with his wife Sarah G., thirty, and children Margaret M., six, George W., four, and infant Charles F. George’s later December 1875 birth date fits the child’s age. These records point toward this household as his childhood family, although the connection remains probable.",
+    "His flat granite marker in Breashears Cemetery reads \"George / Hulsey / Dec. 24, 1876 / Aug. 5, 1935.\" The stone settles the day of death in favor of 5 August, but its birth year is a year later than the December 1875 that George gave on his own 1918 draft card and that the 1900 census records; the marker was cut after his death, and the draft card is his own statement."
    ],
-   "src": "WWI Draft Registration, Little Rock, Ark., 1918. Find a Grave (Breashears Cemetery, Montgomery Co., Ark.); 1910, 1920 and 1930 U.S. Censuses; Find a Grave Index (Breashears Cemetery); Opie et al., Epidemic Respiratory Disease (1921), pp. 15–17 and 52; Montgomery County ARGenWeb, 'Breashears Cemetery, Story' (argenweb.net/montgomery/breashears_cemetery.htm; photo study, June 2020); 1930 U.S. census, Sulphur Twp., McCurtain Co., Okla. (dwelling 264); 1920 U.S. census, Sulphur Twp., McCurtain Co.; 1880 U.S. census, Center Township, Montgomery County, Arkansas, sheet 431, household 216, lines 1–5, NARA T9 roll 52, https://archive.org/details/10thcensus0052unit/page/n166/mode/1up; Franklin L. Hulsey family query, Arkansas Family Historian 15:4 (December 1977), p. 218, https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26; Original George W. Hulsey WWI draft registration, 12 Sep 1918, FamilySearch https://www.familysearch.org/ark:/61903/1:1:K359-2S8; 1900 original census, https://www.familysearch.org/ark:/61903/1:1:M365-N1R.",
+   "src": "WWI Draft Registration, Little Rock, Ark., 1918. Find a Grave (Breashears Cemetery, Montgomery Co., Ark.); 1910, 1920 and 1930 U.S. Censuses; Find a Grave Index (Breashears Cemetery); Opie et al., Epidemic Respiratory Disease (1921), pp. 15–17 and 52; Montgomery County ARGenWeb, 'Breashears Cemetery, Story' (argenweb.net/montgomery/breashears_cemetery.htm; photo study, June 2020); 1930 U.S. census, Sulphur Twp., McCurtain Co., Okla. (dwelling 264); 1920 U.S. census, Sulphur Twp., McCurtain Co.; 1880 U.S. census, Center Township, Montgomery County, Arkansas, sheet 431, household 216, lines 1–5, NARA T9 roll 52, https://archive.org/details/10thcensus0052unit/page/n166/mode/1up; Franklin L. Hulsey family query, Arkansas Family Historian 15:4 (December 1977), p. 218, https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26; Original George W. Hulsey WWI draft registration, 12 Sep 1918, FamilySearch https://www.familysearch.org/ark:/61903/1:1:K359-2S8; 1900 original census, https://www.familysearch.org/ark:/61903/1:1:M365-N1R.; Find a Grave memorial 24413994, George Washington Hulsey, Breashears Cemetery, Montgomery Co., Ark., photo by Kenneth Lambert (2013): https://www.findagrave.com/memorial/24413994/george_washington-hulsey",
    "note": "His original 1918 draft registration gives 24 December 1875, also supported by December 1875 in the 1900 census; the grave transcription gives 1876. His exact death day remains unresolved: published sources differ between 5 August and 21 August 1935, while 22 December in the earlier tree repeats his wedding date. Family usage calls him “Rev.”; the occupational records reviewed identify a laborer and farmer. B. F. and Sarah G. are provisional parents: the 1880 census names George as B. F.’s son but does not expressly identify Sarah as his biological mother, and no named-parent record for the adult George has closed that connection. They have not been merged with Benjamin Franklin Hulsey and Sylvania Partain in other family accounts.",
    "kv": [
     [
@@ -1651,7 +1666,8 @@
     "Sarah Rebecca Graves was born on 5 May 1884. A family genealogy identifies Margaret Crumpton as her mother and says Margaret died the same day, but neither claim has been confirmed by a primary record. A 1977 family-history query names Jesse Graves as Sarah's father and lists Margaret as one of his wives, without stating which wife was her mother. An 1884 Garland County marriage record names a Jesse Graves and Margaret Crumpton; the groom's recorded age differs from other accounts of Jesse, so the identification needs more research.",
     "On 22 December 1901, at 17, she married George Washington Hulsey in Arkansas. They farmed in Sulphur Township and between 1904 and 1925 had ten children, from Roy, the eldest, to George Paul, the youngest, with Oscar, the father of Katie's children, among them (\"The oldest of the ten Hulsey children\"; \"George Paul, the last child\"). By 1920 the family was in McCurtain County, Oklahoma. In September 1918 George Washington was a laborer at Camp Pike near Little Rock while she was at Story, Montgomery County; he died in 1935 and she was a widow at 51.",
     "An index to an Arkansas Gazette obituary for Abe N. Graves, published on 4 February 1943, lists Mrs. Rebecca Hulsey as his sister. It is consistent with the family's account of her Graves relatives, but does not name her parents. The Graves family genealogy says Jesse was the son of Gilliam Graves, who came from North Carolina by way of Georgia and Alabama to Cedar Glades in Arkansas and volunteered for the Union army in January 1864.",
-    "She died on 23 December 1972 at Bandon, on the Oregon coast, at 88, and is buried at Hawthorne Memorial Gardens, Grants Pass. Her grandson Glen, Oscar and Katie's son, died at Veneta, Oregon, in 2001, so more than one branch of the Hulsey family ended up in Oregon."
+    "She died on 23 December 1972 at Bandon, on the Oregon coast, at 88, and is buried at Hawthorne Memorial Gardens, Grants Pass. Her grandson Glen, Oscar and Katie's son, died at Veneta, Oregon, in 2001, so more than one branch of the Hulsey family ended up in Oregon.",
+    "Her bronze marker at Hawthorne Memorial Gardens in Grants Pass, Oregon, reads \"In Loving Memory / S. Rebecca Hulsey / Mother / May 5, 1884 Dec. 23, 1972.\" She went by her middle name in Oregon, as the 1943 obituary index for her brother Abe had it: Mrs. Rebecca Hulsey."
    ],
    "kv": [
     [
@@ -1681,8 +1697,14 @@
    ],
    "ev": "probable",
    "note": "Her birthplace is given as St. Francis County on one memorial and Little Rock on another. The Graves Family Association names Margaret Crumpton as her mother, but the 1977 family query does not identify which of Jesse's wives bore Sarah; a record naming Sarah's mother is still needed. The 1884 groom's age conflicts with that recorded for the Jesse of the 1871 marriage, so the two records may not concern the same man. Sarah's identification with the daughter of the Jesse in this tree remains probable, not proven.",
-   "src": "Graves Family Association, Gen. 242 (https://www.graves-fa.org/gen-histories/gens/gen242.html); Franklin L. Hulsey family query, Arkansas Family Historian, December 1977, p. 218 (https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26); Arkansas Gazette obituary index for Abe N. Graves, 4 Feb 1943 (https://www.familysearch.org/ark:/61903/1:1:Q533-GBW5); Garland County marriage register, 1884 (https://www.familysearch.org/ark:/61903/1:1:NMBP-V29); Find a Grave memorial 94352588.",
-   "imgs": [],
+   "src": "Graves Family Association, Gen. 242 (https://www.graves-fa.org/gen-histories/gens/gen242.html); Franklin L. Hulsey family query, Arkansas Family Historian, December 1977, p. 218 (https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26); Arkansas Gazette obituary index for Abe N. Graves, 4 Feb 1943 (https://www.familysearch.org/ark:/61903/1:1:Q533-GBW5); Garland County marriage register, 1884 (https://www.familysearch.org/ark:/61903/1:1:NMBP-V29); Find a Grave memorial 94352588.; Find a Grave memorial 94352588, Sarah Rebecca Graves Hulsey, Hawthorne Memorial Gardens, Grants Pass, Ore., photo by Mark Johnson (2012): https://www.findagrave.com/memorial/94352588",
+   "imgs": [
+    {
+     "cap": "S. Rebecca Hulsey's marker, Hawthorne Memorial Gardens, Grants Pass, Oregon. Photo: Mark Johnson, Find a Grave",
+     "source": "https://www.findagrave.com/memorial/94352588",
+     "s": "img/fam/sarah-rebecca-hulsey-marker-grants-pass.jpg"
+    }
+   ],
    "photo_sets": [
     "rebecca_graves_studio"
    ],
@@ -2129,16 +2151,26 @@
      "Ancestry suggests William Watson and Mary 'Polly' Brown, which agrees with the Casey family history giving her mother as Mary Watson; still no record naming either."
     ]
    ],
-   "src": "History of Methodist Churches and Institutions in Middle Tennessee, 1787-1956 (1956), 'Bee Spring Memorial' by Sterling E. Stovall, historian (archive.org/details/historyofmethodi00cart) Jonathan Kennon Thompson Smith, Genealogical Abstracts from Reported Deaths, Nashville Christian Advocate, section July–December 1887, abstract p. 34, issue 20 August 1887: https://tngenweb.org/records/davidson/obits/nca/nca87-3.htm; Casey Family History, Abner Arrington Stevenson: https://www.rcasey.net/steven/steabner.htm Nashville Christian Advocate, 20 Aug 1887 (death notice, abstracted by J. K. T. Smith); Casey family history of the Stevensons.",
+   "src": "History of Methodist Churches and Institutions in Middle Tennessee, 1787-1956 (1956), 'Bee Spring Memorial' by Sterling E. Stovall, historian (archive.org/details/historyofmethodi00cart) Jonathan Kennon Thompson Smith, Genealogical Abstracts from Reported Deaths, Nashville Christian Advocate, section July–December 1887, abstract p. 34, issue 20 August 1887: https://tngenweb.org/records/davidson/obits/nca/nca87-3.htm; Casey Family History, Abner Arrington Stevenson: https://www.rcasey.net/steven/steabner.htm Nashville Christian Advocate, 20 Aug 1887 (death notice, abstracted by J. K. T. Smith); Casey family history of the Stevensons.; Find a Grave memorial 12283883, Martha Still Watson Stevenson, Bee Spring Cemetery, photo by terry scruggs (2011): https://www.findagrave.com/memorial/12283883/martha-still-stevenson; 1880 U.S. Census, 10th Civil District, Giles Co., Tenn., E.D. 108, p. 20 (stamped 27), dwelling 154, household of A. A. Stevenson (img/rec/census_1880_stevenson_giles.jpg); Find a Grave memorial 32470047, David Milton Watson (Mountain Creek Baptist Church Cemetery, Anderson Co., S.C.): https://www.findagrave.com/memorial/32470047/david_milton-watson",
    "ev": "probable",
    "body": [
     "The Stevenson family history says that on 8 December 1838 Abner Stevenson \"married Martha S. Watson,\" born 19 February 1823 in Tennessee, \"the daughter of Mary Watson.\" She was 15. Between 1840 and 1866 she had fifteen children, the last of them about the time she turned 43, among them the twins Gilbert Franklin and George Washington in November 1861, five months before Federal troops reached Pulaski.",
     "For a Methodist circuit preacher's wife that meant a farm and a houseful of children during the years her husband was riding to Blooming Grove, Rocky Point and the Mt. Pisgah circuit (see \"Fifteen children at Bee Spring\"). She died on 12 July 1887, and the Nashville Christian Advocate abstracts of 20 August 1887 carry the notice of her death. Her stone at Bee Spring is reported to read \"Wife of Rev. A. A. Stevenson.\"",
-    "Her mother is given only as Mary Watson. WikiTree names William Watson and Mary Brown as her parents; no record is cited and the middle name Still is unexplained, so her ancestry stops at Mary (lead). Her son Frank carried the line to Arkansas, where Frank's youngest daughter Katie married Oscar Hulsey."
+    "Her mother is given only as Mary Watson. WikiTree names William Watson and Mary Brown as her parents; no record is cited and the middle name Still is unexplained, so her ancestry stops at Mary (lead). Her son Frank carried the line to Arkansas, where Frank's youngest daughter Katie married Oscar Hulsey.",
+    "Her stone in the Bee Spring churchyard is a plain round-topped tablet. It reads \"Martha S. Stevenson / Born / Feb. 19, 1823 / Died / July 12, 1887,\" and below a carved rule: \"She started in early life for a better world & has stopped at this Inn until the Resurrection morn, where we will meet again.\" The cutter's letters read \"stated\" and \"sopped,\" with the r and t evidently left out. The stone's 1887 agrees with the family dates against the 1886 of the published newspaper abstract. The phrase \"Wife of Rev. A. A. Stevenson\" belongs to the online memorial's biography; it is not carved on this face of the stone.",
+    "The 1880 census of the 10th Civil District of Giles County, taken on 11 June, lists her as Martha S., 56, keeping house, wife of A. A. Stevenson, a farmer and preacher, with Gilbert F., 18, Wilson M., 16, and Jane M., 12, at home. She was born in Tennessee, and the census gives Virginia as the birthplace of both her father and her mother.",
+    "A Find a Grave family link makes her a daughter of David Milton Watson (1791-1843) and Mary Ann Gary of Mountain Creek, Anderson County, South Carolina, and lists her among their eight children. The memorial cites no record for the link. That couple were born, lived and died in South Carolina, whereas Martha was born in Tennessee to parents who, by her own household's 1880 entry, were Virginians. The link does not fit and is not adopted (lead, doubtful). Her mother remains the \"Mary Watson\" of the Stevenson family history."
    ],
    "note": "Her parents are not proven. The Casey family history names her mother as Mary Watson; WikiTree's William Watson and Mary Brown rest on no cited record. The Isham Brown of Giles County lead noted elsewhere remains unchecked. The published abstract of her notice in the Nashville Christian Advocate of 20 August 1887 gives her death as 12 July 1886 and her marriage as 6 December 1837. Family compilations and the existing grave-memorial dates instead give death in 1887 and marriage on 8 December 1838. The original newspaper notice and marriage entry have not been examined, so these conflicts remain unresolved; the tree’s existing dates are retained pending verification. Her parents remain unproved.",
    "title": "Martha Still Watson, fifteen children and a preacher's stone",
-   "hook": "Married at 15 in 1838, Martha Watson Stevenson bore fifteen children in Giles County and is remembered on her stone only as a preacher's wife."
+   "hook": "Married at 15 in 1838, Martha Watson Stevenson bore fifteen children in Giles County and is remembered on her stone only as a preacher's wife.",
+   "imgs": [
+    {
+     "cap": "Martha S. Stevenson's stone at Bee Spring, Giles County: \"She started in early life for a better world & has stopped at this Inn until the Resurrection morn.\" Photo: terry scruggs, Find a Grave",
+     "source": "https://www.findagrave.com/memorial/12283883/martha-still-stevenson",
+     "s": "img/rec/martha-stevenson-stone-bee-spring.jpg"
+    }
+   ]
   },
   {
    "id": "pearson",
@@ -2374,7 +2406,8 @@
    "body": [
     "On Thursday, 26 March 1857, The Times of Greensboro carried a notice headed \"Land Sale.\" Having qualified as administrators on the estate of Noble Shaw, with a will annexed, J. H. Leak and Sicily Shaw would sell on 16 April \"a tract of land, consisting of 268 acres, well timbered and well watered, convenient to the Oak Ridge Institute, and on the direct road from Danville, Va., to Salisbury,\" on credit. It is signed at Oak Ridge, 24 March 1857.",
     "Noble was born on 22 April 1787 and was a member of Dover Monthly Meeting, whose register lists his wife Sicily and children Aaron (16 December 1809), Parris (7 July 1817, died 30 May 1818) and Mary (17 November 1820). He died on 25 December 1855. The Dover register fits a time when Friends were leaving for Ohio and Indiana: Weeks counts seventy-one certificates from Dover between 1816 and 1860, nearly all of them to Indiana. The Shaws stayed.",
-    "Parses Watt of Gibson County, Indiana, who was born about 1811 and died in 1901, is thought to be the Shaws' daughter, but the Dover register shows only a Parris who lived a year; she would have to be an earlier child missing from the page (lead). If she is theirs, her son Daniel O'Neal's Union service and her great-granddaughter Katie Stevenson's marriage to a Hulsey tie the Guilford County Quakers to the Ouachita hills of Arkansas and Oklahoma."
+    "Parses Watt of Gibson County, Indiana, who was born about 1811 and died in 1901, is thought to be the Shaws' daughter, but the Dover register shows only a Parris who lived a year; she would have to be an earlier child missing from the page (lead). If she is theirs, her son Daniel O'Neal's Union service and her great-granddaughter Katie Stevenson's marriage to a Hulsey tie the Guilford County Quakers to the Ouachita hills of Arkansas and Oklahoma.",
+    "His small stone stands among the leaves in the Dover Friends Meeting burying ground near Colfax, Guilford County. Lichen covers most of the face; \"Noble Shaw,\" \"Died,\" \"25 Dec. 1855\" and an age beginning \"68\" can still be read in the photograph, matching the Dover register's birth date of 22 April 1787."
    ],
    "kv": [
     [
@@ -2394,11 +2427,16 @@
      "Dover Monthly Meeting register: Noble Shaw b. 22 Apr 1787; wife Sicily; children Aaron (16 Dec 1809), Parris (7 Jul 1817, d. 30 May 1818), Mary (17 Nov 1820); Noble d. 25 Dec 1855"
     ]
    ],
-   "src": "Hinshaw, Encyclopedia of American Quaker Genealogy, vol. 1 (Shaw family entry); U.S., Quaker Meeting Records, 1681-1935 (Dover MM birth and death of Noble Shaw); U.S., Quaker Meeting Records, 1681-1935 (Dover MM register, Noble Shaw family) The Times (Greensboro, N.C.), 26 March 1857, p. 3, and 2 April 1857, p. 4; Weeks, Southern Quakers and Slavery (1896).",
+   "src": "Hinshaw, Encyclopedia of American Quaker Genealogy, vol. 1 (Shaw family entry); U.S., Quaker Meeting Records, 1681-1935 (Dover MM birth and death of Noble Shaw); U.S., Quaker Meeting Records, 1681-1935 (Dover MM register, Noble Shaw family) The Times (Greensboro, N.C.), 26 March 1857, p. 3, and 2 April 1857, p. 4; Weeks, Southern Quakers and Slavery (1896).; Find a Grave memorial 18148137, Noble Shaw, Dover Friends Meeting Cemetery, Colfax, Guilford Co., N.C., photo by NCDave (2011): https://www.findagrave.com/memorial/18148137/noble-shaw",
    "imgs": [
     {
      "s": "img/rec/quaker_dover_register_noble_shaw.jpg",
      "cap": "Dover Monthly Meeting register, Guilford County, N.C.: Noble Shaw born 22 April 1787, his wife Sicily and their children Aaron, Parris and Mary; Noble's death on 25 December 1855 is added below."
+    },
+    {
+     "cap": "Noble Shaw's stone in the Dover Friends Meeting burying ground, Guilford County, North Carolina. Photo: NCDave, Find a Grave",
+     "source": "https://www.findagrave.com/memorial/18148137/noble-shaw",
+     "s": "img/rec/noble-shaw-stone-dover.jpg"
     }
    ],
    "ev": "proven",
@@ -14994,6 +15032,60 @@
      "source": "https://www.familysearch.org/ark:/61903/3:1:33S7-9YYY-FFC"
     }
    ]
+  },
+  {
+   "id": "betsy-tims-choctaw",
+   "name": "Betsy Tims",
+   "years": "d. before 1899",
+   "branch": "thompson",
+   "rel": "4th great-grandmother",
+   "ev": "proven",
+   "tags": [
+    "choctaw"
+   ],
+   "title": "Betsy Tims, the Choctaw mother on Card 1437",
+   "hook": "Her son gave her name to the Dawes clerk in one line: \"Betsy Tims,\" dead, of Towson County.",
+   "body": [
+    "On 8 May 1899, at the Doaksville post office, the Dawes Commission made out Card 1437 for Edward W. Tims, 58. In the parents' columns of his line the clerk wrote his father as \"Vincent B. Tims,\" dead, with \"Non Citz\" in the county column, and his mother as \"Betsy Tims,\" dead, of Towson County. That line is the only record known that names the Choctaw wife of the Doaksville trader.",
+    "The card's blood column gives Edward as one-half Choctaw. Since his father is entered as a noncitizen, the Commission's fraction for Edward implies that it counted Betsy as a full-blood Choctaw; the card itself gives her no fraction, no age and no roll number. A history of Doaksville written from the Tims family's papers calls her Vincent's \"full-blood Choctaw wife\" and says the two stayed at Doaksville for the rest of their lives.",
+    "Three of her children are known from the family's records: Vinson W., born in 1838, Edward Ward, born in 1842 by family accounts (58 on his 1899 card), and a daughter, Phoebe, who died before the final rolls were made. Vinson's children were enrolled as Choctaws through him and through his wife Emeline Steadman, and his daughter Betsy, born in 1870, who married Joseph P. Thompson, carried her grandmother's name.",
+    "She married in the years when the Choctaw Nation was rewriting its marriage law. On 6 October 1836 the General Council abolished \"the custom of not intermarrying with their own Iksa,\" the matrilineal clans, so that \"all persons, without any distinction of Iksa, are left to make their own choice as to whom they shall marry.\" In October 1840 it ruled that no white man could marry in the Nation until he had been a citizen for two years, that he must take a license from a judge or the district clerk and be married by a minister, and that \"no white man who shall marry a Choctaw woman, shall have the disposal of her property without her consent.\" A white man who left his wife \"without just provocation\" could be ordered to pay her damages and lose his citizenship. No marriage record for Betsy and Vincent has been found, so it is not known which of these rules applied to them.",
+    "Her husband's business ran through the removal years: Doak & Tims held the army contracts to feed arriving Choctaw families at thirteen cents a ration, and in January 1837 Vincent witnessed the Treaty of Doaksville. Family files give Betsy's birth as about 1800 in the old Choctaw Nation in Mississippi and her death as about 1860 at Doaksville. No record examined supports either date (lead), and no document cited here gives her Choctaw name or her parents."
+   ],
+   "quotes": [
+    "\"Vincent B. Tims\" ... Dead ... Non Citz ... \"Betsy Tims\" ... Dead ... Towson (Dawes Card 1437, 1899)",
+    "\"No white man who shall marry a Choctaw woman, shall have the disposal of her property without her consent.\" (Choctaw act of October 1840)"
+   ],
+   "src": [
+    "Dawes Card 1437 (Edward W. Tims), Choctaw by Blood, National Archives",
+    "Constitution and Laws of the Choctaw Nation, together with the treaties of 1855, 1865 and 1866 (Chahta Tamaha, 1869), pp. 71 and 76-77, https://archive.org/details/constitutionandl00chociala",
+    "Rev. Frank Hughes Jr., 'Doaksville, OK history' (Tims family papers), https://revfrankhughesjr.org/images/Doaksville_OK_history.pdf",
+    "Joel J. Thompson, Indian-Pioneer Papers interviews #7392 and #7418 (1937)",
+    "Kappler, Indian Affairs: Laws and Treaties, vol. 2, Treaty with the Choctaw and Chickasaw, 17 Jan. 1837",
+    "House Report No. 271, 27th Congress, 3d Session (1843), Doak & Tims ration contracts"
+   ],
+   "kv": [
+    [
+     "Named on",
+     "Dawes Card 1437 (son Edward W. Tims), 8 May 1899: \"Betsy Tims,\" dead, Towson County"
+    ],
+    [
+     "Husband",
+     "Vincent B. Tims, white trader of Doaksville (\"Non Citz\")"
+    ],
+    [
+     "Children",
+     "Vinson W. (1838), Edward Ward (c.1841-42), Phoebe"
+    ]
+   ],
+   "note": "Her name rests on one Dawes card, that of her son Edward. Her descent to this family runs through Vinson W. Tims, whose parentage (son of Vincent B. Tims) is probable; no card names Vinson's mother directly. Her full-blood status is inferred from Edward's one-half fraction and his noncitizen father. Birth about 1800 and death about 1860 are unsourced family-file dates. The tree's placeholder name 'Elizabeth \"Betsy\" Choctaw' should be replaced with Betsy Tims.",
+   "imgs": [
+    {
+     "s": "img/docs/dawes_card_1437_tims_edward.jpg",
+     "cap": "Dawes Card 1437, 1899: Edward W. Tims, with his mother entered as \"Betsy Tims,\" dead, of Towson County",
+     "source": "Dawes Card 1437 (Edward W. Tims), Choctaw by Blood, National Archives"
+    }
+   ]
   }
  ],
  "TIMELINE": [
@@ -16851,6 +16943,24 @@
    "t": "A Choctaw council forms to develop a new constitution and restore representative government.",
    "b": "thompson",
    "p": "atoka-agreement-allotment"
+  },
+  {
+   "y": "1836",
+   "t": "The Choctaw General Council abolishes the rule against marrying within one's own iksa (6 Oct.)",
+   "b": "thompson",
+   "p": "betsy-tims-choctaw"
+  },
+  {
+   "y": "1840",
+   "t": "Choctaw act sets license and two-year citizenship rules for white men marrying in the Nation and protects Choctaw wives' property",
+   "b": "thompson",
+   "p": "betsy-tims-choctaw"
+  },
+  {
+   "y": "1899",
+   "t": "Edward W. Tims names his mother, \"Betsy Tims,\" dead, of Towson County, on Dawes Card 1437 (8 May)",
+   "b": "thompson",
+   "p": "betsy-tims-choctaw"
   }
  ],
  "ORDER": [
@@ -17120,7 +17230,8 @@
   "stev-james-sr-sally-kelly",
   "stev-john-d1794-thompson",
   "hulsey-jesse-revolutionary",
-  "anc4-george-langley"
+  "anc4-george-langley",
+  "betsy-tims-choctaw"
  ],
  "PHOTO_ORDER": [
   "hulsey_family_yard",
