@@ -60,6 +60,15 @@ class ArchiveDataTests(unittest.TestCase):
         self.assertEqual(BY_ID['benjaminh']['ev'], 'lead')
         self.assertNotEqual(TREE['people']['A:benjamin-hulsey:father']['a'], 'benjaminh')
 
+    def test_arkansas_robert_remains_a_candidate_after_original_review(self):
+        candidate = BY_ID['robertrhulsey']
+        self.assertEqual(candidate['ev'], 'lead')
+        self.assertNotIn('Robert R.', candidate['name'])
+        self.assertIn('4211301_00318', candidate['src'])
+        self.assertIn('Selatha G.', candidate['body'][1])
+        self.assertIn('handwritten spelling is uncertain', candidate['body'][1])
+        self.assertIn('Benjamin is not listed in this household', candidate['body'][1])
+
     def test_story_aliases_preserve_usable_canonical_stories(self):
         self.assertEqual(len(BY_ID), len(ENTRIES), 'story IDs must be unique')
         for old, canonical in ALIASES.items():
