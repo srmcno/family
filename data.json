@@ -198,6 +198,39 @@
    "o": "img/p/hulsey_family_yard_orig.jpg",
    "cap": "Hulsey family group beside a picket fence. Original family photograph; date and individual identifications are not confirmed.",
    "source": "Family photograph shared by sshulsey, 22 Apr 2012, Ancestry tree 33317564, media 5b21e57e-e255-49ff-83bd-ff6479526680."
+  },
+  "katie_possible_at_home": {
+   "o": "img/p/katie_possible_at_home_orig.jpg",
+   "cap": "Woman seated at home, possibly Katie (Stevenson) Hulsey. The Ancestry tree tag is unconfirmed.",
+   "source": "Family photograph shared in an Ancestry public tree/hint and tagged to Katie Hulsey. Individual contributor, date and place were not preserved with the downloaded copy; identification remains unconfirmed.",
+   "labels": {
+    "c": "Color restored"
+   },
+   "note": "Yellow fading, contrast and detail restored. The identification comes from a tree tag rather than an inscription on the photograph.",
+   "edit_note": "Fine facial and room details were reconstructed during restoration; the small framed pictures are not independent portraits or evidence of identity.",
+   "c": "img/p/katie_possible_at_home_enhanced.jpg"
+  },
+  "katie_possible_at_gate": {
+   "o": "img/p/katie_possible_at_gate_orig.jpg",
+   "c": "img/p/katie_possible_at_gate_enhanced.jpg",
+   "cap": "Woman at a picket gate, possibly Katie (Stevenson) Hulsey. The Ancestry tree tag is unconfirmed.",
+   "source": "Family photograph shared in an Ancestry public tree/hint and tagged to Katie Hulsey. Individual contributor, date and place were not preserved with the downloaded copy; identification remains unconfirmed.",
+   "labels": {
+    "c": "Restored & colorized"
+   },
+   "note": "Fading and surface wear repaired; color added. The photograph has no confirmed date or location.",
+   "edit_note": "Colors and fine facial detail are interpretive. The tree tag does not independently establish the sitter’s identity."
+  },
+  "joel_thompson_young": {
+   "o": "img/p/joel_thompson_young_source.jpg",
+   "c": "img/p/joel_thompson_young_restored_balanced.jpg",
+   "cap": "Young studio sitter identified as Joel John Thompson in an Ancestry tree; identification is not independently confirmed.",
+   "source": "Family photograph shared in a public Ancestry member tree. The name comes from tree metadata; no handwritten name is visible in the source crop.",
+   "labels": {
+    "c": "Restored & colorized"
+   },
+   "note": "Surface damage repaired and bright face and shirt tones balanced. The full seated pose is retained.",
+   "edit_note": "Colors and fine facial, hand and clothing details are reconstructed from a faded source. Use the original for historical detail."
   }
  },
  "P": [
@@ -1426,7 +1459,12 @@
     }
    ],
    "ev": "proven",
-   "title": "Katie, who lived to ninety-eight"
+   "title": "Katie, who lived to ninety-eight",
+   "photo_sets": [
+    "katie_possible_at_home",
+    "katie_possible_at_gate"
+   ],
+   "note": "Two additional snapshots were tagged to Katie in a public Ancestry tree. Their subjects have not been independently identified; the captions retain that uncertainty."
   },
   {
    "id": "gwhulsey",
@@ -1468,9 +1506,9 @@
    "hook": "In 1918 he was building the Army's big WWI training camp near Little Rock.",
    "body": [
     "George Washington Hulsey was forty-two when he registered for the draft on 12 September 1918. He gave his birth date as 24 December 1875 and his permanent address as Story, in Montgomery County, Arkansas. For work he was away at Camp Pike, the Army’s large training camp near Little Rock, employed as a laborer by the Stewart-McGehee Construction Company. His nearest relative was Sarah Rebecca Hulsey at Story. The card describes him as short and slender, with blue eyes and black hair.",
-    "He married Sarah Rebecca Graves on 22 December 1901, when she was 17, and they had ten children, among them Oscar, born in 1910. He died in 1935 and is buried in Breashears Cemetery, east of Story, where Benjamin F. Hulsey, believed to be his father, also lies.",
+    "He married Sarah Rebecca Graves on 22 December 1901, when she was seventeen. They had ten children, among them Oscar, born in 1910. George died in 1935 and is buried in Breashears Cemetery near Story. Family accounts also place a Benjamin F. Hulsey there, but the shared cemetery does not by itself establish their relationship.",
     "Rebecca and George Washington Hulsey had ten children: William Roy (1904), John Wesley (1906), Noah (1908), Oscar Franklin (1910), Fred (1913), Ruby Ellen (Stipe, 1915), Grady (1918), Louis Daniel (1920), Grace Irene (Dunagan, 1923) and George Paul (1925). Oscar was the fourth. Rebecca was 17 at the wedding and 41 when the last child was born.",
-    "Find a Grave records his burial at Breashears Cemetery near Fannie in Montgomery County, Arkansas, with a death date of 5 August 1935, and names his father as Benjamin Franklin Hulsey and ten children. That date differs from the 22 December 1935 in the family tree, so the exact day is still to be confirmed from a death certificate or obituary.",
+    "Published sources differ on George’s exact death date, including 5 August and 21 August. The year 1935 is more secure. The 22 December date in the earlier tree appears to repeat his wedding anniversary.",
     "At Oscar’s death in 1982, two sisters and four brothers survived him. Of his nine siblings, three had therefore died before him.",
     "When he died in 1935, the oldest child, William Roy, was about 30 and the youngest, George Paul, about 9 or 10; his widow, Sarah Rebecca, was 51. She died at Bandon, Oregon in 1972.",
     "Camp Pike was under heavy strain when he signed. Eleven days after the draft card, on 23 September 1918, the camp base hospital admitted 214 influenza cases in a single day, and by the end of October 12,393 men had reported sick with the disease. See \"The camp where George Hulsey was working when the influenza came.\"",
@@ -1523,7 +1561,7 @@
    "years": "1847–1924",
    "branch": "hulsey",
    "gen": 3,
-   "rel": "3rd great-grandfather",
+   "rel": "Possible 3rd great-grandfather (unconfirmed)",
    "ev": "lead",
    "tags": [
     "military"
@@ -1547,19 +1585,18 @@
      "cap": "Hot Springs, Garland County, Arkansas, Sanborn fire insurance map, June 1886 (Library of Congress). Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Sanborn_Fire_Insurance_Map_from_Hot_Springs,_Garland_County,_Arkansas._LOC_sanborn00269_001-3.jpg"
     }
    ],
-   "title": "From the Georgia mountains to Story, Arkansas",
-   "hook": "A blacksmith's son from Union County, Georgia, who may have ridden with the Union cavalry at sixteen.",
+   "title": "Benjamin Hulsey: from Georgia to Arkansas",
+   "hook": "A Georgia-born Benjamin appears in a blacksmith’s household, an Arkansas cavalry roster and later family accounts; the links between those records remain uncertain.",
    "body": [
-    "Benjamin Franklin Hulsey was born on 2 February 1847 in Union County, in the north Georgia mountains. In the 1850 census he was 3, in the household of Salathiel (\"Salathel Halsey\") and Elizabeth Hulsey; his father was a blacksmith.",
-    "By the Civil War he was in Arkansas. The roster of Company D, 4th Arkansas Cavalry, a Union regiment recruited in Montgomery County in the winter of 1863–64, lists a private \"Hulsey, Benjamin F.\" He would have been 16 or 17. His grave memorial says instead that he served in a Confederate 4th Arkansas Cavalry, but that unit's Company H was raised in Benton County.",
-    "He married Sylvania Susane Partin in 1868 and, after her death in 1889, Lucy Lee Morgan in Montgomery County in 1893. He named a son Martin Salatheil Hulsey after his own father. He died at Story on 16 December 1924 and is buried in Breashears Cemetery, the same small cemetery where Rev. George Washington Hulsey was buried in 1935.",
-    "His parents were Salathiel, a blacksmith, and Elizabeth (Estel) Hulsey. His first wife, Sylvania Susane Partin (1849-1889), is the likely mother of George Washington Hulsey; his second, Lucy Lee Morgan (1878-1947), he married in Montgomery County on 25 September 1893.",
-    "The Hot Springs Sentinel-Record of 13 February 1910 printed the Garland County real estate transfers for 1 to 9 February, and one entry reads: \"B. F. Hulsey and wife to C. Floyd Huff, W. 1/2 of N.W. 1/4, sec. 10, Tp. 2 S., R. 19 west, $175.\" The notice gives no first name or home town, so it may be Benjamin, whose son George Washington was farming in Garland County in 1910, or another B. F. Hulsey.",
-    "A transcription of the 1850 Union County, Georgia census lists the household of Salathiel Hulsey with a Benjamin aged 6, which would give a birth about 1844 and not 2 February 1847; the household also has brothers Robert R. (17), Jesse (10) and Jennings (8) and sisters Maryann, Elizabeth, Lillean and Nancy. A Robert R. Hulsey, 27, was already in Hempstead County, Arkansas by 1860 (lead).",
-    "His regiment, the 4th Arkansas Cavalry (Union), was organized at Little Rock in December 1863 and skirmished at Cedar Glade on 1 March 1864, the date a Montgomery County petition to Little Rock says Dr. Brown of Cedar Glades was shot down and a wife and baby wounded. A summary of the regiment's marches is told under \"The 4th Arkansas Cavalry: Union men from the Ouachita hills.\""
+    "The Hulsey family accounts trace Benjamin Franklin Hulsey to the mountains of Union County, Georgia, and a household headed by the blacksmith Salathiel Hulsey and his wife Elizabeth. The published 1850 census transcription lists a Benjamin aged six, while the family date of 2 February 1847 would make him three. Those two versions cannot both describe his age correctly, and the identity of this child with the later Arkansas man has not been established.",
+    "Company D of the 4th Arkansas Cavalry, a Union regiment recruited during the winter of 1863–64, lists a private Benjamin F. Hulsey. A grave account instead attributes Confederate cavalry service to Benjamin. The similar unit names can obscure the distinction between opposing armies; without an identifying service or pension file, his military service remains a lead.",
+    "Family accounts name Sylvania Susane Partin as a wife, while a 1977 Hulsey query names Margaret Partain. The 1880 Montgomery County household that probably includes young George Washington Hulsey gives the wife’s name as Sarah G. None of those women has been securely identified with another, and Sylvania has not been established as George’s mother.",
+    "In Garland County, a September 1893 marriage bond names Benjamin F. Hulsley and Lucy Morgan. The license is dated 25 September and gives Lucy’s age as fifteen. The printed century on the bond was altered by hand to 1893. The return does not supply a readable completed ceremony date, so the license date should not automatically become their wedding date. This couple’s connection to the 1880 household remains unresolved.",
+    "The Hot Springs Sentinel-Record of 13 February 1910 records a $175 land transfer from B. F. Hulsey and wife to C. Floyd Huff: the west half of the northwest quarter of section 10, township 2 south, range 19 west. The notice gives neither his full name nor his home address, leaving it a possible match.",
+    "A family account places Benjamin’s death at Story on 16 December 1924 and his burial at Breashears Cemetery; the 1977 query instead gives 1921. These accounts preserve clues worth following, but they do not yet establish one continuous life or prove that he was George Washington Hulsey’s father."
    ],
-   "note": "That Benjamin was G. W. Hulsey's father rests on grave memorials, a shared cemetery and family naming; it has not been confirmed by a census or death record. The same Union company roster lists a private Gilliam Graves, whom trees place as Sarah Rebecca Graves's grandfather; that link is also unproven. Birth year conflict: the family record (and this entry's first paragraph) give 2 February 1847, which would make him 3 in 1850; the 1850 Union Co., Ga. census as transcribed by the San Diego Genealogical Society gives Benjamin age 6 (b. c.1844); neither the census page nor a birth record has been seen, so 1844 and 1847 are both open. The grave memorial's Confederate 4th Arkansas Cavalry service conflicts with the Union Company D roster.",
-   "src": "1850 U.S. Census, Union Co., Ga.; Index to Compiled Service Records of Union Soldiers from Arkansas (NARA M383), Co. D, 4th Arkansas Cavalry (ARGenWeb roster); Find a Grave (Breashears Cemetery, Montgomery Co., Ark.); The Sentinel-Record (Hot Springs, Ark.), 13 Feb 1910, p. 4 (http://www.loc.gov/resource/sn89051285/1910-02-13/ed-1/?sp=4); San Diego Genealogical Society, Hulsey Families (2000), 1850 Union Co., Ga; Montgomery County ARGenWeb, 'Breashears Cemetery, Story' (argenweb.net/montgomery/breashears_cemetery.htm; photo study, June 2020)",
+   "note": "This profile preserves a family-account lead separately from the B. F. Hulsey household recorded in 1880. Their identity, Benjamin’s parents, his military service and the identity of George Washington’s mother remain unconfirmed. The competing 1850 ages, wife names and death years are retained rather than silently reconciled.",
+   "src": "1850 U.S. Census, Union Co., Ga.; Index to Compiled Service Records of Union Soldiers from Arkansas (NARA M383), Co. D, 4th Arkansas Cavalry (ARGenWeb roster); Find a Grave (Breashears Cemetery, Montgomery Co., Ark.); The Sentinel-Record (Hot Springs, Ark.), 13 Feb 1910, p. 4 (http://www.loc.gov/resource/sn89051285/1910-02-13/ed-1/?sp=4); San Diego Genealogical Society, Hulsey Families (2000), 1850 Union Co., Ga; Montgomery County ARGenWeb, 'Breashears Cemetery, Story' (argenweb.net/montgomery/breashears_cemetery.htm; photo study, June 2020); Garland County marriage bond and license, Benjamin F. Hulsley and Lucy Morgan, Sep 1893, https://www.familysearch.org/ark:/61903/3:1:S3HT-65TS-YYW?i=615&groupId=1417439&lang=en; indexed record https://www.familysearch.org/ark:/61903/1:1:F7SC-WLQ; Franklin L. Hulsey family query, Arkansas Family Historian 15:4 (Dec 1977), p. 218, https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26.",
    "kv": [
     [
      "1910 deed notice",
@@ -4851,7 +4888,7 @@
   {
    "id": "wt-richard-margery-browne",
    "name": "Richard & Margery Browne",
-   "years": "c.1620–1662",
+   "years": "17th-century family",
    "branch": "moffitt",
    "gen": 9,
    "rel": "9th great-grandparents",
@@ -4873,7 +4910,7 @@
    "title": "Stripped of their property for fines",
    "hook": "William Brown's memories, written into the Nottingham Quaker minutes in 1786, say his parents lost most of what they owned to fines for their faith.",
    "body": [
-    "The Wellingborough Monthly Meeting in Northamptonshire entered the births of Richard and Margery Browne's sons James (1656), William (1658) and Jeremiah (1660), and the county quarterly meeting's entry for William names his mother. Richard 'of Boasworth', probably Husbands Bosworth in Leicestershire, was buried in 1662.",
+    "The Wellingborough Quaker register records the births of sons James in 1656, William in 1658 and Jeremiah in 1660. The transcriptions name their father as Richard Browne. The mother’s name varies between Mary, Marrey and Margery in accounts of the meeting registers; her original entry remains to be reread. Richard is described as of Boasworth, usually interpreted as Husbands Bosworth in Leicestershire.",
     "Forty years after William Brown died, a great-nephew set down William's stories in the minutes of East Nottingham Meeting on the 28th day of the 1st month 1786, and Gilbert Cope printed them in The Browns of Nottingham (1864). They say Richard had leaned toward both the Baptists and the Puritans and was reputed a teacher among both, and that about 1663 William's parents 'had suffered greatly and were much stripped of their property for fines &c.' The memorial miscalls the father 'William senior'; the registers give Richard.",
     "James Brown reached Pennsylvania by 1677. William followed between 1682 and 1684, after marrying Dorothy in England, and married three more times in Pennsylvania, the second time to Ann Mercer in 1684. He died in West Nottingham on 1 October 1746.",
     "The East Nottingham memorandum tells how the Brownes became Friends when William Dewsbury sat at their table, how Richard's wife asked why he had brought \"that madman\" into the house, and how his landlord made him pay his rent twice because he would not swear that it was paid. It is told under \"A madman at the table.\""
@@ -4882,8 +4919,8 @@
    "tags": [
     "quaker"
    ],
-   "src": "WikiTree Browne-440, Brown-2504, Unknown-278288, citing Wellingborough MM and Northamptonshire QM Quaker registers; Cope, The Browns of Nottingham (1864)",
-   "note": "Birth registers name both parents. The place of origin and exact arrival year are inferences or unresolved. Evidence: probable (registers are cited only through WikiTree and Cope)."
+   "src": "WikiTree Browne-440, Brown-2504, Unknown-278288, citing Wellingborough MM and Northamptonshire QM Quaker registers; Cope, The Browns of Nottingham (1864); Wellingborough Monthly Meeting, TNA RG6/1380, William Brown birth entry, image 20 of 150, https://www.ancestry.com/search/collections/7097/records/524194; Northamptonshire Quarterly Meeting, RG6/502, https://www.ancestry.com/search/collections/7097/records/246957.",
+   "note": "William’s birth-register transcriptions name his father Richard. The mother’s name is rendered Mary, Marrey or Margery in accounts of the two register entries; her original entry remains to be reread before adding a mother to the tree. The Nottingham memorial misnames the father and has a chronology that conflicts with the reported 1662 burial, so its stories are later family recollections rather than a secure source for exact dates. The paternal link is probable."
   },
   {
    "id": "wt-thomas-ann-mercer",
@@ -4907,16 +4944,17 @@
      "1684, to William Brown; six children 1685/6-1694/5"
     ]
    ],
-   "src": "WikiTree Mercer-123 and Mercer-124, citing the Quaker birth register and the 1709 'Catalogue of Eighty-seven Publick Friends' Gilbert Cope, The Browns of Nottingham (1864); Conventicles Act 1664 (16 Car. II c. 4)",
-   "note": "Evidence: probable (WikiTree citing the Quaker birth register). Thomas's own parents are not known.",
+   "src": "WikiTree Mercer-123 and Mercer-124, citing the Quaker birth register and the 1709 'Catalogue of Eighty-seven Publick Friends' Gilbert Cope, The Browns of Nottingham (1864); Conventicles Act 1664 (16 Car. II c. 4); Ringwood Quaker birth register, TNA RG6/1027, p. 18, Ann daughter of Thomas and Ann Mercer, https://www.ancestry.com/search/collections/7097/records/452488; indexed father https://www.familysearch.org/ark:/61903/1:1:FQL5-P3J and mother https://www.familysearch.org/ark:/61903/1:1:FQL5-P3V; Thomas Mercer burial, https://www.ancestry.com/search/collections/2189/records/99768505.",
+   "note": "The Ringwood birth entry is available through specifically cited register transcriptions and indexes. The original register image has not yet been independently reread, so the parental links remain probable. Thomas’s parents and his wife’s maiden surname are unknown.",
    "ev": "probable",
    "tags": [],
    "title": "Thomas Mercer of Andover, who crossed alone with his daughter Ann",
    "hook": "A Hampshire Quaker widower brought his teenage daughter to Pennsylvania in 1682-83; she married at seventeen, and he died there in 1694.",
    "body": [
-    "Thomas Mercer and his wife Ann were Quakers of Ringwood and Andover in Hampshire. Their daughter Ann was born on the 24th day of the 12th month 1666/7 and entered in the Ringwood Meeting register. Friends in England in those years met under the Conventicle Act of 1664, which made it illegal for more than five people to worship outside the Church of England; Penn's colony, chartered in 1681, offered Friends freedom of worship. Thomas's wife died before the voyage, and he crossed about 1682-83 with Ann.",
+    "Thomas Mercer and his wife Ann were Quakers of Ringwood and Andover in Hampshire. Their daughter Ann’s birth entry names both parents and dates her birth to the twenty-fourth day of the twelfth month, 1666/7. That was February in the calendar Friends then used, not December. The entry supplies her mother’s given name, but no maiden surname. Thomas later crossed to Pennsylvania with his daughter, about 1682–83.",
     "He took up land in Aston Township, Chester County, and his daughter was married there in 1684 to William Brown, born in Northamptonshire, who had landed a year or two earlier. Ann was seventeen. Her first child, born in February 1685/6, was named Mercer for her family. Thomas Mercer lived long enough to see five grandchildren born, and died on 22 November 1694. A 1709 Quaker list of public Friends who died in Pennsylvania names him and \"Ann Browne daughtr of said Thoms Mercer,\" who died in 1696.",
-    "Thomas Mercer's own parents are unknown. Through Ann his line runs to her son William Brown Jr., his daughter Elizabeth Brown, her daughter Margaret Norton and her daughter Martha Chamness, who married Robert Moffitt."
+    "Thomas Mercer's own parents are unknown. Through Ann his line runs to her son William Brown Jr., his daughter Elizabeth Brown, her daughter Margaret Norton and her daughter Martha Chamness, who married Robert Moffitt.",
+    "The two Anns belong to different generations: Ann, wife of Thomas, was the mother; Ann Mercer, who married William Brown, was the daughter. The elder Ann’s maiden surname and life dates remain unknown. Keeping those identities separate preserves the maternal link without supplying a name the birth entry does not give."
    ]
   },
   {
@@ -4929,43 +4967,53 @@
    "place": "John Cowgill came from Yorkshire in 1682 with his widowed mother and married Bridget Croasdale at Neshaminy, Bucks County, in 1693. About 1713 he moved to New Castle County, Delaware, and built a tan-yard. Their daughter Elizabeth married William Brown Jr.",
    "kv": [
     [
-     "John born",
-     "c.1665, Yorkshire"
-    ],
-    [
-     "John died",
-     "2 Jul 1731"
-    ],
-    [
      "Bridget born",
-     "30 Aug 1671, Yorkshire (Settle Meeting register)"
+     "30 Aug 1671, Settle Meeting transcription; other meeting dates vary"
     ],
     [
      "Married",
-     "19 Oct 1693, Neshaminy (Middletown MM)"
+     "19 Oct 1693, Neshaminy, Bucks County"
+    ],
+    [
+     "Elizabeth born",
+     "24 Aug 1694, sixth month in the Middletown register"
     ],
     [
      "Bridget died",
      "26 Apr 1701"
     ],
     [
-     "Elizabeth",
-     "Born 24 Jun 1694, Middletown Twp., Bucks Co.; d. c.1721"
+     "Family connection",
+     "Elizabeth Cowgill → Elizabeth Brown → Margaret Norton → Martha Chamness → the Moffitts"
     ]
    ],
    "title": "The Settle families’ 1682 crossing",
-   "hook": "John Cowgill came from Yorkshire as a servant; the family of the girl he later married was named on the same Quaker certificate.",
+   "hook": "The 1682 Settle certificate names both families; eleven years later John Cowgill married Bridget Croasdale at Neshaminy.",
    "body": [
-    "In 1682 a group of Quaker families from the Settle Meeting in Yorkshire carried what Friends call the Settle Certificate to William Penn's new province. Later accounts name either the Lamb or the Welcome as their ship. The certificate lists 'Ellen Cowgill widow & her children'. Her son John, probably about seventeen, came as a servant to Cuthbert Hayhurst.",
-    "The Croasdale family was on the same certificate: Thomas and Agnes Croasdale and six children, who took up 500 acres on Neshaminy Creek in Bucks County. On 19 October 1693 John married their daughter Bridget, whose birth in August 1671 is in the Settle Meeting register.",
-    "Bridget died on 26 April 1701 and left four children, among them Elizabeth, born 24 August 1694, who would marry William Brown Jr. in 1715. John married Rachel (Baker) Bunting, a widow, in 1703 or 1704. About 1713 or 1714 he moved to New Castle County, Delaware, where he asked for land on Blackbird Creek in 1718 because he had built a tan-yard there. He died in 1731."
+    "In June 1682, Friends at Settle in Yorkshire prepared a certificate for families leaving for Pennsylvania. Among them were Ellen Cowgill, a widow, and her children, and Thomas Croasdale, his wife Agnes and six children. John Cowgill and Bridget Croasdale belonged to those two families. Later accounts differ over whether the party sailed on the Lamb or the Welcome; the certificate supplies firmer evidence than the disputed ship name.",
+    "Bridget’s birth appears as the thirtieth day of the sixth month, 1671, in the Settle entries printed by Thomas Maxwell Potts in 1895. In the Quaker calendar then in use, sixth month was August. She was about eleven when the family left England. On 19 October 1693, she married John Cowgill at Neshaminy in Bucks County, Pennsylvania.",
+    "Their daughter Elizabeth’s birth is recorded under John and Bridget Cowgill in the Middletown meeting register. Its sixth-month date converts to 24 August 1694. Elizabeth later married William Brown Jr.; their daughter Elizabeth Brown married Edward Norton, and their granddaughter Margaret Norton married Joseph Chamness. That is the path from Bridget’s Yorkshire family to the Moffitts.",
+    "Bridget died on 26 April 1701. Potts’s family list reports four children. John married the widow Rachel Baker Bunting in 1703 or 1704, and moved to New Castle County, Delaware, about 1713–14. His later land records concern a tan-yard and land near Blackbird Creek. He died in 1731."
    ],
    "ev": "probable",
    "tags": [
     "quaker"
    ],
-   "src": "WikiTree Cowgill-28, Cowgill-353 and Croasdale-11, citing Middletown MM minutes and McCracken, The Welcome Claimants (1985); Quakers in Britain, Quaker calendar guide: https://www.quaker.org.uk/documents/quaker-calendar-lib-guide-2018",
-   "note": "Elizabeth's birth is in the Middletown minutes naming both parents. The servant detail comes from McCracken as quoted on WikiTree. Our older note says 'of Duck Creek'; WikiTree's land records name the Appoquinimink and Blackbird Creek tracts. Evidence: probable (WikiTree and McCracken cite the minutes; no original seen)."
+   "src": "Thomas Maxwell Potts, Our Family Ancestors (1895), pp. 25–29, reproducing the Settle certificate and family entries, https://archive.org/details/ourfamilyancesto1895pott; Middletown Monthly Meeting, Minutes 1664–1807, John and Bridget Cowgill children, image 58 of 118, https://www.ancestry.com/imageviewer/collections/2189/images/31906_283855-00057; WikiTree Cowgill-28 and Cowgill-353, citing meeting and Delaware land records; Quakers in Britain, Quaker calendar guide, https://www.quaker.org.uk/documents/quaker-calendar-lib-guide-2018.",
+   "note": "The Settle certificate and children’s list are reproduced in Potts’s 1895 book. He cautions that Settle and Middletown birth dates differ. The John-and-Bridget parentage of Elizabeth comes from a specific Middletown register transcription; its original page has not yet been independently reread. The servant detail and ship identifications depend on later accounts.",
+   "source_link": "https://archive.org/details/ourfamilyancesto1895pott/page/29/mode/1up",
+   "imgs": [
+    {
+     "s": "img/rec/croasdale_settle_certificate_potts_1895.jpg",
+     "cap": "The Settle certificate names the Cowgill and Croasdale families. Printed transcription in Thomas Maxwell Potts, Our Family Ancestors (1895), p. 26.",
+     "kind": "record"
+    },
+    {
+     "s": "img/rec/croasdale_children_settle_potts_1895.jpg",
+     "cap": "Bridget among Thomas and Agnes Croasdale’s six children; Settle birth entries printed in Potts (1895), p. 29. The note explains that Middletown dates vary.",
+     "kind": "record"
+    }
+   ]
   },
   {
    "id": "wt-ellen-cowgill",
@@ -5019,64 +5067,65 @@
   {
    "id": "wt-thomas-agnes-croasdale",
    "name": "Thomas & Agnes (Hawthornewaite) Croasdale",
-   "years": "1644–1684 · 1633–1686",
+   "years": "Died 1684 · died 1686",
    "branch": "moffitt",
    "gen": 9,
    "rel": "9th great-grandparents",
-   "place": "Quakers of the Settle Meeting in Yorkshire, married on 1 May 1664 (recorded by Lancaster Monthly Meeting). Their 1682 Settle certificate names six children; accounts differ on the ship that carried the party. In Pennsylvania they took up 500 acres on Neshaminy Creek, Bucks County, Pennsylvania, as members of Middletown Meeting. Thomas died within two years of arriving (the profile gives 1682 and 1684); Agnes administered his estate and died on 20 October 1686.",
+   "place": "From New Hay, Yorkshire, to Neshaminy Creek, Bucks County, Pennsylvania. The Settle certificate of 1682 names Thomas, Agnes and six children.",
    "kv": [
     [
-     "Married",
-     "1 May 1664 (Lancaster MM, England)"
+     "Marriage",
+     "1 May 1664, Lancaster Monthly Meeting"
     ],
     [
-     "Thomas",
-     "Born 20 May 1644; died 1682 or 1684, Middletown, Bucks Co., Pa."
+     "Certificate",
+     "7 Jun 1682, Settle Monthly Meeting; Thomas, Agnes and six children"
     ],
     [
-     "Agnes",
-     "Born 13 Jul 1633; died 20 Oct 1686, Neshaminy"
+     "Thomas’s estate",
+     "£47 9s in goods; 500 acres listed without a valuation"
     ],
     [
-     "Daughter",
-     "Bridget, born 30 Aug 1671, m. John Cowgill 1693"
+     "Agnes’s estate",
+     "£106 5s including 500 acres valued at £50"
     ],
     [
-     "1 May 1664",
-     "Marriage, Lancaster Monthly Meeting"
-    ],
-    [
-     "2 Nov 1684",
-     "Thomas dies; estate £47 9s, land 'not prized'"
-    ],
-    [
-     "20 Oct 1686",
-     "Agnes dies; estate £106 5s including land at £50"
+     "Direct line",
+     "Daughter Bridget married John Cowgill in 1693"
     ]
    ],
-   "src": "WikiTree Croasdale-9, Croasdale-11, Croasdale-17, Hawthornewaite-1 and Hawthornthwaite-8; Charles W. Potts, Our Family Ancestors (1895), pp. 25–29, quoting the Settle register and the inventories: https://archive.org/details/ourfamilyancesto1895pott; Joseph Besse, Sufferings of the People Called Quakers, vol. 1 (Lancashire), p. 308.",
-   "note": "Evidence: probable (WikiTree and the compiled Potts family book cite registers naming both parents; no register page seen). Whether the party sailed on the Lamb or the Welcome is told under 'Two sons in service' and 'The Settle families’ 1682 crossing'.",
+   "src": "Thomas Maxwell Potts, Our Family Ancestors (1895), pp. 25–29: Lancaster marriage, Settle certificate, estate inventories and children’s birth entries, https://archive.org/details/ourfamilyancesto1895pott; Quakers in Britain, Quaker calendar guide, https://www.quaker.org.uk/documents/quaker-calendar-lib-guide-2018.",
+   "note": "Thomas Maxwell Potts’s 1895 book reproduces the inventories and meeting entries; these are printed transcriptions, not images of the original manuscripts. Thomas’s inventory supports his death in 1684 rather than 1682. Agnes’s printed inventory year conflicts with the reported 1686 death and administration. Their own birth dates and parents remain unverified. The ship name is disputed in later accounts.",
    "ev": "probable",
    "tags": [
     "quaker"
    ],
    "body": [
-    "Thomas Croasdale of New Hay in Yorkshire married Agnes Hawthornthwaite of Wyresdale on 1 May 1664, in the Quaker register of Lancaster Monthly Meeting. The registers' dates make her nearly eleven years his senior: Agnes was born on 13 July 1633, and Thomas on 20 May 1644. Their first child, William, was born on 7 February 1664/5. By deeds of lease and release of 21 and 22 April 1682 Thomas bought a thousand acres of Penn's province, and on 7 June Settle Monthly Meeting issued a certificate for \"Thomas Croasdale, Agness his wife & six children.\" Later accounts differ on whether the party sailed on the Lamb or the Welcome.",
-    "Thomas died on 2 November 1684. His widow was given administration, and James Dillworth and Thomas Constable appraised the goods on 8 December: \"his Apparrell 03 00 00; in bedding 07 00 00; in pewter & brass 03 04 00; in bages & Cutions 01 00 00; in Wood vessels 00 15 00; in Chests & boxes 01 00 00; in Linnen 02 00 00; in Iron Ware 04 00 00; in hoggs 05 00 00\" (pounds, shillings, pence), \"2 Mares 08 10 00\" and \"3 Cows 1 calf 1 yearling 12 00 00.\" The total was \"47 09 00\" and the \"500 Ackers of Land\" were \"not prized.\" A profile that gives his death as 1682 conflicts with the inventory.",
-    "Agnes outlived him by about two years. The inventory of \"Agnes Crossdale of Neshaminah Widdowe,\" taken by Nicholas Waln and Robert Heaton, starts \"Imprimis all the Brass,\" then \"Item all the Pewter,\" \"the wood vessel,\" \"the Potts,\" \"one Bed wth ye bedding belongin\" at four pounds, \"one Chest ten Shillings,\" \"one Saddle,\" \"Hoggs\" at three pounds, \"3 Cows 2 Bullocks 1 Heifer\" at twenty-four, \"2 Mares 1 Colt\" at ten, and \"500 Acres of Land\" at fifty pounds, ending with \"one Blankit Some nails all the husbandrie Tooles & hustlement about the House.\" It totals 106 pounds 5 shillings. She died on 20 October 1686 and her sons William and John were given administration on 1 November 1686. Waln signed with his mark. The printed inventory carries the date of the 10th of the 9th month 1685, registered a year later, so one of the printed years is off.",
-    "The six children are in the Settle register: William, John, Elizabeth (who died in 1683), Mary, Bridget (born 30 August 1671) and Alice. Bridget married John Cowgill in 1693, Alice married David Potts and Mary married William Smith. WikiTree makes Thomas the son of William Croasdale of Newhey (died 1666, buried at Settle Meeting) and Elizabeth Hayhurst, and Agnes the daughter of William Hawthornthwaite, who died in 1633 when she was a baby; the Croasdale link is called highly probable. Besse's Sufferings lists a William Hathornthwaite among forty-three Friends arrested at Swarthmoor in January 1660 for refusing the oath, though nothing ties him to Agnes. Bridget and John Cowgill's daughter Elizabeth married William Brown Jr., and from there the line runs to Cane Creek and the Moffitts.",
-    "Their son William Croasdale, who stayed in Bucks County, made his will on 30 March 1715, naming his sisters Mary Smith with eight children and Alice Potts with ten."
+    "Thomas Croasdale of New Hay, Yorkshire, married Agnes Hawthornthwaite of Wyresdale on 1 May 1664. The marriage was recorded by Lancaster Monthly Meeting. Eighteen years later, the couple prepared to leave England with six children. The certificate issued at Settle on 7 June 1682 names the whole household, placing their move within a group of Quaker families rather than an isolated voyage.",
+    "Before leaving, Thomas arranged to buy land in Pennsylvania by deeds dated 21 and 22 April 1682. The grant was for a thousand acres, but the estate papers later describe a 500-acre holding. The records concern different stages of acquiring and settling land; they should not be treated as two measurements of an unchanged farm.",
+    "Thomas died on 2 November 1684, about two years after the move. Agnes became administrator of his estate. On 8 December, James Dillworth and Thomas Constable valued his belongings: clothing, bedding, pewter and brass, cushions, wooden vessels, chests, linen, ironware and hogs. Two mares were worth £8 10s; three cows, a calf and a yearling were valued at £12. The goods totaled £47 9s. The 500 acres were listed but left unvalued.",
+    "Agnes’s inventory gives the household another outline: brass and pewter, pots, a bed and bedding, a chest, a saddle, hogs, three cows, two bullocks, a heifer, two mares and a colt. This time the land was valued at £50, nearly half the £106 5s total. Small things also survived into the account—a blanket, nails and the tools used around the house and farm.",
+    "Agnes died on 20 October 1686, according to the family account, and sons William and John received administration on 1 November. The inventory’s printed date is in 1685, creating a conflict that the transcript does not resolve. The children’s list names William, John, Elizabeth, Mary, Bridget and Alice. Bridget’s marriage to John Cowgill carries this branch into the Brown, Norton, Chamness and Moffitt families."
    ],
    "title": "Three cows, two mares and 500 acres: Thomas and Agnes Croasdale on the Neshaminy",
-   "hook": "Thomas Croasdale died on 2 November 1684, about two years after landing; his widow's inventory lists \"3 Cows 2 Bullocks 1 Heifer\" and 500 acres.",
-   "quotes": [
+   "hook": "Two inventories preserve a family’s Pennsylvania household: livestock, bedding, tools and a 500-acre holding on Neshaminy Creek.",
+   "quotes": [],
+   "source_link": "https://archive.org/details/ourfamilyancesto1895pott/page/25/mode/1up",
+   "imgs": [
     {
-     "t": "Thomas Croasdale, Agness his wife & six children",
-     "c": "Settle Monthly Meeting certificate, 7th of the 4th month 1682, in Potts, Our Family Ancestors (1895), p. 26"
+     "s": "img/rec/thomas_croasdale_inventory_potts_1895.jpg",
+     "cap": "Thomas Croasdale’s estate inventory, including livestock and 500 acres. Printed transcription in Potts (1895), p. 27.",
+     "kind": "record"
     },
     {
-     "t": "Item one Blankit Some nails all the husbandrie Tooles & hustlement about the House",
-     "c": "Inventory of Agnes Crossdale of Neshaminah, widow, in Potts, Our Family Ancestors, p. 28"
+     "s": "img/rec/agnes_croasdale_inventory_potts_1895.jpg",
+     "cap": "Agnes Croasdale’s household goods and farm property. Printed transcription in Potts (1895), p. 28; the inventory year conflicts with the reported death chronology.",
+     "kind": "record"
+    },
+    {
+     "s": "img/rec/croasdale_children_settle_potts_1895.jpg",
+     "cap": "The six Croasdale children, including Bridget. Potts (1895), p. 29, using Settle Monthly Meeting entries.",
+     "kind": "record"
     }
    ]
   },
@@ -7951,7 +8000,7 @@
   {
    "id": "joel-wpa",
    "name": "Joel J. Thompson",
-   "years": "b. 1892",
+   "years": "1892–1977",
    "branch": "thompson",
    "rel": "Great-granduncle (Simon's brother)",
    "title": "Joel Thompson tells it in Hugo, 1937",
@@ -8009,7 +8058,7 @@
     }
    ],
    "note": "This is a son's memory, set down in 1937. Details such as dates and the order of his father's schooling are his recollection, not records.",
-   "src": "Indian-Pioneer Papers, Joel J. Thompson interviews #7392 and #7418 (Works Progress Administration, Hugo, 28 Aug 1937).",
+   "src": "Indian-Pioneer Papers, Joel J. Thompson interviews #7392 and #7418 (Works Progress Administration, Hugo, 28 Aug 1937).; Dawes Card 1283, Joel J. Thompson, roll 3490; shared Joel John and Ira Mae Thompson headstone (29 Jan 1892–20 Jun 1977).",
    "imgs": [
     {
      "s": "img/wpa_interview_p2.jpg",
@@ -8018,11 +8067,6 @@
     {
      "s": "img/rec/draft_joel_thompson_1917.jpg",
      "cap": "World War I draft registration card of Joel Thompson, age 25, farmer at Corinne, Choctaw County, Oklahoma, born 29 January 1892 at Doaksville; registered 5 June 1917. He lists a wife and children."
-    },
-    {
-     "s": "img/p/joel_young_color.jpg",
-     "cap": "Studio portrait of Joel John Thompson as a young man, the photograph handwritten 'Joel John Thompson' (restored and colorized). Photograph shared in a public Ancestry member tree",
-     "kind": "photo"
     },
     {
      "s": "img/p/joel_ira_later.jpg",
@@ -8034,7 +8078,8 @@
      "cap": "Joel John and Ira Mae Thompson's shared headstone: Ira Mae (Nov 23 1892 - Jun 17 1985), Joel John (Jan 29 1892 - Jun 20 1977), 'At Peace'. Photograph shared in a public Ancestry member tree"
     }
    ],
-   "ph": "joel_ira"
+   "ph": "joel_thompson_young",
+   "source_link": "https://digital.libraries.ou.edu/cdm/singleitem/collection/indianpp/id/5285/rec/1"
   },
   {
    "id": "allotment-1903",
@@ -10970,33 +11015,42 @@
   },
   {
    "id": "benjamin-wives",
-   "name": "Sylvania Partin and Lucy Lee Morgan Hulsey",
-   "years": "1849-1889 and 1878-1947",
+   "name": "Sarah G., Margaret Partain, Sylvania Partin and Lucy Morgan",
+   "years": "1880–1893 records",
    "branch": "hulsey",
-   "rel": "Wives of Benjamin Franklin Hulsey",
-   "place": "Montgomery Co., Arkansas",
+   "rel": "Women named in the Hulsey family records",
+   "place": "Montgomery and Garland counties, Arkansas",
    "kv": [
     [
-     "Sylvania Susane Partin",
-     "1849-1889, married 1868; likely mother of George Washington Hulsey (lead)"
+     "Sarah G.",
+     "Recorded wife of B. F. Hulsey in the original 1880 census"
     ],
     [
-     "Lucy Lee Morgan",
-     "1878-1947, married 25 Sep 1893, Montgomery Co."
+     "Margaret Partain",
+     "Wife named in an unsourced 1977 family query"
+    ],
+    [
+     "Sylvania Partin",
+     "Named in other family accounts; not identified with Sarah G."
+    ],
+    [
+     "Lucy Morgan",
+     "Named in the Sep 1893 Garland County bond and license; age fifteen"
     ]
    ],
-   "src": "Find a Grave memorials and Montgomery Co., Ark. marriage records as cited in the Benjamin Franklin Hulsey entry.",
-   "title": "Two wives, thirty years apart in age",
-   "hook": "Benjamin Hulsey married Sylvania Partin in 1868 and, four years after she died, a woman 31 years younger than himself.",
+   "src": "1880 U.S. census, Center Township, Montgomery County, Arkansas, household 216, https://www.familysearch.org/ark:/61903/3:1:33S7-9YYN-SL1S; Franklin L. Hulsey family query, Arkansas Family Historian 15:4 (Dec 1977), p. 218, https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26; Garland County marriage bond and license, Benjamin F. Hulsley and Lucy Morgan, Sep 1893, https://www.familysearch.org/ark:/61903/3:1:S3HT-65TS-YYW?i=615&groupId=1417439&lang=en; FamilySearch index F7SC-WLQ, https://www.familysearch.org/ark:/61903/1:1:F7SC-WLQ.",
+   "title": "The women named in the Hulsey records",
+   "hook": "A census, a marriage bond and a family query preserve different names; each belongs to its own record until the connections can be established.",
    "body": [
-    "Sylvania Susane Partin was born in 1849, two years after Benjamin, and they married in 1868. She died in 1889, aged about 40, and is the likely mother of George Washington Hulsey, born in December 1876 (lead; no record yet names her as his mother).",
-    "On 25 September 1893 Benjamin, then 46, married Lucy Lee Morgan in Montgomery County. She was born in 1878, so was 15, and she lived until 1947, 23 years longer than he did.",
-    "Benjamin died at Story on 16 December 1924."
+    "In June 1880, B. F. Hulsey’s wife was recorded as Sarah G., thirty, born in Arkansas. Three children—Margaret M., George W. and Charles F.—were in the household. The census identifies her as the wife of their father, but it does not explicitly identify her as their biological mother.",
+    "A family query printed in 1977 calls Benjamin’s wife Margaret Partain. Other family accounts use Sylvania Susane Partin. Neither name has been linked securely to Sarah G. Similar surnames and a recurring Benjamin are clues, but they do not establish a mother for George Washington.",
+    "The September 1893 Garland County bond and license name Benjamin F. Hulsley and Lucy Morgan. The license, issued on 25 September, calls Lucy fifteen. The bond’s printed century was corrected to 1893 in handwriting; the ceremony return is blank or unreadable. The documents establish this couple’s application for marriage, while their relationship to the 1880 family remains open."
    ],
    "ev": "lead",
    "tags": [],
    "quotes": [],
-   "note": "The marriage dates and birth years are taken from the entry for Benjamin F. Hulsey; the ages here are arithmetic from those years and are not stated in any record seen."
+   "note": "No woman in this account is substituted for another. The records do not yet establish George Washington Hulsey’s biological mother or prove that the 1880 father and 1893 groom were the same man. The license issue date is not a confirmed ceremony date.",
+   "source_link": "https://www.familysearch.org/ark:/61903/3:1:S3HT-65TS-YYW?i=615&groupId=1417439&lang=en"
   },
   {
    "id": "m3-cedar-glades-1864",
@@ -14597,11 +14651,14 @@
    "hook": "In 1880 B. F. Hulsey worked as a miner and raised a young family in Montgomery County, Arkansas.",
    "body": [
     "B. F. Hulsey was thirty-two when the census taker reached Center Township in June 1880. Born in Georgia, he was working as a miner in the Ouachita country of western Arkansas. His wife Sarah G., thirty, had been born in Arkansas.",
-    "Three children were at home: Margaret M., six; George W., four; and Charles F., five months. The household offers a likely childhood home for the later George Washington Hulsey of Story. George’s own draft registration gives a December 1875 birth, consistent with the four-year-old on this census."
+    "B. F. was not the only miner on the page: William W. Gleason and C. W. Dyer also gave that occupation. The entries place mining within the local community, although they do not show that the men worked together.",
+    "Three children were at home: Margaret M., six; George W., four; and Charles F., five months. The household offers a likely childhood home for the later George Washington Hulsey of Story. George’s own draft registration gives a December 1875 birth, consistent with the four-year-old on this census.",
+    "The census calls Margaret M. a daughter and George W. and Charles F. sons of B. F. Margaret had been born about 1874, George about 1875–76, and Charles early in 1880. Sarah G. appears as B. F.’s wife. Those relationships establish the household, but they do not expressly establish that Sarah was every child’s biological mother.",
+    "A later family query in the Arkansas Family Historian connects a Benjamin F. Hulsey with a son George Washington and children named Charles, Mary and Francis. It also gives a wife named Margaret Partain and dates that conflict with other accounts. The overlapping names are useful clues, but the query does not resolve the mother’s identity or prove that all the Benjamin Hulsey records concern one man."
    ],
-   "note": "The original 1880 census records B. F. Hulsey, 32, born Georgia, with wife Sarah G., 30, born Arkansas, and son George W., 4, in Center Township, Montgomery County, Arkansas. George’s December 1875 birth in the 1900 Sulphur Springs census and 24 December 1875 birth on his 1918 draft card are consistent with the child’s age. A 1977 family query independently identifies Benjamin F. as George’s father. The connection remains probable: no record yet explicitly connects the adult George, husband of Sarah Rebecca Graves, to the named 1880 parents. This household has not been securely identified with the separate Benjamin Franklin Hulsey biography or with Sylvania Partain.",
+   "note": "The original 1880 census records B. F. Hulsey, 32, born Georgia, with wife Sarah G., 30, born Arkansas, and son George W., 4, in Center Township, Montgomery County, Arkansas. George’s December 1875 birth in the 1900 Sulphur Springs census and 24 December 1875 birth on his 1918 draft card are consistent with the child’s age. A 1977 family query independently identifies Benjamin F. as George’s father. The connection remains probable: no record yet explicitly connects the adult George, husband of Sarah Rebecca Graves, to the named 1880 parents. This household has not been securely identified with the separate Benjamin Franklin Hulsey biography or with Sylvania Partain. The 1977 query is an unsourced family-research submission with conflicting names and dates; it calls the wife Margaret Partain and gives a 1921 death. It is supporting evidence, not proof of the connection or of a mother’s identity.",
    "source_link": "https://www.familysearch.org/ark:/61903/3:1:33S7-9YYN-SL1S",
-   "src": "1880 U.S. census, Center Township, Montgomery County, Arkansas, ED 113, page 23, stamped 431A, household 216, NARA T9 roll 52; 1900 U.S. census, Sulphur Springs Township, Montgomery County, George Hulsey (FamilySearch M365-N1R); George W. Hulsey draft registration, 12 Sep 1918 (K359-2S8).",
+   "src": "1880 U.S. census, Center Township, Montgomery County, Arkansas, ED 113, page 23, stamped 431A, household 216, NARA T9 roll 52; 1900 U.S. census, Sulphur Springs Township, Montgomery County, George Hulsey (FamilySearch M365-N1R); George W. Hulsey draft registration, 12 Sep 1918 (K359-2S8). Franklin L. Hulsey family query, Arkansas Family Historian 15:4 (Dec 1977), p. 218, https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26.",
    "imgs": [
     {
      "s": "img/rec/hulsey-1880-household.jpg",
@@ -14621,7 +14678,8 @@
    "hook": "Arkansas-born Sarah lived with a miner’s family and three young children in the Ouachita hills.",
    "body": [
     "Sarah G. lived with B. F. Hulsey and three young children in Center Township, Montgomery County, Arkansas, in June 1880. She was thirty and Arkansas-born; the census recorded her as his wife.",
-    "George W., four, appears as B. F.’s son. Sarah may have been George’s mother or stepmother. Her maiden name and full given names remain unknown."
+    "George W., four, appears as B. F.’s son. Sarah may have been George’s mother or stepmother. Her maiden name and full given names remain unknown.",
+    "The enumerator recorded her father’s birthplace as North Carolina and her mother’s as Tennessee. Those two entries extend the outline of her family, but supply no names for either parent."
    ],
    "note": "The original 1880 census lists Sarah G., 30, born Arkansas, as the wife of B. F. Hulsey, in the household containing his son George W., 4. She is a probable mother or stepmother of that child; the census names her as wife, not explicitly as his biological mother. The identification of this child with the later George Washington Hulsey remains probable. Hulsey is her married surname; her maiden name and full given names are unknown. She is not Sarah Rebecca Graves, George’s later wife, and has not been identified with Sylvania Susane Partain.",
    "source_link": "https://www.familysearch.org/ark:/61903/3:1:33S7-9YYN-SL1S",
@@ -14679,7 +14737,7 @@
   },
   {
    "y": "1682",
-   "t": "The Lamb carries the Settle Meeting Quaker families, including the Cowgills and Croasdales, to Pennsylvania; they arrive in October.",
+   "t": "The Settle Meeting certificate of 7 June names the Cowgill and Croasdale families preparing to move to Pennsylvania. Later accounts differ over the ship they sailed on.",
    "b": "moffitt",
    "p": "wt-john-bridget-cowgill"
   },
@@ -14712,6 +14770,12 @@
    "t": "Anthony Champneys and Anne Pitts marry at St James, Duke's Place, London, on 23 September.",
    "b": "moffitt",
    "p": "wt2-anthony-ann-chamness"
+  },
+  {
+   "y": "1686",
+   "t": "Agnes Croasdale dies on 20 October; her estate account lists livestock, household goods and 500 acres.",
+   "b": "moffitt",
+   "p": "wt-thomas-agnes-croasdale"
   },
   {
    "y": "1687",
@@ -15670,6 +15734,12 @@
    "t": "Henry and Hannah Moffitt are starting out as farmers in Randolph County, Arkansas.",
    "b": "moffitt",
    "p": "henryh"
+  },
+  {
+   "y": "1880",
+   "t": "B. F. Hulsey’s Center Township household includes wife Sarah G., daughter Margaret M., son George W. and infant Charles F. The connection to the adult George remains probable.",
+   "b": "hulsey",
+   "p": "bf-hulsey-1880"
   },
   {
    "y": "1881",
@@ -16674,7 +16744,10 @@
   "jimmie_tims",
   "jh_satterfield",
   "abner_stevenson",
-  "elam_stevenson"
+  "elam_stevenson",
+  "katie_possible_at_home",
+  "katie_possible_at_gate",
+  "joel_thompson_young"
  ],
  "STORY_ALIASES": {
   "col-perkins-estates-1731": "jperkins",
@@ -16696,6 +16769,18 @@
   },
   "img/places/alamance_battleground_1.jpg": {
    "url": "https://commons.wikimedia.org/wiki/File:Alamance_battleground_1.jpg"
+  },
+  "img/rec/croasdale_settle_certificate_potts_1895.jpg": {
+   "url": "https://archive.org/details/ourfamilyancesto1895pott/page/26/mode/1up"
+  },
+  "img/rec/thomas_croasdale_inventory_potts_1895.jpg": {
+   "url": "https://archive.org/details/ourfamilyancesto1895pott/page/27/mode/1up"
+  },
+  "img/rec/agnes_croasdale_inventory_potts_1895.jpg": {
+   "url": "https://archive.org/details/ourfamilyancesto1895pott/page/28/mode/1up"
+  },
+  "img/rec/croasdale_children_settle_potts_1895.jpg": {
+   "url": "https://archive.org/details/ourfamilyancesto1895pott/page/29/mode/1up"
   }
  }
 }

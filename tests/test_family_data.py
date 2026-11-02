@@ -12,6 +12,42 @@ ALIASES = D.get('STORY_ALIASES', {})
 
 
 class ArchiveDataTests(unittest.TestCase):
+    def test_tree_parent_links_resolve_without_ancestry_cycles(self):
+        people = TREE['people']
+        for root in TREE['roots'].values():
+            self.assertIn(root, people)
+        for person_id, person in people.items():
+            for parent in (person.get('f'), person.get('m')):
+                if parent:
+                    self.assertIn(parent, people, person_id)
+                    self.assertNotEqual(parent, person_id)
+
+        complete = set()
+
+        def visit(person_id, ancestors):
+            self.assertNotIn(person_id, ancestors, f'ancestry cycle at {person_id}')
+            if person_id in complete:
+                return
+            person = people[person_id]
+            for parent in (person.get('f'), person.get('m')):
+                if parent:
+                    visit(parent, ancestors | {person_id})
+            complete.add(person_id)
+
+        for person_id in people:
+            visit(person_id, set())
+
+    def test_provisional_hulsey_household_does_not_invent_maternal_links(self):
+        people = TREE['people']
+        father = 'A:benjamin-hulsey:father'
+        for person_id in ('A:margaret-m-hulsey:1880', 'A:charles-f-hulsey:1880'):
+            self.assertEqual(people[person_id]['f'], father)
+            self.assertIsNone(people[person_id]['m'])
+            self.assertEqual(people[person_id]['ev'], 'probable')
+            self.assertTrue(people[person_id]['source_urls'])
+        # The separately researched Benjamin biography must not silently become this father.
+        self.assertEqual(people[father]['a'], 'bf-hulsey-1880')
+
     def test_story_aliases_preserve_usable_canonical_stories(self):
         self.assertEqual(len(BY_ID), len(ENTRIES), 'story IDs must be unique')
         for old, canonical in ALIASES.items():
