@@ -1,0 +1,30 @@
+name: Update Sloan's archive
+# When family data or photos change on main, start Sloan's paternal sync right away.
+# Needs a repository secret SLOAN_SYNC_TOKEN: a fine-grained token for srmcno/sloan with
+# "Actions: Read and write". Without it, Sloan still picks up the change on its 10-minute check.
+on:
+  push:
+    branches: [main]
+    paths: ['data.json', 'tree.json', 'img/**']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start Sloan's sync
+        env:
+          TOKEN: ${{ secrets.SLOAN_SYNC_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::notice::SLOAN_SYNC_TOKEN is not set; Sloan will pick up this change on its next 10-minute check."
+            exit 0
+          fi
+          curl -fsS -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/srmcno/sloan/actions/workflows/paternal-sync.yml/dispatches \
+            -d '{"ref":"main"}'
+          echo "Started Sloan's paternal sync."
