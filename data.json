@@ -4506,12 +4506,12 @@
      "Ancestry suggests John C. Shackleford and Tinsey Caroline Duke; unchecked. A search of the 1880 Alabama census turned up one John Shackleford of the right age (Coosa Co.), but his mother was 82, so he is not a match."
     ],
     [
-     "Lizzie Newton's parents",
-     "Father: Balas Newton, named in the 1889 original marriage consent and sworn affidavit; mother not named."
+     "Lizzie Newton’s parents",
+     "Balas Newton, named in the 1889 consent; the 1880 household suggests Mary Ann Dockery as her mother (probable)"
     ]
    ],
-   "note": "Lizzie’s father is named in the original marriage papers. Her mother remains unidentified. Balas has not yet been proved to be the Balous Newton found in other Etowah County records.",
-   "src": "1900 U.S. census; obituary of Hazel King (Find a Grave 200655081); Alabama Select Marriage Indexes, 1816–1942, Lizzie Newton and John M. Shackleford, 1 Dec 1889, Etowah County, Ancestry record 80731.; Etowah County, Alabama, marriage records, volume C, page 460, John M. Shackleford and Lizzie Newton, November–December 1889; FamilySearch image 3QS7-894J-14JR, FHL film 1035318.",
+   "note": "The original 1889 marriage papers name Lizzie’s father Balas. An 1880 census household with Balus Newton, wife Mary and daughter Elizabeth, seven, is a probable match. Mary Ann Dockery’s identification as Lizzie’s mother remains probable, not established by a record directly naming her as such.",
+   "src": "1900 U.S. census; obituary of Hazel King (Find a Grave 200655081); Alabama Select Marriage Indexes, 1816–1942, Lizzie Newton and John M. Shackleford, 1 Dec 1889, Etowah County, Ancestry record 80731.; Etowah County, Alabama, marriage records, volume C, page 460, John M. Shackleford and Lizzie Newton, November–December 1889; FamilySearch image 3QS7-894J-14JR, FHL film 1035318.; 1880 U.S. census, Etowah County, ED 73, p. 14, lines 40–48: https://www.familysearch.org/ark:/61903/3:1:33S7-9YYY-FFC.",
    "rel": "2nd great-grandparents",
    "ev": "probable",
    "imgs": [
@@ -14539,7 +14539,8 @@
    "hook": "Named as Lizzie Newton’s father in the original papers for her 1889 marriage.",
    "body": [
     "In November 1889, Balas Newton authorized his daughter Lizzie’s marriage to John M. Shackleford in Etowah County, Alabama. His consent survives with the marriage book. John wrote and signed the permission at Balas’s direction, then swore to that arrangement before the probate judge on 30 November.",
-    "That small paper supplies a father’s name for the Newton branch. It does not give Balas’s age, birthplace, wife or parents. Records for a similarly named Balous Newton offer a promising next step, but the two identities remain separate until another record connects them."
+    "The 1880 census lists a Balus Newton in Etowah County with wife Mary and daughter Elizabeth, aged seven. Their uncommon names, location and Elizabeth’s age make them a probable match for the Balas and Lizzie named in the later marriage papers. The census records Mary as Balus’s wife but does not explicitly identify her as Elizabeth’s mother.",
+    "In March 1901 the Gadsden Times-News reported that a Balus Newton had made final proof on land before the county clerk. The brief notice gives no age or family names, so its subject’s identification with Lizzie’s father remains a lead."
    ],
    "kv": [
     [
@@ -14551,17 +14552,27 @@
      "Dated 28 Nov 1889; certified 30 Nov 1889"
     ],
     [
-     "Mother of Lizzie",
-     "Not named in this record"
+     "1880 household",
+     "Balus Newton, wife Mary and daughter Elizabeth, 7; identification with Lizzie and her father is probable"
     ]
    ],
-   "src": "Etowah County, Alabama, marriage records, volume C, page 460, John M. Shackleford and Lizzie Newton, November–December 1889; FamilySearch image 3QS7-894J-14JR, FHL film 1035318.",
+   "src": "Etowah County, Alabama, marriage records, volume C, page 460, John M. Shackleford and Lizzie Newton, November–December 1889; FamilySearch image 3QS7-894J-14JR, FHL film 1035318.; 1880 U.S. census, Etowah County, Alabama, ED 73, p. 14, lines 40–48, indexed as Keaton: https://www.familysearch.org/ark:/61903/3:1:33S7-9YYY-FFC; Gadsden Times-News, 15 March 1901, p. 3: https://www.newspapers.com/image/322626981/.",
    "source_link": "https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR",
    "imgs": [
     {
      "s": "img/rec/newton-shackleford-marriage-1889.jpg",
      "cap": "Etowah County marriage book C, page 460: John M. Shackleford and Lizzie Newton, 1889, with consent and sworn affidavit. The consent was written and signed by John at her father’s direction; the original scan is preserved.",
      "source": "https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR"
+    },
+    {
+     "s": "img/rec/newton-family-1880-etowah-census.jpg",
+     "cap": "1880 census, Etowah County, Alabama, ED 73, page 14, lines 40–48: Balus Newton, wife Mary and daughter Elizabeth. The index reads Keaton.",
+     "kind": "record"
+    },
+    {
+     "s": "img/rec/newton-land-notice-gadsden-1901.jpg",
+     "cap": "Gadsden Times-News, 15 March 1901, p. 3: a Balus Newton makes final proof on land. His identification with this family is a lead.",
+     "kind": "record"
     }
    ]
   },
@@ -14577,6 +14588,7 @@
    "hook": "Married in Alabama in 1889, she made her later home near her children in southwestern Oklahoma.",
    "body": [
     "Lizzie Newton was born in Etowah County, Alabama, on 20 February 1873. She married John M. Shackleford there on 1 December 1889. Her father, Balas Newton, gave permission for the marriage; John brought that consent to the probate office and certified that he had written and signed it at her father’s direction.",
+    "An 1880 Etowah County census lists seven-year-old Elizabeth in the household of Balus Newton and his wife Mary. The rare name, place and age make this a probable match for Lizzie and her father in the 1889 marriage papers. Mary Ann Dockery, who married a Bailus Newton in 1867, is a probable mother; the census does not explicitly state Elizabeth’s mother.",
     "The family’s travels eventually took Lizzie to Texas. In 1933 she moved from Dawson County to the Apache community in Caddo County, Oklahoma. She belonged to the Baptist church, and several of her grown children also made their homes in or around Apache.",
     "She spent her final days at the home of her son Ed, six miles southwest of town, and died there on 8 November 1951, aged seventy-eight. She was buried in Fairview Cemetery at Apache.",
     "Her family had grown across Oklahoma, Texas and California. At her death it included nine surviving children, forty-two grandchildren and sixteen great-grandchildren. Sons Ed and John and daughters Mrs. Joe Haskell and Helen Josey lived at Apache; other children had settled in Lawton, Texas and California."
@@ -14607,8 +14619,8 @@
      "Balas Newton, named in the original 1889 consent and affidavit"
     ]
    ],
-   "note": "The 1951 obituaries and her grave marker agree on 20 February 1873; the 1900 census gives February 1872. The newspaper spelling “Etowak” is normalized to Etowah. Both obituaries place daughter May/Mary Moffett at Granite; that place has not been silently changed to Grant. The funeral time was tentative when the notices were printed. Her mother remains unidentified, and Balas has not been established as the Balous Newton in other records.",
-   "src": "The Apache Review, 9 Nov 1951, p. 1, “Mrs. Shackelford, 78 Dies Early Thursday,” https://www.newspapers.com/image/743077256/; Anadarko Daily News, 9 Nov 1951, p. 1, “Mrs. Shackelford Funeral Service Tentatively Set,” https://www.newspapers.com/image/873866750/; Etowah County marriage book C, p. 460, 1889, FamilySearch image 3QS7-894J-14JR, https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR.",
+   "note": "The 1951 obituaries and her grave marker agree on 20 February 1873; the 1900 census gives February 1872. The newspaper spelling “Etowak” is normalized to Etowah. Both obituaries place daughter May/Mary Moffett at Granite; that place has not been silently changed to Grant. The funeral time was tentative when the notices were printed. Mary Ann Dockery is a probable mother, based on the 1880 household and the 1867 marriage; no record naming Lizzie’s mother directly has been located.",
+   "src": "The Apache Review, 9 Nov 1951, p. 1, “Mrs. Shackelford, 78 Dies Early Thursday,” https://www.newspapers.com/image/743077256/; Anadarko Daily News, 9 Nov 1951, p. 1, “Mrs. Shackelford Funeral Service Tentatively Set,” https://www.newspapers.com/image/873866750/; Etowah County marriage book C, p. 460, 1889, FamilySearch image 3QS7-894J-14JR, https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR.; 1880 U.S. census, Etowah County, ED 73, p. 14: https://www.familysearch.org/ark:/61903/3:1:33S7-9YYY-FFC; St. Clair County marriage register, 1867: https://www.familysearch.org/ark:/61903/1:1:QKZS-M16D.",
    "source_link": "https://www.newspapers.com/image/743077256/"
   },
   {
@@ -14798,6 +14810,47 @@
     {
      "s": "img/rec/wt_andrews_autobiography_p341.jpg",
      "cap": "Continuation of Andrews’s autobiography and list of ministerial appointments, p. 341.",
+     "kind": "record"
+    }
+   ]
+  },
+  {
+   "id": "mary-dockery-newton",
+   "name": "Mary Ann Dockery Newton",
+   "years": "Born about 1844",
+   "branch": "moffitt",
+   "gen": 3,
+   "rel": "3rd great-grandmother (probable)",
+   "ev": "probable",
+   "title": "Mary Dockery and the Newton household",
+   "hook": "An 1867 marriage and an 1880 census offer a possible name for Lizzie Newton’s mother.",
+   "body": [
+    "A St. Clair County, Alabama, marriage register records a license issued on 11 February 1867 for Bailus Newton and Mary Ann Dockery. The marriage return in a second entry places the ceremony at a Gibson residence; the day in the return is not clear enough to resolve the differing index dates.",
+    "In 1880 Balus Newton and his wife Mary lived in Etowah County with children including Elizabeth, seven. The original census image gives the surname Newton, though the index reads Keaton. Balus’s name, the county and Elizabeth’s age fit the father and daughter named as Balas and Lizzie in Lizzie’s 1889 marriage consent.",
+    "The 1880 census identifies Mary as Balus’s wife; it does not expressly identify her as Elizabeth’s mother. The earlier marriage to Mary Ann Dockery and the household make her a probable mother, but a record directly naming Lizzie’s mother is still needed. A death index for Oda Verbena Newton names parents Balous Newton and Mary Marzee Dockery; a similarly named young daughter appears in the 1880 home."
+   ],
+   "kv": [
+    [
+     "Marriage license",
+     "Bailus Newton and Mary Ann Dockery, 11 Feb 1867, St. Clair County, Alabama"
+    ],
+    [
+     "1880 census",
+     "Balus Newton, wife Mary and daughter Elizabeth, seven"
+    ],
+    [
+     "Relationship",
+     "Probable mother of Lizzie Newton; direct confirmation needed"
+    ]
+   ],
+   "src": "St. Clair County, Alabama, marriage register, p. 203, license for Bailus Newton and Mary Ann Dockery, 11 Feb. 1867: https://www.familysearch.org/ark:/61903/1:1:QKZS-M16D; second register entry, p. 198: https://www.familysearch.org/ark:/61903/1:1:QKZS-MY17; 1880 U.S. census, Etowah County, ED 73, p. 14, image 339: https://www.familysearch.org/ark:/61903/3:1:33S7-9YYY-FFC; Alabama death index, Oda Verbena Newton: https://www.familysearch.org/ark:/61903/1:1:JN7H-JJW; Etowah County marriage book C, p. 460, John M. Shackleford and Lizzie Newton, 1889: https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR.",
+   "note": "The 1880 census and 1889 marriage consent give a strong match on the unusually spelled father’s name, Elizabeth/Lizzie, age and county, but do not independently prove the two women’s identity. The census does not explicitly name Elizabeth’s mother. The St. Clair marriage register and a later death index support Mary Dockery as a probable identification; these records should be evaluated together.",
+   "tags": [],
+   "quotes": [],
+   "imgs": [
+    {
+     "s": "img/rec/newton-family-1880-etowah-census.jpg",
+     "cap": "1880 census, Etowah County, Alabama, ED 73, page 14: Balus Newton, his wife Mary and their household.",
      "kind": "record"
     }
    ]
@@ -16616,6 +16669,24 @@
    "t": "Mara, widow of John Croasdale, and her husband John Wildman convey Middletown land to a Thomas Croasdale identified as John’s son.",
    "b": "moffitt",
    "p": "wt-thomas-agnes-croasdale"
+  },
+  {
+   "y": "1867",
+   "t": "A St. Clair County license names Bailus Newton and Mary Ann Dockery; Mary is a probable mother of Lizzie Newton.",
+   "b": "moffitt",
+   "p": "mary-dockery-newton"
+  },
+  {
+   "y": "1880",
+   "t": "The Etowah census records Balus Newton, wife Mary and a daughter Elizabeth, seven, a probable match for Lizzie and her father.",
+   "b": "moffitt",
+   "p": "mary-dockery-newton"
+  },
+  {
+   "y": "1901",
+   "t": "A Balus Newton makes final proof on land before the Etowah County clerk; his identification with Lizzie’s father is a lead.",
+   "b": "moffitt",
+   "p": "balas-newton"
   }
  ],
  "ORDER": [
