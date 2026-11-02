@@ -49,6 +49,17 @@ class ArchiveDataTests(unittest.TestCase):
         # The separately researched Benjamin biography must not silently become this father.
         self.assertEqual(people[father]['a'], 'bf-hulsey-1880')
 
+    def test_hulsey_1850_original_corrects_ages_without_merging_candidates(self):
+        household = BY_ID['m3-salathiel-1850']
+        self.assertIn('Benjamin, 3', household['body'][0])
+        self.assertIn('Lillean, 6', household['body'][0])
+        self.assertIn('no relationship column', household['body'][1])
+        self.assertIn('4191561_00433', household['src'])
+        self.assertIn('img/rec/hulsey-1850-union-household-original.jpg',
+                      [image['s'] for image in household['imgs']])
+        self.assertEqual(BY_ID['benjaminh']['ev'], 'lead')
+        self.assertNotEqual(TREE['people']['A:benjamin-hulsey:father']['a'], 'benjaminh')
+
     def test_story_aliases_preserve_usable_canonical_stories(self):
         self.assertEqual(len(BY_ID), len(ENTRIES), 'story IDs must be unique')
         for old, canonical in ALIASES.items():
