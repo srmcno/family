@@ -33,9 +33,9 @@ window.SITE = {
     choctaw: { label: 'Choctaw Nation', copy: 'Enrollment, allotments, courts and family life in the Choctaw Nation.', tag: 'choctaw',
       journey: ['fort-towson-post', 'removal', 'mig-pisachubbe-first-exiles', 'mig-doaksville-1833-removal', 'vincent', 'book2-doak-tims-contracts-1838', 'doaksville-constitution-1860', 'edward', 'joseph', 'betsy', 'simon', 'edith-thompson-slaton'] },
     military: { label: 'Military service', copy: 'From the Revolution and the Civil War to the World Wars and the Navy.', tag: 'military',
-      journey: ['moff-after-alamance', 'wm-after-alamance', 'fort-towson-post', 'daniel', 'hulsey-42nd-perryville-stones-river', 'hulsey-42nd-atlanta-campaign', 'watie-surrender-doaksville', 'edmond', 'gwhulsey', 'jwm', 'ard19-leyte', 'uss-chief-nagoya'] },
+      journey: ['moff-after-alamance', 'wm-after-alamance', 'fort-towson-post', 'daniel', 'hulsey-42nd-perryville-stones-river', 'watie-surrender-doaksville', 'edmond', 'gwhulsey', 'jwm', 'ard19-leyte'] },
     quaker: { label: 'Quaker roots', copy: 'Meetings, migrations and the Quaker families of the Carolinas and beyond.', tag: 'quaker',
-      journey: ['wt2-henry-janet-croasdale', 'wt-richard-margery-browne', 'wt-dorothy-butler-gaunt', 'wt-john-bridget-cowgill', 'wt2-william-croasdale', 'anthony', 'rogers', 'marydavies', 'cane-creek-1763', 'moff-after-alamance', 'wm-mary-wills', 'aden'] },
+      journey: ['wt2-henry-janet-croasdale', 'wt-richard-margery-browne', 'wt-dorothy-butler-gaunt', 'wt-john-bridget-cowgill', 'wt2-william-croasdale', 'anthony', 'rogers', 'marydavies', 'cane-creek-1763', 'moff-after-alamance', 'william', 'aden'] },
     notable: { label: 'Notable lives', copy: 'Leaders, witnesses and unusual turns in the family’s history.', tag: 'notable' }
   },
   regions: [
