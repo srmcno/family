@@ -15316,6 +15316,43 @@
      "source": "Dawes Card 1437 (Edward W. Tims), Choctaw by Blood, National Archives"
     }
    ]
+  },
+  {
+   "id": "jwm-hugo-1957",
+   "name": "John Winfred Moffitt",
+   "years": "1957",
+   "branch": "moffitt",
+   "gen": 0,
+   "rel": "Grandfather (probable identification)",
+   "ev": "probable",
+   "title": "Wildcat whisky: three and a half pints in Hugo, 1957",
+   "hook": "The sheriff counted it out to the half-pint. And yes, he drank it.",
+   "body": [
+    "On the morning of Thursday, 30 May 1957, The Hugo Daily News reported that Johnny Moffitt, 31, of Hugo had pleaded guilty to a disorderly-house charge before Justice of the Peace Bert Bush. He had been arrested the night before by Sheriff Ed Thornton and Constable Lonnie Wright, who said they found one quart and three half-pints of “wildcat whisky” at his home.",
+    "“Wildcat” was the old word for liquor made without a license, and it has never sounded like anything you would want to drink. He drank it anyway. The sheriff, to his credit, counted precisely: one quart plus three half-pints comes to three and a half pints, so nobody could later argue about the arithmetic. That makes the half-pints sound less like a stockpile and more like a supply.",
+    "The law was the point. Oklahoma had been officially dry since statehood in 1907 and did not repeal statewide prohibition until 1959, so in May 1957 a cupboard with the wrong bottles in it was a matter for the sheriff and the justice of the peace. Four years later the same town’s paper reported a much more serious whisky case, told in “Moonshine and federal court in Hugo.” This one stayed small."
+   ],
+   "kv": [
+    [
+     "Plea reported",
+     "30 May 1957, The Hugo Daily News, p. 1: Johnny Moffitt, 31, Hugo"
+    ],
+    [
+     "Charge",
+     "Disorderly house; guilty plea before Justice of the Peace Bert Bush"
+    ],
+    [
+     "Found at the home",
+     "One quart and three half-pints of “wildcat whisky” (three and a half pints)"
+    ],
+    [
+     "Officers named",
+     "Sheriff Ed Thornton and Constable Lonnie Wright"
+    ]
+   ],
+   "note": "Identification as the family’s John Winfred Moffitt is probable, not proved. The notice gives the name “Johnny Moffitt,” an age (31) that fits his 25 October 1925 birth, and the town of Hugo. It names no wife, parent or street address, so another Johnny Moffitt of the same age in Hugo cannot be ruled out.",
+   "src": "The Hugo Daily News, 30 May 1957, p. 1, https://www.newspapers.com/image/901891967/; Oklahoma Historical Society, The Encyclopedia of Oklahoma History and Culture, entry on prohibition in Oklahoma (statewide prohibition from statehood in 1907 until its repeal in 1959).",
+   "source_link": "https://www.newspapers.com/image/901891967/"
   }
  ],
  "TIMELINE": [
@@ -17219,6 +17256,7 @@
   "bf-hulsey-1880",
   "sarah-g-hulsey-1880",
   "jwm-moonshine",
+  "jwm-hugo-1957",
   "shackleford",
   "balas-newton",
   "marylyn",
