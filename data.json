@@ -193,28 +193,6 @@
    "cap": "Hulsey family group beside a picket fence. Original family photograph; date and individual identifications are not confirmed.",
    "source": "Family photograph shared by sshulsey, 22 Apr 2012, Ancestry tree 33317564, media 5b21e57e-e255-49ff-83bd-ff6479526680."
   },
-  "katie_possible_at_home": {
-   "o": "img/p/katie_possible_at_home_orig.jpg",
-   "cap": "Woman seated at home, possibly Katie (Stevenson) Hulsey. The Ancestry tree tag is unconfirmed.",
-   "source": "Family photograph shared in an Ancestry public tree/hint and tagged to Katie Hulsey. Individual contributor, date and place were not preserved with the downloaded copy; identification remains unconfirmed.",
-   "labels": {
-    "c": "Color restored"
-   },
-   "note": "Yellow fading, contrast and detail restored. The identification comes from a tree tag rather than an inscription on the photograph.",
-   "edit_note": "Fine facial and room details were reconstructed during restoration; the small framed pictures are not independent portraits or evidence of identity.",
-   "c": "img/p/katie_possible_at_home_enhanced.jpg"
-  },
-  "katie_possible_at_gate": {
-   "o": "img/p/katie_possible_at_gate_orig.jpg",
-   "c": "img/p/katie_possible_at_gate_enhanced.jpg",
-   "cap": "Woman at a picket gate, possibly Katie (Stevenson) Hulsey. The Ancestry tree tag is unconfirmed.",
-   "source": "Family photograph shared in an Ancestry public tree/hint and tagged to Katie Hulsey. Individual contributor, date and place were not preserved with the downloaded copy; identification remains unconfirmed.",
-   "labels": {
-    "c": "Restored & colorized"
-   },
-   "note": "Fading and surface wear repaired; color added. The photograph has no confirmed date or location.",
-   "edit_note": "Colors and fine facial detail are interpretive. The tree tag does not independently establish the sitter’s identity."
-  },
   "joel_thompson_young": {
    "o": "img/p/joel_thompson_young_source.jpg",
    "c": "img/p/joel_thompson_young_restored_balanced.jpg",
@@ -1595,10 +1573,7 @@
    ],
    "ev": "proven",
    "title": "Katie, who lived to ninety-eight",
-   "photo_sets": [
-    "katie_possible_at_home",
-    "katie_possible_at_gate"
-   ],
+   "photo_sets": [],
    "note": "Two additional snapshots were tagged to Katie in a public Ancestry tree. Their subjects have not been independently identified; the captions retain that uncertainty."
   },
   {
@@ -19913,8 +19888,6 @@
   "jh_satterfield",
   "abner_stevenson",
   "elam_stevenson",
-  "katie_possible_at_home",
-  "katie_possible_at_gate",
   "joel_thompson_young",
   "joel_ira_later",
   "frank_maxwell_andrews",
