@@ -300,6 +300,13 @@
      "s": "img/news/hugo-daily-news-1956-12-05-p1-marriage-licenses-thompson-hulsey.png",
      "cap": "“William Thompson Jr. of Speer and Mary Ellen Hulsey of Hugo” among the marriage licenses in The Hugo Daily News, 5 December 1956, page 1 (yellow marks are the viewer's search highlights).",
      "kind": "clipping"
+    },
+    {
+     "s": "img/news/biskinik-2002-04-p14-ethel-hamill-obituary.jpg",
+     "cap": "Ethel Marietta Hamill, daughter of Simon and Frances (Pisachubbe) Thompson and Junior's sister, died at Hugo on 11 March 2002; the opening of her Choctaw Nation Biskinik obituary.",
+     "source": "https://www.choctawnation.com/wp-content/uploads/2023/01/apr02-biskinik.pdf",
+     "credit": "Choctaw Nation, Biskinik, April 2002, p. 14",
+     "kind": "clipping"
     }
    ]
   },
@@ -331,6 +338,13 @@
     {
      "s": "img/rec/census_1920_thompson_wilson.jpg",
      "cap": "1920 U.S. census, Wilson Township, Choctaw County, Oklahoma, enumerated February 1920: Joseph P. Thompson, 58, with wife Betsy and children Peter, Simon, Joseph W., Jansey and Mary A."
+    },
+    {
+     "s": "img/news/paris-news-1990-09-17-p2-simon-thompson-obituary.jpg",
+     "cap": "Simon William Thompson, 91, of Hugo died 14 September 1990; The Paris News obituary names him as a son of Joseph P. and Betsy Tims Thompson (his entry, cropped before the list of survivors).",
+     "source": "https://www.newspapers.com/image/13497196/",
+     "credit": "The Paris News, 17 Sep 1990, p. 2",
+     "kind": "clipping"
     }
    ],
    "title": "The baby on the Dawes card",
@@ -1570,6 +1584,12 @@
      "cap": "George Hulsey's marker, Breashears Cemetery, Montgomery County, Arkansas: Dec. 24, 1876 - Aug. 5, 1935. Photo: Kenneth Lambert, Find a Grave",
      "source": "https://www.findagrave.com/memorial/24413994/george_washington-hulsey",
      "s": "img/rec/george-w-hulsey-stone-breashears.jpg"
+    },
+    {
+     "s": "img/places/camp_pike_1917.jpg",
+     "cap": "Camp Pike, the National Army cantonment at Little Rock, 5 November 1917, where Rev. George Hulsey later worked (panorama).",
+     "credit": "Library of Congress, via Wikimedia Commons",
+     "kind": "photo"
     }
    ],
    "title": "Working at Camp Pike",
@@ -1647,6 +1667,12 @@
      "s": "img/rec/hulsey-1850-union-household-original.jpg",
      "cap": "Original 1850 census, District 85, Union County, Georgia, 11 November: Salathiel’s household, lines 26–37. Benjamin is three on line 34; the girl above him is six. NARA M432 roll 84, p. 273B; image reproduced by FamilySearch and accessed through Ancestry.",
      "kind": "record"
+    },
+    {
+     "s": "img/places/hot_springs_map.jpg",
+     "cap": "Map of the City of Hot Springs with subdivisions and additions by Howard Mitchell, City Engineer (copyright 1895; this printing 1906).",
+     "credit": "Wikimedia Commons, public domain",
+     "kind": "photo"
     }
    ],
    "title": "Benjamin Hulsey: from Georgia to Arkansas",
@@ -1833,6 +1859,12 @@
     {
      "s": "img/stones/gilbert_stevenson_headstone_1.jpg",
      "cap": "Headstone: Gilbert Franklin Stevenson, Nov 17 1861 - May 9 1950, 'In God's Care'. Photograph shared in a public Ancestry member tree"
+    },
+    {
+     "s": "img/places/valliant_sanborn_1916.jpg",
+     "cap": "Sanborn fire insurance map of Valliant, McCurtain County, Oklahoma, March 1916.",
+     "credit": "Library of Congress",
+     "kind": "photo"
     }
    ],
    "quotes": [
@@ -2113,6 +2145,18 @@
     {
      "s": "img/p/oneal_family_orig.jpg",
      "cap": "O'Neal family gathering in Gibson County, Indiana; the typed caption names Daniel W. O'Neal and Vashti Pearson among the family. Photograph shared in a public Ancestry member tree. Color and indistinct features have been interpreted.",
+     "kind": "photo"
+    },
+    {
+     "s": "img/books/indiana-adjgen-v5-p317-co-f-42nd.jpg",
+     "cap": "Report of the Adjutant General of Indiana, vol. 5, p. 317: a roll of Gibson County men mustered 21 October 1861, including Daniel W. Oneal.",
+     "credit": "Report of the Adjutant General of the State of Indiana, vol. 5, p. 317",
+     "kind": "record"
+    },
+    {
+     "s": "img/p/oneal_headstone_orig.jpg",
+     "cap": "The O'Neal family stone with Vashti's and Daniel's markers, before restoration.",
+     "credit": "Photo shared in a public Ancestry member tree (as for the restored copy)",
      "kind": "photo"
     }
    ]
@@ -2400,6 +2444,12 @@
     {
      "s": "img/books/gibson-1884-p212-archibald.jpg",
      "cap": "History of Gibson County (1884), p. 212: Archibald O’Neal and the old home farm."
+    },
+    {
+     "s": "img/p/watt_headstone_orig.jpg",
+     "cap": "Hugh Watt and family stone, before restoration.",
+     "credit": "Photo as for the restored copy",
+     "kind": "photo"
     }
    ],
    "title": "Parses Watt and the old home farm",
@@ -2663,6 +2713,20 @@
      "cap": "John W. Moffitt's veteran's marker, Grant Cemetery, Choctaw County, Oklahoma: \"US Navy / World War II.\" Photo: William/Bridget Domengeaux, Genealogical Research, Find a Grave",
      "source": "https://www.findagrave.com/memorial/37718918/john-moffitt",
      "s": "img/fam/john_w_moffitt_marker.jpg"
+    },
+    {
+     "s": "img/news/paris-news-1990-09-20-p4-john-w-moffitt-obituary.jpg",
+     "cap": "The Paris News of 20 September 1990 carried the obituary of John W. Moffitt of Hugo, a Navy veteran of the Second World War and a member of Emanuel Baptist Church (the two columns of his entry, joined).",
+     "source": "https://www.newspapers.com/image/13498859/",
+     "credit": "The Paris News, 20 Sep 1990, p. 4",
+     "kind": "clipping"
+    },
+    {
+     "s": "img/news/hugo-daily-news-1941-08-05-p1-troop-81-camp.jpg",
+     "cap": "Troop 81 of Hugo left for a five-day camp at Paris, Texas, in August 1941; \"John Moffitt\" is among the scouts listed (probably the same John Moffitt, then about 15, going by the name alone).",
+     "source": "https://www.newspapers.com/image/789616920/",
+     "credit": "The Hugo Daily News, 5 Aug 1941, p. 1",
+     "kind": "clipping"
     }
    ],
    "title": "In the Navy in the Pacific",
@@ -5127,7 +5191,15 @@
     "The two Anns belong to different generations: Ann, wife of Thomas, was the mother; Ann Mercer, who married William Brown, was the daughter. The elder Ann’s maiden surname and life dates remain unknown. Keeping those identities separate preserves the maternal link without supplying a name the birth entry does not give.",
     "The 1709 catalog gives the immigrant father and daughter their own entries: Thomas Mercer of Andover, who arrived about 1682 or 1683 and died in 1694, and Anne Browne, his daughter, who came with him and was buried in 1696. It also remembers Anne’s public testimony after her arrival. The list names Andover’s county as Wiltshire, a discrepancy retained in the source citation; it supplies no further parents for Thomas or maiden surname for his wife."
    ],
-   "source_link": "https://www.ancestry.com/imageviewer/collections/7097/images/41815_b0153345-00017?pId=452488"
+   "source_link": "https://www.ancestry.com/imageviewer/collections/7097/images/41815_b0153345-00017?pId=452488",
+   "imgs": [
+    {
+     "s": "img/books/pgm-1979-p120-mercer-browne-1709-catalogue.png",
+     "cap": "A 1979 Pennsylvania Genealogical Magazine page transcribing the 1709 catalogue of deceased Public Friends, including the entries for Thomas Mercer of Andover, Wiltshire, and his daughter Anne Browne.",
+     "credit": "Pennsylvania Genealogical Magazine, 1979, p. 120",
+     "kind": "record"
+    }
+   ]
   },
   {
    "id": "wt-john-bridget-cowgill",
@@ -5668,7 +5740,16 @@
      "c": "Waddington register, 1652, as quoted on WikiTree Croasdale-34"
     }
    ],
-   "note": "Henry's will and burial are record-based; whether this Henry is the emigrant's grandfather is not proven. The baptism of William in 1621 does not match the c.1618 birth year used on WikiTree. The printed index page has been independently examined; the original Alchin will has not. No evidence in the reviewed index names Janet Harrison as his wife, and no such relationship is established here."
+   "note": "Henry's will and burial are record-based; whether this Henry is the emigrant's grandfather is not proven. The baptism of William in 1621 does not match the c.1618 birth year used on WikiTree. The printed index page has been independently examined; the original Alchin will has not. No evidence in the reviewed index names Janet Harrison as his wife, and no such relationship is established here.",
+   "imgs": [
+    {
+     "s": "img/books/yas-record-series-v1-1885-p97-henrie-croasdale-will.jpg",
+     "cap": "Yorkshire Wills, 1654: Henrie Croasdale of Newhay within Bolland, will dated 21 September 1652, administrator William Croasdale, son.",
+     "source": "https://archive.org/details/YASRS001/page/97",
+     "credit": "Yorkshire Archaeological and Topographical Association, Record Series vol. I (1885), p. 97",
+     "kind": "record"
+    }
+   ]
   },
   {
    "id": "wt2-william-elizabeth-hawthornthwaite",
@@ -5783,7 +5864,16 @@
     "quaker"
    ],
    "quotes": [],
-   "note": "The Chesterfield birth record is cited through online genealogy, not independently examined here. The two published probate abstracts establish distinct estates; neither proves the parentage of our Thomas Rogers’s father."
+   "note": "The Chesterfield birth record is cited through online genealogy, not independently examined here. The two published probate abstracts establish distinct estates; neither proves the parentage of our Thomas Rogers’s father.",
+   "imgs": [
+    {
+     "s": "img/books/nj-wills-calendar-v4-1928-p360-john-rodgers-burlington.jpg",
+     "cap": "Calendar of New Jersey Wills, vol. IV: abstract of the will of John Rodgers of Burlington, dated 23 January 1764 (page 360).",
+     "source": "https://archive.org/details/calendarofnewjer04newj/page/360/mode/2up",
+     "credit": "A. Van Doren Honeyman, Calendar of New Jersey Wills, vol. IV (1928), p. 360",
+     "kind": "record"
+    }
+   ]
   },
   {
    "id": "wt2-henry-ann-stevenson",
@@ -6829,7 +6919,16 @@
      "c": "Jesse Hulsey of Hall Co., Ga., 25 Nov 1822, pension power of attorney (as printed on WikiTree)"
     }
    ],
-   "note": "Lead only. Trees also name Mary Tharp as Salathiel's mother; her place is not carried here because the tree's own marriage date is impossible. Benjamin Franklin Hulsey's descent from Salathiel, and G. W. Hulsey's from Benjamin, still rest on grave memorials and family tradition; see the entries for Benjamin and Salathiel."
+   "note": "Lead only. Trees also name Mary Tharp as Salathiel's mother; her place is not carried here because the tree's own marriage date is impossible. Benjamin Franklin Hulsey's descent from Salathiel, and G. W. Hulsey's from Benjamin, still rest on grave memorials and family tradition; see the entries for Benjamin and Salathiel.",
+   "imgs": [
+    {
+     "s": "img/books/nc-acts-1834-35-p95-jesse-hulsey-resolution.png",
+     "cap": "The North Carolina General Assembly resolution of 1834-35 directing that the arrears of the pension allowed to Jesse Hulsey be paid to him or his agent (near the foot of the page).",
+     "source": "https://ncleg.gov/Files/Library/sessionlaws/1831-1840/pubs_lawsofnorthcarol183435.pdf",
+     "credit": "Acts of the General Assembly of North Carolina, 1834-35, Resolutions, p. 95",
+     "kind": "record"
+    }
+   ]
   },
   {
    "id": "anc4-george-langley",
@@ -7297,7 +7396,15 @@
    ],
    "quotes": [],
    "note": "Choctaw Nation history provides context for the Thompson family’s records. No evidence here identifies how a family member voted or whether they participated in the later organizations.",
-   "src": "Matthew Rex Cox, 'Atoka Agreement,' Encyclopedia of Oklahoma History and Culture, Oklahoma Historical Society, https://www.okhistory.org/publications/enc/entry?entry=AT004; 1902 Supplemental Agreement with the Choctaw and Chickasaw, https://treaties.okstate.edu/treaties/agreement-with-the-choctaw-and-chickasaw-1902-22427; Choctaw Nation Cultural Services, 'A New Chahta Homeland: 1900–1910,' https://www.choctawnation.com/news/iti-fabvssa/a-new-chahta-homeland-a-history-by-the-decade-1900-1910/; Choctaw Nation Cultural Services, 'A New Chahta Homeland: 1930–1940,' https://www.choctawnation.com/news/iti-fabvssa/a-new-chahta-homeland-a-history-by-the-decade-1930-1940/; Choctaw Nation Cultural Services, 'Architectural History of the Choctaw Nation Capitol at Tuskahoma,' https://www.choctawnation.com/news/iti-fabvssa/architectural-history-of-the-choctaw-nation-capitol-at-tuskahoma-1883-present/; Dawes Card 1283 and the Thompson allotment applications."
+   "src": "Matthew Rex Cox, 'Atoka Agreement,' Encyclopedia of Oklahoma History and Culture, Oklahoma Historical Society, https://www.okhistory.org/publications/enc/entry?entry=AT004; 1902 Supplemental Agreement with the Choctaw and Chickasaw, https://treaties.okstate.edu/treaties/agreement-with-the-choctaw-and-chickasaw-1902-22427; Choctaw Nation Cultural Services, 'A New Chahta Homeland: 1900–1910,' https://www.choctawnation.com/news/iti-fabvssa/a-new-chahta-homeland-a-history-by-the-decade-1900-1910/; Choctaw Nation Cultural Services, 'A New Chahta Homeland: 1930–1940,' https://www.choctawnation.com/news/iti-fabvssa/a-new-chahta-homeland-a-history-by-the-decade-1930-1940/; Choctaw Nation Cultural Services, 'Architectural History of the Choctaw Nation Capitol at Tuskahoma,' https://www.choctawnation.com/news/iti-fabvssa/architectural-history-of-the-choctaw-nation-capitol-at-tuskahoma-1883-present/; Dawes Card 1283 and the Thompson allotment applications.",
+   "imgs": [
+    {
+     "s": "img/places/atoka_council_house_1891.jpg",
+     "cap": "The Choctaw Council House at Atoka, from an 1891 Indian Territory book.",
+     "credit": "Public-domain book illustration",
+     "kind": "photo"
+    }
+   ]
   },
   {
    "id": "smith-butler-monument",
@@ -7438,6 +7545,12 @@
      "s": "img/places/franklin_courthouse_b.jpg",
      "cap": "Franklin County Courthouse, Mount Vernon, Texas, tower detail (photographed 2012). Wikimedia Commons, CC BY 2.0, Nicolas Henderson from Coppell, Texas. Source: https://commons.wikimedia.org/wiki/File:Franklin_County_Courthouse,_Mt._Vernon,_Texas_(7137287515).jpg",
      "kind": "photo"
+    },
+    {
+     "s": "img/places/franklin_courthouse_tx.jpg",
+     "cap": "The Franklin County Courthouse at Mount Vernon, Texas.",
+     "credit": "Wikimedia Commons",
+     "kind": "photo"
     }
    ]
   },
@@ -7497,6 +7610,18 @@
     {
      "s": "img/places/gibson_courthouse_princeton.jpg",
      "cap": "Gibson County Courthouse in Princeton, Indiana, where Daniel O’Neal’s company was raised and where he farmed in 1880. Photo: Nyttend, Wikimedia Commons, public domain. Source: https://commons.wikimedia.org/wiki/File:Gibson_County_Courthouse_in_Princeton.jpg"
+    },
+    {
+     "s": "img/places/stones_river_map.jpg",
+     "cap": "Map of the Battle of Stones River, 31 December 1862.",
+     "credit": "Wikimedia Commons, public domain",
+     "kind": "photo"
+    },
+    {
+     "s": "img/places/perryville_map.jpg",
+     "cap": "Map of the battlefield of Perryville, Kentucky, 8 October 1862, surveyed and compiled by Edward Ruger and Anton Kilp (1877).",
+     "credit": "Library of Congress",
+     "kind": "photo"
     }
    ]
   },
@@ -7639,6 +7764,13 @@
     {
      "s": "img/places/hugo_courthouse_2015.jpg",
      "cap": "Choctaw County Courthouse, Hugo, Oklahoma (photographed 2015). Wikimedia Commons, CC BY 4.0, Larry D. Moore. Source: https://commons.wikimedia.org/wiki/File:Choctaw_county_ok_courthouse.jpg",
+     "kind": "photo"
+    },
+    {
+     "s": "img/places/hugo_courthouse_2016.jpg",
+     "cap": "Choctaw County Courthouse, Hugo, Oklahoma (photographed 2016).",
+     "source": "https://commons.wikimedia.org/wiki/File:Choctaw_County_Courthouse_in_Hugo,_OK.jpg",
+     "credit": "Wikimedia Commons, CC BY-SA 4.0, Michael Barera",
      "kind": "photo"
     }
    ]
@@ -8687,6 +8819,12 @@
     {
      "s": "img/stones/peter_p_thompson_headstone_1.jpg",
      "cap": "Military headstone: Peter P. Thompson, Pvt., U.S. Army, World War I. Photograph shared in a public Ancestry member tree"
+    },
+    {
+     "s": "img/places/idabel_sanborn_1911.jpg",
+     "cap": "Sanborn fire insurance map of Idabel, McCurtain County, Oklahoma, July 1911, sheet 1.",
+     "credit": "Library of Congress via Wikimedia Commons",
+     "kind": "photo"
     }
    ]
   },
@@ -15038,7 +15176,16 @@
      "Biskinik, May 2012, p. 16"
     ]
    ],
-   "note": "Her children and grandchildren are named in the obituary but are left out here because some may be living."
+   "note": "Her children and grandchildren are named in the obituary but are left out here because some may be living.",
+   "imgs": [
+    {
+     "s": "img/news/biskinik-2012-05-p16-edith-slaton-obituary.jpg",
+     "cap": "Edith Irene (Thompson) Slaton, 1939-2012: her obituary in the Choctaw Nation Biskinik of May 2012, with her portrait (cropped before the list of survivors).",
+     "source": "https://www.choctawnation.com/wp-content/uploads/2022/07/may-2012-biskinik.pdf#page=16",
+     "credit": "Choctaw Nation, Biskinik, May 2012, p. 16",
+     "kind": "clipping"
+    }
+   ]
   },
   {
    "id": "balas-newton",
@@ -15137,7 +15284,23 @@
    ],
    "note": "The 1951 obituaries and her grave marker agree on 20 February 1873; the 1900 census gives February 1872. The newspaper spelling “Etowak” is normalized to Etowah. Both obituaries place daughter May/Mary Moffett at Granite; that place has not been silently changed to Grant. The funeral time was tentative when the notices were printed. Mary Ann Dockery is a probable mother, based on the 1880 household and the 1867 marriage; no record naming Lizzie’s mother directly has been located.",
    "src": "The Apache Review, 9 Nov 1951, p. 1, “Mrs. Shackelford, 78 Dies Early Thursday,” https://www.newspapers.com/image/743077256/; Anadarko Daily News, 9 Nov 1951, p. 1, “Mrs. Shackelford Funeral Service Tentatively Set,” https://www.newspapers.com/image/873866750/; Etowah County marriage book C, p. 460, 1889, FamilySearch image 3QS7-894J-14JR, https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR.; 1880 U.S. census, Etowah County, ED 73, p. 14: https://www.familysearch.org/ark:/61903/3:1:33S7-9YYY-FFC; St. Clair County marriage register, 1867: https://www.familysearch.org/ark:/61903/1:1:QKZS-M16D.",
-   "source_link": "https://www.newspapers.com/image/743077256/"
+   "source_link": "https://www.newspapers.com/image/743077256/",
+   "imgs": [
+    {
+     "s": "img/news/apache-review-1951-11-09-p1-mrs-shackelford-dies.jpg",
+     "cap": "\"Mrs. Shackelford, 78 Dies Early Thursday\": The Apache Review of 9 November 1951 reported the death of Lizzie (Newton) Shackleford at her son Ed's home near Apache.",
+     "source": "https://www.newspapers.com/image/743077256/",
+     "credit": "The Apache Review (Apache, Okla.), 9 Nov 1951, p. 1",
+     "kind": "clipping"
+    },
+    {
+     "s": "img/news/anadarko-daily-news-1951-11-09-p1-shackelford-funeral.jpg",
+     "cap": "\"Mrs. Shackelford Funeral Service Tentatively Set\": The Anadarko Daily News of 9 November 1951 gave the funeral arrangements for Lizzie Shackleford.",
+     "source": "https://www.newspapers.com/image/873866750/",
+     "credit": "Anadarko Daily News, 9 Nov 1951, p. 1",
+     "kind": "clipping"
+    }
+   ]
   },
   {
    "id": "jwm-moonshine",
@@ -15174,7 +15337,37 @@
    ],
    "note": "Identification as the family’s John Winfred Moffitt is probable: the 1962 reports give his full name and Hugo/Choctaw County; the October 1961 report gives John W. Moffitt’s age as 36, matching his 25 October 1925 birth. None names a wife, relative or street address. The court file has not been examined, so the 1961 arraignment and 1962 prosecution have not been proved to be the same case. The newspaper records establish what happened to the men they name; the remaining uncertainty is their identification with this family member and the link between cases.",
    "src": "The Hugo Daily News, 31 Oct 1961, p. 1, https://www.newspapers.com/image/602946181/; Muskogee Times-Democrat, 25 Apr 1962, p. 9, https://www.newspapers.com/image/631019234/; The Ada Weekly News, 17 May 1962, p. 2, https://www.newspapers.com/image/667017065/; Muskogee Daily Phoenix and Times-Democrat, 23 Jun 1962, p. 2, https://www.newspapers.com/image/631077697/.",
-   "source_link": "https://www.newspapers.com/image/631077697/"
+   "source_link": "https://www.newspapers.com/image/631077697/",
+   "imgs": [
+    {
+     "s": "img/news/hugo-daily-news-1961-10-31-p1-booze-buyers-lawmen.jpg",
+     "cap": "\"Booze Buyers Turn Out To Be Lawmen\": The Hugo Daily News of 31 October 1961 reported that John W. Moffitt, 36, was arraigned on a federal liquor charge.",
+     "source": "https://www.newspapers.com/image/602946181/",
+     "credit": "The Hugo Daily News, 31 Oct 1961, p. 1",
+     "kind": "clipping"
+    },
+    {
+     "s": "img/news/muskogee-times-democrat-1962-04-25-p9-indictments.jpg",
+     "cap": "The federal grand jury indictment list in the Muskogee Times-Democrat of 25 April 1962 includes \"John Winfred Moffitt, Choctaw County.\"",
+     "source": "https://www.newspapers.com/image/631019234/",
+     "credit": "Muskogee Times-Democrat, 25 Apr 1962, p. 9",
+     "kind": "clipping"
+    },
+    {
+     "s": "img/news/ada-weekly-news-1962-05-17-p2-guilty-plea.jpg",
+     "cap": "The Ada Weekly News of 17 May 1962 reported that John Winfred Moffitt of Hugo pleaded guilty to two counts under the federal liquor stamp law.",
+     "source": "https://www.newspapers.com/image/667017065/",
+     "credit": "The Ada Weekly News, 17 May 1962, p. 2",
+     "kind": "clipping"
+    },
+    {
+     "s": "img/news/muskogee-phoenix-1962-06-23-p2-sentences.jpg",
+     "cap": "The Muskogee Daily Phoenix of 23 June 1962 listed the sentences, including John Winfred Moffitt, operating a still, Choctaw County, two years of probation.",
+     "source": "https://www.newspapers.com/image/631077697/",
+     "credit": "Muskogee Daily Phoenix and Times-Democrat, 23 Jun 1962, p. 2",
+     "kind": "clipping"
+    }
+   ]
   },
   {
    "id": "bf-hulsey-1880",
@@ -16973,7 +17166,16 @@
    ],
    "note": "Identification as the family’s John Winfred Moffitt is probable, not proved. The notice gives the name “Johnny Moffitt,” an age (31) that fits his 25 October 1925 birth, and the town of Hugo. It names no wife, parent or street address, so another Johnny Moffitt of the same age in Hugo cannot be ruled out.",
    "src": "The Hugo Daily News, 30 May 1957, p. 1, https://www.newspapers.com/image/901891967/; Oklahoma Historical Society, The Encyclopedia of Oklahoma History and Culture, entry on prohibition in Oklahoma (statewide prohibition from statehood in 1907 until its repeal in 1959).",
-   "source_link": "https://www.newspapers.com/image/901891967/"
+   "source_link": "https://www.newspapers.com/image/901891967/",
+   "imgs": [
+    {
+     "s": "img/news/hugo-daily-news-1957-05-30-p1-moffitt-disorderly-house.png",
+     "cap": "\"Fined For Disorderly House\": The Hugo Daily News of 30 May 1957 reported that Johnny Moffitt, 31, pleaded guilty to a disorderly-house charge after officers found whisky at his home (yellow marks are the viewer's search highlights).",
+     "source": "https://www.newspapers.com/image/901891967/",
+     "credit": "The Hugo Daily News, 30 May 1957, p. 1",
+     "kind": "clipping"
+    }
+   ]
   },
   {
    "id": "wthompson-deer-gloves",
@@ -17009,6 +17211,13 @@
     {
      "s": "img/news/hugo-daily-news-1962-04-02-p1-wells-lamont-pins.png",
      "cap": "Wells Lamont glove factory employees in Hugo receive their five-year service pins, with Junior Thompson among those named. The Hugo Daily News, 2 April 1962, page 1 (staff photo; yellow marks are the viewer's search highlights).",
+     "kind": "clipping"
+    },
+    {
+     "s": "img/news/hugo-daily-news-1961-11-21-p1-deer-tags.png",
+     "cap": "The Hugo Daily News of 21 November 1961 printed \"Local Sportsmen Purchase Deer Tags\" across its front page, listing William Thompson Jr. of Hugo among the buyers (the yellow box is the viewer's search highlight).",
+     "source": "https://www.newspapers.com/image/602946740/",
+     "credit": "The Hugo Daily News, 21 Nov 1961, p. 1",
      "kind": "clipping"
     }
    ]
@@ -19793,6 +20002,74 @@
   "img/p/mary_ellen_hulsey_thompson_later_years.jpg": {
    "url": "https://www.familysearch.org/en/tree/person/memories/GWPF-CYG",
    "credit": "Photo: contributed by LarryHulsey1, FamilySearch Memories"
+  },
+  "img/news/hugo-daily-news-1961-11-21-p1-deer-tags.png": {
+   "url": "https://www.newspapers.com/image/602946740/",
+   "credit": "The Hugo Daily News, 21 Nov 1961, p. 1"
+  },
+  "img/news/hugo-daily-news-1957-05-30-p1-moffitt-disorderly-house.png": {
+   "url": "https://www.newspapers.com/image/901891967/",
+   "credit": "The Hugo Daily News, 30 May 1957, p. 1"
+  },
+  "img/news/hugo-daily-news-1961-10-31-p1-booze-buyers-lawmen.jpg": {
+   "url": "https://www.newspapers.com/image/602946181/",
+   "credit": "The Hugo Daily News, 31 Oct 1961, p. 1"
+  },
+  "img/news/muskogee-times-democrat-1962-04-25-p9-indictments.jpg": {
+   "url": "https://www.newspapers.com/image/631019234/",
+   "credit": "Muskogee Times-Democrat, 25 Apr 1962, p. 9"
+  },
+  "img/news/ada-weekly-news-1962-05-17-p2-guilty-plea.jpg": {
+   "url": "https://www.newspapers.com/image/667017065/",
+   "credit": "The Ada Weekly News, 17 May 1962, p. 2"
+  },
+  "img/news/muskogee-phoenix-1962-06-23-p2-sentences.jpg": {
+   "url": "https://www.newspapers.com/image/631077697/",
+   "credit": "Muskogee Daily Phoenix and Times-Democrat, 23 Jun 1962, p. 2"
+  },
+  "img/news/paris-news-1990-09-20-p4-john-w-moffitt-obituary.jpg": {
+   "url": "https://www.newspapers.com/image/13498859/",
+   "credit": "The Paris News, 20 Sep 1990, p. 4"
+  },
+  "img/news/hugo-daily-news-1941-08-05-p1-troop-81-camp.jpg": {
+   "url": "https://www.newspapers.com/image/789616920/",
+   "credit": "The Hugo Daily News, 5 Aug 1941, p. 1"
+  },
+  "img/news/biskinik-2002-04-p14-ethel-hamill-obituary.jpg": {
+   "url": "https://www.choctawnation.com/wp-content/uploads/2023/01/apr02-biskinik.pdf",
+   "credit": "Choctaw Nation, Biskinik, April 2002, p. 14"
+  },
+  "img/news/paris-news-1990-09-17-p2-simon-thompson-obituary.jpg": {
+   "url": "https://www.newspapers.com/image/13497196/",
+   "credit": "The Paris News, 17 Sep 1990, p. 2"
+  },
+  "img/news/apache-review-1951-11-09-p1-mrs-shackelford-dies.jpg": {
+   "url": "https://www.newspapers.com/image/743077256/",
+   "credit": "The Apache Review (Apache, Okla.), 9 Nov 1951, p. 1"
+  },
+  "img/news/anadarko-daily-news-1951-11-09-p1-shackelford-funeral.jpg": {
+   "url": "https://www.newspapers.com/image/873866750/",
+   "credit": "Anadarko Daily News, 9 Nov 1951, p. 1"
+  },
+  "img/news/biskinik-2012-05-p16-edith-slaton-obituary.jpg": {
+   "url": "https://www.choctawnation.com/wp-content/uploads/2022/07/may-2012-biskinik.pdf#page=16",
+   "credit": "Choctaw Nation, Biskinik, May 2012, p. 16"
+  },
+  "img/books/yas-record-series-v1-1885-p97-henrie-croasdale-will.jpg": {
+   "url": "https://archive.org/details/YASRS001/page/97",
+   "credit": "Yorkshire Archaeological and Topographical Association, Record Series vol. I (1885), p. 97"
+  },
+  "img/books/nc-acts-1834-35-p95-jesse-hulsey-resolution.png": {
+   "url": "https://ncleg.gov/Files/Library/sessionlaws/1831-1840/pubs_lawsofnorthcarol183435.pdf",
+   "credit": "Acts of the General Assembly of North Carolina, 1834-35, Resolutions, p. 95"
+  },
+  "img/books/nj-wills-calendar-v4-1928-p360-john-rodgers-burlington.jpg": {
+   "url": "https://archive.org/details/calendarofnewjer04newj/page/360/mode/2up",
+   "credit": "A. Van Doren Honeyman, Calendar of New Jersey Wills, vol. IV (1928), p. 360"
+  },
+  "img/places/hugo_courthouse_2016.jpg": {
+   "url": "https://commons.wikimedia.org/wiki/File:Choctaw_County_Courthouse_in_Hugo,_OK.jpg",
+   "credit": "Wikimedia Commons, CC BY-SA 4.0, Michael Barera"
   }
  }
 }
