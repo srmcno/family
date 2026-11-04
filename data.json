@@ -2254,13 +2254,14 @@
    "gen": 4,
    "rel": "4th great-grandparents",
    "place": "Vashti's parents, both dead by 1919. Her only surviving brother was James Pearson of Elberfeld, Indiana. The maiden name Carman comes from a grave memorial.",
-   "src": "Obituary of Vashti O'Neal (1919), family transcription on Find a Grave. History of Gibson County, Indiana (1884), Columbia Township, p. 213.",
+   "src": "Obituary of Vashti O'Neal (1919), family transcription on Find a Grave. History of Gibson County, Indiana (1884), Columbia Township, p. 213.; History of Gibson County, Indiana (1884), Forty-second Regiment and roster: https://archive.org/details/historyofgibsonc0000jast",
    "ev": "lead",
    "title": "The Pearsons behind Vashti",
    "hook": "John and Elizabeth Pearson are known only through their daughter Vashti and a son in Elberfeld.",
    "body": [
     "John and Elizabeth Pearson were the parents of Vashti Elizabeth, born 18 May 1844, who married Daniel Waters O'Neal in Gibson County, Indiana, on 5 January 1860. Both were dead by January 1919, when Vashti died. The only brother named at her death was James Pearson of Elberfeld, Indiana, a Warrick County town a few miles from Gibson County. Elizabeth's maiden name, Carman, comes from a memorial for her grave.",
-    "A Pearson family had been in Columbia Township since at least 1827, when \"Solomon Brown and William Pearson had charge of the poor.\" Nothing names that William as John's father or brother. Their daughter Vashti had ten children and a husband in Company F of the 42nd Indiana."
+    "A Pearson family had been in Columbia Township since at least 1827, when \"Solomon Brown and William Pearson had charge of the poor.\" Nothing names that William as John's father or brother. Decades later several Pearsons, among them a Charles, a Samuel and an L. S., worked as carpenters in Oakland City, though nothing ties them to this family.",
+    "Vashti's husband, Daniel Waters O'Neal, served in Company F of the 42nd Indiana. The regiment was organized at Evansville on 9 October 1861, fought at Perryville, Stones River, Chickamauga and Lookout Mountain, took part in the Atlanta campaign and the march through Georgia and the Carolinas, and was mustered out at Louisville on 21 July 1865. Vashti and Daniel had ten children."
    ],
    "note": "The family tree carries dates for them (John 1803-1850; Elizabeth 1807 to 1 October 1879) that no record seen for this story confirms."
   },
@@ -5773,20 +5774,21 @@
      "Agnes, b. 13 Jul 1633; d. 20 Oct 1686, Neshaminy, Bucks Co., Pa."
     ]
    ],
-   "src": "Ancestry Lancashire, England, Baptisms, Marriages and Burials 1538-1812; England, Select Deaths and Burials 1538-1991, as cited on WikiTree Hawthornthwaite-8 (https://www.wikitree.com/wiki/Hawthornthwaite-8) and WikiTree Hawthornewaite-1 (https://www.wikitree.com/wiki/Hawthornewaite-1)",
+   "src": "Ancestry Lancashire, England, Baptisms, Marriages and Burials 1538-1812; England, Select Deaths and Burials 1538-1991, as cited on WikiTree Hawthornthwaite-8 (https://www.wikitree.com/wiki/Hawthornthwaite-8) and WikiTree Hawthornewaite-1 (https://www.wikitree.com/wiki/Hawthornewaite-1); NSCDA, Founding Females Qualifying Ancestor Index no. 046, Croasdale, Agnes Hathornthwaite: https://nscda.org/wp-content/uploads/2025/06/046-Croasdale-Agnes-Hathornthwaite.-PA.-Historic-Founder-.docx.pdf; WikiTree, Croasdale-30: https://wikitree.com/wiki/Croasdale-30; Genealogical Speaking blog, Bucks County records (Settle MM removal certificate June 1682; indenture 21 Apr 1682): https://genealogicalyspeaking.blogspot.com/2008/06/bucks-county-pa-records-hayhurst.html",
    "title": "A father who died the year his daughter was born",
    "hook": "Agnes Hawthornthwaite is said to have been born in 1633, the year her father William died at 26.",
    "body": [
     "Agnes Hawthornthwaite, later wife of Thomas Croasdale, is said to have been born on 13 July 1633 in Tatham parish. Her father William Hawthornthwaite, born in 1607, is said to have married Elizabeth in Lancashire in 1631 and to have died in 1633, aged 26.",
     "The sources for this are indexes of Lancashire parish registers and burials, not the register entries themselves, and nothing ties Agnes to William beyond the dates, so the link is unconfirmed.",
-    "Agnes came to Pennsylvania with the Settle Friends in 1682 and died at Neshaminy in 1686."
+    "Agnes appears at the other end of her life in the Quaker records. She married Thomas Croasdale, and in June 1682 Settle Monthly Meeting issued a removal certificate to a company of Friends bound for America that included Thomas, Agnes and six children. Thomas had bought land in Pennsylvania from William Penn by an indenture of 21 April 1682, on Neshaminy Creek in Bucks County near what is now Langhorne. Agnes was buried at Neshaminy on 20 October, in 1684 by one account and 1686 by another.",
+    "One account gives a different Agnes: born about 1646, married at Lancaster in 1664, and arriving on the Welcome. If that is the right Agnes, William, who died in 1633, cannot have been her father."
    ],
    "ev": "lead",
    "tags": [
     "quaker"
    ],
    "quotes": [],
-   "note": "Index-level sourcing only; the parent link to Agnes is not shown from a register entry."
+   "note": "Index-level sourcing only; the parent link to Agnes is not shown from a register entry. Conflict: the NSCDA Founding Females index (citing Sheppard and McCracken) gives Agnes Hathornthwaite Croasdale as born about 1646, married at Lancaster Monthly Meeting on 20 May 1664, mother of six children born at Lancaster, and sailing on the Welcome (left Deal 31 Aug 1682), buried 20 Oct 1684. That cannot be squared with a daughter born in July 1633 to a father buried in 1633, so the parentage is probably wrong; the other trees' ship (Lamb) and her death year (1686) also differ. The Settle certificate and the 1682 indenture are known only through a blog summary, and an administration of Thomas's estate in December 1684 reported there sits oddly with a burial for Agnes in October 1684."
   },
   {
    "id": "wt2-anthony-ann-chamness",
@@ -5810,13 +5812,13 @@
      "Born c.1665; said to have died 1745 at Tedburn St Mary, Devon"
     ]
    ],
-   "src": "FamilySearch England Marriages 1538-1973 (FHL film 374448, NV29-23V), as cited on WikiTree Chamness-43 (https://www.wikitree.com/wiki/Chamness-43); WikiTree Chamness-8 (https://www.wikitree.com/wiki/Chamness-8)",
+   "src": "FamilySearch England Marriages 1538-1973 (FHL film 374448, NV29-23V), as cited on WikiTree Chamness-43 (https://www.wikitree.com/wiki/Chamness-43); WikiTree Chamness-8 (https://www.wikitree.com/wiki/Chamness-8); Wikipedia, 'St James Duke's Place' (consecrated 1622; parish exempt from the Bishop of London; 'marriage factory'): https://en.wikipedia.org/wiki/St_James_Duke%27s_Place",
    "title": "A 1686 marriage in Duke's Place",
    "hook": "A London record shows an Anthony Champneys marrying Anne Pitts in 1686, but their son John was baptized four years earlier.",
    "body": [
-    "John Chamness, who married Ann Wearey at St John's, Wapping, in 1704, is said to be the son of Anthony Chamness and Ann Pitts. The only evidence for the parents is the marriage of Anthony 'Champneys' and Anne Pitts at St James, Duke's Place, on 23 September 1686.",
-    "That date is four years after John's baptism, in November 1682 at St Saviour's in Southwark. Though it is said there is 'no geographical or chronological reason to dispute' the link, the order of dates is a reason to be careful. John could have been baptized before his parents formally married, or the baptism belongs to another family.",
-    "Anthony 'appears to be' the son of a John Chamness of Stansted Mountfitchet, Essex, and his wife Mary Reffell, but those Essex generations are not added here."
+    "John Chamness, who married Ann Wearey at St John's, Wapping, in 1704, is said to be the son of Anthony Chamness and Ann Pitts. The only evidence for the parents is the marriage of Anthony 'Champneys' and Anne Pitts at St James, Duke's Place, on 23 September 1686. St James, Duke's Place, stood just inside the walls at Aldgate on old priory ground that had passed to the Dukes of Norfolk; it was consecrated in 1622, its parish claimed exemption from the Bishop of London, and by the later seventeenth century it had a name as a marriage factory, with several weddings a day.",
+    "That date is four years after John's baptism, in November 1682 at St Saviour's in Southwark. Though it is said there is 'no geographical or chronological reason to dispute' the link, the order of dates is a reason to be careful. The church's reputation might explain a wedding after the child, since John could have been baptized before his parents formally married, but nothing shows that was the case here. Or the baptism belongs to another family. John, whoever his parents were, is said to have died in London in 1716.",
+    "Anthony 'appears to be' the son of a John Chamness of Stansted Mountfitchet, Essex, and his wife Mary Reffell, but those Essex generations are not added here. Ann Pitts is said to have lived until 1745, in Devon."
    ],
    "ev": "lead",
    "tags": [
@@ -5901,18 +5903,19 @@
      "John, James (b. 1721), Hugh, Robert, William"
     ]
    ],
-   "src": "Ireland, Select Marriages 1619-1898 and Irish Records Extraction Database (marriage of Henry Stevenson and Ann Curlett, 1720), via WikiTree Stevenson-754 (https://www.wikitree.com/wiki/Stevenson-754) and WikiTree Curlett-6 (https://www.wikitree.com/wiki/Curlett-6); Raleigh Star, 29 Mar 1820 (obituary of James Stevenson sen.)",
+   "src": "Ireland, Select Marriages 1619-1898 and Irish Records Extraction Database (marriage of Henry Stevenson and Ann Curlett, 1720), via WikiTree Stevenson-754 (https://www.wikitree.com/wiki/Stevenson-754) and WikiTree Curlett-6 (https://www.wikitree.com/wiki/Curlett-6); Raleigh Star, 29 Mar 1820 (obituary of James Stevenson sen.); Wikipedia, 'Saul, County Down': https://en.wikipedia.org/wiki/Saul,_County_Down; Wikipedia, 'Braddan': https://en.wikipedia.org/wiki/Braddan; NCpedia, 'Stevenson, William (Little Gabriel)' (Iredell, 1762, grew to nearly 3,400 acres; Fourth Creek): https://www.ncpedia.org/biography/stevenson-little-gabriel; The Ancestry of Carolyn Gail Skinner, Stevenson chapter (1955 note: 'James Stevenson, immigrant from Ireland, who died in 1820 ... married Sally Kelly of Md.'): https://archive.org/download/ancestryofcaroly00skin/ancestryofcaroly00skin_djvu.txt",
    "title": "From the Isle of Man to Belfast to Iredell",
    "hook": "A 1720 marriage at Downpatrick is the only solid piece in the chain behind James Stevenson of Iredell County.",
    "body": [
-    "Henry Stevenson married Ann Curlett on 2 June 1720 at Saul parish, Downpatrick. Ann had been baptized on 27 May 1698 at Braddan on the Isle of Man, a daughter of William Curlett. Their children, as family trees list them, include a James born about March 1721 at Belfast.",
+    "Henry Stevenson married Ann Curlett on 2 June 1720 at Saul parish, near Downpatrick, the ground where Saint Patrick is said to have founded his first church. Ann had been baptized on 27 May 1698 at Braddan, a parish on the Isle of Man that now includes part of Douglas, a daughter of William Curlett. Their children, as family trees list them, include a James born about March 1721 at Belfast.",
     "That James is identified with the James Stevenson who died on 5 March 1820 in Iredell County, North Carolina, a native of Ireland, nearly 90 years old, married 65 years, with 208 descendants. His estate was probated in Iredell in 1820.",
-    "Henry's own birthplace and his parents (given as William Stevenson and Katherine Alison) have no cited source. Whether this James is the father of the James Stevenson (1746-1828) in the Stevenson line here is itself only a possibility."
+    "Henry's own birthplace and his parents (given as William Stevenson and Katherine Alison) have no cited source. Whether this James is the father of the James Stevenson (1746-1828) in the Stevenson line here is itself only a possibility. A 1955 note in the Skinner genealogy describes an immigrant James Stevenson who died in 1820 and gives his wife as Sally Kelly of Maryland, and it does not call him Henry's son, so the picture of James's origins is unsettled.",
+    "Iredell was crowded with Stevensons. William Stevenson of County Antrim, called Little Gabriel, took up land there in 1762 and grew it to nearly 3,400 acres, and he was an elder of Fourth Creek Presbyterian Church. How James Stevenson was related to him, if at all, is unknown."
    ],
    "ev": "lead",
    "tags": [],
    "quotes": [],
-   "note": "Marriage indexes are solid; the children are attached from family-tree compilations, and the obituary does not name Henry or Ann."
+   "note": "Marriage indexes are solid; the children are attached from family-tree compilations, and the obituary does not name Henry or Ann. The Skinner genealogy's 1955 note names the 1820 immigrant's wife as Sally Kelly of Maryland and does not call him Henry's son; this conflict with the tree is unresolved."
   },
   {
    "id": "wt2-robert-virginia-johnson",
@@ -5940,12 +5943,13 @@
      "Born 15 May 1737; d. 21 Dec 1814; both buried at Springfield MM"
     ]
    ],
-   "src": "Cedar Creek Monthly Meeting records as abstracted in Johnson, Terrill, LeStourgeon and Johnson, The Descendants of William and John Johnson, Colonial Friends of Virginia (1988); North Carolina Estate Files, Robert Johnson, 1808 (FamilySearch Q2Z7-32WX); WikiTree Johnson-2061 (https://www.wikitree.com/wiki/Johnson-2061); WikiTree Elmore-29 (https://www.wikitree.com/wiki/Elmore-29); Johnson DNA Project, Olive group, page for John Johnson and Elizabeth Massie, quoting the Cedar Creek MM entry of 1758-11-19, read 4 Nov 2026: https://sites.google.com/view/jeffbockman/johnson-dna-project/olive-group/1-john-johnson-elizabeth-massie",
+   "src": "Cedar Creek Monthly Meeting records as abstracted in Johnson, Terrill, LeStourgeon and Johnson, The Descendants of William and John Johnson, Colonial Friends of Virginia (1988); North Carolina Estate Files, Robert Johnson, 1808 (FamilySearch Q2Z7-32WX); WikiTree Johnson-2061 (https://www.wikitree.com/wiki/Johnson-2061); WikiTree Elmore-29 (https://www.wikitree.com/wiki/Elmore-29); Johnson DNA Project, Olive group, page for John Johnson and Elizabeth Massie, quoting the Cedar Creek MM entry of 1758-11-19, read 4 Nov 2026: https://sites.google.com/view/jeffbockman/johnson-dna-project/olive-group/1-john-johnson-elizabeth-massie; Vikings and Virginians, 'Quaker Families of Louisa County, Virginia - Johnson and Moorman' (Cedar Creek from about 1719; Camp Creek about 1744; 1754-56 drought and migration): https://vikingsandvirginians.com/?p=920; NCpedia, 'Cane Creek Connection': https://www.ncpedia.org/cane-creek-connection; North Carolina Dept. of Natural and Cultural Resources, 'Cane Creek Meeting' (first monthly meeting 7 Oct 1751; 'Mother of Meetings'): https://www.dncr.nc.gov/blog/2023/12/19/cane-creek-meeting-g-69",
    "title": "Cedar Creek Friends move south",
    "hook": "Robert Johnson, son of Ashley, married Cisley (Virginia) Elmore at Cedar Creek Meeting in 1758 and was sent south to Deep River with her in 1766.",
    "body": [
     "On 19 November, in a public meeting at Cedar Creek, Robert Johnson of Louisa County, son of Ashley, took Cisley Elmore, daughter of Thomas Elmore of Amelia County, as his wife. The wedding falls in 1758 as the minute is transcribed, although a 1988 Johnson genealogy prints 1759. That genealogy names her Virginia C. Elmore and records that 'Robert and Virginia Johnson rec. on cert. from Cedar Creek M.M., Va., dated 1766-3-29'. Cisley is the old form of Cecilia, her mother's name, and the family tree carries her as Cecelia. Both were buried at Springfield Meeting in North Carolina, and Robert's estate was opened in Stokes County in 1808.",
     "Robert was born in February 1737 or 1738 in New Kent County, probably the son of Ashley Johnson and Martha Woody, whose family later farmed Chamberlain's Creek in Louisa County. Cisley, born at Black Creek in 1737, was a daughter of Thomas Elmore and Cecilia Ellyson.",
+    "Cedar Creek's Friends had been meeting in Hanover County, near the forks of the Anna rivers, since about 1719, and in about 1744 Johnsons, Moormans and Clarks set up Camp Creek Meeting in neighboring Louisa County; the families on both sides of the line intermarried constantly. The drought of 1754-56, the French and Indian War and stricter regulation of Quakers then sent many Hanover and Louisa families to Bedford County, to southwest Virginia and on into North Carolina, where the Established Church had less hold. The Cane Creek meeting, in the North Carolina Piedmont, had held its first monthly meeting on 7 October 1751 and earned the name Mother of Meetings by starting the others, and thirty Pennsylvania families had already settled around it.",
     "An unsourced family tree lists Martha Johnson, born 28 August 1766 at Deep River, who married Aden Nordyke in 1787, among their children. The Quaker minutes support the couple but do not name Martha."
    ],
    "ev": "probable",
@@ -5962,7 +5966,7 @@
      "c": "Johnson et al., Descendants of William and John Johnson (1988), as quoted on WikiTree Johnson-2061"
     }
    ],
-   "note": "The Quaker abstracts are good evidence for the couple. The 1758 entry calls the groom 'Robert, Louisa Co., s Ashely' and the bride 'Cisley ELMORE, dt Thomas, Amelia Co.', which supports Ashley Johnson as his father and confirms the surname Elmore; her first name is Cisley (Cecilia) there and 'Virginia C.' in the 1988 abstract, and the tree keeps Cecelia. The year is 1758 in the transcription and 1759 in the 1988 abstract; the original minute has not been seen. The step to Martha Johnson (b. 1766) as their daughter comes from a compiled family history, so it stays probable. The family tree carries the couple as Robert Valentine Johnson (8 February 1737 to 24 April 1807) and Cecelia Johnson; the dates above follow the Johnson genealogy, which has Robert's estate opened in 1808."
+   "note": "The Quaker abstracts are good evidence for the couple. The 1758 entry calls the groom 'Robert, Louisa Co., s Ashely' and the bride 'Cisley ELMORE, dt Thomas, Amelia Co.', which supports Ashley Johnson as his father and confirms the surname Elmore; her first name is Cisley (Cecilia) there and 'Virginia C.' in the 1988 abstract, and the tree keeps Cecelia. The year is 1758 in the transcription and 1759 in the 1988 abstract; the original minute has not been seen. The step to Martha Johnson (b. 1766) as their daughter comes from a compiled family history, so it stays probable. The family tree carries the couple as Robert Valentine Johnson (8 February 1737 to 24 April 1807) and Cecelia Johnson; the dates above follow the Johnson genealogy, which has Robert's estate opened in 1808. Robert's last residence is not settled: his estate was opened in Stokes County, but both were buried at Springfield Meeting. The Cedar Creek and Camp Creek founding dates come from a secondary account."
   },
   {
    "id": "wt2-ashley-martha-johnson",
@@ -6170,12 +6174,13 @@
      "Hopewell Presbyterian Church Cemetery, Huntersville"
     ]
    ],
-   "src": "Mecklenburg County, N.C., wills of William Sample and Esther Sample, 26 Jan 1769, and loose estate papers, as summarized on WikiTree Sample-316 (https://www.wikitree.com/wiki/Sample-316) and WikiTree Sample-376 (https://www.wikitree.com/wiki/Sample-376)",
+   "src": "Mecklenburg County, N.C., wills of William Sample and Esther Sample, 26 Jan 1769, and loose estate papers, as summarized on WikiTree Sample-316 (https://www.wikitree.com/wiki/Sample-316) and WikiTree Sample-376 (https://www.wikitree.com/wiki/Sample-376); NCpedia, 'Alexander, Hezekiah' (married Mary Sample 12 June 1752; magistrate from 1768): https://www.ncpedia.org/biography/alexander-hezekiah; Wikipedia, '1774 Alexander Rock House' (Mary Sample Alexander 1734-1805; land divided between Joel and Oswald): https://en.wikipedia.org/wiki/1774_Alexander_Rock_House; Mecklenburg County Historic Landmarks Commission, 'Hopewell Presbyterian Church' (stone building about 1833): https://hl.mecknc.gov/Properties/Designated-Historic-Landmarks/huntersville/hopewell-presbyterian-church",
    "title": "Two wills on one day",
    "hook": "William and Esther Sample each signed a will on 26 January 1769, and he was dead that month.",
    "body": [
     "William Sample Sr. was born about 1690, in either Northern Ireland or Scotland, and lived in Cecil County, Maryland, before the family moved to Mecklenburg County. He signed a will on 26 January 1769 and died that same month; his wife Esther Garrison signed her own will the same day. The loose estate papers name five children: William, John, Joseph, Mary and Agnes.",
-    "Their daughter Mary, born 31 January 1734, married Hezekiah Alexander in 1752. Esther's parentage is not carried further here."
+    "Their daughter Mary, born 31 January 1734, married Hezekiah Alexander, a fellow Cecil County man, on 12 June 1752. In January 1769 Hezekiah was a county magistrate, an office he held from 1768, and he and Mary were living on the 600 acres or so on Sugar Creek that he had bought in 1767; their stone house was still five years from completion. Mary outlived Hezekiah, who died in 1801, never remarried, and died in 1805. Her youngest sons, Joel and Oswald, divided the land between them, and Oswald received the house. Esther's parentage is not carried further here.",
+    "William and Esther lie at Hopewell Presbyterian Church, whose congregation now worships in a stone building from about 1833."
    ],
    "ev": "probable",
    "tags": [],
@@ -6220,12 +6225,14 @@
      "Hezekiah Alexander, Mecklenburg Co., N.C. (the biography names James and Margaret as his parents)"
     ]
    ],
-   "src": "Preyer, 'Alexander, Hezekiah,' Dictionary of North Carolina Biography, NCpedia (names his parents James Alexander and Margaret McKnitt, daughter of John McKnitt and Jane Wallace), read 4 Nov 2026: https://www.ncpedia.org/biography/alexander-hezekiah; Alexander family Bible list and DAR Ancestor A001176 (James Alexander), as summarized on WikiTree Alexander-2269 (https://www.wikitree.com/wiki/Alexander-2269) and WikiTree McKnitt-57 (https://www.wikitree.com/wiki/McKnitt-57); Find a Grave 52810996; Papenfuse et al., A Biographical Dictionary of the Maryland Legislature, 1635-1789, Archives of Maryland vol. 426, p. 102 (Amos Alexander entry: father James Alexander, 'son of Joseph Alexander and wife Abigail McKnitt'; mother Margaret, daughter of John McKnitt; stepmother Abigail): https://www.msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000426/html/am426--102.html",
+   "src": "Preyer, 'Alexander, Hezekiah,' Dictionary of North Carolina Biography, NCpedia (names his parents James Alexander and Margaret McKnitt, daughter of John McKnitt and Jane Wallace), read 4 Nov 2026: https://www.ncpedia.org/biography/alexander-hezekiah; Alexander family Bible list and DAR Ancestor A001176 (James Alexander), as summarized on WikiTree Alexander-2269 (https://www.wikitree.com/wiki/Alexander-2269) and WikiTree McKnitt-57 (https://www.wikitree.com/wiki/McKnitt-57); Find a Grave 52810996; Papenfuse et al., A Biographical Dictionary of the Maryland Legislature, 1635-1789, Archives of Maryland vol. 426, p. 102 (Amos Alexander entry: father James Alexander, 'son of Joseph Alexander and wife Abigail McKnitt'; mother Margaret, daughter of John McKnitt; stepmother Abigail): https://www.msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000426/html/am426--102.html; Wikipedia, '1774 Alexander Rock House' (600 acres on Sugar Creek in 1767; house finished 1774; oldest house in Mecklenburg County): https://en.wikipedia.org/wiki/1774_Alexander_Rock_House",
    "title": "A Cecil County elder and two McKnitt sisters",
    "hook": "James Alexander of Cecil County, a magistrate and Presbyterian elder, married two McKnitt sisters in turn; the first, Margaret, was the mother of Hezekiah, the Mecklenburg patriot.",
    "body": [
     "James Alexander was born about 1690 at Manokin in Somerset County, Maryland, into a Scots-Irish family said to descend from a tanner, Joseph Alexander, one of seven brothers who reached Somerset County before 1670. He moved north to Cecil County, where he became a magistrate and an elder of the Presbyterian church. His first wife was Margaret McKnitt, born 26 December 1693, the daughter of John McKnitt and Jane Wallace, and she bore him twelve children by a Bible list, among them Hezekiah, born in 1722 or 1728 (1728 in one standard account). Margaret died at New Munster on 31 July 1736, and James married her sister Abigail, who gave him five more.",
-    "Hezekiah grew up in the Cecil County household, learned the blacksmith's trade, and carried the family's Presbyterian faith south to the Carolina backcountry, where he became one of Mecklenburg's leading men. His father outlived Margaret by forty-three years. James died in Cecil County on 31 May 1779 and was buried at the Head of Christiana Church cemetery near Newark, Delaware. Three separate compilations give his birth as 1690, and he is recognized as a patriot ancestor.",
+    "Hezekiah grew up in the Cecil County household, learned the blacksmith's trade, and carried the family's Presbyterian faith south to the Carolina backcountry, where he became one of Mecklenburg's leading men.",
+    "Hezekiah went first to Cumberland County, Pennsylvania, and then on to the Carolina Piedmont, where he was buying land near the Catawba River by 1764. In 1752 he had married Mary Sample, whose family would follow the same road south. In 1767 he bought more than 600 acres on Sugar Creek in Mecklenburg County and by 1774 had finished a two-story stone house on it, the oldest house in Mecklenburg County and the centerpiece of the Charlotte Museum of History. A magistrate from 1768, he sat on the Mecklenburg Committee of Safety, took part in the 1775 resolves, helped write the state's first constitution as a member of the Provincial Congress, and was a trustee of Queens College.",
+    "His father outlived Margaret by forty-three years. James died in Cecil County on 31 May 1779 and was buried at the Head of Christiana Church cemetery near Newark, Delaware. Three separate compilations give his birth as 1690, and he is recognized as a patriot ancestor.",
     "His own parents were Joseph Alexander and Abigail McKnitt, which made his first wife Margaret his cousin. Joseph died in Cecil County by March 1730, and beyond him the 'Seven Brothers' Alexanders from Donegal are a speculative family tradition. Margaret's parents, John McKnitt and Jane Wallace, are named in print but come with no dates."
    ],
    "ev": "probable",
@@ -6862,12 +6869,13 @@
      "The Ancestry of Carolyn Gail Skinner, citing data received 11 May 1955"
     ]
    ],
-   "src": "The Ancestry of Carolyn Gail Skinner (archive.org id ancestryofcaroly00skin; text seen only as search excerpts), Stevenson chapter.",
+   "src": "The Ancestry of Carolyn Gail Skinner (archive.org id ancestryofcaroly00skin; full text readable at https://archive.org/download/ancestryofcaroly00skin/ancestryofcaroly00skin_djvu.txt), Stevenson chapter.",
    "title": "Jane Stevenson's parents: John, and a Thompson",
    "hook": "The same 1955 notes say Elam Stevenson's mother Jane was a Stevenson by birth, daughter of John Stevenson, who died in 1794, and a woman named Thompson.",
    "body": [
     "Elam Stevenson's mother is only ever called Jane Stevenson, and the compiler of the Skinner book's Stevenson chapter noted that the wives' maiden names show \"Stephenson was Jane's maiden name, and not a variation\" of her husband's. In the same note: \"James Stevenson II, who m. Jane Stevenson, died in 1828. She died 1814. Jane was the daughter of John Stevenson (d. 1794), and a Thompson.\"",
-    "Nothing more is given: no first name or dates for Jane's mother, no place, no will. This is the only place that names Jane's parents, and it is a compiler's statement from 1955 with no source given, so it stays unproven. Another passage of the book puts the marriage of James and Jane about 1765 and calls James a soldier of the Revolution."
+    "Nothing more is given: no first name or dates for Jane's mother, no place, no will. This is the only place that names Jane's parents, and it is a compiler's statement from 1955 with no source given, so it stays unproven. Another passage of the book puts the marriage of James and Jane about 1765 and calls James a soldier of the Revolution.",
+    "Jane's household was Scots-Irish and Presbyterian, and it did not welcome her son Elam's turn to the Methodists. He joined that church in 1806, the third son and the first of the family to do so, and by his own memory his parents honestly believed he was being deceived by false teachers. He was licensed to preach in 1811. In 1813, as he got ready to move to Tennessee, a neighbor named Philip Bruce asked him to carry part of his books in the wagon. Jane died the next year. Elam settled near Bunker Hill in Giles County, founded the church at Bee Spring, and died on 13 March 1875, \"nearly 62 years a minister,\" three years after his wife Lydia."
    ],
    "ev": "lead",
    "tags": [],
@@ -6877,7 +6885,7 @@
      "c": "The Ancestry of Carolyn Gail Skinner, citing data received 11 May 1955"
     }
    ],
-   "note": "Lead only. Same limits as the entry on James's father: the book's own sources are not in the readable excerpts."
+   "note": "Lead only. The full text of the Skinner book is readable, and the 1955 note gives no source for Jane's parentage, so it stays unproven. The book is also internally inconsistent: its 1905 table has James II volunteering at sixteen in the Revolution and settling in North Carolina about 1775, which cannot be squared with a marriage about 1765, and a 1955 note describes an immigrant James who died in 1820 and married Sally Kelly of Maryland."
   },
   {
    "id": "hulsey-jesse-revolutionary",
@@ -7303,16 +7311,16 @@
    "title": "The 1860 constitution written at Doaksville",
    "hook": "A convention at Doaksville set the framework that governed the Choctaw Nation until its government ended in 1906.",
    "body": [
-    "In 1860 a convention at Doaksville ratified the Doaksville Constitution, which guided the Choctaw Nation until 1906. Doaksville served as the capital in this period; sources differ on the exact dates, and the capital later moved to Chahta Tamaha in 1863.",
-    "The constitution created Cedar County and others in the Nation's district system. Each county elected members to the National Council and also a county judge, a sheriff and a ranger to two-year terms. The judge ran county administration, the sheriff collected taxes, watched for intruders and took the census, and the ranger advertised and sold stray livestock.",
-    "For families in the Kiamichi country this was everyday government: the people holding these offices were their neighbors."
+    "The Choctaw and Chickasaw nations formally separated in 1855, and in 1860 a convention at Doaksville ratified the Doaksville Constitution, which guided the Choctaw Nation until 1906. Doaksville, a river-and-trading town that had been the largest settlement in Indian Territory since about 1850, served as the capital in this period; sources differ on the exact dates, and the capital later moved to Chahta Tamaha in 1863. Vincent B. Tims, partner of the town's founder, Josiah Doak, had been trading there since the late 1830s.",
+    "The constitution organized the Nation into counties inside its districts. Cedar County, for example, took its name from Big Cedar Creek (the Choctaw word for cedar is Chuala), was bounded by the Kiamichi River on the west and the Little River on the east, and had its seat at Sulphur Springs. Each county elected members to the National Council and also a county judge, a sheriff and a ranger to two-year terms. The judge ran county administration, the sheriff collected taxes, watched for intruders and took the census, and the ranger advertised and sold stray livestock.",
+    "For families in the Kiamichi country this was everyday government: the people holding these offices were their neighbors. Edward Ward Tims lived under it for decades. He was a district trustee in the early 1880s and a long-serving county judge of Towson County, and in 1887 he was made postmaster of Doaksville itself. The same constitution and the same county offices were still in force when the Dawes Commission came to enroll the Nation. Cedar County and its neighbors ceased to exist on 16 November 1907, when Oklahoma became a state."
    ],
    "ev": "probable",
    "tags": [
     "choctaw"
    ],
    "quotes": [],
-   "note": "Capital dates are inconsistent between sources; stated loosely on purpose.",
+   "note": "Capital dates are inconsistent between sources; stated loosely on purpose. The constitution's own text has not been found online.",
    "src": "Wikipedia, Doaksville, Choctaw Nation; Wikipedia, Cedar County, Choctaw Nation"
   },
   {
@@ -7325,8 +7333,9 @@
    "hook": "The Civil War ended in Indian Territory in the Choctaw Nation, a few miles from where these families lived.",
    "body": [
     "After the Army abandoned Fort Towson in 1854, the post saw a brief resurgence during the Civil War when Gen. Samuel Bell Maxey chose it as headquarters for Confederate forces in Indian Territory.",
-    "On June 23, 1865, Cherokee Brig. Gen. Stand Watie surrendered his First Indian Brigade at Doaksville, near the fort, signing with two Union commissioners. He is generally called the last Confederate general officer to surrender. Some sources place the signing at Fort Towson itself; the date is consistent.",
-    "The war had wrecked the plantation economy around Doaksville, and the town never recovered. For Choctaw families of the area the surrender was the end of four years in which their homeland was a Confederate district."
+    "On June 23, 1865, Cherokee Brig. Gen. Stand Watie surrendered his First Indian Brigade at Doaksville, near the fort, signing with two Union commissioners. He is generally called the last Confederate general officer to surrender. Some sources place the signing at Fort Towson itself; the date is consistent. Some writers call it the Battle of Doaksville, but no fight by that name is documented.",
+    "Doaksville was a fitting place for the war to end. A few weeks into the conflict, in June 1861, a Confederate flag was flying over the town, where the family's Vincent B. Tims lived out his life.",
+    "The war had wrecked the plantation economy around Doaksville, and the town never recovered. In 1870 a railroad went through somewhere else, most of the stores moved to Fort Towson, and the post office closed in 1903. The Doaksville site was added to the National Register of Historic Places on May 29, 1975. Archaeologists dug there in 1995, 1996 and 1997, and a walkway and signs went in during 2001. For Choctaw families of the area the surrender was the end of four years in which their homeland was a Confederate district."
    ],
    "ev": "probable",
    "tags": [
@@ -7346,9 +7355,10 @@
    "title": "Fort Towson: the army post built to receive the Choctaw",
    "hook": "The Army established Fort Towson in 1824, before the forced removal of the Choctaw from Mississippi.",
    "body": [
-    "In May 1824 a company of the Seventh Infantry camped on Gates Creek near the Kiamichi and Red rivers. The outpost, Cantonment Towson, was named for Gen. Nathan Towson.",
-    "It was abandoned in 1829. After the Treaty of Dancing Rabbit Creek it reopened in 1830 as Camp Phoenix and was soon renamed Fort Towson. The Oklahoma Historical Society says the fort was meant as a buffer for the Choctaw slated for removal to the area, and it later served as a terminal on the Choctaw Trail of Tears.",
-    "Troops left for good in 1854. The state acquired the property in 1967 and a visitor center and sutler's store are open to the public."
+    "In May 1824 a company of the Seventh Infantry pitched camp on Gates Creek, near where the Kiamichi runs into the Red River. The soldiers called it Cantonment Towson, after Gen. Nathan Towson, the army's paymaster general and a hero of the War of 1812. They had a long list of jobs: watch the boundary with Mexican Texas, keep the peace, and stand between the Plains tribes and the Choctaw who were expected to arrive from Mississippi.",
+    "Much of the work was unglamorous and unpopular. The troops enforced the federal law of 1802 against hunting and unlicensed trading on Indian land, moved off Anglo settlers who believed they were living in Miller County, Arkansas, and cut roads to Fort Smith and to Fort Jesup in Louisiana. The post was abandoned in 1829.",
+    "After the Treaty of Dancing Rabbit Creek it reopened in 1830 as Camp Phoenix and was soon renamed Fort Towson, this time with solid barracks and officers' quarters. It was meant as a buffer for the Choctaw slated for removal to the area, and for several years it served as a terminal on the Choctaw Trail of Tears. A trader named Josiah Doak, who had first set up at the mouth of the Kiamichi, moved about a mile west to be near the soldiers, and his store grew into Doaksville. Vincent B. Tims, Doak's partner and an ancestor of this family, signed as a witness when the Choctaw and Chickasaw met at Doaksville, near Fort Towson, in January 1837.",
+    "The fort was a staging ground for troops headed to the Mexican War in 1846-48. A young Lieutenant Jefferson Davis served there, and Sam Houston is known to have visited. Troops left for good in 1854. During the Civil War General Samuel Bell Maxey made the old post his headquarters for Confederate forces in Indian Territory. The state acquired the property in 1967 and a visitor center and sutler's store are open to the public."
    ],
    "ev": "probable",
    "tags": [
@@ -7357,7 +7367,7 @@
    ],
    "quotes": [],
    "note": "Institution history only.",
-   "src": "Oklahoma Historical Society, Encyclopedia of Oklahoma History and Culture, Fort Towson (FO044)",
+   "src": "Oklahoma Historical Society, Encyclopedia of Oklahoma History and Culture, Fort Towson (FO044); Wikipedia, 'Doaksville, Choctaw Nation' (Doak's move a mile west of the river mouth; 1837 treaty): https://en.wikipedia.org/wiki/Doaksville,_Choctaw_Nation",
    "imgs": [
     {
      "s": "img/places/fort_towson_sanborn_1916_p1.jpg",
@@ -7420,16 +7430,17 @@
    "title": "A monument for both armies",
    "hook": "On the courthouse lawn in Morgantown stands a Civil War monument that honors soldiers from both sides.",
    "body": [
-    "Butler County, Kentucky, was created by the General Assembly on January 18, 1810, from parts of Logan and Ohio counties, and named for Major General Richard Butler, who died at the Battle of the Wabash in 1791.",
-    "Kentucky stayed in the Union but sent men to both armies, and Butler County felt it directly. Fighting broke out near Morgantown on October 29, 1861, and a skirmish followed the next day where Confederate forces were encamped. The war slowed the county's growth.",
-    "In 1907 the Confederate-Union Veterans' Monument was dedicated on the courthouse lawn. It is described as one of only two Kentucky Civil War monuments honoring soldiers from both sides, a sign of how neighbors and kin had been divided and then lived side by side."
+    "Butler County, Kentucky, was created by the General Assembly on January 18, 1810, from parts of Logan and Ohio counties, and named for Major General Richard Butler, who died at the Battle of the Wabash in 1791. Its county seat, Morgantown, began in 1791 as a two-acre tract belonging to Christopher Funkhouser, and for a while it was called Funkhouser Hill. Salt-making was the first industry, and from 1833 a lock-and-dam plan made the Green River a way to market, with towns at Lock and Dam 3 (Rochester) and 4 (Woodbury).",
+    "The county was strongly Union but sent men to both armies, and it felt the war directly. Fighting broke out near Morgantown on October 29, 1861, and a skirmish followed the next day where Confederate forces were encamped. The war slowed the county's growth.",
+    "After the war, veterans of both sides raised money together for a monument on the courthouse lawn. The Confederate-Union Veterans' Monument, dedicated in 1907, is made of zinc, lists county residents who fought on each side, and is described as one of only two Kentucky Civil War monuments honoring soldiers from both sides, a sign of how neighbors and kin had been divided and then lived side by side.",
+    "The county reached its largest population, 15,896, in 1900, and about 1907 the Satterfields left Butler County for Franklin County, Texas. The river locks that had once carried the county's goods were washed out or abandoned later, in 1965 and 1980."
    ],
    "ev": "probable",
    "tags": [
     "military"
    ],
    "quotes": [],
-   "note": "Place story. It describes the county where Smith and Satterfield kin lived. It does not claim a named ancestor served in either army.",
+   "note": "Place story. It describes the county where Smith and Satterfield kin lived, and the Satterfields' move to Franklin County about 1907 is from the family's own story. It does not claim a named ancestor served in either army.",
    "src": "Butler County, Kentucky, Wikipedia (https://en.wikipedia.org/wiki/Butler_County,_Kentucky)",
    "imgs": [
     {
@@ -7449,9 +7460,9 @@
    "title": "Allen County and its county seat",
    "hook": "Allen County was cut out of Barren and Warren counties in 1815 and named for a colonel killed in the War of 1812.",
    "body": [
-    "Allen County was established in 1815 from parts of Barren and Warren counties. It honors Colonel John Allen, a state senator and soldier killed at the Battle of Frenchtown in Michigan during the War of 1812.",
+    "Allen County was established in 1815 from parts of Barren and Warren counties. It honors Colonel John Allen, a state senator and soldier killed at the Battle of Frenchtown in Michigan during the War of 1812. Today it covers 352 square miles on the Tennessee line, adjoining Macon and Sumner counties in Tennessee.",
     "The county seat began as a settlement on Bays Fork in 1797 that grew into a stagecoach station. The town was laid off in 1816, established in 1817 and named for Charles Scott, Kentucky's fourth governor. Early on it was also called Allen Court House and Scottville. It was incorporated in 1860.",
-    "A fire at the courthouse in 1902 destroyed some county records, which is why some Allen County families are hard to trace in local papers."
+    "A fire at the courthouse in 1902 destroyed some county records, which is why some Allen County families are hard to trace in local papers. The county's population has grown from 14,628 in 1990 to 20,588 in 2020, and it was a dry county until voters approved legal alcohol sales in 2023."
    ],
    "ev": "probable",
    "tags": [],
@@ -7504,15 +7515,15 @@
    "title": "A crossing on the Sulphur River",
    "hook": "Hagansport began as a river crossing, and its post office came and went over 70 years.",
    "body": [
-    "Hagansport grew up at a Sulphur River crossing called Hagan's Port, named for an early settler. The spelling Hagansport was in use by 1857, when F. M. Sims was postmaster. The post office closed in 1866, reopened in 1876, and closed for good in 1929.",
-    "By 1884 the community had about 150 people, four churches, a school, a mill and a cotton gin. In 1896 its one-room school had 69 pupils.",
-    "By the 1930s the center had moved south to Farm Road 71 and later shifted again to its present spot. About 40 people lived there in 1985, and about 40 still in 2000."
+    "Hagansport grew up at a Sulphur River crossing called Hagan's Port, named for an early settler. The spelling Hagansport was in use by 1857, when F. M. Sims was postmaster. The post office closed in 1866, reopened in 1876, and closed for good in 1929. The village sits on a divide between the Sulphur River and White Oak Creek, about eleven miles northwest of Mount Vernon.",
+    "By 1884 the community had about 150 people, four churches, a school, a mill and a cotton gin. In 1896 its one-room school had 69 pupils. The U.S. Bureau of Soils, which surveyed the county in 1908, found the cotton land around the village on a clay loam and warned that the river bottoms below were \"more or less subject to overflow.\" John B. Smith farmed land he owned there in 1900; a tenant such as John C. Satterfield, who rented a farm at Hagansport in 1910, usually kept half the crop.",
+    "Emma Smith was buried in Hagansport Cemetery in 1905. By the 1930s the center had moved south onto Farm Road 71, with a sawmill, two churches, a school and 125 people, and later it shifted again, to its present spot at the junction of Highway 37 and Farm Road 71. About 40 people lived there in 1985, and the Handbook of Texas says the estimate was still 40 through 2000."
    ],
    "ev": "probable",
    "tags": [],
    "quotes": [],
    "note": "The Smith and Satterfield families lived in the Hagansport area.",
-   "src": "Handbook of Texas, Hagansport (https://www.tshaonline.org/handbook/entries/hagansport-tx)",
+   "src": "Handbook of Texas, Hagansport (https://www.tshaonline.org/handbook/entries/hagansport-tx); Handbook of Texas, Franklin County (https://www.tshaonline.org/handbook/entries/franklin-county); A. E. Kocher and W. S. Lyman, Soil Survey of Franklin County, Texas, in Field Operations of the Bureau of Soils, 1908 (USDA, 1909), pp. 931-947; Find a Grave memorial 50119406 (Emma Liza Langley Smith, Hagansport Cemetery)",
    "imgs": [
     {
      "s": "img/places/hagansport_quad_1967.jpg",
@@ -7530,14 +7541,15 @@
    "title": "Cotton, rails and tenant farms in Franklin County",
    "hook": "Between 1879 and 1929 the county's cotton acreage grew more than fourfold while yields fell by more than half.",
    "body": [
-    "Franklin County was created in March 1875 and named for Benjamin C. Franklin. White settlers had come from the late 1830s, mostly from Tennessee and the upper South. The St. Louis, Arkansas and Texas Railway crossed the county in 1887 and became the main route to market.",
-    "In 1879, 706 farms planted 8,660 acres of cotton. By 1929, 1,678 farms planted 37,969 acres. Yields fell from about half a bale per acre to about one-fifth.",
-    "Tenants were 34 percent of farmers in 1880 and 62 percent in 1930. The county's population peaked at 9,331 in 1910, then declined as the Depression and the shift to livestock took hold. Cotton fell to 16,582 acres by 1940."
+    "Franklin County was created in March 1875 and named for Benjamin C. Franklin, and Mount Vernon won the county-seat election on 30 April of that year. White settlers had come from the late 1830s, mostly from Tennessee and the upper South, along the old Cherokee Trace. The county is small, 294 square miles of post-oak and blackjack woods, bounded on the north by the Sulphur River, with Big Cypress Creek running through the south.",
+    "For its first dozen years the county had no railroad and no navigable water. The East Line and Red River Railroad reached the southeast corner in 1876, and in 1887 the St. Louis, Arkansas and Texas Railway crossed the middle of the county and became the main route to market.",
+    "Cotton was the cash crop and corn fed the family; together they made up about three of every four harvested acres in 1880. In 1879, 706 farms planted 8,660 acres of cotton. By 1929, 1,678 farms planted 37,969 acres. Yields fell from about half a bale per acre to about one-fifth. Tenants were 34 percent of farmers in 1880 and 62 percent in 1930. Farm values fell from $4,172 in 1920 to $2,085 in 1930, and the first paved roads came only after voters approved a $200,000 bond issue in 1916.",
+    "John C. Satterfield reached the county from Kentucky about 1907 and in 1910 rented a farm at Hagansport, near the high-water mark of the county's population, which peaked at 9,331 in 1910. It fell to 8,494 in 1930 and bottomed at 5,101 in 1960, as the Depression and the shift to livestock took hold. Cotton fell to 16,582 acres by 1940. Oil found near Talco in 1936 reached northeastern Franklin County, but a 1939 local paper judged it not large enough to disturb the way of living."
    ],
    "ev": "probable",
    "tags": [],
    "quotes": [],
-   "note": "Context for families who moved from Kentucky to Franklin County around 1900-1910. It does not say any named ancestor was a tenant or an owner.",
+   "note": "Context for families who moved from Kentucky to Franklin County around 1900-1910. Only the Satterfield household is tied to it here (a rented farm at Hagansport in 1910); no other named ancestor is said to have been a tenant or an owner.",
    "src": "Handbook of Texas, Franklin County (https://www.tshaonline.org/handbook/entries/franklin-county)",
    "imgs": [
     {
@@ -7662,17 +7674,18 @@
    "title": "A company town built around a sawmill",
    "hook": "Wright City began about 1909 as a Dierks lumber company town, with the mill, houses, stores, bank and hotel all owned by the company.",
    "body": [
-    "The Choctaw Lumber Company, a subsidiary of Dierks Lumber and Coal, founded the town about 1909 beside a large timber-processing plant. Its first log was cut July 13, 1910, and a post office was chartered March 24, 1910. Renamed Wright City on May 18, 1920, it honors William Wiley Wright, the county's first war casualty.",
+    "The town had two names before it had its present one. When the post office was chartered on March 24, 1910, it was Bismark, after a Nebraska town the Dierks brothers knew. During World War I it became simply Wright, to shed the association with the German chancellor, and on May 18, 1920 it was renamed Wright City for William Wiley Wright, the county's first war casualty. The Choctaw Lumber Company, a subsidiary of Dierks Lumber and Coal, founded the town about 1909 beside a large timber-processing plant. Its first log was cut July 13, 1910.",
     "The company supplied a sawmill, planer, railroad shops, housing, stores, a bank, a hotel, an ice factory and fire and police protection, and donated land for a school and churches. A company railroad ran from Valliant to De Queen, Arkansas.",
-    "Together the Wright City and Broken Bow mills could cut nearly 250,000 board feet of pine and 60,000 of hardwood a day. Workers struck for two months in 1947 and won an eight-cent hourly raise.",
-    "Weyerhaeuser bought the Dierks holdings in 1969, and the town incorporated in 1966. Its Little Cheyenne Rodeo dates to 1933."
+    "This was the country the Hulsey family came to. By 1920 George Washington Hulsey, a farmer the family remembers as a preacher, had moved his wife Sarah and their six children from Arkansas to tenant-farm in Sulphur Township, McCurtain County. In 1930 the household of ten was renting near Wright City, with the mill and its company railroad close by.",
+    "Together the Wright City and Broken Bow mills could cut nearly 250,000 board feet of pine and 60,000 of hardwood a day. Workers struck for two months in 1947 and won an eight-cent hourly raise. Wright City had fewer than 500 people in the 1920s, 1,121 in 1950 and 1,068 in 1970.",
+    "Dierks Forests sold its non-core properties in August 1965, the town incorporated in 1966, and in 1969 Weyerhaeuser bought the mill complex that still anchors the town's economy. Its Little Cheyenne Rodeo, a rodeo, barbecue and dance started by local cowboys in 1933, is still held every July."
    ],
    "ev": "probable",
    "tags": [
     "notable"
    ],
    "quotes": [],
-   "note": "Place history for the family's McCurtain County years. No record here names an ancestor who worked in the mills.",
+   "note": "Place history for the family's McCurtain County years. The Hulsey household lived in Sulphur Township in 1920 and rented near Wright City in 1930, but no record names a Hulsey who worked in the mills.",
    "src": "Encyclopedia of Oklahoma History and Culture, Wright City (https://www.okhistory.org/publications/enc/entry?entry=WR002) and Forest Culture (https://www.okhistory.org/publications/enc/entry?entry=FO024)",
    "imgs": [
     {
@@ -7690,10 +7703,10 @@
    "title": "The Oath, the Burned Fields, and the Road West",
    "hook": "For the families who stood at Alamance, the battle lasted an afternoon. What came after lasted years.",
    "body": [
-    "Governor William Tryon's militia of about 1,000 won the field on May 16, 1771. Casualty figures are disputed: 9 to 27 government dead, and perhaps 100 or more Regulators.",
-    "James Few was executed at the camp the next day. Twelve more prisoners were tried and sentenced to hang; six were pardoned at the last minute, and six were hanged at Hillsborough on June 19, 1771, among them Benjamin Merrill, Robert Matear, James Pugh and Captain Robert Messer.",
-    "Tryon then marched across Regulator country, burning homes and destroying crops. Residents were made to sign oaths of allegiance and surrender their firearms.",
-    "Many Regulators and their families moved west. Some went to Tennessee, where the Watauga Association formed in 1772 and the State of Franklin in 1784. Later study found that of 883 known Regulators only 34 became Loyalists, while 289 were Whigs."
+    "Governor William Tryon's militia of about 1,000 won the field on May 16, 1771. Casualty figures are disputed: one account has the governor's side losing 9 killed and 61 wounded, others run to 27 government dead, and the Regulators carried off their own casualties, so perhaps 100 or more is only an estimate.",
+    "James Few was hanged at the camp the next day without a court. Of fourteen captives tried at a special term of the superior court at Hillsborough, twelve were convicted of treason and sentenced to hang. Six were pardoned at the last minute by King George III on Tryon's recommendation, and six were hanged at Hillsborough on June 19, 1771, among them Benjamin Merrill, Robert Matear, James Pugh and Captain Robert Messer.",
+    "Tryon then marched across Regulator country, burning homes and destroying crops. Residents were made to surrender their firearms, and he offered a pardon to nearly everyone who would swear an oath of allegiance to the Crown; within six weeks 6,409 people had done so.",
+    "Many Regulators and their families moved west. A few settled on the Mississippi near the site of Memphis and moved on again when some of Tryon's former militiamen turned up. Others went to Tennessee, where the Watauga Association formed in 1772 and the State of Franklin in 1784. Later study found that of 883 known Regulators only 34 became Loyalists, while 289 were Whigs."
    ],
    "ev": "probable",
    "tags": [
@@ -7707,7 +7720,7 @@
     }
    ],
    "note": "Frames the westward chain the family followed. Whether a specific Moffitt signed the oath should be checked against the 1771 oath lists.",
-   "src": "Wikipedia, Battle of Alamance; Wikipedia, Regulator Movement",
+   "src": "Wikipedia, Battle of Alamance; Wikipedia, Regulator Movement; NCpedia, 'Regulator Movement': https://www.ncpedia.org/history/colonial/regulator-movement",
    "imgs": [
     {
      "s": "img/places/alamance_battleground_field.jpg",
@@ -7732,15 +7745,15 @@
    "body": [
     "The Frisco built a north-south line through the area in 1887. In 1901–03 the Arkansas and Choctaw Railroad, later taken over by the Frisco, built an east-west line from Hope, Arkansas, toward Ardmore. The territorial town that sprang up at the crossing became Hugo.",
     "It was founded in late 1901 in Kiamitia County, part of the Pushmataha District of the Choctaw Nation, and named for the French novelist Victor Hugo. The name was suggested by the wife of surveyor W. H. Darrough, a fan of his books.",
-    "Agriculture, timber and ranching have been mainstays of the local economy since the start, which fits the family's timber work in Choctaw County.",
-    "In 1941 the Al G. Kelly and Miller Brothers Circus relocated to Hugo from Kansas, and for decades about twenty circuses at times wintered there."
+    "Hugo grew fast. By 1910 it had 4,582 people, two newspapers, four banks and a creosoting plant, and in 1920 it had 6,368. The Depression closed three of its banks and the 1930 count dropped to 5,272, though by 1940 it was back to 5,909, with 111 retail businesses. The Frisco depot was built in 1914 and is a museum today. Agriculture, timber and ranching have been mainstays of the local economy since the start, which fits the family's timber work in Choctaw County.",
+    "The Al G. Kelly and Miller Brothers Circus moved its winter quarters to Hugo from Kansas in the early 1940s (sources give 1941 and 1942), and fifteen different shows have used the town as headquarters, at times about twenty wintering there. Showman's Rest at Mt. Olivet Cemetery was set aside for performers in 1960. In 1974 the Corps of Engineers finished Hugo Dam and made Hugo Lake."
    ],
    "ev": "probable",
    "tags": [
     "choctaw"
    ],
    "quotes": [],
-   "note": "No particular sawmill has been tied to the family's timber work.",
+   "note": "No particular sawmill has been tied to the family's timber work. The year the circus came to Hugo differs between sources (1941 and 1942).",
    "src": "Wikipedia, Hugo, Oklahoma (en.wikipedia.org/wiki/Hugo,_Oklahoma); Oklahoma Historical Society, Encyclopedia of Oklahoma History and Culture, 'Hugo' (https://www.okhistory.org/publications/enc/entry?entry=HU010), read 3 Nov 2026",
    "imgs": [
     {
@@ -15319,6 +15332,7 @@
    "body": [
     "On a Saturday night in October 1961, two men looking for whisky visited John W. Moffitt in Hugo. They left without a purchase, but Moffitt later caught up with them in town and offered a half-gallon. When he handed it over, the buyers showed their badges: one was a federal alcohol-tax agent and the other worked for the state liquor board.",
     "Moffitt, thirty-six, was arrested and brought before U.S. Commissioner Lon Kile on Monday. His bond was set at $1,000.",
+    "Oklahoma had been dry since statehood. Voters repealed prohibition on 7 April 1959 and allowed package sales, but they refused local option, and liquor by the drink stayed illegal until 1984. The \"Cannon raids\" of the late 1950s had already shut off most of the state's supply. In that Oklahoma a half-gallon sold in town was a crime.",
     "The following spring, federal court news named John Winfred Moffitt of Hugo. In May 1962 he pleaded guilty to two counts of violating the federal liquor stamp law. A June sentencing list recorded John Winfred Moffitt of Choctaw County receiving two years’ probation for operating a still."
    ],
    "kv": [
@@ -15340,7 +15354,7 @@
     ]
    ],
    "note": "Identification as the family’s John Winfred Moffitt is probable: the 1962 reports give his full name and Hugo/Choctaw County; the October 1961 report gives John W. Moffitt’s age as 36, matching his 25 October 1925 birth. None names a wife, relative or street address. The court file has not been examined, so the 1961 arraignment and 1962 prosecution have not been proved to be the same case. The newspaper records establish what happened to the men they name; the remaining uncertainty is their identification with this family member and the link between cases.",
-   "src": "The Hugo Daily News, 31 Oct 1961, p. 1, https://www.newspapers.com/image/602946181/; Muskogee Times-Democrat, 25 Apr 1962, p. 9, https://www.newspapers.com/image/631019234/; The Ada Weekly News, 17 May 1962, p. 2, https://www.newspapers.com/image/667017065/; Muskogee Daily Phoenix and Times-Democrat, 23 Jun 1962, p. 2, https://www.newspapers.com/image/631077697/.",
+   "src": "The Hugo Daily News, 31 Oct 1961, p. 1, https://www.newspapers.com/image/602946181/; Muskogee Times-Democrat, 25 Apr 1962, p. 9, https://www.newspapers.com/image/631019234/; The Ada Weekly News, 17 May 1962, p. 2, https://www.newspapers.com/image/667017065/; Muskogee Daily Phoenix and Times-Democrat, 23 Jun 1962, p. 2, https://www.newspapers.com/image/631077697/.; Oklahoma Historical Society, Encyclopedia of Oklahoma History and Culture, 'Prohibition' (statehood prohibition 1907; Cannon raids; repeal 7 Apr 1959; local option rejected; by-the-drink 1984): https://www.okhistory.org/publications/enc/entry?entry=PR018",
    "source_link": "https://www.newspapers.com/image/631077697/",
    "imgs": [
     {
