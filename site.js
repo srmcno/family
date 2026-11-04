@@ -28,7 +28,7 @@ window.SITE = {
   },
   lineBlurbs: ['North Carolina Quaker country, then Missouri and Arkansas', 'Kentucky and northeast Texas', 'Choctaw Nation: Doaksville, Cedar & Kiamitia counties', 'Arkansas, Tennessee, Indiana; Quakers from New Jersey'],
   heroKeys: ['gilbert_parsis', 'daniel_oneal', 'vashti_framed', 'joel_ira', 'mary_tinsley', 'rebecca_graves', 'parsis_portrait', 'william_junior', 'faye_moffitt'],
-  featured: [],
+  featured: ['vincent', 'betsy', 'jwm', 'gwhulsey', 'daniel', 'cane-creek-1763'],
   topics: {
     choctaw: { label: 'Choctaw Nation', copy: 'Enrollment, allotments, courts and family life in the Choctaw Nation.', tag: 'choctaw',
       journey: ['fort-towson-post', 'removal', 'mig-pisachubbe-first-exiles', 'mig-doaksville-1833-removal', 'vincent', 'book2-doak-tims-contracts-1838', 'doaksville-constitution-1860', 'edward', 'joseph', 'betsy', 'simon', 'edith-thompson-slaton'] },
