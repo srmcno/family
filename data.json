@@ -2437,10 +2437,10 @@
    "rel": "4th great-grandmother",
    "place": "A native of \"Lawrenceburg, Ohio.\" Widowed in 1841; later married Hugh Watt and was still living on the old home farm in 1884. Died in 1901.",
    "body": [
-    "In 1884 “Mrs. Parsis Watt” was a farmer in Section 32 near Oakland City, Indiana, a native of Lawrenceburg, Ohio, who had come to the county in 1839. Listed beneath her name were two others: Archibald O’Neal, her first husband, and Hugh Watt, her second.",
-    "Archibald O’Neal came to Gibson County in 1839 and farmed there. He died in April 1841, leaving Parses a widow. She later married Hugh Watt, an Irishman from County Down. Decades after Archibald’s death, she was still living on the old home farm.",
-    "Hugh died in September 1871. Thirteen years later Parses was farming in her own name, a widow twice over, and the household had changed over more than forty years.",
-    "Archibald’s death is given as April 25, 1841 in one place and April 22 in another; both agree on the year. Parses died in 1901."
+    "In 1884 “Mrs. Parsis Watt” was a farmer in Section 32 near Oakland City, Indiana, a native of Lawrenceburg, Ohio, who had come to the county in 1839. Listed beneath her name were two others: Archibald O’Neal, her first husband, and Hugh Watt, her second. Lawrenceburg is a town on the Ohio River in Dearborn County, Indiana, so the book's \"Ohio\" may be a slip.",
+    "Archibald O’Neal, a Tennessean, came to Gibson County in 1839 and farmed there. Parses was about twenty-eight, and their son Daniel Waters, born in Tennessee in October 1838, was an infant. Archibald died in April 1841, leaving Parses a widow with their son, then two. She later married Hugh Watt, an Irishman from County Down. Decades after Archibald’s death, she was still living on the old home farm.",
+    "Hugh died in September 1871. Thirteen years later Parses was farming in her own name, a widow twice over, and the household had changed over more than forty years. Her son Daniel enlisted in Company F of the 42nd Indiana in October 1861 and he and his wife Vashti Pearson had ten children. Their daughter Parsis Jane, who carried her grandmother's name in a different spelling, married Frank Stevenson, and Parsis Jane's daughter Katie married into the Hulsey family, so Parses is Katie's great-grandmother and stands behind the Hulsey line of Arkansas and Oklahoma.",
+    "Archibald’s death is given as April 25, 1841 in one place and April 22 in another; both agree on the year. A family-tree entry gives 12 December 1901 for her death in Gibson County. Her parents are not known. Some trees link her to Noble and Sicily (Nordyke) Shaw of Guilford County, North Carolina, but the Quaker register at Dover shows only a Parris who died in infancy, so that link remains a lead."
    ],
    "ev": "probable",
    "kv": [
@@ -2451,6 +2451,14 @@
     [
      "Directory, 1884",
      "Mrs. Parsis Watt, Sec. 32, Oakland City; in Gibson Co. since 1839"
+    ],
+    [
+     "Son",
+     "Daniel Waters O'Neal, b. Oct 1838 Tenn.; Co. F, 42nd Indiana, from Oct 1861"
+    ],
+    [
+     "Parents",
+     "Not known; the Shaw link is a lead"
     ]
    ],
    "quotes": [
@@ -2574,7 +2582,9 @@
    "place": "From a Quaker family.",
    "body": [
     "Sicily was born on 2 August 1790, the first among the children of Aden and Martha Nordyke. Her father Aden had been born in Burlington County, New Jersey, in 1762, shot in the arm in a Georgia attack, and married Martha Johnson in 1787 at Deep River Meeting in Guilford County. Sicily married Noble Shaw of Dover Monthly Meeting and lived out her years in Guilford County while her father went to Indiana.",
-    "In the spring of 1857, aged 66, she and J. H. Leak signed, as administrators, the notice offering Noble Shaw's 268-acre farm at Oak Ridge at public sale on 16 April. The court trusted her, with Leak, to carry out her husband's will. She died on 16 May 1861, four years later."
+    "Her husband Noble Shaw was born on 22 April 1787 and belonged to Dover Monthly Meeting. Their first child, Aaron, was born on 16 December 1809, when she was nineteen. A daughter, Parris, was born on 7 July 1817 and died on 30 May 1818, and Mary was born on 17 November 1820. Between 1816 and 1860 seventy-one Friends took certificates from Dover, nearly all of them to Indiana, and Sicily's father was among those who went. She stayed in Guilford County.",
+    "Noble died on Christmas Day 1855. In the spring of 1857, aged 66, she and J. H. Leak signed, as administrators, the notice offering Noble Shaw's 268-acre farm at Oak Ridge at public sale on 16 April. The court trusted her, with Leak, to carry out her husband's will. The notice sold the land as convenient to the Oak Ridge Institute, a school that had opened only a few years earlier, in the 1852-53 year, on the road from Danville, Virginia, to Salisbury.",
+    "She died on 16 May 1861, four years after the sale. Whether Parses Watt of Gibson County, Indiana, who was born about 1811, was an elder daughter of Noble and Sicily is not proven: the Dover register shows only the Parris who lived a year, and Parses would have to be an earlier child missing from it. That is why Sicily stands on this tree as a proposed ancestor."
    ],
    "kv": [
     [
@@ -2584,9 +2594,21 @@
     [
      "1857",
      "Co-administrator of Noble Shaw's estate, Oak Ridge, Guilford Co."
+    ],
+    [
+     "Husband",
+     "Noble Shaw, 22 Apr 1787 - 25 Dec 1855 (Dover MM register)"
+    ],
+    [
+     "Children (Dover register)",
+     "Aaron (16 Dec 1809), Parris (7 Jul 1817, d. 30 May 1818), Mary (17 Nov 1820)"
+    ],
+    [
+     "Died",
+     "16 May 1861"
     ]
    ],
-   "src": "Hinshaw, Encyclopedia of American Quaker Genealogy, vol. 1 (Nordyke family entry); U.S., Quaker Meeting Records, 1681-1935 (Union MM birth of Sicily Nordyke) Weeks, Southern Quakers and Slavery (1896); The Times (Greensboro, N.C.), 26 March 1857.",
+   "src": "Hinshaw, Encyclopedia of American Quaker Genealogy, vol. 1 (Nordyke family entry); U.S., Quaker Meeting Records, 1681-1935 (Union MM birth of Sicily Nordyke) Weeks, Southern Quakers and Slavery (1896); The Times (Greensboro, N.C.), 26 March 1857; Dover Monthly Meeting register, Noble Shaw family; North Carolina Highway Historical Marker J-36, 'Oak Ridge Institute' (https://dncr.nc.gov/blog/2024/01/03/oak-ridge-institute-j-36)",
    "ev": "proven",
    "title": "The widow who signed the land sale",
    "hook": "Sicily Nordyke Shaw, born in 1790 to Quaker parents in North Carolina, outlived her husband Noble by five years and signed the notice that sold his farm."
@@ -3542,9 +3564,10 @@
    "rel": "Grandmother",
    "place": "Married John W. Moffitt in Paris, Texas, on 12 June 1947. Died in Paris, Texas.",
    "body": [
-    "Faye Smith was the youngest child of Charles Oscar and Artie Pearl Smith, born at Forney, Choctaw County, on 23 March 1929. She was \"Fay May,\" 2, at Jeter in 1930 and \"Fay,\" 12, in 1940. She married John W. Moffitt at Paris, Texas, on 12 June 1947, died at Paris on 23 December 2014 and is buried at Grant Cemetery.",
+    "Faye Smith was the youngest child of Charles Oscar and Artie Pearl Smith, born at Forney, Choctaw County, on 23 March 1929. Her father had been born at Hagansport, Texas, in 1889 and her mother in Butler County, Kentucky, in 1898; they married in 1914 and crossed the Red River into Oklahoma, so Faye's farm childhood sat at the end of two families' moves from Kentucky and Texas. She was \"Fay May,\" 2, at Jeter in 1930, the youngest of four, and \"Fay,\" 12, in 1940, when the family was still on a rented farm on Hugo Route 1 and her father, who had worked every week of 1939, reported an income of $105.",
+    "She married John W. Moffitt at Paris, Texas, on 12 June 1947. She was eighteen. John, born at Frogville in 1925, had been discharged from the Navy on 9 May 1946 after service on a floating drydock in the Pacific and the minesweeper USS Chief, a little more than a year before.",
     "She made her home around family life. Singing, shopping, visits with friends and trips to the Nutrition Center filled her days. Holidays were a particular pleasure, and her Christmas portrait catches her smiling beside the tree.",
-    "John had returned from Navy service the year before their marriage. By her death in 2014, the family had grown to 20 grandchildren, 38 great-grandchildren and two great-great-grandchildren. Her funeral was held in Hugo, with burial at Grant Cemetery beside John."
+    "John died on 19 September 1990, and she outlived him by more than twenty-four years. By her death at Paris on 23 December 2014, the family had grown to 20 grandchildren, 38 great-grandchildren and two great-great-grandchildren. Her funeral was held in Hugo, with burial at Grant Cemetery beside John, in the cemetery where her parents also lie."
    ],
    "kv": [
     [
@@ -4040,13 +4063,23 @@
     [
      "Estate",
      "Administration granted to his son Jacob Perkins, of the same place, yeoman (NJ Wills Lib. 3 p. 102)"
+    ],
+    [
+     "Place",
+     "Wellingborough (Wellenborrow, later Willingboro), Burlington Co., N.J.; township formed as a constabulary 6 Nov 1688"
+    ],
+    [
+     "Inventory",
+     "20 May 1731: 91 pounds 18s 5d, including a cane and sword and 8 years' rent owed by Benjamin Perkins and Wm. Makintass"
     ]
    ],
-   "src": "Calendar of New Jersey Wills, Lib. 3 p. 102. Calendar of New Jersey Wills, Lib. 3 p. 102.",
+   "src": "Calendar of New Jersey Wills, Lib. 3 p. 102. Calendar of New Jersey Wills, Lib. 3 p. 102; Calendar of New Jersey Wills, Lib. 3 p. 169 (will of Jacob Perkins Jr.); Willingboro Township, New Jersey (https://en.wikipedia.org/wiki/Willingboro_Township,_New_Jersey)",
    "rel": "10th great-grandfather",
    "body": [
-    "In May 1731 administration of the estate of Jacob Perkins of \"Wellenborrow,\" Burlington County, New Jersey, who died without a will, went to his son Jacob Perkins, yeoman. The inventory, made on 20 May by Robert Lucas and Joseph Fenimore, comes to 91 pounds 18 shillings 5 pence and includes \"cane and sword, £1.10; debt of 14 shillings from Benja. Perkins; 8 years rent due from Benja. Perkins and Wm. Makintass, £1.\"",
-    "His son Jacob Jr. died the same year. Jacob Sr.'s granddaughter Rebecca married Henry Nordyke in January 1731. Some trees make Jacob Perkins Jr. the son of a Jacob Perkins of Hampton, New Hampshire, who married Mary Philbrick in 1669, but nothing shows that Hampton man moved to New Jersey, so that line stays out of the family tree."
+    "Jacob Perkins lived at \"Wellenborrow,\" which is Wellingborough in Burlington County, New Jersey, a township first laid out as the Constabulary of Wellingborrow on 6 November 1688 and named for the English town that Thomas Olive, who led the first settlers there, had come from. Jacob died without a will, and in May 1731 administration of his estate went to his son Jacob Perkins, yeoman.",
+    "The inventory, made on 20 May by Robert Lucas and Joseph Fenimore, comes to 91 pounds 18 shillings 5 pence and includes \"cane and sword, £1.10; debt of 14 shillings from Benja. Perkins; 8 years rent due from Benja. Perkins and Wm. Makintass, £1.\" The sword is the item that stands out in a farm inventory, and what it says about him is not known. The rent owed over eight years suggests he had let land or a house to those two men, though the entry does not say which.",
+    "The son who took on the estate lived only a few months longer. Jacob Jr. made his own will on 26 October 1731, and his son David died by January 1731/2. Jacob Sr.'s granddaughter Rebecca married Henry Nordyke in the winter of 1731/2 (a license is dated 6 January 1731/2), and their descendants are the Nordykes of this tree. Jacob Jr.'s will left ten pounds to St. Mary's Church in Burlington, the Church of England parish, so this branch seems to have belonged to the Church of England rather than to the Quaker meetings of the Nordykes and Gaunts.",
+    "Some trees make Jacob Perkins Jr. the son of a Jacob Perkins of Hampton, New Hampshire, who married Mary Philbrick in 1669, but nothing shows that Hampton man moved to New Jersey, so that line stays out of the family tree. Jacob Sr.'s own birth, wife and parents are not known."
    ],
    "ev": "probable",
    "title": "Jacob Perkins, who died without a will",
@@ -4995,17 +5028,26 @@
     [
      "Son Henry",
      "Kentucky death register, 24 Dec 1861, names his parents Ephraim and 'Rutha' Satterfield"
+    ],
+    [
+     "Children named",
+     "Henry (b. c.1811, d. 1861) and daughter Elizabeth, wife of Jesse Agee"
+    ],
+    [
+     "Gasconade County",
+     "Created 1820; Hermann colony from 1837 (Gasconade County Historical Society)"
     ]
    ],
-   "src": "WikiTree Knowles-4446, Satterfield-568 and Satterfield-680, citing Kentucky marriage and death registers and the 1850 and 1860 censuses Kentucky death register, Henry Satterfield, 24 Dec 1861; 1850 census, Allen Co., Ky.; 1860 census, Gasconade Co., Mo.",
+   "src": "WikiTree Knowles-4446, Satterfield-568 and Satterfield-680, citing Kentucky marriage and death registers and the 1850 and 1860 censuses Kentucky death register, Henry Satterfield, 24 Dec 1861; 1850 census, Allen Co., Ky.; 1860 census, Gasconade Co., Mo; Warren County, Ky., Will Book D p. 262 (John Satterfield, proved 10 Nov 1847); Gasconade County Historical Society, 'History of Gasconade County' (https://gasconadecountyhistoricalsociety.com/history-of-gasconade-county); Warren County, Kentucky (https://en.wikipedia.org/wiki/Warren_County,_Kentucky)",
    "note": "Evidence: probable. Same identity caveat as Ephraim Satterfield.",
    "ev": "probable",
    "tags": [],
    "title": "Ruth Knowles Satterfield, who died in Missouri at eighty-one",
    "hook": "Born in Virginia, married in Warren County in 1809, widowed by 1850, and buried a long way from either.",
    "body": [
-    "Ruth Knowles was born about 1783 in Virginia, the daughter of Joshua Knowles, whose 1824 will names \"Ruth Saterfield\" among his five daughters. On 12 November 1809 she married Ephraim Satterfield in Warren County, Kentucky. Her son Henry was born about 1811 and his death in 1861 was entered with his parents as Ephraim and \"Rutha\" Satterfield.",
-    "By 1850 she was a widow in Allen County, living with her daughter Elizabeth. In 1860 \"Rutha Satterfield,\" about 77, lived in the household of Elizabeth and her husband Jesse Agee in Gasconade County, Missouri. She died there in 1864, having outlived her husband by about fourteen years and her son Henry by three.",
+    "Ruth Knowles was born about 1783 in Virginia, the daughter of Joshua Knowles, whose 1824 will names \"Ruth Saterfield\" among his five daughters. On 12 November 1809 she married Ephraim Satterfield in Warren County, Kentucky, a county that dated only from December 1796. Her son Henry was born about 1811, in Maury County, Tennessee, by a grandson's account, and his death in 1861 was entered with his parents as Ephraim and \"Rutha\" Satterfield.",
+    "Where the couple lived in the years between is not recorded. Ephraim's father John named him among thirteen children in a will proved in November 1847, and a grandson put Ephraim's death about 1850. By 1850 Ruth was a widow in Allen County, Kentucky, a county cut from Warren and Barren in 1815, living with her daughter Elizabeth. Her father had died in 1832, and her son Henry would die in 1861.",
+    "In 1860 \"Rutha Satterfield,\" about 77, lived in the household of Elizabeth and her husband Jesse Agee in Gasconade County, Missouri. She had been in her daughter's house in 1850 as well, so she probably went west with Elizabeth and Jesse rather than alone. Gasconade County, created in 1820, had filled with settlers from Virginia, Kentucky, Tennessee and the Carolinas, and from 1837 with Germans of the Hermann colony. She died there in 1864, having outlived her husband by about fourteen years and her son Henry by three.",
     "Why she went to Missouri is not known. That she was our Ephraim's wife rests on Henry's death entry and her father's will, and is probable."
    ]
   },
@@ -5029,9 +5071,17 @@
     [
      "Burial",
      "Knowles Cemetery, Motley, Warren Co. (Find a Grave)"
+    ],
+    [
+     "Warren County",
+     "Created 19 Dec 1796 from Logan County; Bowling Green the seat"
+    ],
+    [
+     "Children named in will",
+     "Matthew, John (of Franklin Co., Va.), Sarah Hays, Polly Stephens, Leaner Jones, Ruth Saterfield, Elizabeth Bailey"
     ]
    ],
-   "src": "WikiTree Knowles-2027, citing Kentucky Wills and Probate Records (Warren Co.) and the 1820 and 1830 censuses Kentucky Wills and Probate Records (Warren Co.); 1820 and 1830 censuses, Warren Co.; Find a Grave (Knowles Cemetery, Motley).",
+   "src": "WikiTree Knowles-2027, citing Kentucky Wills and Probate Records (Warren Co.) and the 1820 and 1830 censuses Kentucky Wills and Probate Records (Warren Co.); 1820 and 1830 censuses, Warren Co.; Find a Grave (Knowles Cemetery, Motley); Warren County, Kentucky (https://en.wikipedia.org/wiki/Warren_County,_Kentucky)",
    "note": "Evidence: probable (only WikiTree's citation of the will is seen; the will names Ruth Saterfield as his daughter). It does not say whether Jemima or an earlier wife was Ruth's mother.",
    "ev": "probable",
    "tags": [],
@@ -5039,7 +5089,9 @@
    "hook": "A Warren County man, counted between 80 and 90 in 1830, who wrote his will in 1824 and lived about eight more years.",
    "body": [
     "Joshua Knowles was born about 1747, and the 1830 census counted him in Warren County, Kentucky, between 80 and 90. He wrote his will on 11 November 1824, and it was proved in October 1832. It names his wife Jemima, his son Matthew as executor, his son John of Franklin County, Virginia, and five daughters: Sarah Hays, Polly Stephens, Leaner Jones, Ruth Saterfield and Elizabeth Bailey. Ruth was born in Virginia.",
+    "Warren County had been created only in December 1796, when Joshua was about forty-nine, and in 1830, at about eighty-three, he was still living there. His will hints at where he started: his son John was \"of Franklin County, Virginia,\" and his daughter Ruth was born in Virginia, so Joshua probably came to Kentucky from Virginia, though no record of his own birthplace has been found.",
     "Ruth is the daughter that matters here. She had married Ephraim Satterfield in Warren County on 12 November 1809, and her father's will, written fifteen years later, calls her \"Ruth Saterfield\" in the clerk's spelling. The will does not say whether Jemima was Ruth's mother or a later wife.",
+    "By 1824 his five daughters carried five married surnames, Hays, Stephens, Jones, Saterfield and Bailey, and a son was still in Virginia, so the family was already spread across two states. Ruth's husband Ephraim came of a family that had moved from the Carolinas to Warren County, and Ruth later followed a daughter to Missouri, where she died in 1864.",
     "He is buried in Knowles Cemetery at Motley in Warren County. The will comes from a family account and has not been read in the original."
    ]
   },
@@ -5444,20 +5496,34 @@
     [
      "Daughter",
      "Mehitable (b. c.1685), wife of Thomas Staples"
+    ],
+    [
+     "Parents",
+     "Thomas and Dorothy Butler of Sandwich; Dorothy the mother d. 9 Aug 1675, Thomas d. 12 Mar 1690"
+    ],
+    [
+     "Brother Daniel",
+     "Publicly whipped, June 1660, for rescuing a Quaker from the marshal"
+    ],
+    [
+     "Hananiah's will",
+     "17 Jul 1720, proved 17 Nov 1721: Daniel, Zebulon, Mahitable Staples, Mary Webb"
     ]
    ],
    "title": "A Quaker wedding at Sandwich, 1678",
    "hook": "Hananiah Gaunt posted his marriage intention on 3 May 1678 and the next day traded his Cape Cod land for acres in New Jersey.",
    "body": [
-    "Hananiah Gaunt posted his intention of marriage at the Sandwich Friends Meeting on 3 May 1678 to Dorothy Butler, daughter of Thomas Butler of Sandwich. On 4 May he and his brother Israel exchanged their Sandwich land for land in New Jersey. Hananiah and Dorothy married on 10 May.",
-    "They lived at Dartmouth, Massachusetts, until as late as 1685, when Hananiah took up 500 acres at Hananicon (Oneanickon) in Springfield Township, Burlington County, New Jersey. Dorothy died there on 26 April 1714.",
-    "Their daughter Mehitable (born about 1685) married Thomas Staples, and Mehitable's daughter Ann Staples, born in 1714, married Thomas Rogers in 1736. Hananiah's will of 17 July 1720, proved 17 November 1721, names Mehitable Staples among his children."
+    "Dorothy Butler was born at Sandwich, on Cape Cod in Plymouth Colony, on 23 January 1649/50, the daughter of Thomas Butler and his wife Dorothy. She was ten in June 1660, when the colony's court had her brother Daniel publicly whipped for rescuing a Quaker from the marshal and fined her parents forty shillings for the disorder at their house the night he was searched for. That October the court fined \"Dorothy Butler\", almost certainly her mother, ten shillings for attending Quaker meetings. Her mother died on 9 August 1675 and her father on 12 March 1690.",
+    "Hananiah Gaunt posted his intention of marriage at the Sandwich Friends Meeting on 3 May 1678 to Dorothy Butler, daughter of Thomas Butler of Sandwich. On 4 May he and his brother Israel exchanged their Sandwich land for land in New Jersey. Hananiah and Dorothy married on 10 May, when she was twenty-eight. Hananiah's own father, Peter Gaunt, had been fined in cattle by the court for attending the same Quaker meetings.",
+    "They lived at Dartmouth, Massachusetts, until as late as 1685, when Hananiah took up 500 acres at Hananicon (Oneanickon) in Springfield Township, Burlington County, New Jersey. Dorothy died there on 26 April 1714 and is buried at Jobstown.",
+    "Their daughter Mehitable (born about 1685) married Thomas Staples, and Mehitable's daughter Ann Staples, born in 1714, married Thomas Rogers in 1736. Hananiah's will of 17 July 1720, proved 17 November 1721, names Mehitable Staples among his children, with Daniel, Zebulon and Mary Webb, who were very probably Dorothy's too, though the will does not name their mother.",
+    "Through Ann's daughter Mary Rogers, who married Abraham Nordyke in 1761, the line runs south to Guilford County and on to Indiana, so a Cape Cod girl whose brother was whipped for helping a Friend stands at the head of the New Jersey Quaker branch of this tree."
    ],
    "ev": "probable",
    "tags": [
     "quaker"
    ],
-   "src": "WikiTree Gaunt-14 and Butler-294, citing McLean (NGSQ 1974), Sandwich Friends records and the Calendar of New Jersey Wills",
+   "src": "WikiTree Gaunt-14 and Butler-294, citing McLean (NGSQ 1974), Sandwich Friends records and the Calendar of New Jersey Wills; Records of the Colony of New Plymouth in New England, ed. Shurtleff, vol. 3 (1855), court orders of June and October 1660; Brownson, 'Thomas Butler of Sandwich', NEHGR",
    "note": "The Quaker marriage record names her father; the 1720 will names her daughter. Evidence: probable (the marriage record is cited only through WikiTree and McLean)."
   },
   {
@@ -7064,15 +7130,20 @@
     [
      "Wife",
      "Not in the household; the Black in-laws suggest she was a Black (lead)"
+    ],
+    [
+     "Hopkins County",
+     "Created 1846; Sulphur Springs the seat since 1870; East Line and Red River Railroad arrived 1876 (Handbook of Texas)"
     ]
    ],
-   "src": "1880 U.S. census, Precinct 5, Hopkins County, Texas, dwelling 88 (Ancestry collection 6742, record 6949407)",
+   "src": "1880 U.S. census, Precinct 5, Hopkins County, Texas, dwelling 88 (Ancestry collection 6742, record 6949407); Handbook of Texas, 'Hopkins County' (https://www.tshaonline.org/handbook/entries/hopkins-county)",
    "title": "A widower in Hopkins County",
    "hook": "In 1880 George W. Langley, 38, was alone with two small daughters and his wife's brother and sisters in the house.",
    "body": [
-    "In 1880, in Precinct 5 of Hopkins County, Texas, George W. Langley, 38, born in Georgia, headed a household. His daughters were Emma J., 12, and Eliza J., 8, both born in Texas. No wife is listed.",
-    "Living with him are Jacob Black, 29, called brother-in-law, and Sarah J. Quinton, 32, and Elizabeth Black, 23, called sisters-in-law. Two Black siblings under his roof and no wife make it likely that Mrs. Langley, a Black, had died before the count.",
-    "Emma Elizabeth Langley, wife of John B. Smith, was born on 11 December 1867 in Texas, which makes her 12 in June 1880. The daughter is Emma J., so the identification rests on age, birthplace and neighborhood (Hopkins County lies beside Franklin County, where Emma died in 1905), not on anything naming Emma Elizabeth."
+    "In 1880, in Precinct 5 of Hopkins County, Texas, George W. Langley, 38, born in Georgia, headed a household. His daughters were Emma J., 12, and Eliza J., 8, both born in Texas. No wife is listed. His own parents were born in Georgia too.",
+    "Hopkins County was a young place. The Texas legislature had created it in 1846, its seat had been Sulphur Springs only since 1870, and southerners settled most of it. A rail line, the East Line and Red River Railroad, reached the county in 1876, four years before the count. Emma was born in Texas about 1867, so George had made the move from Georgia by then.",
+    "Living with him are Jacob Black, 29, called brother-in-law, and Sarah J. Quinton, 32, and Elizabeth Black, 23, called sisters-in-law. Two Black siblings under his roof and no wife make it likely that Mrs. Langley, born a Black, had died before the count. Other family trees name her Mary F. Black, but that is only a suggestion and is not entered here. What became of George after 1880 is not known.",
+    "Emma Elizabeth Langley, wife of John B. Smith, was born on 11 December 1867 in Texas, which makes her 12 in June 1880. The daughter is Emma J., so the identification rests on age, birthplace and neighborhood (Hopkins County lies beside Franklin County, where Emma died in 1905), not on anything naming Emma Elizabeth. If it holds, George stands behind Emma's son Charles Oscar Smith, born in 1889, whose youngest daughter Faye married into the Moffitts."
    ],
    "ev": "probable",
    "tags": [],
@@ -10875,16 +10946,26 @@
     [
      "Died young",
      "Jimmie Gaynell (1923-1926), Henry Wayne (1934-1937)"
+    ],
+    [
+     "Brothers with their own stories",
+     "Dois L. (1921-1947, Navy ship's cook) and John Winfred (1925-1990, Navy)"
+    ],
+    [
+     "Possible service (lead)",
+     "'Vernon Moffitt, 24, Grant, Okla.', Air Force basic course, Lackland, Sep 1953; father's initials printed W. E."
     ]
    ],
    "title": "Grady and Mary's sons",
    "hook": "Grady and Mary raised five more sons to adulthood beside John and Dois, and lost two toddlers and Dois himself.",
    "body": [
-    "Alvin B., born in September 1915, was the first of Grady and Mary's children. He served in the U.S. Army Air Corps in World War II and died in 1994.",
-    "Odas Eugene (1918-1995) was \"Odis, 21\" in 1940 and \"Ottis\" in 1920. The twins Alton V. and Eldon Herman were born in 1928 and were 11 in 1940; Donald K., born in 1931, was 8.",
-    "Two children died at three years old: Jimmie Gaynell in 1926 and Henry Wayne in 1937. They and Dois, who died after breaking his neck in the Red River in 1947, were three of the children who died before their parents."
+    "Alvin B., born in September 1915, was the first of Grady and Mary's children, arriving about a year after their marriage. When Grady signed his draft card in June 1917 as a timberman at Ervin, Oklahoma, supporting a wife, his mother and one child, that child was Alvin, the only one yet born. Alvin later served in the U.S. Army Air Corps in World War II and died in 1994.",
+    "Odas Eugene was born in 1918 and was \"Ottis\" on the farm in Wilson Township, Choctaw County, in 1920, where he and Alvin lived beside Grady's brother Tom, and \"Odis, 21\" in 1940. He died in 1995. No service dates have been found for Alvin or Odis beyond Alvin's Air Corps service, though two of their younger brothers, Dois and John, served in the Navy and have their own stories.",
+    "The youngest sons were the twins Alton V. and Eldon Herman, born in 1928, and Donald K., born in 1931. By April 1930 the family had six boys and was living with Mary's parents on a farm near Stanton, Martin County, Texas, with Grady out of work. By 1940 they were renting at 411 North H Street in Hugo, where the twins were 11 and Donald 8, and Grady, 48, reported twelve weeks of work in 1939 and an income of $100.",
+    "A \"Vernon Moffitt, 24,\" of Grant, Oklahoma, finished Air Force basic training at Lackland, Texas, in September 1953. The age fits one of the twins, probably Alton, but the father's initials are printed W. E. rather than W. G. and no twin is named, so it is only a lead.",
+    "Two small children never grew up with them: Jimmie Gaynell, who lived from 17 January 1923 to 26 October 1926, and Henry Wayne, from 13 January 1934 to 12 May 1937, both three years old. Of the seven sons who grew up, Dois was the first to go, in 1947, after breaking his neck in the Red River. Alton died in 1975, John in 1990, Alvin in 1994 and Odas in 1995, and Eldon and Donald both in 2014. The two toddlers and Dois lie at Shoat Springs Cemetery near Hugo, with their parents."
    ],
-   "src": "1920, 1930 and 1940 U.S. censuses (Choctaw Co., Okla.; Martin Co., Tex.; Hugo); Find a Grave family links (Shoat Springs Cemetery); family-tree dates",
+   "src": "1920, 1930 and 1940 U.S. censuses (Choctaw Co., Okla.; Martin Co., Tex.; Hugo); Find a Grave family links (Shoat Springs Cemetery); family-tree dates; WWI draft registration, Grady Moffitt, 5 Jun 1917; Shoat Springs Cemetery, Choctaw County, Oklahoma, transcription by Tammy Sharp and Karla K. Willis Sharp (USGenWeb Archives); Texas death record of Dois L. Moffitt, 1947; Air Force basic course notice, Sep 1953 (as cited in 'Woodford \"Grady\" Moffitt')",
    "ev": "probable",
    "tags": [
     "military"
@@ -15524,17 +15605,29 @@
    "hook": "Arkansas-born Sarah lived with a miner’s family and three young children in the Ouachita hills.",
    "body": [
     "Sarah G. lived with B. F. Hulsey and three young children in Center Township, Montgomery County, Arkansas, in June 1880. She was thirty and Arkansas-born; she was his wife.",
-    "George W., four, was B. F.’s son. Sarah may have been George’s mother or stepmother. Her maiden name and full given names remain unknown.",
-    "Her father was born in North Carolina and her mother in Tennessee. That extends the outline of her family, but supplies no names for either parent."
+    "She was born about 1850 in Arkansas to a father from North Carolina and a mother from Tennessee, so her people had come west from the older states before she was born. Neither parent is named, and her own maiden name and full given names remain unknown.",
+    "Her husband, thirty-two and born in Georgia, gave his work as miner, and the house stood in the busiest season Silver City ever had. The crossroads, about six-tenths of a mile from the center of Center Township, had taken its name in 1876 and was said to hold more than a thousand people by 1880. Three children filled the house: Margaret M., six; George W., four; and Charles F., only five months old.",
+    "The household names Sarah as B. F.'s wife but not as the mother of each child. She may have been George's mother or his stepmother; if she was Charles's mother, she had a baby of a few months in the house that June.",
+    "The silver did not last. Every mine had closed by the end of 1882, when George was not yet seven. No record has been found that follows Sarah past the June 1880 count. A Benjamin F. Hulsley took out a Garland County marriage license with Lucy Morgan in September 1893, but nothing ties that man to this household, so what became of Sarah G. is not known. She should not be mistaken for Sarah Rebecca Graves, whom George married years later, nor for Sylvania Susane Partain, a name some family accounts give for George's mother and that has not been linked to her."
    ],
    "note": "The original 1880 census lists Sarah G., 30, born Arkansas, as the wife of B. F. Hulsey, in the household containing his son George W., 4. She is a probable mother or stepmother of that child; the census names her as wife, not explicitly as his biological mother. The identification of this child with the later George Washington Hulsey remains probable. Hulsey is her married surname; her maiden name and full given names are unknown. She is not Sarah Rebecca Graves, George’s later wife, and has not been identified with Sylvania Susane Partain.",
    "source_link": "https://www.familysearch.org/ark:/61903/3:1:33S7-9YYN-SL1S",
-   "src": "1880 U.S. census, Center Township, Montgomery County, Arkansas, ED 113, page 23, stamped 431A, household 216; NARA T9 roll 52; original FamilySearch image 33S7-9YYN-SL1S.",
+   "src": "1880 U.S. census, Center Township, Montgomery County, Arkansas, ED 113, page 23, stamped 431A, household 216; NARA T9 roll 52; original FamilySearch image 33S7-9YYN-SL1S; Encyclopedia of Arkansas, 'Silver Mining' (https://encyclopediaofarkansas.net/entries/Silver-Mining-3182/); Garland County marriage license, Benjamin F. Hulsley and Lucy Morgan, Sep 1893 (as cited in 'Sarah G., Margaret Partain, Sylvania Partin and Lucy Morgan')",
    "imgs": [
     {
      "s": "img/rec/hulsey-1880-household.jpg",
      "cap": "Sarah G., age thirty, appears as B. F. Hulsey’s wife in household 216."
     }
+   ],
+   "kv": [
+    [
+     "1880 household",
+     "B. F., 32, miner, b. Ga.; Sarah G., 30, b. Ark.; Margaret M., 6; George W., 4; Charles F., 5 months"
+    ],
+    [
+     "Her parents",
+     "Father b. N.C., mother b. Tenn.; neither named"
+    ]
    ]
   },
   {
