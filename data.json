@@ -3106,7 +3106,7 @@
      "Shoat Springs Cemetery, Hugo, Choctaw Co., Okla. (Find a Grave memorial 77401916); transcription: 'Mary Tinsley -- Jun 4, 1895 - Aug 26, 1962', listed with Woodford Grady"
     ]
    ],
-   "src": "1900 U.S. Census, Etowah Co., Ala.; Find a Grave; 1930 U.S. Census, Martin Co., Tex.; Find a Grave 77401916; Find a Grave Index (Shoat Springs Cemetery); Shoat Springs Cemetery, Choctaw County, Oklahoma, transcription by Tammy Sharp and Karla K. Willis Sharp (USGenWeb Archives, files.usgwarchives.net/ok/choctaw/cemeteries/shoatesprings.txt); U.S., Newspapers.com Obituary Index (The Southeast Oklahoman, 30 Aug 1962); Texas, U.S., Death Certificates, 1903-1982; 1950 U.S. census, Grant, Choctaw Co; 1910 and 1920 census and WWI draft card of Woodford Grady Moffitt, as cited in his story; The Chico Enterprise-Record, 23 Jun 1961, p. 3 (Robert Y. Shackleford obituary), as transcribed on Find a Grave memorial 162164634; The Lamar County Echo, 1 Jan 1981 (Hazel Shackleford King obituary), as transcribed on Find a Grave memorial 200655081.; Texas death certificate 57055, Mary Tinsley Moffitt, 26 Aug 1962, Lamar Co. (Ancestry, Texas Death Certificates)",
+   "src": "1900 U.S. Census, Etowah Co., Ala.; Find a Grave; 1930 U.S. Census, Martin Co., Tex.; Find a Grave 77401916; Find a Grave Index (Shoat Springs Cemetery); Shoat Springs Cemetery, Choctaw County, Oklahoma, transcription by Tammy Sharp and Karla K. Willis Sharp (USGenWeb Archives, files.usgwarchives.net/ok/choctaw/cemeteries/shoatesprings.txt); U.S., Newspapers.com Obituary Index (The Southeast Oklahoman, 30 Aug 1962); Texas, U.S., Death Certificates, 1903-1982; 1950 U.S. census, Grant, Choctaw Co; 1910 and 1920 census and WWI draft card of Woodford Grady Moffitt, as cited in his story; The Chico Enterprise-Record, 23 Jun 1961, p. 3 (Robert Y. Shackleford obituary), as transcribed on Find a Grave memorial 162164634; The Lamar County Echo, 1 Jan 1981 (Hazel Shackleford King obituary), as transcribed on Find a Grave memorial 200655081.; Texas death certificate 57055, Mary Tinsley Moffitt, 26 Aug 1962, Lamar Co. (Ancestry, Texas Death Certificates); The Southeast Oklahoman (Hugo, Okla.), Thu. 30 Aug 1962, p. 1, \"Mrs. Moffitt Died Sunday\", Newspapers.com image 700463227",
    "title": "Mamie: from Gadsden to the Red River, with eleven children",
    "hook": "Born in Alabama, raised in Texas, married into the Moffitts, and called Mamie by the people who knew her.",
    "body": [
@@ -3114,11 +3114,21 @@
     "The family did not stay in Alabama long. Her brother Robert was born at Gadsden in 1897, but her sister Hazel was born in 1908 at Rattan in Delta County, Texas, so the family had crossed to northeast Texas by then. About 1914 Mary married Woodford Grady Moffitt, and by June 1917 Grady was working as a timberman at Ervin in Choctaw County, Oklahoma, supporting a wife, his mother and a child. Their first son, Alvin, had been born in September 1915.",
     "She had at least eleven children, and two died as toddlers. The family moved where the work was. In 1920 they were tenant farmers in Wilson Township, Choctaw County. In April 1930, with six boys, they were living with her parents on a farm near Stanton in Martin County, West Texas, where Grady was an out-of-work road laborer. By 1940 they were renting in Hugo, and in 1950 she was “Mamie,” 54, at Grant in Choctaw County, with Grady and three of the children still at home.",
     "“Mamie” was the name her family used too. When her brother Robert died in California in 1961, “Mamie Moffett” of Oklahoma was named among his six sisters. Mary died the next year, on 26 August 1962, at Paris, Texas, still living at Grant. She was remembered as 67, the wife of Grady and the mother of John Moffitt. She is buried beside Grady at Shoat Springs Cemetery near Hugo, on a stone that reads “Mary Tinsley — Jun 4, 1895 – Aug 26, 1962.”",
+    "Grant had been home for eighteen years. She was a member of the Baptist church there, and on the Wednesday after she died, 29 August 1962, her funeral was held in the Baptist church at Grant with the Rev. J. E. Edwards preaching, before she was carried to Shoat Springs. Eight of her children were living, and the list of where they were told the family's story in one sentence: John in Hugo, Odas in Paris, Donald at Sumner and Alvin at Fort Worth in Texas, the twins Alton and Eldon both in the Air Force, at Little Rock and at Tacoma, a younger son in the Army at Fort Polk, Louisiana, and a married daughter at Tahoka, Texas, where her uncle Jess had settled.",
     "She died at St. Joseph Hospital in Paris, Texas, on 26 August 1962 after three weeks in a doctor's care, and Grady, giving the details for her death certificate, named her parents as John Shackelford and Lizzie Newton."
    ],
    "ev": "probable",
    "note": "The origin of her middle name Tinsley remains unknown. The 1900 census, as transcribed on her brother Balis’s Find a Grave page, gives May’s birth as June 1894, a year earlier than her stone.",
-   "ph": "mary_tinsley"
+   "ph": "mary_tinsley",
+   "imgs": [
+    {
+     "s": "img/news/southeast-oklahoman-1962-08-30-p1-mrs-moffitt-died-sunday.jpg",
+     "cap": "\"Mrs. Moffitt Died Sunday\": the Hugo obituary of Mary Tinsley Moffitt, 30 August 1962 (two column pieces joined). Living people's names in the survivor list are not repeated here.",
+     "source": "https://www.newspapers.com/",
+     "credit": "The Southeast Oklahoman (Hugo, Okla.), 30 Aug 1962, p. 1, via Newspapers.com",
+     "kind": "record"
+    }
+   ]
   },
   {
    "id": "henryh",
@@ -7454,6 +7464,13 @@
     {
      "s": "img/places/choctaw_capitol_tuskahoma.jpg",
      "cap": "The Choctaw Nation capitol at Tuskahoma, Oklahoma, now a museum (photographed 2009). Wikimedia Commons, Public domain, Urbanative at English Wikipedia. Source: https://commons.wikimedia.org/wiki/File:Choctaw_capitol_museum.jpg"
+    },
+    {
+     "s": "img/news/choctaw-herald-1918-10-24-p1-columbus-tims-death.jpg",
+     "cap": "\"Columbus Tims\": The Choctaw Herald of 24 October 1918 reports the death of Judge Tims's eldest son near Fort Towson after influenza.",
+     "source": "https://www.newspapers.com/",
+     "credit": "The Choctaw Herald (Hugo, Okla.), 24 Oct 1918, p. 1, via Newspapers.com (Oklahoma Historical Society)",
+     "kind": "record"
     }
    ],
    "title": "Postmaster and judge of Doaksville",
@@ -7463,6 +7480,7 @@
     "Edward Ward Tims, Choctaw by Blood, served as District Trustee of Apukshunnubbee District in the early 1880s and for many years as County Judge of Towson County. On 24 October 1887 he was appointed postmaster at Doaksville, succeeding James T. Fleming; the office closed in 1903, when the name changed to Fort Towson.",
     "On 29 April 1888 in Towson County he married Willie Jane Maxwell of Arkansas. After statehood he retired to his allotment southeast of Hugo. He died on 7 February 1923 and is buried in Springs Chapel Cemetery near Hugo.",
     "His second wife, Willie Jane, was born on 27 July 1870 and died on 8 October 1922, four months before him. Their children were Lucy Ann (1889-1970), Minnie (1891-1930), Edmond (1893-1918), Benjamin (1897-1969), Myrtle (1899-1988), Abel (1901-1966) and Nora (1906-1977). By his first wife Polly, a full-blood Choctaw, he had a son, Columbus, born on Christmas Day 1860, who died on 21 October 1918 and is also buried at Springs Chapel.",
+    "October 1918 took two of the judge's sons. Columbus, his eldest, about fifty-seven and \"one of the best known Choctaw Indians in the county,\" died at his home near Fort Towson on Monday, 21 October, of pneumonia after an attack of influenza, as the epidemic swept Choctaw County that autumn. He was buried at Springs Chapel the next day and left a family. Edmond, the youngest of the judge's sons to go to war, had already been dead twelve days in France, though the news would not reach Hugo for another month.",
     "In January 1940 it was proposed that his old log house, a quarter mile northeast of Fort Towson, become a museum, and Tims was remembered as 'once county judge of Towson County' and 'once considered for the position as principal chief of the Choctaw Nation.' The house was said to have been the setting for talk of the 1860 Council and the 1837 treaty. That detail is local lore, not a record. Joel Thompson remembered him simply as the man 'who was post master and Judge at Doaksville for so many years.'",
     "A newspaper dispatch of the time shows how far that went. Dated Little Rock, Ark., 5 August 1886, and headed “Choctaws Hold an Election,” it read: “The election for principal chief of the Choctaw Nation was held yesterday.” It names four men: Ben Smallwood, Thompson McKinney, J. P. Folsom (printed Fulsom) and Edward Tims, and adds that a large vote was cast and that unofficial returns pointed to the election of McKinney. The dispatch gives no vote totals. Thompson McKinney went on to serve as Principal Chief, so Edward Tims, then in his mid-forties and a county judge, was a losing candidate in a four-man race for the highest office in the Nation.",
     "When Edward applied for enrollment at Doaksville on 8 May 1899, he was \"Tims, Edward W.,\" age 58, one-half blood, with parents \"Vincent B. Tims,\" dead, a non-citizen, and \"Betsy Tims,\" dead, of Towson County. His son Columbus, born in 1860, was enrolled as \"Tims, Columbus,\" 40, three-quarter blood, with parents \"E. W. Tims\" and \"Polly Tims,\" the latter dead.",
@@ -7482,7 +7500,7 @@
      "c": "Joel J. Thompson, 1937, on Edward Ward Tims"
     }
    ],
-   "src": "Dawes final roll index (NARA M1186); NARA, Appointments of U.S. Postmasters; Paris (Tex.) News, Jan. 1940; Find a Grave (Springs Chapel Cemetery); WPA interview #7392; Hughes, 'Trader V. B. Tims of Doaksville' (2020); Northeastern State University, Watie treaty; Find a Grave memorials for Edward Ward Tims (115378637), Willie Jane Tims (115378935), Columbus Tims (115607273); Dawes Cards 1238 and 1437 and jacket 7-1437; letter to O. W. Seay, 7 July 1903.; The New York Times, 6 Aug. 1886, \"Choctaws Hold an Election\" (via Internet Archive).",
+   "src": "Dawes final roll index (NARA M1186); NARA, Appointments of U.S. Postmasters; Paris (Tex.) News, Jan. 1940; Find a Grave (Springs Chapel Cemetery); WPA interview #7392; Hughes, 'Trader V. B. Tims of Doaksville' (2020); Northeastern State University, Watie treaty; Find a Grave memorials for Edward Ward Tims (115378637), Willie Jane Tims (115378935), Columbus Tims (115607273); Dawes Cards 1238 and 1437 and jacket 7-1437; letter to O. W. Seay, 7 July 1903.; The New York Times, 6 Aug. 1886, \"Choctaws Hold an Election\" (via Internet Archive).; The Choctaw Herald (Hugo, Okla.), Thu. 24 Oct 1918, p. 1, Deaths, \"Columbus Tims\", Newspapers.com image 605899167",
    "kv": [
     [
      "Candidate for Principal Chief",
@@ -7528,6 +7546,20 @@
     {
      "s": "img/books/soldiers-great-war-1920-okla-tims.jpg",
      "cap": "Soldiers of the Great War, vol. 3 (1920), Oklahoma, killed in action: \"TIMS, Edmond, Hugo.\" (public domain)"
+    },
+    {
+     "s": "img/news/choctaw-herald-1918-11-21-p3-edmund-tims-killed-in-action.jpg",
+     "cap": "\"Another Is Killed in Action\": The Choctaw Herald, Hugo, 21 November 1918, reports Private Edmund Tims's death in France on 9 October.",
+     "source": "https://www.newspapers.com/",
+     "credit": "The Choctaw Herald (Hugo, Okla.), 21 Nov 1918, p. 3, via Newspapers.com (Oklahoma Historical Society)",
+     "kind": "record"
+    },
+    {
+     "s": "img/news/choctaw-herald-1919-06-12-p2-edmond-tims-decorated.jpg",
+     "cap": "\"Private Edmond Tims Decorated After Death\": the War Department's letter to his father about the posthumous Croix de Guerre, June 1919.",
+     "source": "https://www.newspapers.com/",
+     "credit": "The Choctaw Herald (Hugo, Okla.), 12 Jun 1919, p. 2, via Newspapers.com (Oklahoma Historical Society)",
+     "kind": "record"
     }
    ],
    "title": "Killed in France, 1918",
@@ -7535,11 +7567,13 @@
    "body": [
     "Judge Tims's son by Willie Jane Maxwell, enrolled Choctaw by Blood, and \"Edmund, 3\" in 1896. He served first in Co. L, 1st Oklahoma Infantry, then as a company runner in Co. D, 142nd Infantry, 36th Division. On 9 October 1918, near St. Étienne, France, a fellow runner spoke with him at 8 a.m. and an hour later found him killed by shrapnel.",
     "He was posthumously awarded the French Croix de Guerre with Palm and lies in the Meuse-Argonne American Cemetery. The 142nd was the regiment of the Choctaw Code Talkers. The regiment's commander wrote how Choctaw speakers were first used to send messages in this same St. Étienne fighting. Edmond is not listed as a code talker, but he served alongside them.",
+    "Hugo heard the news six weeks after the fighting. On Saturday, 16 November 1918, five days after the Armistice, Judge E. W. Tims had a message from the War Department that his son had been killed on the battlefield in France on 9 October. The Choctaw Herald gave it the headline \"Another Is Killed in Action\" and remembered that Edmund had left Hugo as a volunteer in July 1917, had been in France a long time, and was twenty-four, with \"many friends in Hugo and the county who will regret to learn of his untimely death.\"",
+    "The Croix de Guerre reached his family the next summer. In June 1919 the Adjutant General's office wrote to Edward W. Tims that it held a French Croix de Guerre awarded posthumously to Pvt. Edmond Tims, Co. D, 142d Infantry, and needed the name and address of his nearest relative so the medal could be sent on. The Herald counted it only the second such decoration it knew of for a Choctaw County man, and called Edmond \"one of the few Choctaw county boys who made the supreme sacrifice.\"",
     "Two books printed in 1920 carry his name. The division's history closes with an honor roll of its dead, and under \"142d Infantry\" it lists \"TIMS, EDMOND, Private, Co. D,\" with the date October 8, 1918. The War Department's casualty lists, printed that year, include among the Oklahoma privates killed in action \"TIMS, Edmond, Hugo.\"",
     "The honor roll dates his death 8 October 1918; the company runner remembered the morning of the 9th. Both dates fall within the same two days of the 142d Infantry's fighting at St. Étienne.",
     "The morning of 8 October gave Edmond's battalion a hard start. The First Battalion lost its commander, Capt. Charles Kuhlman, and \"half of the battalion headquarters group, including several runners,\" to a single shell before the jump-off, and Company D \"wandered into the French sector to the left\" and stayed there."
    ],
-   "src": "Choctaw Nation veterans file for Edmond Tims; 1896 Choctaw census, Towson County; 142nd Infantry report, 23 January 1919. Dawes final roll index (NARA M1186); Ben H. Chastaine, Story of the 36th: The Experiences of the 36th Division in the World War (Oklahoma City: Harlow, 1920), p. 287; Soldiers of the Great War, vol. 3 (Washington: Soldiers Record Publishing Association, 1920), Oklahoma, p. 31.",
+   "src": "Choctaw Nation veterans file for Edmond Tims; 1896 Choctaw census, Towson County; 142nd Infantry report, 23 January 1919. Dawes final roll index (NARA M1186); Ben H. Chastaine, Story of the 36th: The Experiences of the 36th Division in the World War (Oklahoma City: Harlow, 1920), p. 287; Soldiers of the Great War, vol. 3 (Washington: Soldiers Record Publishing Association, 1920), Oklahoma, p. 31.; The Choctaw Herald (Hugo, Okla.), Thu. 21 Nov 1918, p. 3, \"Another Is Killed in Action\", Newspapers.com image 605899383; The Choctaw Herald (Hugo, Okla.), Thu. 12 Jun 1919, p. 2, \"Private Edmond Tims Decorated After Death\", Newspapers.com image 605900597",
    "note": "His division's records give his death as 8 October 1918; the burial-case statements give 9 October.",
    "kv": [
     [
@@ -9728,6 +9762,7 @@
     "He stayed in the Fort Towson community until he entered Spencer Academy and finished his schooling there, and \"upon leaving school it was his good fortune to meet Fannie Weesley, and they were married.\" The marriage lasted 48 years, until she died a few months before him. They had no children, \"but a mighty host of friends.\"",
     "In 1904, the memoir says, he was converted and licensed to preach, and he was later ordained a deacon. He was pastor of the Rufe Circuit, whose churches in the 1940s included High Hill and Hampton Chapel, for two years, and then of the Idabel Circuit for six, until failing health made him retire to a home five miles west of Idabel. He was among the clerical members in 1934 and 1935, pastor of the Idabel Circuit in 1936, and in 1940 \"Tims, Robert J., L.D., Idabel.\"",
     "\"He preached his last sermon at Thomas Chapel on Sunday just before his triumphant passing on Tuesday.\" He died on Tuesday, 12 September 1944, and was buried in the Idabel cemetery. The memoir closes: \"The name of Robert Tims will always be affectionately mentioned in the churches where he ministered.\"",
+    "The Idabel paper put him on its front page the next morning: \"Rev. Robert Tims Dies at Home.\" He died at his house three miles southwest of Idabel at half past three on Tuesday afternoon, a Choctaw Methodist preacher who had been in poor health for some time and had lived in that community seven years since moving down from Fort Towson. Fannie had gone before him on 30 March that year, so he outlived her by less than six months.",
     "Robert was enrolled at Doaksville on 25 April 1899 for Cedar County: \"Tims, Robert,\" age 25, three-quarter blood, with his wife \"Fannie,\" 18. His parents were \"Vincent Tims,\" dead, and \"Emiline Tims,\" and hers \"John Wesley,\" dead, and \"Winnie Wesley,\" both of Cedar County; the memoir spells her family name Weesley. In April 1901, aged 26, he swore a statement as an acquaintance on his niece Ella's death, signing his name \"Robert Tims.\""
    ],
    "ev": "proven",
@@ -9744,7 +9779,7 @@
      "c": "Memoir by Edgar Tims, Minutes of the Indian Mission of Oklahoma, 1944, p. 31"
     }
    ],
-   "src": "Minutes of the Indian Mission of Oklahoma of the Methodist Church, held at Salt Creek Church, near Holdenville, 14-17 Sept. 1944, p. 31, memoir of Robert James Tims (Oklahoma City University Library, via Digital Prairie, https://digitalprairie.ok.gov/digital/collection/p16807coll1/id/64044); Minutes of the Indian Mission, 1934 (Middle San Bois Church), 1935 (Big Cussetah), 1936 (Salt Creek, Wewoka) and 1940 (Hampton's Chapel), rolls of clerical members and local deacons; Dawes Card 816; Dawes jacket 7-1283 (affidavit of Robert Tims, 13 Apr. 1901).",
+   "src": "Minutes of the Indian Mission of Oklahoma of the Methodist Church, held at Salt Creek Church, near Holdenville, 14-17 Sept. 1944, p. 31, memoir of Robert James Tims (Oklahoma City University Library, via Digital Prairie, https://digitalprairie.ok.gov/digital/collection/p16807coll1/id/64044); Minutes of the Indian Mission, 1934 (Middle San Bois Church), 1935 (Big Cussetah), 1936 (Salt Creek, Wewoka) and 1940 (Hampton's Chapel), rolls of clerical members and local deacons; Dawes Card 816; Dawes jacket 7-1283 (affidavit of Robert Tims, 13 Apr. 1901).; McCurtain Gazette (Idabel, Okla.), Wed. 13 Sep 1944, p. 1, \"Rev. Robert Tims Dies at Home\", Newspapers.com image 747486518",
    "imgs": [
     {
      "s": "img/news/robert_tims_memoir_1944.jpg",
@@ -9753,6 +9788,13 @@
     {
      "s": "img/docs/dawes_card_816_tims_robert.jpg",
      "cap": "Dawes Card 816: Robert and Fannie Tims; his parents named as Vincent and Emiline Tims"
+    },
+    {
+     "s": "img/news/mccurtain-gazette-1944-09-13-p1-rev-robert-tims-dies.jpg",
+     "cap": "\"Rev. Robert Tims Dies at Home\": McCurtain Gazette, Idabel, 13 September 1944.",
+     "source": "https://www.newspapers.com/",
+     "credit": "McCurtain Gazette (Idabel, Okla.), 13 Sep 1944, p. 1, via Newspapers.com",
+     "kind": "record"
     }
    ],
    "kv": [
@@ -11276,16 +11318,26 @@
    "body": [
     "Thomas Berry Moffitt was born on 17 February 1889 at St. James in Stone County, Arkansas, the first of Henry and Hannah's children known to be born in Stone County. In 1910 he was living with his widowed mother in Franklin Township and working as a railroad section hand.",
     "By 1920 he was farming next door to Grady in Wilson Township, Choctaw County, Oklahoma. His wife, Vesta, was born in Arkansas on 2 March 1892 and died at Holdenville, Hughes County, Oklahoma, on 15 October 1930.",
-    "Tom later lived at Paris, Texas, where he died on 21 March 1953. His grave marker is carved with World War I and World War II service, He was the son of Henry H. Moffitt and Hannah Grimes and the brother of Grady."
+    "Tom later lived at Paris, Texas, where he died on 21 March 1953. His grave marker is carved with World War I and World War II service, He was the son of Henry H. Moffitt and Hannah Grimes and the brother of Grady.",
+    "He had left Choctaw County for Paris, Texas, but Hugo still counted him as its own. When he died at his home in Paris on Saturday, 21 March 1953, the Hugo paper ran his death on its front page as \"Tom B. Moffitt Buried in Paris,\" a former resident of the county and the brother of Grady Moffitt of Grant. His wife, the former Vesta Faughtner, had been gone more than twenty years. Seven children survived him, scattered from Odessa and El Paso to Lawton and Mount Joy, Pennsylvania, with a daughter still in Paris, and nine grandchildren. Of Henry and Hannah's sons, only Grady at Grant and Jess at Lubbock were left."
    ],
-   "src": "WikiTree profiles (api.wikitree.com, 2026): Moffitt-1137 (Thomas Berry Moffitt), Moffitt-1138, Grimes-4049; 1910 U.S. Census, Franklin Twp., Stone Co., Ark.; 1920 U.S. Census, Wilson Twp., Choctaw Co., Okla.; Find a Grave (Thomas Berry Moffitt)",
+   "src": "WikiTree profiles (api.wikitree.com, 2026): Moffitt-1137 (Thomas Berry Moffitt), Moffitt-1138, Grimes-4049; 1910 U.S. Census, Franklin Twp., Stone Co., Ark.; 1920 U.S. Census, Wilson Twp., Choctaw Co., Okla.; Find a Grave (Thomas Berry Moffitt); The Southeast Oklahoman (Hugo, Okla.), Thu. 26 Mar 1953, p. 1, \"Tom B. Moffitt Buried in Paris\", Newspapers.com image 605890793",
    "ev": "probable",
    "tags": [
     "military"
    ],
    "note": "The WikiTree profile does not give his military record; the marker wording is from Find a Grave. Henry's death date appears on WikiTree as 9 September 1901.",
    "branch": "moffitt",
-   "quotes": []
+   "quotes": [],
+   "imgs": [
+    {
+     "s": "img/news/southeast-oklahoman-1953-03-26-p1-tom-b-moffitt.jpg",
+     "cap": "\"Tom B. Moffitt Buried in Paris\": The Southeast Oklahoman, Hugo, 26 March 1953, names him a brother of Grady Moffitt of Grant.",
+     "source": "https://www.newspapers.com/",
+     "credit": "The Southeast Oklahoman (Hugo, Okla.), 26 Mar 1953, p. 1, via Newspapers.com",
+     "kind": "record"
+    }
+   ]
   },
   {
    "id": "henry-hannah-other-children",
@@ -11368,16 +11420,26 @@
     "Odas Eugene was born in 1918 and was \"Ottis\" on the farm in Wilson Township, Choctaw County, in 1920, where he and Alvin lived beside Grady's brother Tom, and \"Odis, 21\" in 1940. He died in 1995. No service dates have been found for Alvin or Odis beyond Alvin's Air Corps service, though two of their younger brothers, Dois and John, served in the Navy and have their own stories.",
     "The youngest sons were the twins Alton V. and Eldon Herman, born in 1928, and Donald K., born in 1931. By April 1930 the family had six boys and was living with Mary's parents on a farm near Stanton, Martin County, Texas, with Grady out of work. By 1940 they were renting at 411 North H Street in Hugo, where the twins were 11 and Donald 8, and Grady, 48, reported twelve weeks of work in 1939 and an income of $100.",
     "A \"Vernon Moffitt, 24,\" of Grant, Oklahoma, finished Air Force basic training at Lackland, Texas, in September 1953. The age fits one of the twins, probably Alton, but the father's initials are printed W. E. rather than W. G. and no twin is named, so it is only a lead.",
-    "Two small children never grew up with them: Jimmie Gaynell, who lived from 17 January 1923 to 26 October 1926, and Henry Wayne, from 13 January 1934 to 12 May 1937, both three years old. Of the seven sons who grew up, Dois was the first to go, in 1947, after breaking his neck in the Red River. Alton died in 1975, John in 1990, Alvin in 1994 and Odas in 1995, and Eldon and Donald both in 2014. The two toddlers and Dois lie at Shoat Springs Cemetery near Hugo, with their parents."
+    "Two small children never grew up with them: Jimmie Gaynell, who lived from 17 January 1923 to 26 October 1926, and Henry Wayne, from 13 January 1934 to 12 May 1937, both three years old. Of the seven sons who grew up, Dois was the first to go, in 1947, after breaking his neck in the Red River. Alton died in 1975, John in 1990, Alvin in 1994 and Odas in 1995, and Eldon and Donald both in 2014. The two toddlers and Dois lie at Shoat Springs Cemetery near Hugo, with their parents.",
+    "Alton went to sea first. In June 1952 he was a seaman aboard the aircraft carrier USS Boxer with Task Force 77 off Korea, on the carrier's third tour in the Far East, while her pilots raided Communist supply lines across North Korea; the Hugo paper ran it under \"Alton Moffitt On Duty in Korean Area,\" the son of Mr. and Mrs. Grady Moffitt of Box 255, Grant. The next year a \"Vernon Moffitt, 24,\" from the same Box 255 at Grant, was finishing basic training at Lackland, the Air Force's gateway near San Antonio, which makes the airman of 1953 very probably Alton V. himself. He stayed in the Air Force: in 1962 he was at Little Rock, and his twin Eldon was in the Air Force at Tacoma."
    ],
-   "src": "1920, 1930 and 1940 U.S. censuses (Choctaw Co., Okla.; Martin Co., Tex.; Hugo); Find a Grave family links (Shoat Springs Cemetery); family-tree dates; WWI draft registration, Grady Moffitt, 5 Jun 1917; Shoat Springs Cemetery, Choctaw County, Oklahoma, transcription by Tammy Sharp and Karla K. Willis Sharp (USGenWeb Archives); Texas death record of Dois L. Moffitt, 1947; Air Force basic course notice, Sep 1953 (as cited in 'Woodford \"Grady\" Moffitt')",
+   "src": "1920, 1930 and 1940 U.S. censuses (Choctaw Co., Okla.; Martin Co., Tex.; Hugo); Find a Grave family links (Shoat Springs Cemetery); family-tree dates; WWI draft registration, Grady Moffitt, 5 Jun 1917; Shoat Springs Cemetery, Choctaw County, Oklahoma, transcription by Tammy Sharp and Karla K. Willis Sharp (USGenWeb Archives); Texas death record of Dois L. Moffitt, 1947; Air Force basic course notice, Sep 1953 (as cited in 'Woodford \"Grady\" Moffitt'); The Hugo Daily News, Wed. 25 Jun 1952, p. 1, \"Alton Moffitt On Duty in Korean Area\", Newspapers.com image 788488679; The Hugo Daily News, 18 Sep 1953, \"Grant Man Serving in U.S. Air Force\" (already cited in the grady story); The Southeast Oklahoman, 30 Aug 1962, p. 1, Mary Tinsley Moffitt obituary, Newspapers.com image 700463227",
    "ev": "probable",
    "tags": [
     "military"
    ],
    "note": "The dates listed for these children come from census records and family-tree entries; some exact dates need independent confirmation.",
    "branch": "moffitt",
-   "quotes": []
+   "quotes": [],
+   "imgs": [
+    {
+     "s": "img/news/hugo-daily-news-1952-06-25-p1-alton-moffitt-uss-boxer.jpg",
+     "cap": "\"Alton Moffitt On Duty in Korean Area\": Seaman Alton V. Moffitt aboard USS Boxer, Hugo Daily News, 25 June 1952.",
+     "source": "https://www.newspapers.com/",
+     "credit": "The Hugo Daily News (Hugo, Okla.), 25 Jun 1952, p. 1, via Newspapers.com",
+     "kind": "record"
+    }
+   ]
   },
   {
    "id": "john-grimes-penelope-blackshear",
@@ -19052,12 +19114,13 @@
     "Hugh and Hannah were married on the fifteenth day of the third month, 1798, in a public meeting at the Holly Spring meetinghouse, and the clerk wrote their families into the first lines: Hugh, \"son of Charles Moffit and Mary his wife,\" of Randolph County, and Hannah, \"daughter of Thomas Cox and Sarah his wife.\" When the couple had signed, Charles Moffitt signed with Thomas and Sarah Cox and Harmon Cox among the relations, and the room signed after them: John and Margaret Moffitt, Coxes and Kenworthys, and side by side a Robert Moffitt and a Martha Moffitt. Robert and Martha Chamness had been married six months, and they were very probably the cousins who signed. Hannah's sister Sarah married Joshua Hussey at the same meetinghouse that July.",
     "Holly Spring did not keep him. In July 1812 the preparative meeting complained to Cane Creek \"of Hugh Moffitt for purchasing and holding a black person in Slavery.\" North Carolina Friends had been freeing the people they held, or handing them to the Yearly Meeting's agents, for more than thirty years, and a Friend who bought a man or woman could not stay a Friend. Two Friends went to see him in July and two more in August, and he would not undo the purchase. On 5 September 1812 the meeting approved and signed a testimony against him, and in October Joseph Cox brought back word that Hugh had his copy. The minutes do not name the person he bought.",
     "Twenty years later Randolph's voters sent him to Raleigh by a margin of forty-five. The poll in August 1832 stood Moffitt 361, Jesse Bray 316, for the Senate, while Alexander Cunningham and Abraham Brower carried the Commons and George Hoover beat Thomas Hancock for sheriff by 307. On 20 December, after a long debate, Hugh was one of the thirty-three senators who voted to pass the bill for a large state banking capital against twenty-seven.",
+    "Two Hugh Moffitts were heads of households in Randolph in 1830, and the census taker kept them apart the way the county did. \"Hugh Moffett Junior\" was a man in his twenties with a young wife and a baby girl. \"Hugh Moffett Esquire\" was in his fifties, with a wife in her thirties, a houseful of children, a free young man of color, and five enslaved people. The Esquire was the justice of the peace of 1806, the man the Quakers had disowned in 1812 for buying a slave, and it was very probably he, not his son, whom Randolph's voters sent to the Senate two years later. When his heirs' land was sold in 1840, the sale opened \"at the late dwelling of Hugh Moffitt, Esq., dec'd.\"",
     "He was trusted with office early. The commission of new justices of the peace for Randolph dated 17 December 1806 named \"Hugh Morfett\" with Samuel Graves, Samuel Prevo and eight others, and from then on he was Hugh Moffitt, Esquire. When the General Assembly opened at Raleigh on Monday, 19 November 1832, the State House with Canova's statue of Washington was a burned shell. It had caught fire in June 1831, and the legislature was meeting in the Government House, the governor's residence at the foot of Fayetteville Street, while the new Capitol was built. The clerk wrote the roll county by county: \"Randolph, Hugh Moffitt.\"",
     "It was not a quiet winter. Five days after the session opened, on 24 November, South Carolina's convention declared the federal tariffs null and void, and the Senate spent December arguing about what North Carolina should say. Hugh sat on the committee of privileges and elections. On 22 December he carried through his own bill to incorporate the Randolph Blues, the county's volunteer militia company. On 27 December the resolutions on the crisis came to their third reading, one at a time. Hugh voted with the whole Senate for the Union. He voted with all but three senators that the tariff was \"impolitic, unjust and oppressive\". And with the majority of 49 to 9 he voted that \"the doctrine of Nullification\" was \"revolutionary in its character, subversive of the constitution of the United States, and leads to a dissolution of the Union.\" In January he moved to extend a bill on electing constables to Randolph County. The next summer the president of the Internal Improvement Convention put his name first on Randolph's committee to promote internal improvements. Henry B. Elliott took the Senate seat in 1833.",
     "Hugh Moffitt died at home on 14 January 1838, and the Fayetteville paper gave him a single line: \"an aged and very respectable citizen.\" He left no will. His sons Charles and William B. Moffitt administered the estate, and Benjamin, Solomon, Julia and Eli, the children still under age, were put under a guardian. Among the papers was a bond from Tidence Lane, another of the county's public men, for $347.53, due on 2 November 1832, a little over two weeks before the session opened. Only $37.40 had been paid on it. Lane pleaded that he had paid, and the administrators sued. At the spring court of 1842 they called Hugh's son Thomas C. Moffitt, the minister and postmaster, as their witness. Lane objected that an heir could not testify for the estate, so Thomas signed away his share of the debt for five shillings and swore. The jury found for the Moffitts, and in June 1842 the Supreme Court of North Carolina upheld the verdict, so the family's quarrel over $347 went into the law reports as a ruling on when an heir may testify for an estate. Hugh is said to be buried in the Mill Creek Friends burying ground near Asheboro."
    ],
    "quotes": [],
-   "src": "Journals of the Senate and House of Commons of the General Assembly of North-Carolina, Session of 1832-33 (Raleigh, 1833): roll of 19 Nov 1832 (\"Randolph, Hugh Moffitt\"), committee of privileges and elections, Randolph Blues bill (22 and 24 Dec 1832), resolutions on the tariff and nullification with ayes and noes (27 Dec 1832), constables amendment (5 Jan 1833), Internet Archive journalsofsenate18321833; A Manual of North Carolina (1913), Randolph County senators (\"1832 Hugh Moffitt\"), Internet Archive manualofnorthcar1913nort; Western Carolinian (Salisbury), 17 Sep 1832, election returns (\"Randolph. Hugh Moffitt, senate\"), Internet Archive per-western-carolinian-salisbury_western-carolinian_1832-09-17_13_641; N. Carolina Free Press (Tarboro), 18 Sep 1832, p. 2, DigitalNC; Fayetteville Observer, 30 Jul 1833 (Internal Improvement Convention committees, \"Randolph.—Hugh Moffitt\") and 24 Jan 1838 (death notice), Internet Archive; Hugh Moffitt's Administrators v. Tidence Lane, June Term 1842, 2 Iredell's Law Reports (N.C.) 254-257, Internet Archive reportscasesatl26courgoog; Randolph County, 1779-1979 (1980), pp. 246-248 (justice of the peace commission, 17 Dec 1806, \"Hugh Morfett\"; senators 1832-1833), Internet Archive randolphcounty1700rand; North Carolina Postal History Society, Postmark Catalog, Randolph County (8 Jun 2023), Moffitt's Mills (Charles Moffitt 8 Feb 1823; Thomas C. Moffitt 27 Feb 1838); William S. Powell, North Carolina Gazetteer, 'Moffitt' (ncpedia.org/gazetteer); Cox family outline, Internet Archive coxfamilyoutline00buff (Hannah Cox m. 15 Mar 1798 Hugh Moffitt, s. Charles and Mary (Cox)); WikiTree Moffitt-287, Moffitt-194, Cox-5278, Needham-405 (family Bible of Charles Moffitt, FamilySearch Memories 32050865; North Carolina Estate Files, Hugh Moffitt 1838, FHL film 2,026,216; Find a Grave 115089294), read 5 Nov 2026; NCpedia, 'The Fires of 1831: Fayetteville and Raleigh in Flames'; Wikipedia, 'Governor's Palace (Raleigh, North Carolina)' (General Assembly met there after the 1831 fire); Journal of the Convention (1835), p. 5 ('the room provided in the Government House'); Cane Creek Monthly Meeting, Records 1756 vol. I, p. 172, marriage certificate of Hugh Moffit and Hannah Cox, 15th 3rd month 1798 (Ancestry, U.S. Quaker Meeting Records 1681-1935, image 40642_301773-00094; originals at Guilford College); Cane Creek MM Minutes 1796-1838 vol. II, 4 Jul, 1 Aug, 5 Sep and 3 Oct 1812 (same collection, images 40642_301772-00303 and -00304); Fayetteville Weekly Observer, 21 Aug 1832, p. 3, election returns (Newspapers.com image 64691073); Weekly Raleigh Register, 28 Dec 1832, p. 2, Senate proceedings of 20 and 22 Dec (Newspapers.com image 57141496).",
+   "src": "Journals of the Senate and House of Commons of the General Assembly of North-Carolina, Session of 1832-33 (Raleigh, 1833): roll of 19 Nov 1832 (\"Randolph, Hugh Moffitt\"), committee of privileges and elections, Randolph Blues bill (22 and 24 Dec 1832), resolutions on the tariff and nullification with ayes and noes (27 Dec 1832), constables amendment (5 Jan 1833), Internet Archive journalsofsenate18321833; A Manual of North Carolina (1913), Randolph County senators (\"1832 Hugh Moffitt\"), Internet Archive manualofnorthcar1913nort; Western Carolinian (Salisbury), 17 Sep 1832, election returns (\"Randolph. Hugh Moffitt, senate\"), Internet Archive per-western-carolinian-salisbury_western-carolinian_1832-09-17_13_641; N. Carolina Free Press (Tarboro), 18 Sep 1832, p. 2, DigitalNC; Fayetteville Observer, 30 Jul 1833 (Internal Improvement Convention committees, \"Randolph.—Hugh Moffitt\") and 24 Jan 1838 (death notice), Internet Archive; Hugh Moffitt's Administrators v. Tidence Lane, June Term 1842, 2 Iredell's Law Reports (N.C.) 254-257, Internet Archive reportscasesatl26courgoog; Randolph County, 1779-1979 (1980), pp. 246-248 (justice of the peace commission, 17 Dec 1806, \"Hugh Morfett\"; senators 1832-1833), Internet Archive randolphcounty1700rand; North Carolina Postal History Society, Postmark Catalog, Randolph County (8 Jun 2023), Moffitt's Mills (Charles Moffitt 8 Feb 1823; Thomas C. Moffitt 27 Feb 1838); William S. Powell, North Carolina Gazetteer, 'Moffitt' (ncpedia.org/gazetteer); Cox family outline, Internet Archive coxfamilyoutline00buff (Hannah Cox m. 15 Mar 1798 Hugh Moffitt, s. Charles and Mary (Cox)); WikiTree Moffitt-287, Moffitt-194, Cox-5278, Needham-405 (family Bible of Charles Moffitt, FamilySearch Memories 32050865; North Carolina Estate Files, Hugh Moffitt 1838, FHL film 2,026,216; Find a Grave 115089294), read 5 Nov 2026; NCpedia, 'The Fires of 1831: Fayetteville and Raleigh in Flames'; Wikipedia, 'Governor's Palace (Raleigh, North Carolina)' (General Assembly met there after the 1831 fire); Journal of the Convention (1835), p. 5 ('the room provided in the Government House'); Cane Creek Monthly Meeting, Records 1756 vol. I, p. 172, marriage certificate of Hugh Moffit and Hannah Cox, 15th 3rd month 1798 (Ancestry, U.S. Quaker Meeting Records 1681-1935, image 40642_301773-00094; originals at Guilford College); Cane Creek MM Minutes 1796-1838 vol. II, 4 Jul, 1 Aug, 5 Sep and 3 Oct 1812 (same collection, images 40642_301772-00303 and -00304); Fayetteville Weekly Observer, 21 Aug 1832, p. 3, election returns (Newspapers.com image 64691073); Weekly Raleigh Register, 28 Dec 1832, p. 2, Senate proceedings of 20 and 22 Dec (Newspapers.com image 57141496).; 1830 U.S. census, Regiment 1, Randolph Co., N.C., NARA M19 roll 125, p. 11 (Hugh Moffett Esquire) and p. 4 (Hugh Moffett Junior); Ancestry coll. 8058, records 242942 and 242743; Southern Citizen (Asheboro), Fri. 21 Aug 1840, p. 3, 'Land Sale', Jesse Cox, executor of Charles Cox, Newspapers.com image 67761049; North-Carolina Free Press (Halifax), 18 Sep 1832, p. 2, Senate list 'Randolph, Hugh Moffit', Newspapers.com image 67893178",
    "kv": [
     [
      "Born",
@@ -19175,6 +19238,53 @@
    ],
    "note": "The 1835 delegate is proven to be Benjamin Elliott by the convention journal, the printed debates and the 1913 Manual; the 1979 county list is in error. Benjamin's parentage, career, two marriages, death on 22 January 1920 and burial at Franklinville are from his obituary in the Asheboro Courier of 29 January 1920 (original page seen); the June date on the memorial is wrong. The obituary does not name his first wife; Martitia comes from the 1862 marriage index. Grizelle's death year is cut off in the scan (190-). His cousinship to Robert is probable, through Hugh and Charles. Which William B. Moffitt kept the Asheboro store is not settled.",
    "place": "Randolph County, North Carolina: Moffitt's Mills, Buffalo Ford, Asheboro and Franklinsville"
+  },
+  {
+   "id": "james-david-andrews",
+   "name": "James David Andrews",
+   "years": "1857–1937",
+   "rel": "Son of Eliza Stevenson Andrews; father of Gen. Frank M. Andrews",
+   "place": "",
+   "title": "J. D. Andrews of Nashville, newspaperman, realtor and airport man",
+   "hook": "James David Andrews was born in Giles County, Tennessee, in 1857, a son of the Methodist preacher William T.",
+   "body": [
+    "James David Andrews was born in Giles County, Tennessee, in 1857, a son of the Methodist preacher William T. Andrews and Eliza Stevenson, and he grew up in a string of Alabama towns as his father moved from charge to charge. As a young man he was a newspaper reporter. He worked in Dallas, on the Louisville Courier-Journal and the Nashville Banner, and for a weekly paper at Pulaski, before he went into real estate in Nashville in 1891 and stayed in it until he retired; in his last years he did appraisal work for the Tennessee Electric Power Company.",
+    "He was a Methodist of long standing at McKendree Church and a Knight of Pythias, but aviation was the passion of his old age. Three of his sons became Army officers, and the eldest, Frank Maxwell Andrews, rose to command the new GHQ Air Force. In June 1935 the general flew a B-10 bomber into Sky Harbor for a night at his father's house on Warner Place in Belle Meade before taking off for Barksdale Field, and the Banner put the visit on its front page. J. D. Andrews flew often with his sons; one of them remembered flying him to the Chicago World's Fair in a large amphibian plane.",
+    "At home he pushed for a proper airport. The Tennessean believed he was the first man to settle on the site on the Murfreesboro Road where Nashville's new municipal airport was nearly finished in 1937, and that the government's engineers had proved him right. He did not see it open. He died at his daughter's home on Warner Place on the morning of 4 March 1937, at seventy-nine, after a heart attack that followed four days of a cold. Next day the paper wrote an editorial about him, recalling \"his sparkling personality, his keen intellect,\" and he was buried in Mount Olivet Cemetery."
+   ],
+   "ev": "proven",
+   "tags": [
+    "20th century"
+   ],
+   "quotes": [],
+   "src": "; The Tennessean (Nashville), Fri. 5 Mar 1937, p. 30, \"Final Rites Today for J. D. Andrews\", Newspapers.com image 160953171; The Tennessean (Nashville), Fri. 5 Mar 1937, p. 10, editorial \"James David Andrews\", Newspapers.com image 160953075; Nashville Banner, Fri. 14 Jun 1935, p. 1, \"Army Air Commander Makes Brief Visit Here\" (Jim Sibley), Newspapers.com image 605274657",
+   "note": "",
+   "branch": "hulsey",
+   "kv": [],
+   "imgs": [
+    {
+     "s": "img/news/tennessean-1937-03-05-p30-final-rites-for-j-d-andrews.jpg",
+     "cap": "\"Final Rites Today for J. D. Andrews\": realtor, former newspaper man and father of three Army officers, The Tennessean, 5 March 1937 (three column pieces joined).",
+     "source": "https://www.newspapers.com/",
+     "credit": "The Tennessean (Nashville), 5 Mar 1937, p. 30, via Newspapers.com",
+     "kind": "record"
+    },
+    {
+     "s": "img/news/tennessean-1937-03-05-p10-editorial-james-david-andrews.jpg",
+     "cap": "The Tennessean's editorial \"James David Andrews,\" 5 March 1937, on his part in choosing Nashville's airport site.",
+     "source": "https://www.newspapers.com/",
+     "credit": "The Tennessean (Nashville), 5 Mar 1937, p. 10, via Newspapers.com",
+     "kind": "record"
+    },
+    {
+     "s": "img/news/nashville-banner-1935-06-14-p1-andrews-visits-father.jpg",
+     "cap": "\"Army Air Commander Makes Brief Visit Here\": Brig. Gen. Frank M. Andrews flies a B-10 to Nashville to visit his father, J. D. Andrews, Nashville Banner, 14 June 1935.",
+     "source": "https://www.newspapers.com/",
+     "credit": "Nashville Banner, 14 Jun 1935, p. 1, via Newspapers.com",
+     "kind": "record"
+    }
+   ],
+   "gen": null
   }
  ],
  "TIMELINE": [
@@ -21678,6 +21788,7 @@
   "sd-elam-augustus",
   "sd-james-baxter-ark",
   "sd-james-calvin",
+  "james-david-andrews",
   "sd-oneal-brothers",
   "sd-mary-wilson",
   "sd-katie-siblings",
@@ -22335,6 +22446,36 @@
   },
   "img/places/settle-friends-meeting-house-kirkgate.jpg": {
    "url": "https://commons.wikimedia.org/wiki/File:The_Friends%27_Meeting_House,_Kirkgate,_Settle_-_geograph.org.uk_-_7996377.jpg"
+  },
+  "img/news/choctaw-herald-1918-11-21-p3-edmund-tims-killed-in-action.jpg": {
+   "url": "https://www.newspapers.com/"
+  },
+  "img/news/choctaw-herald-1919-06-12-p2-edmond-tims-decorated.jpg": {
+   "url": "https://www.newspapers.com/"
+  },
+  "img/news/choctaw-herald-1918-10-24-p1-columbus-tims-death.jpg": {
+   "url": "https://www.newspapers.com/"
+  },
+  "img/news/southeast-oklahoman-1953-03-26-p1-tom-b-moffitt.jpg": {
+   "url": "https://www.newspapers.com/"
+  },
+  "img/news/southeast-oklahoman-1962-08-30-p1-mrs-moffitt-died-sunday.jpg": {
+   "url": "https://www.newspapers.com/"
+  },
+  "img/news/hugo-daily-news-1952-06-25-p1-alton-moffitt-uss-boxer.jpg": {
+   "url": "https://www.newspapers.com/"
+  },
+  "img/news/mccurtain-gazette-1944-09-13-p1-rev-robert-tims-dies.jpg": {
+   "url": "https://www.newspapers.com/"
+  },
+  "img/news/tennessean-1937-03-05-p30-final-rites-for-j-d-andrews.jpg": {
+   "url": "https://www.newspapers.com/"
+  },
+  "img/news/tennessean-1937-03-05-p10-editorial-james-david-andrews.jpg": {
+   "url": "https://www.newspapers.com/"
+  },
+  "img/news/nashville-banner-1935-06-14-p1-andrews-visits-father.jpg": {
+   "url": "https://www.newspapers.com/"
   }
  }
 }
