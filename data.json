@@ -226,6 +226,11 @@
    "source": "https://archive.org/details/memorialsketches00andr/page/n6/mode/1up",
    "note": "The original portrait is a region rendered from the book page; the complete identified frontispiece is among the records.",
    "edit_note": "Color and fine details are interpreted from the printed photograph."
+  },
+  "oscar_hulsey": {
+   "o": "img/p/oscar_hulsey_1940_orig.jpg",
+   "cap": "Oscar Hulsey at 29, January 1940, from the family photograph taken at South Fork, Arkansas",
+   "source": "Cropped from the January 1940 Hulsey family photograph contributed by LarryHulsey1 to FamilySearch Memories (Oscar Franklin Hulsey, 9F3F-JXM)."
   }
  },
  "P": [
@@ -1470,7 +1475,7 @@
     "A McCurtain County marriage license for \"Oscar F. Hulsey\" and Katie \"Steveson,\" as the clerk spelled it, was filed on 27 February 1943. It probably belongs to this couple, though it gives no ages or residences. The family's own account puts the marriage on 27 October 1927 and their children began in 1929, so the 1943 license may be a later or second legal marriage, or a re-licensing; the paper license is held by the clerk in Idabel.",
     "Four events mark the middle of his life. In January 1938 he was arrested after a two-day search and charged with assault with intent to kill in the stabbing of Eddie Stevenson, his brother-in-law. He was divorced from Katie in Arkansas on 26 September 1941 and married Hester May Whittington at Mount Ida on 3 November 1941. In 1945 Katie sued for divorce in McCurtain County, and the district court granted it in January 1946; and when his son Bennie was killed on a bicycle near Hugo in 1947, Oscar was living at Wright City."
    ],
-   "src": "1940 U.S. Census, South Fork, Montgomery County, Ark.; WWII Draft Registration, 1940; McCurtain Gazette obituary, 20 Jun 1982; obituary of Katie Cornelia Hulsey (2009); McCurtain Gazette obituary, 20 Jun 1982 (transcribed on Find a Grave 180238729); R. E. Flickinger, The Choctaw Freedmen and the Story of Oak Hill Industrial Academy (1914), p. 22 (archive.org/details/choctawfreed00flick); Holly Creek Cemetery list (files.usgwarchives.net/ok/mccurtain/cemeteries/hollycreek.txt); OSCN docket search, McCurtain County District Court, case MLI-2024-00524 (https://www.oscn.net/dockets/GetCaseInformation.aspx?db=mccurtain&number=MLI-2024-00524); Valliant Tribune, 4 Feb 1938, p. 8; McCurtain Gazette, 2 Feb 1938 p. 6 and Oct 1938 / Sep 1939 dockets; Arkansas, U.S., Divorces, 1923-1975; Arkansas, U.S., County Marriages Index, 1837-1957; McCurtain Gazette, Nov-Dec 1945 legal notices; 1920 U.S. census, Sulphur Twp., McCurtain Co., Okla.; 1950 U.S. census; U.S., Social Security Death Index.; McCurtain Gazette, 12 Jan 1946, p. 1 (divorce list)",
+   "src": "1940 U.S. Census, South Fork, Montgomery County, Ark.; WWII Draft Registration, 1940; McCurtain Gazette obituary, 20 Jun 1982; obituary of Katie Cornelia Hulsey (2009); McCurtain Gazette obituary, 20 Jun 1982 (transcribed on Find a Grave 180238729); R. E. Flickinger, The Choctaw Freedmen and the Story of Oak Hill Industrial Academy (1914), p. 22 (archive.org/details/choctawfreed00flick); Holly Creek Cemetery list (files.usgwarchives.net/ok/mccurtain/cemeteries/hollycreek.txt); OSCN docket search, McCurtain County District Court, case MLI-2024-00524 (https://www.oscn.net/dockets/GetCaseInformation.aspx?db=mccurtain&number=MLI-2024-00524); Valliant Tribune, 4 Feb 1938, p. 8; McCurtain Gazette, 2 Feb 1938 p. 6 and Oct 1938 / Sep 1939 dockets; Arkansas, U.S., Divorces, 1923-1975; Arkansas, U.S., County Marriages Index, 1837-1957; McCurtain Gazette, Nov-Dec 1945 legal notices; 1920 U.S. census, Sulphur Twp., McCurtain Co., Okla.; 1950 U.S. census; U.S., Social Security Death Index.; McCurtain Gazette, 12 Jan 1946, p. 1 (divorce list); Find a Grave memorial 180238729, grave-marker photograph by Brandon O'Rear, 10 Jun 2017 (https://www.findagrave.com/memorial/180238729/oscar-franklin-hulsey/photo); FamilySearch Memories for Oscar Franklin Hulsey (9F3F-JXM), January 1940 family photograph contributed by LarryHulsey1 (https://www.familysearch.org/en/tree/person/memories/9F3F-JXM)",
    "kv": [
     [
      "1920 census",
@@ -1506,7 +1511,7 @@
     ],
     [
      "Burial",
-     "Wheelock Cemetery, Millerton; funeral at 2 p.m. on the Sunday, Rev. Bob Lewis officiating (McCurtain Gazette, 20 Jun 1982); no published transcription of Wheelock was found, so the stone is not independently confirmed"
+     "Wheelock Cemetery, Millerton; funeral at 2 p.m. on the Sunday, Rev. Bob Lewis officiating (McCurtain Gazette, 20 Jun 1982); a funeral-home marker reading \"Oscar F Hulsey 1910 1982\" was photographed there in 2017 (Find a Grave 180238729)"
     ],
     [
      "Holly Creek",
@@ -1518,6 +1523,27 @@
     ]
    ],
    "imgs": [
+    {
+     "s": "img/p/oscar_hulsey_1940_orig.jpg",
+     "cap": "Oscar Hulsey, 29, in January 1940, cropped from the family photograph below. Photo: contributed by LarryHulsey1, FamilySearch Memories.",
+     "source": "https://www.familysearch.org/en/tree/person/memories/9F3F-JXM",
+     "credit": "LarryHulsey1, FamilySearch Memories",
+     "kind": "photo"
+    },
+    {
+     "s": "img/p/hulsey_family_january_1940.jpg",
+     "cap": "Oscar and Katie Hulsey with their children, January 1940, about the time the census found them at South Fork, Arkansas. Oscar stands at the left. Photo: contributed by LarryHulsey1, FamilySearch Memories.",
+     "source": "https://www.familysearch.org/en/tree/person/memories/9F3F-JXM",
+     "credit": "LarryHulsey1, FamilySearch Memories",
+     "kind": "photo"
+    },
+    {
+     "s": "img/stones/oscar_hulsey_marker_wheelock.jpg",
+     "cap": "Oscar's grave marker at Wheelock Cemetery, Millerton: \"OSCAR F HULSEY 1910 1982.\" Photo: Brandon O'Rear, Find a Grave, 10 June 2017.",
+     "source": "https://www.findagrave.com/memorial/180238729/oscar-franklin-hulsey/photo",
+     "credit": "Brandon O'Rear, Find a Grave",
+     "kind": "photo"
+    },
     {
      "s": "img/places/wheelock_academy_1932.jpg",
      "cap": "A page from the 1932–33 Wheelock Academy report about field work and a child health clinic (National Archives). Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Wheelock_Academy,_1932-1933_-_NARA_-_268446.jpg",
@@ -1532,7 +1558,8 @@
      "s": "img/rec/news_1938_valliant_hulsey_assault.jpg",
      "cap": "The Valliant Tribune, 4 February 1938: \"Oscar Hulsey faces a charge of assault with attempt to kill...\""
     }
-   ]
+   ],
+   "ph": "oscar_hulsey"
   },
   {
    "id": "katie",
@@ -23832,7 +23859,8 @@
   "joel_thompson_young",
   "joel_ira_later",
   "frank_maxwell_andrews",
-  "wt_andrews"
+  "wt_andrews",
+  "oscar_hulsey"
  ],
  "STORY_ALIASES": {
   "col-perkins-estates-1731": "jperkins",
@@ -24592,6 +24620,14 @@
   },
   "img/books/moore-1923-pp749-750-duncan-brown.jpg": {
    "url": "https://archive.org/details/tennesseevolunte01moor"
+  },
+  "img/p/oscar_hulsey_1940_orig.jpg": {
+   "url": "https://www.familysearch.org/en/tree/person/memories/9F3F-JXM",
+   "credit": "Photo: contributed by LarryHulsey1, FamilySearch Memories (cropped from the January 1940 family photograph)"
+  },
+  "img/stones/oscar_hulsey_marker_wheelock.jpg": {
+   "url": "https://www.findagrave.com/memorial/180238729/oscar-franklin-hulsey/photo",
+   "credit": "Photo: Brandon O'Rear, Find a Grave"
   }
  }
 }
